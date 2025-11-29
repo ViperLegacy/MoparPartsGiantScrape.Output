@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68202419AE,COVER Hinge,Left,,,,,,,available,288,191.25,/parts/mopar-cover-hinge~68202419ae.html
+2,6507167AA,SCREW AND WASHER Hex Head M5X0.8X28.00 Use 06507167AA,,,,2,1,,,available,11,7.63,/parts/mopar-screw-hex-head~6507167aa.html
+4,68144483AC,BRACKET Hinge Cover,Left,,,,,68144483AD,,available,42.25,29.47,/parts/mopar-bracket-hinge-cover~68144483ac.html
+5,6102238AA,NUT AND WASHER Hex M6X1.00,,,,2,1,,,available,16.7,11.65,/parts/mopar-nut-hex~6102238aa.html
+6,68170627AA,BRACKET Hood Release,,,,,,,,available,49.45,42,/parts/mopar-bracket-hood-release~68170627aa.html
+7,68096355AB,SUPPORT Fender,Left,,,,,,,available,72.3,58.22,/parts/mopar-support-fender~68096355ab.html
+8,68141076AC,BRACE Engine Box Reinforcement,,,,,,,,available,1315,885.92,/parts/mopar-brace-engine-box-reinforcement~68141076ac.html
+9,6506710AA,SCREW AND WASHER Hex Head M8-1.25x22.00,,,,2,1,,,available,11.05,7.69,/parts/mopar-screw-hex-head~6506710aa.html
+10,68141079AB,REINFORCEMENT Longitudinal,Left,,,,,,,available,523,423.5,/parts/mopar-reinforce-longitudinal~68141079ab.html
+11,6511067AA,NUT AND WASHER Hex Lock Coned Washer M8x1.25,,,,6,1,,,available,2.35,1.47,/parts/mopar-nut-hex-lock-coned-washer~6511067aa.html
+12,68139709AH,SHIELD Splash,Left,,,,,,,unavailable,2575,1745.85,/parts/mopar-shield-splash~68139709ah.html
+13,6508387AA,SCREW Pan Head M6X1.00X22.00,,,,,,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+14,6503598,PUSH PIN M8X21,,,,3,1,,,available,12.75,8.91,/parts/mopar-push-pin~6503598.html

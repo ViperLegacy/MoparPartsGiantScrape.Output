@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865679AC,COLUMN Steering Tilt,,,,,,,,available,499,409.21,/parts/mopar-column-steering~4865679ac.html
+4,4147362AB,BEARING Steering Column Shaft,,,,,,,,available,10.5,8.25,/parts/mopar-bearing-steering-column-shaft~4147362ab.html
+6,6503182,NUT AND WASHER Hex Lock Nut-Coned Teeth Washer M8 x 1.25,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-lock-nut-coned-teeth-wa~6503182.html
+7,4671104,LAMP Ignition Switch,,,,,,,,available,36.7,15.26,/parts/mopar-lamp-ignition-switch~4671104.html
+8,4671789AE,CLOCKSPRING,,,,,,,,available,323,261.7,/parts/mopar-clkspring~4671789ae.html
+9,6035434,SCREW AND WASHER Pan Head,,,,2,1,68461920AA,,available,3.8,2.62,/parts/mopar-screw-tapping-pan-head~6035434.html
+10,UC77DX9AA,SHROUD Steering Column,,,,,,,,discontinued,,,/parts/mopar-shroud-steering-column~uc77dx9aa.html
+11,UC78DX9AA,SHROUD Steering Column,,,,,,,,available,29.9,24,/parts/mopar-shroud-steering-column~uc78dx9aa.html
+12,6102204AA,SCREW,,,,2,1,,,available,8.75,7.57,/parts/mopar-screw-hex-head~6102204aa.html
+13,5290070AD,SHAFT Steering Column,,,,,,5290070AF,,available,246,201.91,/parts/mopar-shaft-steering-column-intermediat~5290070ad.html
+14,4865588AC,SHAFT Steering Column,,,,,,,,discontinued,,,/parts/mopar-shaft-steering-column-intermediat~4865588ac.html
+15,5290187AA,BEARING Steering Column Shaft,,,,,,,,available,41.05,34.37,/parts/mopar-bearing-steering-column-shaft~5290187aa.html
+16,6504926AA,SCREW Hex Flange Head M10x1.5x40,,,,3,1,,,available,5.15,3.5,/parts/mopar-screw-hex-flange-head~6504926aa.html
+,4690507AB,BEARING Steering Column,,,,,,,,discontinued,,,/parts/mopar-bearing-steering-column~4690507ab.html
+,4690101,CLAMP Lock Housing,,,,,,,,discontinued,,,/parts/mopar-clamp-lock-housing~4690101.html
+,4664130,RETAINER Spring,,,,,,,,discontinued,,,/parts/mopar-retainer-spring~4664130.html
+,6035937AA,SCREW .164-18x1.00,,,,2,1,,,available,9.2,6.41,/parts/mopar-screw-tapping-pan-head~6035937aa.html
+,6035021,SCREW Pan Head Tapping .125-40x.437,,,,,,,,available,3.3,2.27,/parts/mopar-screw-pan-head-tapping~6035021.html
+,4690570,WEDGE,,,,,,,,discontinued,,,/parts/mopar-wedge-bearing~4690570.html

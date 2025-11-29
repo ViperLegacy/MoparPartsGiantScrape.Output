@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763547,PANEL Dash,,,,,,,,discontinued,,,
+2,6101542,SCREW Hex Head M8-1.25 x 20,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-head~6101542.html
+3,6100544,SCREW Hex Flange Head M5x0.80x20.00,,,,,,,,discontinued,,,
+4,6101452,SCREW AND WASHER Hex Head M8x1.25x20,,,,5,1,,,available,8.1,5.65,/parts/mopar-bolt-hex-head~6101452.html
+5,QN61SX9,PANEL Cowl,,,,,,,,discontinued,,,/parts/mopar-cowl-pnl-cowl~qn61sx9.html
+6,5245873,ROD Cowl Panel,Left,,,,,,,discontinued,,,/parts/mopar-rod-cowl-panel~5245873.html
+7,6035625,SCREW,,,,4,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+8,6502843,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,,,2,1,,,available,7.8,5.3,/parts/mopar-nut-hex-nut-coned-washer~6502843.html
+9,6101090,SCREW AND WASHER Hex Head M10x1.5x25,,,,6,1,,,discontinued,,,/parts/mopar-screw-hex-head~6101090.html
+10,6502337,NUT M10x1.5,,,,2,1,,,available,8.75,6,/parts/mopar-nut-hex-locking~6502337.html
+13,6100516,NUT Hex Flange Lock M6 Phosphate,,,,2,1,,,available,,14.51,/parts/mopar-nut-hex-flange-lock~6100516.html
+14,4848900AA,MOLDING A PILLAR,Right,,,,,,,discontinued,,,/parts/mopar-cover-a-pillar~4848900aa.html
+15,4848897AB,STRAP Ground,,,,,,,,discontinued,,,/parts/mopar-strap-ground~4848897ab.html
+16,4373728,PLUG,,,,4,1,,,available,12.5,8.74,/parts/mopar-plug~4373728.html
+17,4848850AC,COVER Antenna Opening,,,,,,,,discontinued,,,/parts/mopar-shield-antenna-opening~4848850ac.html

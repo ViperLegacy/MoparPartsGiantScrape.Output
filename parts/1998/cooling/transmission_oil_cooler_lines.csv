@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848310,LINE Oil Cooler Inlet,,,,,,,,discontinued,,,/parts/mopar-line-oil-cooler-inlet~4848310.html
+2,4848300,LINE Oil Cooler Outlet,,,,,,,,discontinued,,,/parts/mopar-line-oil-cooler-outlet~4848300.html
+3,4643826AB,COOLER Engine Oil,,,,,,,,discontinued,,,
+4,6034530,SCREW Hex Head .312-18x.75,,,,4,1,,,available,5.33,4.19,/parts/mopar-screw-hex-head~6034530.html
+5,6100296,BOLT Hex Head,,,,2,1,,,available,8.65,6,/parts/mopar-bolt-hex-head~6100296.html

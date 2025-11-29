@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,5037192AE,MANIFOLD Intake,,,,,,,,discontinued,,,/parts/mopar-manifold-intake~5037192ae.html
+3,5037217AB,GASKET Intake Manifold,,,,2,1,5037217AC,,available,153,101.76,/parts/mopar-gasket-intake-manifold~5037217ab.html
+4,6035666,SCREW Hex Flange Head .25-20x1.00,,,,20,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+5,5037195AC,GASKET Exhaust Manifold,,,,2,1,,,discontinued,,,/parts/mopar-gasket-exhaust-manifold~5037195ac.html
+6,5037197AC,MANIFOLD Exhaust,Left,,,,,5037197AD,,discontinued,,,/parts/mopar-manifold-exhaust~5037197ac.html
+7,5037284AB,SHIELD Exhaust Manifold,,,,2,1,5037284AC,Inner,available,118,79.48,/parts/mopar-shield-exhaust-manifold~5037284ab.html
+8,6034856,NUT AND WASHER Hex Nut-E Teeth Washer .312-24,,,,6,1,,,available,15.34,12.05,/parts/mopar-nut~6034856.html
+9,6034595,WASHER Coned .340 x .750 x .180,,,,20,1,,,available,8.3,5.78,/parts/mopar-washer-conical~6034595.html
+10,6036066AA,STUD,,,,6,1,,,available,10.34,8.12,/parts/mopar-stud~6036066aa.html
+11,154881AA,BOLT Hex Head,,,,14,1,,,available,25.19,19.49,/parts/mopar-bolt~154881aa.html
+,5037105AF,"MANIFOLD ASSEMBLY Intake See Notes, Limited Stock",,,,,,,,discontinued,,,/parts/mopar-manifold-intake~5037105af.html

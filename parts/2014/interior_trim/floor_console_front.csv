@@ -1,0 +1,33 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5NH75DX9AA,BASE Floor Console,,,,,,5NH75DX9AB,"[-X9], [CMH]",available,847,579.12,/parts/mopar-base-floor-console~5nh75dx9aa.html
+1,5NH75LK5AA,BASE Floor Console,,,,,,,"[-KX], [CMH]",available,1055,695.2,/parts/mopar-base-floor-console~5nh75lk5aa.html
+1,5NH75XR4AA,BASE Floor Console,,,,,,,"[-RX], [CMH]",available,908,597.3,/parts/mopar-base-floor-console~5nh75xr4aa.html
+1,5NH76DX9AA,BASE Floor Console,,,,,,5NH76DX9AB,"[-X9], [CM5]",available,1100,743.54,/parts/mopar-base-floor-console~5nh76dx9aa.html
+1,5NH76LV5AA,BASE Floor Console,,,,,,5NH76LV5AB,"[-VX], [CM5]",available,926,631.56,/parts/mopar-base-floor-console~5nh76lv5aa.html
+2,1WU68DX9AB,PANEL Instrument Lower Right,,,,,,1WU68DX9AC,,available,520,355.68,/parts/mopar-bezel-instrument-lower~1wu68dx9ab.html
+3,1WU69DX9AA,PANEL Instrument Lower Left,,,,,,,"Left [-KX], [JAB]Left [-RX], [JAB]Left [-X9], [JAB]...View More",available,485,324.47,/parts/mopar-bezel-instrument-lower~1wu69dx9aa.html
+4,1WT42DX9AB,PANEL Bulkhead Trim,,,,,,1WT42YSAAD,"[-X9], [CMH]",available,2260,1531.15,/parts/mopar-console-bulkhead-trim~1wt42dx9ab.html
+4,1WT42LK5AB,PANEL Bulkhead Trim,,,,,,1WT42LK5AC,"[-KX], [CMH]",available,1260,852.02,/parts/mopar-console-bulkhead-trim~1wt42lk5ab.html
+4,1WT42XR4AB,PANEL Bulkhead Trim,,,,,,1WT42XR4AC,"[-RX], [CMH]",available,1260,852.02,/parts/mopar-console-bulkhead-trim~1wt42xr4ab.html
+4,5LH98HL1AB,PANEL Bulkhead Trim,,,,,,5LH981VVAE,"[-VX], [CM5]",available,2840,1921,/parts/mopar-console-bulkhead-trim~5lh98hl1ab.html
+4,5LH98YSAAB,PANEL Bulkhead Trim,,,,,,5LH98YSAAE,"[-X9], [CM5]",available,2970,2011.4,/parts/mopar-console-bulkhead-trim~5lh98ysaab.html
+5,6105041AA,BOLT Hex Flange Head M6X1.00X40.00,,,,2,1,,,available,4.3,2.97,/parts/mopar-bolt-hex-flange-head~6105041aa.html
+6,5038653AA,BOOT Gearshift,,,,,,,,discontinued,,,/parts/mopar-boot-gearshift~5038653aa.html
+7,1WT16AAAAA,BEZEL Console Shifter,,,,,,,"[-X9], [JAA]",available,1125,760.49,/parts/mopar-bezel-console-shifter~1wt16aaaaa.html
+7,1WT17LK5AB,BEZEL Console Shifter,,,,,,,"[-KX], [JAB]",discontinued,,,
+7,1WT17XR4AB,BEZEL Console Shifter,,,,,,,"[-RX], [JAB]",discontinued,,,
+7,1WT17YSAAB,BEZEL Console Shifter,,,,,,,"[-X9], [JAB]",discontinued,,,
+7,1YS01HL1AB,BEZEL Console Shifter,,,,,,1YS01HL1AD,"[-VX], [JAC]",available,1575,1038.4,/parts/mopar-housing-console-shifter~1ys01hl1ab.html
+7,1YS01YSAAB,BEZEL Console Shifter,,,,,,1YS01YSAAD,"[-X9], [JAC]",available,1215,800.8,/parts/mopar-housing-console-shifter~1ys01ysaab.html
+8,5LZ06AAAAA,HANDLE Grab,,,,,,,,available,1605,1053.8,/parts/mopar-handle-grab~5lz06aaaaa.html
+9,1YD18HL1AB,COVER Instrument Panel,,,,,,1YD18HL1AC,Right [-VX],available,220,148.9,/parts/mopar-bezel-instrument-panel~1yd18hl1ab.html
+9,1YD18LK5AB,COVER Instrument Panel,,,,,,,Right [-KX],available,210,99.02,/parts/mopar-bezel-instrument-panel~1yd18lk5ab.html
+9,1YD18XR4AB,COVER Instrument Panel,,,,,,1YD18XR4AC,Right [-RX],available,220,148.9,/parts/mopar-bezel-instrument-panel~1yd18xr4ab.html
+9,1YD18YSAAB,COVER Instrument Panel,,,,,,1YD18YSAAC,Right [-X9],available,220,148.9,/parts/mopar-bezel-instrument-panel~1yd18ysaab.html
+10,1YD17LV5AB,COVER Instrument Panel,,,,,,1YD17LV5AD,Left [-VX],available,187,126.34,/parts/mopar-bezel-instrument-panel~1yd17lv5ab.html
+11,6101945,SCREW Hex Flange Head M4.2X1.70X15.00,,,,2,1,,,available,2.95,1.98,/parts/mopar-screw-hex-flange-head~6101945.html
+12,68165468AB,BRACKET Grab Handle,,,,,,,,available,77.75,63.11,/parts/mopar-handle-grab-handle~68165468ab.html
+13,68174055AB,BRACKET Grab Handle,,,,,,,,available,26.95,23.53,/parts/mopar-bracket-grab-handle~68174055ab.html
+14,68186730AA,BRACKET Floor Console,,,,,,68186730AB,,available,77.7,54.29,/parts/mopar-bracket-floor-console~68186730aa.html
+15,68202665AA,BIN Storage,,,,,,,,available,111,74.34,/parts/mopar-bin-storage~68202665aa.html
+,5073039AA,STRAP Tie,,,,,,4641780,,available,0.45,0.29,/parts/mopar-tiestrap-tie~5073039aa.html

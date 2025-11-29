@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+3,4865582AB,MODULE Air Bag Control,,,,,,68290974AA,,available,256,172.13,/parts/mopar-module-air-bag-control~4865582ab.html
+7,TQ87DX9AC,AIR BAG Driver,,,,,,,,discontinued,,,/parts/mopar-airbag-driver~tq87dx9ac.html
+,6102254AA,BOLT AND WASHER Hex Head M6x-1.00x55,,,,4,1,,,available,1.93,1.52,/parts/mopar-bolt-hex-head~6102254aa.html
+,4865524AI,MODULE Body Controller,,,,,,4865524AL,,discontinued,,,/parts/mopar-module-body-controller~4865524ai.html
+,4865944AA,MODULE HID Bulb Powerpack,,,,,,4865944AB,,available,290,236.38,/parts/mopar-headlamp-hid-bulb-powerpack~4865944aa.html

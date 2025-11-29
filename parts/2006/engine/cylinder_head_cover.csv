@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,5037156AF,COVER Cylinder Head,,,,,,,Right Right,discontinued,,,
+3,6035666,SCREW Hex Flange Head .25-20x1.00,,,,13,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+4,6036519AA,STUD Double Ended,,,,13,1,,,discontinued,,,/parts/mopar-stud-double-ended~6036519aa.html
+5,4648832AB,CAP Oil Filler,,,,,,5037665AC,,available,16.3,12.64,/parts/mopar-cap-oil-filler~4648832ab.html
+6,68029299AA,O RING,,,,,,,,available,12.5,8.56,/parts/mopar-o-ring-oil-filler-cap~68029299aa.html
+7,5037157AB,GASKET Valve Cover,,,,,,,,discontinued,,,/parts/mopar-gasket-cylinder-head-cover~5037157ab.html
+8,5037064AG,HEAD Cylinder,,,,2,1,5037064AE,,discontinued,,,/parts/mopar-head-cylinder~5037064ag.html
+9,6035471,BOLT Cylinder Head,,,,24,1,,,available,19.9,13.86,/parts/mopar-screw-cylinder-head~6035471.html
+10,6035666,SCREW Hex Flange Head .25-20x1.00,,,,16,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+11,4763749,GASKET Cylinder Head,,,,2,1,5037734AB,,discontinued,,,/parts/mopar-gasket-cylinder-head~4763749.html

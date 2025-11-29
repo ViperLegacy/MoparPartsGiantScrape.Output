@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848193,RELAY Electrical,,,,,,,,discontinued,,,
+2,2889565,RELAY Electrical,,,,,,,,discontinued,,,/parts/mopar-relay-electrical~2889565.html
+3,56005146,RELAY Electrical,,,,,,,,discontinued,,,/parts/mopar-relay-electrical~56005146.html
+4,FLF30,"CARTRIDGE Fuseable Link 30 Amp, Pink",,,,,,,,available,7,4.13,/parts/mopar-fuse-fuseable-link~flf30.html
+6,ATM10,"FUSE Mini 10 AMP, Red",,,,2,1,,,available,3.7,2.5,/parts/mopar-fuse-mini~atm10.html
+,4414333,BREAKER Circuit,,,,,,,,unavailable,,,/parts/mopar-breaker-30-amp-fuse~4414333.html

@@ -1,0 +1,43 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68141985AF,FLAG Door,Left,,,,,68141985AH,,available,852,581.4,/parts/mopar-flag-door~68141985af.html
+4,68240385AB,BRACKET Air Bag,Left,,,,,,,available,50.2,35.01,/parts/mopar-bracket-air-bag~68240385ab.html
+6,68164547AA,BRACKET Door Pull Cup,Left,,,,,,,available,41.95,29.3,/parts/mopar-bracket-door-pull-cup~68164547aa.html
+8,4865611AH,REGULATOR Front Door Window,,,,,,4865611AI,Left [JP3],available,1175,770,/parts/mopar-regulator-front-door-window~4865611ah.html
+10,68139715AB,LATCH Front Door,Left,,,,,,,discontinued,,,/parts/mopar-latch-front-door~68139715ab.html
+13,68096397AC,HANDLE Front Door Exterior,Left,,,,,68096397AD,,discontinued,,,/parts/mopar-handle-front-door-exterior~68096397ac.html
+15,1WE06DX8AA,COVER Handle,,,,,,,"Right [X8T], [PX8]",discontinued,,,/parts/mopar-cover-handle~1we06dx8aa.html
+15,1WE06JSCAA,COVER Handle,,,,,,,"Right [X8T], [PSC]",discontinued,,,/parts/mopar-cover-handle~1we06jscaa.html
+15,1WE06KBUAA,COVER Handle,,,,,,,"Right [X8T], [PBU]",discontinued,,,/parts/mopar-cover-handle~1we06kbuaa.html
+15,1WE06KL4AA,COVER Handle,,,,,,,"Right [X8T], [PL4]",discontinued,,,/parts/mopar-cover-handle~1we06kl4aa.html
+15,1WE06LBDAA,COVER Handle,,,,,,,"Right [X8T], [PPD]",discontinued,,,/parts/mopar-cover-handle~1we06lbdaa.html
+15,1WE06LCCAA,COVER Handle,,,,,,,"Right [X8T], [PCC]",discontinued,,,/parts/mopar-cover-handle~1we06lccaa.html
+15,1WE06LR7AA,COVER Handle,,,,,,,"Right [X8T], [PR7]",discontinued,,,/parts/mopar-cover-handle~1we06lr7aa.html
+15,1WE06LRKAA,COVER Handle,,,,,,,"Right [X8T], [PRK]",discontinued,,,/parts/mopar-cover-handle~1we06lrkaa.html
+15,1WE06MDRAA,COVER Handle,,,,,,,"Right [X8T], [PDR]",discontinued,,,/parts/mopar-cover-handle~1we06mdraa.html
+15,1WE06MG7AA,COVER Handle,,,,,,,"Right [X8T], [PG7]",discontinued,,,/parts/mopar-cover-handle~1we06mg7aa.html
+15,1WE06WYRAA,COVER Handle,,,,,,,"Right [X8T], [PYR]",discontinued,,,/parts/mopar-cover-handle~1we06wyraa.html
+15,1WE07BWAAA,COVER Handle,,,,,,,"Left [X8T], [PWA]",discontinued,,,/parts/mopar-cover-handle~1we07bwaaa.html
+15,1WE07DX8AA,COVER Handle,,,,,,,"Left [X8T], [PX8]",discontinued,,,/parts/mopar-cover-handle~1we07dx8aa.html
+15,1WE07JSCAA,COVER Handle,,,,,,,"Left [X8T], [PSC]",discontinued,,,/parts/mopar-cover-handle~1we07jscaa.html
+15,1WE07KBUAA,COVER Handle,,,,,,,"Left [X8T], [PBU]",discontinued,,,/parts/mopar-cover-handle~1we07kbuaa.html
+15,1WE07KL4AA,COVER Handle,,,,,,,"Left [X8T], [PL4]",discontinued,,,/parts/mopar-cover-handle~1we07kl4aa.html
+15,1WE07LBDAA,COVER Handle,,,,,,,"Left [X8T], [PPD]",discontinued,,,/parts/mopar-cover-handle~1we07lbdaa.html
+15,1WE07LCCAA,COVER Handle,,,,,,,"Left [X8T], [PCC]",discontinued,,,/parts/mopar-cover-handle~1we07lccaa.html
+15,1WE07LR7AA,COVER Handle,,,,,,,"Left [X8T], [PR7]",discontinued,,,/parts/mopar-cover-handle~1we07lr7aa.html
+15,1WE07LRKAA,COVER Handle,,,,,,,"Left [X8T], [PRK]",discontinued,,,/parts/mopar-cover-handle~1we07lrkaa.html
+15,1WE07MDRAA,COVER Handle,,,,,,,"Left [X8T], [PDR]",discontinued,,,/parts/mopar-cover-handle~1we07mdraa.html
+15,1WE07MG7AA,COVER Handle,,,,,,,"Left [X8T], [PG7]",discontinued,,,/parts/mopar-cover-handle~1we07mg7aa.html
+15,1WE07WYRAA,COVER Handle,,,,,,,"Left [X8T], [PYR]",discontinued,,,/parts/mopar-cover-handle~1we07wyraa.html
+19,5035333AA,WATER SHIELD Door Control Module,,,,,,5035333AB,,available,107,71.57,/parts/mopar-shield-door-control-module~5035333aa.html
+,6509582AA,BOLT Air Bag Bracket Attaching,,,,,,,,available,2.65,1.81,/parts/mopar-bolt~6509582aa.html
+,6102126AA,NUT AND WASHER Hex M6x1.0 Flag Attaching,,,,,,,,available,10.65,7.4,/parts/mopar-nut-hex~6102126aa.html
+,6102126AA,NUT AND WASHER Hex M6x1.0 Regulator Attaching,,,,2,1,,,available,10.65,7.4,/parts/mopar-nut-hex~6102126aa.html
+,4658673,PIN PUSH .150x.410 Door Latch To Door,,,,,,,,available,8.55,5.94,/parts/mopar-pin~4658673.html
+,6105093AA,SCREW AND WASHER Hex Head M5X0.8X16.00 Handle Attaching,,,,2,1,,,available,2.2,1.51,/parts/mopar-screw-hex-head~6105093aa.html
+,6100567,SCREW AND WASHER Hex Head M6x1x25 Flag Attaching,,,,2,1,,,available,9.3,6.47,/parts/mopar-screw-hex-head~6100567.html
+,6510693AA,SCREW AND WASHER Round Head M6X1.00X19.00,,,,2,1,,,available,5.5,3.79,/parts/mopar-screw-round-head~6510693aa.html
+,6509579AA,SCREW Large Round Washer Head M5X0.8X8.0 Pull Cup Bracket Attaching,,,,4,1,,,available,4.15,2.85,/parts/mopar-screw-large-round-washer-head~6509579aa.html
+,6511120AA,SCREW Torx M8x1.25x25.05 Striker To Body,,,,2,1,,,available,4.4,3.79,/parts/mopar-screw-torx~6511120aa.html
+,68145349AA,STRIKER Door Latch,,,,,,,,available,15.4,13.4,/parts/mopar-striker-door-latch~68145349aa.html
+,55364097AB,TAPE Sealing 38mm Square,,,,,,,,available,8.45,5.88,/parts/mopar-tape-sealing~55364097ab.html
+,68155187AB,WATERSHIELD Front Door,Left,,,,,,,available,158,105.69,/parts/mopar-shield-front-door~68155187ab.html

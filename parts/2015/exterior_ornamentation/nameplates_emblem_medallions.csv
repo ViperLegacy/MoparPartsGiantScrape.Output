@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1VN1706SAA,MEDALLION Viper Head,,,,,,,,available,252,201.38,/parts/mopar-ornament-viper-head~1vn1706saa.html
+2,5ZB99SZ0AA,NAMEPLATE GTS,,,,2,1,,[MGV],available,70.3,49.1,/parts/mopar-nameplate~5zb99sz0aa.html
+3,1WS20SZ0AB,NAMEPLATE SRT,,,,2,1,,,available,47.55,40.25,/parts/mopar-nameplate~1ws20sz0ab.html
+,68252751AA,DECAL ACR Badge,,,,,,,Left [MYH],discontinued,,,/parts/mopar-decal-acr-badge~68252751aa.html
+,5SR42RXFAA,DECAL TA Sill,,,,2,1,,"[M3S], [PL4][M3S], [PWA]",available,114,76.33,/parts/mopar-decal~5sr42rxfaa.html
+,5SR43RXFAA,DECAL Viper Front Fascia,,,,,,,"[M3S], [PL4][M3S], [PWA]",available,58.1,40.54,/parts/mopar-decal~5sr43rxfaa.html
+,5ZB98SZ0AA,NAMEPLATE VIPER GT Side Sill,,,,2,1,,,available,79.4,55.45,/parts/mopar-nameplate~5zb98sz0aa.html
+,5ZB95SZ0AA,NAMEPLATE VIPER Side Sill,,,,2,1,,,available,53.3,37.22,/parts/mopar-nameplate-viper-side-sill~5zb95sz0aa.html

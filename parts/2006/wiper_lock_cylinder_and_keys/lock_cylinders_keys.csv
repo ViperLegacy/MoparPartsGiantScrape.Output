@@ -1,0 +1,32 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5102103AA,KEY Blank,,,,,,,,discontinued,,,/parts/mopar-key-blank~5102103aa.html
+2,5083915AB,CYLINDER Ignition Lock,,,,,,,,available,214,143.26,/parts/mopar-cyl-lock-ignition-lock~5083915ab.html
+3,5010879AB,TUMBLER Ignition Number 1 Sidebar,,,,,,,,available,3.85,2.62,/parts/mopar-tumbler-number-1~5010879ab.html
+4,5010880AB,TUMBLER Ignition Number 2 Sidebar,,,,,,,,available,3.85,2.62,/parts/mopar-tumbler-number-2~5010880ab.html
+5,5010881AB,TUMBLER Ignition Number 3 Sidebar,,,,,,,,available,3.85,2.62,/parts/mopar-tumbler-number-3~5010881ab.html
+6,5010882AB,TUMBLER Ignition Number 4 Sidebar,,,,,,,,available,3.85,2.62,/parts/mopar-tumbler-number-4~5010882ab.html
+7,5010883AB,SPRING Ignition Tumbler Sidebar,,,,,,,,available,3.85,2.62,/parts/mopar-spring-tumbler~5010883ab.html
+8,4778147,CYLINDER Deck Lid Lock,,,,,,,,discontinued,,,/parts/mopar-cyl-lock-deck-lid-lock~4778147.html
+10,4778117AB,TUMBLER Door and Deck Number 1 Wide,,,,,,,,available,4.8,3.32,/parts/mopar-tumbler-number-1~4778117ab.html
+11,4778118AB,TUMBLER Door and Deck Number 2 Wide,,,,,,,,available,5.4,3.73,/parts/mopar-tumbler-number-2~4778118ab.html
+12,4778119AB,TUMBLER Door and Deck Number 3 Wide,,,,,,,,available,5.4,3.73,/parts/mopar-tumbler-number-3~4778119ab.html
+13,4778120AB,TUMBLER Door and Deck Number 4 Wide,,,,,,,,available,5.4,3.73,/parts/mopar-tumbler-number-4~4778120ab.html
+14,4778121,SPRING Door and Deck Tumbler,,,,,,,,available,3.45,2.39,/parts/mopar-spring-tumbler~4778121.html
+15,4778448,CYLINDER Glove Box Lock,,,,,,,,available,41,21.22,/parts/mopar-cyl-lock-glove-box-lock~4778448.html
+16,5257132AB,TUMBLER Ignition Number 1,,,,,,,,available,4.95,3.44,/parts/mopar-tumbler-number-1~5257132ab.html
+17,5257133AB,TUMBLER Ignition Number 2,,,,,,,,available,3.95,2.74,/parts/mopar-tumbler-number-2~5257133ab.html
+18,5257134AB,TUMBLER Ignition Number 3,,,,,,,,available,4.95,3.44,/parts/mopar-tumbler-number-3~5257134ab.html
+19,5257135AB,TUMBLER Ignition Number 4,,,,,,,,available,4.95,3.44,/parts/mopar-tumbler-number-4~5257135ab.html
+20,4746873,SPRING Lock Cylinder Tumbler,,,,,,,,available,4.7,3.26,/parts/mopar-spring-lock-cylinder-tumbler~4746873.html
+21,4054202,NUT Cylinder Lock,,,,,,,,available,27.6,11,/parts/mopar-nut-cylinder-lock~4054202.html
+22,4378799,CAP Lock Cylinder Large Black,,,,,,,,available,15.4,7,/parts/mopar-none-lock-cylinder~4378799.html
+23,4778149,CAP Door Lock Cylinder Bright,,,,,,,,available,14.7,10.25,/parts/mopar-cyl-lock-door-lock-cylinder~4778149.html
+24,3695321,GASKET Lock Cylinder,,,,,,,,available,15.75,5.53,/parts/mopar-gasket-lock-cylinder~3695321.html
+25,5086733AA,CLIP Latch,,,,,,,,discontinued,,,/parts/mopar-clip-latch~5086733aa.html
+28,5019605AA,SHUTTER Lock Cylinder,,,,,,,,available,19.9,13.86,/parts/mopar-cyl-lock-lock-cylinder~5019605aa.html
+29,5080900AA,SHUTTER Lock Cylinder,,,,,,,,available,16.5,11.53,/parts/mopar-shutter-lock-cylinder~5080900aa.html
+30,4378793,SPRING Cylinder Return,,,,,,,,available,4.15,2.8,/parts/mopar-spring-cylinder-return~4378793.html
+31,4723494,LEVER Deck Lid Lock Cylinder,,,,,,,,available,11.8,8.17,/parts/mopar-lever-deck-lid-lock-cylinder~4723494.html
+32,5086732AA,LEVER,,,,,,,,available,9.75,8.55,/parts/mopar-lever~5086732aa.html
+33,4865876AA,BRACKET Key Cylinder,,,,,,,,discontinued,,,/parts/mopar-bracket-key-cylinder~4865876aa.html
+,5086729AA,CYLINDER Door Lock,,,,,,,,available,28,23.3,/parts/mopar-cyl-lock-door-lock~5086729aa.html

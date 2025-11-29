@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4643954,"BUCKLE, Seat Belt Inner (Black)",,,27,2,1,,EXPORT,available,21.59,16.96,/parts/mopar-buckle-seat-belt-outer-rt~4643954.html
+1,4643954,"BUCKLE, Seat Belt Inner (Black)",,,27,,,,Right (CANADA),available,21.59,16.96,/parts/mopar-buckle-seat-belt-outer-rt~4643954.html
+1,4643955,"BUCKLE, Seat Belt Inner (Black)",,,27,,,,Left (CANADA),discontinued,,,/parts/mopar-seatbelt-outer-rt-buckle-a~4643955.html
+1,4848718,"BUCKLE, Seat Belt Inner (Black)",,,29,,,,"Right (EXPORT and CANADA, 1996)",discontinued,,,/parts/mopar-seat-belt-buckle-half~4848718.html
+1,4848719,"BUCKLE, Seat Belt Inner (Black)",,,29,,,4848719AB,"Left (EXPORT and CANADA, 1996)",discontinued,,,/parts/mopar-seat-belt-buckle-half~4848719.html
+1,5245884,"BUCKLE, Seat Belt Inner (Black)",,,27,,,,"Right (EXPORT and CANADA, 1996)",available,9.22,7.24,/parts/mopar-seat-belt-seat-belt-outer-lt~5245884.html
+1,5245885,"BUCKLE, Seat Belt Inner (Black)",,,27,,,,"Left (EXPORT and CANADA, 1996)",discontinued,,,
+6,6034457,"BOLT, Inner Belt Attaching",,,,,,,,available,20,14.51,/parts/mopar-bolt-pan-head~6034457.html
+7,FV59LX9,"CHILD SEAT, Restraint Assy.",,,,,,,,available,7,5.5,/parts/mopar-restraint-child-seat~fv59lx9.html
+8,F814LX9,"COVER, Front Anchor Bolt Child Restraint (P.A.R.)",,,,,,,,discontinued,,,
+,4883004,"TETHER, Hardware Package, Child Seat",,,,,,,,discontinued,,,

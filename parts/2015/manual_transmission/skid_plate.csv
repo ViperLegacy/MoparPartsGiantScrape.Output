@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290078AJ,BELLY PAN Rear,,,,,,5290078AM,,available,627,428.64,/parts/mopar-pan-rear~5290078aj.html
+2,6505070AA,SCREW Pan Head,,,,4,1,,,discontinued,,,/parts/mopar-screw-pan-head~6505070aa.html
+3,6508387AA,SCREW Pan Head M6X1.00X22.00,,,,19,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html

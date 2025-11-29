@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,GC54WRR,DECAL Dodge Fascia,,,,,,,Red,discontinued,,,/parts/mopar-decal~gc54wrr.html
+2,GC43WRR,DECAL Viper R/T 10 Fascia,,,,,,,,discontinued,,,/parts/mopar-decal-viper-r-t-10~gc43wrr.html
+3,MB59WRR,DECAL VIPER GTS Fascia,,,,,,,,discontinued,,,/parts/mopar-decal-viper-gts~mb59wrr.html
+4,4854217AA,DECAL Viper Fascia,,,,,,,,discontinued,,,/parts/mopar-decal-viper~4854217aa.html
+5,4854225AA,DECAL GTS-R Fascia,,,,2,1,,,discontinued,,,/parts/mopar-decal-gts-r~4854225aa.html
+6,MB61TV5,DECAL VIPER GTS Hood,,,,2,1,,,discontinued,,,/parts/mopar-decal-viper-gts~mb61tv5.html
+7,GC53WRR,DECAL Viper R/T 10 Hood,,,,2,1,,,discontinued,,,/parts/mopar-decal~gc53wrr.html
+8,4854225AA,DECAL GTS-R Hood,,,,2,1,,,discontinued,,,/parts/mopar-decal-gts-r~4854225aa.html
+,4854297AA,DECAL AMERICAN FLAG AMERICAN FLAG/FIA GT2 CHAMPION,,,,2,1,,,discontinued,,,/parts/mopar-decal-american-flag~4854297aa.html

@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290161AD,SHIELD Heat,,,,,,,Left Sill Inner,available,366,295.54,/parts/mopar-shield-exhaust~5290161ad.html
+3,5290256AB,SHIELD Fuel Tank Heat,,,,,,,,available,180,159.17,/parts/mopar-shield-fuel-tank-heat~5290256ab.html
+5,6031694,SCREW AND WASHER Hex Head .164-18x1.0,,,,8,1,,,discontinued,,,/parts/mopar-screw-hex-head~6031694.html
+7,5290149AC,SHIELD Heat,,,,,,,Left Torque Box,available,38.8,31.75,/parts/mopar-shield-heat~5290149ac.html
+8,5290231AB,SHIELD Heat,,,,,,,Left B-Pillar,available,22.2,10.45,/parts/mopar-shield-heat~5290231ab.html
+,152493,NUT U nut 1` thread size,,,,4,1,,,available,3.55,2.45,/parts/mopar-nut~152493.html
+,5037245AC,SHIELD Exhaust Manifold,,,,2,1,,,available,329,150.11,/parts/mopar-shield-heat~5037245ac.html
+,5290088AD,SHIELD Fuel Tank Heat,,,,,,,,available,109,89.27,/parts/mopar-shield-fuel-tank-heat~5290088ad.html
+,5290328AA,SHIELD Heat,,,,2,1,5290328AC,,available,6.15,5.13,/parts/mopar-shield-heat~5290328aa.html
+,5290364AA,SHIELD Heat,,,,2,1,5290364AC,A-Pillar Isolator,available,7.8,5.13,/parts/mopar-shield-heat~5290364aa.html
+,5290325AA,SHIELD Heat Adhesive,,,,,,,Left Sill,available,47.55,40.74,/parts/mopar-shield-exhaust~5290325aa.html

@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,WP74DX9AA,GRILLE Defroster,,,,,,,,available,55.15,46.54,/parts/mopar-grille-defroster~wp74dx9aa.html
+2,4865541AA,DUCT Defroster,,,,,,,,available,84.15,70.99,/parts/mopar-duct-defroster~4865541aa.html
+4,TS33DX9AD,PANEL Instrument Panel,,,,,,,,discontinued,,,/parts/mopar-panel-instrument-panel~ts33dx9ad.html
+5,5030373AC,AIR BAG Passenger,,,,,,,,discontinued,,,/parts/mopar-airbag-passenger~5030373ac.html
+7,4865532AA,SUPPORT Instrument Panel,,,,,,,,available,1690,1429.45,/parts/mopar-support-instrument-panel~4865532aa.html
+8,WA87DX9AA,BEZEL Instrument Cluster,,,,,,,,unavailable,634,531.24,/parts/mopar-bezel-instrument-cluster~wa87dx9aa.html
+9,1JU33AAAAA,BEZEL Instrument Panel Center,,,,,,,"[X5][JBE][X9], [JAA, JBE][XB][JBE][XR], [JAA, JBE][XU][JBE]...View More",discontinued,,,/parts/mopar-bezel-instrument-panel~1ju33aaaaa.html
+9,XT23DX9AA,BEZEL Instrument Panel Center,,,,,,,[X5][JAA][X9][JAA][XB][JAA][XR][JAA][XU][JAA]...View More,available,604,487.3,/parts/mopar-bezel-instrument-panel~xt23dx9aa.html
+,4865530AA,CHUTE Airbag,,,,,,,,available,424,354.57,/parts/mopar-chute-airbag~4865530aa.html
+,4865810AD,CONTROL A/C And Heater,,,,,,,,discontinued,,,/parts/mopar-control-a-c-and-heater~4865810ad.html

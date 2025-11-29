@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6101982,SCREW AND WASHER Hex Head M8x1.25x30,,,,,,,,available,23.6,16.48,/parts/mopar-screw-hex-head~6101982.html
+2,6101630,SCREW AND WASHER Hex Head M6X1.00X30.00,,,,2,1,,,available,1.9,1.28,/parts/mopar-screw-hex-head~6101630.html
+3,68004353AB,BRACKET Power Steering Reservoir,,,,,,68004353AC,,available,12.45,10.14,/parts/mopar-bracket-power-steering-reservoir~68004353ab.html
+4,5030970AA,RESERVOIR Power Steering Pump,,,,,,5030970AB,,available,56.1,39.62,/parts/mopar-reservoir-power-steering-pump~5030970aa.html

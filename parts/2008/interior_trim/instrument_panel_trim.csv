@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865866AA,PANEL Instrument,,,,,,,,available,222,183.86,/parts/mopar-panel-opening~4865866aa.html
+2,4865537AB,HINGE Glovebox,,,,,,,,available,54.65,46.83,/parts/mopar-hinge-glovebox~4865537ab.html
+3,1MA361D5AA,DOOR Glove Box,,,,,,TQ751X5AB,[X5],available,282,190.63,/parts/mopar-door-glove-box~1ma361d5aa.html
+3,1MA361U4AA,DOOR Glove Box,,,,,,TQ751XUAB,[XU],available,354,239.14,/parts/mopar-door-glove-box~1ma361u4aa.html
+3,1MA361XRAA,DOOR Glove Box,,,,,,TQ752XRAB,[XR],available,727,497.04,/parts/mopar-door-glove-box~1ma361xraa.html
+3,1MA36DX9AA,DOOR Glove Box,,,,,,TQ75DX9AB,[X9],available,1515,1024.91,/parts/mopar-door-glove-box~1ma36dx9aa.html
+4,4565022,SWITCH AND LAMP Glove Box,,,,,,,,available,33.8,23.42,/parts/mopar-switch-glove-box~4565022.html
+5,4865536AA,PANEL Glove Box,,,,,,,,discontinued,,,/parts/mopar-panel-glove-box~4865536aa.html
+6,5029142AA,BIN Glove box,,,,,,,,available,241,195.75,/parts/mopar-bin-glove-box~5029142aa.html
+7,4698884,STRIKER Glove Box Door Latch,,,,,,,,available,18.65,16.18,/parts/mopar-striker-glove-box-door-latch~4698884.html
+8,QN25DX9AB,LATCH Glovebox Door,,,,,,,,discontinued,,,/parts/mopar-latch-glovebox-door~qn25dx9ab.html
+9,TQ811D5AA,COVER Steering Column,,,,,,,[X5],available,414,345.65,/parts/mopar-cover-steering-column~tq811d5aa.html
+9,TQ811U4AA,COVER Steering Column,,,,,,TQ811T5AA,[XU],available,475,317.78,/parts/mopar-cover-steering-column~tq811u4aa.html
+9,TQ81DX9AA,COVER Steering Column,,,,,,,[X9],available,570,374,/parts/mopar-cover-steering-column~tq81dx9aa.html
+10,5029098AA,BRACE Instrument Panel to Floor,,,,,,,,discontinued,,,/parts/mopar-brace-instrument-panel-to-floor~5029098aa.html
+11,5029016AA,BRACKET Relay,,,,,,,,available,235,198,/parts/mopar-bracket-relay~5029016aa.html

@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290044AC,HOSE AND TUBE ASSEMBLY Brake Right Front,,,,,,,,available,65.55,43.12,/parts/mopar-tube-brake~5290044ac.html
+3,6505727AA,BOLT AND CONED WASHER Hex Head M8X1.25X25.00,,,,2,1,6505622AA,,available,5.5,3.73,/parts/mopar-screw-hex-head~6505727aa.html
+4,6502136,BOLT Hex Flange Head M10x1.50x55,,,,4,1,,,available,14.25,9.96,/parts/mopar-bolt-hex-flange-head~6502136.html
+5,6502114,GASKET Brake Hose To Caliper,,,,8,1,,,available,9.2,6.68,/parts/mopar-gasket-brake-hose-to-caliper~6502114.html
+6,6510161AA,BOLT Banjo,,,,4,1,,,available,5.45,3.79,/parts/mopar-bolt-banjo~6510161aa.html
+7,5181742AE,TUBE Brake,,,,,,,,available,138,91.8,/parts/mopar-line-brake~5181742ae.html
+8,6508720AA,CLIP Brake Tube,,,,3,1,,,discontinued,,,/parts/mopar-clip-brake-tube~6508720aa.html
+9,6034355,SCREW Hex Flange Head .25-14x.875,,,,,,,,available,5.85,4.02,/parts/mopar-screw-hex-flange-head~6034355.html
+12,68224802AC,MODULE Anti-Lock Brake System,,,,,,,,available,804,567.8,/parts/mopar-module-anti-lock-brake-system~68224802ac.html
+15,5181742AE,TUBE Brake,,,,,,,,available,138,91.8,/parts/mopar-line-brake~5181742ae.html
+16,5181736AD,TUBE Brake,,,,,,,,available,36,30.29,/parts/mopar-line-brake~5181736ad.html
+17,5181743AD,TUBE Brake,,,,,,,,available,124,97.63,/parts/mopar-line-brake~5181743ad.html
+18,5181855AD,TUBE Brake,,,,,,,,discontinued,,,/parts/mopar-line-brake~5181855ad.html
+19,5181856AD,TUBE Brake,,,,,,,,available,559,381.9,/parts/mopar-line-brake~5181856ad.html
+20,68155835AA,ISOLATOR Anti Lock Brake Unit,,,,,,68225331AA,,available,43.35,30.23,/parts/mopar-grommet-anti-lock-brake-unit~68155835aa.html
+21,4683449AC,CLIP Tube 2 Way,,,,5,1,,,available,1.35,0.93,/parts/mopar-clip-tube~4683449ac.html
+22,5290952AA,SENSOR Anti-Lock Brakes,,,,2,1,,,available,81.95,66.66,/parts/mopar-sensor-anti-lock-brakes~5290952aa.html
+23,5085043AA,CLIP Fuel Bundle,,,,6,1,,,available,12.75,8.84,/parts/mopar-clip-fuel-bundle~5085043aa.html
+,68155836AC,BRACKET Hydraulic Control Unit,,,,,,,,discontinued,,,/parts/mopar-bracket-hydraulic-control-unit~68155836ac.html
+,5290043AC,HOSE AND TUBE ASSEMBLY Brake Left Front,,,,,,,,available,64,42.08,/parts/mopar-tube-brake~5290043ac.html
+,6101695,NUT Hex Flange Lock M8X1.25,,,,3,1,,,available,5.05,3.44,/parts/mopar-nut-hex-flange-lock~6101695.html

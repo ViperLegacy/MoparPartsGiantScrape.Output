@@ -1,0 +1,32 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68139711AB,SHIELD Splash,Left,,,,,,,available,423,282.1,/parts/mopar-shield-splash~68139711ab.html
+4,68142981AA,PANEL Radiator Closure,,,,,,,,available,45.4,37.69,/parts/mopar-panel-radiator-closure~68142981aa.html
+7,68141093AA,AIR DUCT Brake Cooling,Left,,,,,,,available,72.35,59.46,/parts/mopar-air-duct-brake-cooling~68141093aa.html
+9,68171669AA,DUCT AIR,Left,,,,,,,available,57.3,32.37,/parts/mopar-duct-air~68171669aa.html
+11,68096346AA,ABSORBER Front Energy,,,,,,,,available,429,343.42,/parts/mopar-absorber-front-energy~68096346aa.html
+16,68199656AA,BRACKET Fascia Support,,,,,,,,available,241,195.75,/parts/mopar-bracket-fascia-support~68199656aa.html
+17,68141085AB,GRILLE Radiator,,,,,,,,available,170,133.88,/parts/mopar-grille-radiator~68141085ab.html
+21,1WC63DX8AA,BEZEL Air Inlet,Left,,,,,,,available,81.95,66.66,/parts/mopar-bezel-air-inlet~1wc63dx8aa.html
+21,68191402AA,BEZEL Air Inlet,,,,,,,Right [MBK],available,881,739.86,/parts/mopar-bezel-air-inlet~68191402aa.html
+21,68191403AA,BEZEL Air Inlet,,,,,,,Left [MBK],available,855,718.2,/parts/mopar-bezel-air-inlet~68191403aa.html
+23,68194269AA,LAMP Side Marker,Left,,,,,68194269AB,,discontinued,,,/parts/mopar-lamp-side-marker~68194269aa.html
+25,68195684AB,FASCIA Front Primed,,,,,,68110835AD,,discontinued,,,/parts/mopar-fascia-front~68195684ab.html
+29,5029222AA,FRAME License Plate,,,,,,5029222AD,,available,133,89.04,/parts/mopar-frame-license-plate~5029222aa.html
+,6101635,BOLT M10x1.50x35 Absorber Attaching,,,,4,1,,,discontinued,,,/parts/mopar-bolt~6101635.html
+,68078584AA,CLIP Spring Grille Attaching,,,,6,1,68078584AB,,available,6.65,4.6,/parts/mopar-clip-spring~68078584aa.html
+,6102437AA,NUT AND WASHER Hex Nut-Coned Washer M10 x 1.5 Absorber Attaching,,,,4,1,,,available,4,2.74,/parts/mopar-nut-hex-nut-coned-washer~6102437aa.html
+,6102244AA,NUT Lamp Attaching,,,,4,1,,,available,3.9,2.68,/parts/mopar-nut~6102244aa.html
+,6100842,NUT Push Absorber Attaching,,,,4,1,,,available,3.65,2.5,/parts/mopar-nut-push~6100842.html
+,6105241AA,NUT U M6x1.00 Fascia Attaching,,,,4,1,,,available,5.05,3.44,/parts/mopar-nut-u~6105241aa.html
+,6105241AA,NUT U M6x1.00 Shield Attaching,,,,6,1,,,available,5.05,3.44,/parts/mopar-nut-u~6105241aa.html
+,6508904AA,PIN Push M6.3x20.40 Fascia Attaching,,,,2,1,,,available,8.1,5.65,/parts/mopar-pin-push~6508904aa.html
+,6510611AA,PUSH NUT Bezel Attaching,,,,8,1,,,available,2.3,1.34,/parts/mopar-nut~6510611aa.html
+,6510611AA,PUSH NUT Grille Attaching,,,,9,1,,,available,2.3,1.34,/parts/mopar-nut~6510611aa.html
+,6510193AA,PUSH PIN Duct Attaching,,,,4,1,,,available,3.5,2.39,/parts/mopar-push-pin~6510193aa.html
+,5029208AA,REINFORCEMENT Front Bumper Absorber Attaching,,,,4,1,,,available,15.75,11.59,/parts/mopar-beam-front-bumper~5029208aa.html
+,6511152AA,SCREW AND WASHER Pan Head Panel Attaching,,,,6,1,,,available,5.6,3.84,/parts/mopar-screw-pan-head~6511152aa.html
+,6034355,SCREW Hex Flange Head .25-14x.875 Shield Attaching,,,,4,1,,,available,5.85,4.02,/parts/mopar-screw-hex-flange-head~6034355.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Duct Attaching,,,,2,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Fascia Attaching,,,,6,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Fascia to Panel,,,,6,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Grille Attaching,,,,2,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html

@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+3,6101448,NUT AND WASHER Hex Nut-Coned Washer M10 x 1.5,,,,4,1,,,available,11.3,7.86,/parts/mopar-nut-hex-nut-coned-washer~6101448.html
+4,6507167AA,SCREW,,,,4,1,,,available,11,7.63,/parts/mopar-screw-hex-head~6507167aa.html
+5,4865643AB,BUMPER Fascia Front,,,,,,4865643AC,,available,523,423.5,/parts/mopar-bumper-fascia~4865643ab.html
+6,5029208AA,REINFORCEMENT Front Bumper,,,,4,1,,,available,15.75,11.59,/parts/mopar-beam-front-bumper~5029208aa.html
+7,5029154AB,FASCIA Front Primed,,,,,,,,discontinued,,,/parts/mopar-fascia-front~5029154ab.html
+12,6100840,NUT Spring,,,,2,1,,,available,7.25,5.01,/parts/mopar-nut-spring~6100840.html
+13,5029137AA,PLATE Fender Attach,,,,2,1,,,discontinued,,,/parts/mopar-plate-fender-attach~5029137aa.html
+14,6100047,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,,,2,1,,,available,9.35,6.52,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+15,6035625,SCREW,,,,6,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+16,6507483AA,NUT/RIVET,,,,10,1,,,discontinued,,,/parts/mopar-nut-rivet~6507483aa.html
+17,5029234AA,SEAL,,,,,,5029234AB,,available,46.45,38.97,/parts/mopar-seal~5029234aa.html
+,5029222AA,FRAME License Plate,,,,,,5029222AD,,available,133,89.04,/parts/mopar-frame-license-plate~5029222aa.html
+,6023925,NUT Plastic Snap-in,,,,2,1,,,available,6,4.19,/parts/mopar-nut-plastic-snap-in~6023925.html
+,6034866,SCREW Frame to Fascia,,,,5,1,,,available,9.2,6.41,/parts/mopar-screw-tapping-hex-flange-head~6034866.html

@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4608505AC,SWITCH Mirror,,,,,,,,discontinued,,,/parts/mopar-switch-mirror~4608505ac.html
+3,4687594AB,SWITCH Underhood,,,,,,,,discontinued,,,/parts/mopar-switch-underhood~4687594ab.html
+4,4685435,SWITCH Console,,,,,,,,discontinued,,,/parts/mopar-switch-power-door~4685435.html
+,5083970AA,BEZEL Switch,,,,,,,,discontinued,,,/parts/mopar-bezel-switch~5083970aa.html
+,5093227AA,HOUSING Switch,,,,,,,,discontinued,,,/parts/mopar-housing-switch~5093227aa.html
+,4608633AD,SWITCH Console,,,,2,1,,,discontinued,,,/parts/mopar-switch-folding-top~4608633ad.html
+,4865870AB,SWITCH Door Handle,,,,,,,,discontinued,,,/parts/mopar-switch-door-handle~4865870ab.html
+,4685841AB,SWITCH Door Lock,,,,,,,,available,29.25,23.88,/parts/mopar-switch-door-lock~4685841ab.html
+,5029677AA,SWITCH Outside Door Handle,,,,,,,,discontinued,,,/parts/mopar-switch-outside-door-handle~5029677aa.html
+,4865875AA,SWITCH Passenger Airbag Disarm,,,,,,,,discontinued,,,/parts/mopar-switch-passenger-airbag-disarm~4865875aa.html

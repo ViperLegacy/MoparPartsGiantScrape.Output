@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4801247AD,WIRING Body,,,,,,,After 01/07/03,discontinued,,,/parts/mopar-wiring-body~4801247ad.html
+1,4865468AE,WIRING Body,,,,,,5029664AC,Up to 02/10/03,discontinued,,,/parts/mopar-wiring-body~4865468ae.html
+1,4865468AG,WIRING Body,,,,,,,After 02/10/03,discontinued,,,/parts/mopar-wiring-body~4865468ag.html
+,5093250AA,WIRING A/C and HEATER,,,,,,,Sub Harness,discontinued,,,
+,4865977AB,WIRING Battery Negative,,,,,,5029668AA,,available,32.55,26.45,/parts/mopar-cable-bat-battery-negative~4865977ab.html
+,5029269AD,WIRING Console,,,,,,5029674AA,,available,25.8,22.54,/parts/mopar-wiring-console~5029269ad.html
+,4865467AC,WIRING Door,Left,,,,,5029663AA,,available,356,301.18,/parts/mopar-wiring-door~4865467ac.html
+,4865928AB,WIRING Transmission,,,,,,5029667AA,,discontinued,,,/parts/mopar-wiring-transmission~4865928ab.html

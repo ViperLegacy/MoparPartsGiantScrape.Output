@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,6031694,SCREW AND WASHER Hex Head .164-18x1.0,,,,8,1,,,discontinued,,,/parts/mopar-screw-hex-head~6031694.html
+3,5029325AB,INSULATION Foil Backed Seal,,,,,,5029325AC,Left Side Quarter Panel To Exhaust,available,17.7,12.35,/parts/mopar-isolator-foil-backed-seal~5029325ab.html
+3,5029430AC,INSULATION Foil Backed Seal,,,,,,,Right Side Quarter Panel To Frame,available,170,149.73,/parts/mopar-isolator-foil-backed-seal~5029430ac.html
+3,5029431AC,INSULATION Foil Backed Seal,,,,,,,Left Side Quarter Panel To Frame,available,219,154.45,/parts/mopar-isolator-foil-backed-seal~5029431ac.html
+4,5290161AD,SHIELD Exhaust Sill,,,27,,,,Left Inner Lower,available,366,295.54,/parts/mopar-shield-exhaust~5290161ad.html
+4,5290324AA,SHIELD Exhaust Sill,,,27,,,,Right Inner Upper,available,44.05,37.02,/parts/mopar-shield-exhaust~5290324aa.html
+4,5290325AA,SHIELD Exhaust Sill,,,,,,,Left Inner Upper,available,47.55,40.74,/parts/mopar-shield-exhaust~5290325aa.html
+5,5290149AC,SHIELD Heat,,,,,,,Left Side Torque Box,available,38.8,31.75,/parts/mopar-shield-heat~5290149ac.html
+6,6102050AA,BOLT Hex Flange Head M6.3X1.81X15.00,,,,4,1,,,available,4.2,2.85,/parts/mopar-screw-hex-flange-head~6102050aa.html

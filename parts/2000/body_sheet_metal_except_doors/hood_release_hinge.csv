@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4854328AA,HOOD,,,,,,,,discontinued,,,/parts/mopar-hood~4854328aa.html
+2,6003351,RETAINER Hood Insulation .415x.690,,,,23,1,,,available,9,6.23,/parts/mopar-fastener-hood-insulation~6003351.html
+3,4848024AC,SHIELD Heat,,,,,,4848024AD,,discontinued,,,/parts/mopar-shield-heat~4848024ac.html
+6,4848025AB,SHIELD Heat,,,,,,,,available,16.1,12.65,/parts/mopar-shield-heat~4848025ab.html
+7,4708281,BUMPER Deck Lid,,,,2,1,,,discontinued,,,/parts/mopar-stop-bmpr-deck-lid~4708281.html
+8,6100591,BOLT AND CONED WASHER Hex Head M8x25x24,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-head~6100591.html
+9,4848639AB,HINGE Hood,,,,,,,,discontinued,,,/parts/mopar-hinge-hood~4848639ab.html
+11,6100583,BOLT AND CONED WASHER Hex Head M8x25x20,,,,6,1,,,available,,14.51,/parts/mopar-screw-hex-head~6100583.html
+12,4708439,LATCH Hood,,,,2,1,4708439AB,,discontinued,,,/parts/mopar-latch-hood~4708439.html
+13,5245045AB,STRIKER Hood Latch,,,,2,1,,,discontinued,,,/parts/mopar-striker-hood-latch~5245045ab.html
+14,6100557,BOLT AND CONED WASHER Hex Head M6x20x14,,,,6,1,,,available,9.2,6.41,/parts/mopar-screw-hex-head~6100557.html
+15,4709075,PIVOT Hood Hinge Lift Assist,Left,,,,,,,discontinued,,,/parts/mopar-hinge-hood-hinge-lift-assist~4709075.html
+16,6100584,BOLT AND CONED WASHER Hex Head M8x30x20,,,,6,1,,,discontinued,,,/parts/mopar-screw-hex-head~6100584.html
+17,4643875,BRACKET Lower Hood Lateral,Left,,,,,,,available,20.59,16.18,/parts/mopar-bracket-lower-hood-lateral~4643875.html
+19,4643374,BRACKET Lower Hood Lateral,,,,2,1,,,discontinued,,,/parts/mopar-bracket-lower-hood-lateral~4643374.html
+20,6100591,BOLT AND CONED WASHER Hex Head M8x25x24,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-head~6100591.html
+21,5245115,BRACKET Hood,Left,,,,,,,discontinued,,,/parts/mopar-bracket-hood~5245115.html
+23,4643463,SHIM Hood Latch,,,,,,,,available,12.14,9.54,/parts/mopar-shim-hood-latch~4643463.html
+24,5245117AB,BRACKET Hood,Left,,,,,,,available,24.25,19.07,/parts/mopar-bracket-hood~5245117ab.html
+26,6500532,NUT AND WASHER Hex Nut-Coned Washer M8 x 1.25,,,,4,,,,discontinued,,,
+27,4709249,SCREEN Hood,Left,,,,,,,discontinued,,,/parts/mopar-grille-hood~4709249.html
+29,4643073,SEAL Hood To Cowl,,,,,,,,discontinued,,,/parts/mopar-seal-hood-to-cowl~4643073.html
+30,4763331AB,LOUVER Air Outlet,Left,,,,,,,discontinued,,,/parts/mopar-louver-air-outlet~4763331ab.html
+31,4763335AB,BEZEL Nacaduct,,,,,,,,discontinued,,,/parts/mopar-louver-nacaduct~4763335ab.html
+,6504004,NUT Push On M6 x 30 x .50,,,,2,1,,,discontinued,,,/parts/mopar-nut-push-on~6504004.html
+,6503999,PIN Ground Shield To Chassis,,,,2,1,,,discontinued,,,/parts/mopar-pin-ground-shield-to-chassis~6503999.html

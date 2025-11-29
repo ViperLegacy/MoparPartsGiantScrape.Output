@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037249AB,ADAPTER Oil Cooler,,,,,,,,discontinued,,,
+2,6035854,FITTING Y-Style,,,,2,1,6036575AA,,available,15.85,11.07,/parts/mopar-nipple~6035854.html
+3,5037316AC,CONNECTOR Engine Oil Cooler,,,,2,1,5037316AD,,available,16.35,11.3,/parts/mopar-connector-male~5037316ac.html
+4,5290014AA,COOLER Engine Oil,,,,,,,,discontinued,,,
+5,6101718,SCREW AND WASHER Oval Head M6x1x25,,,,3,1,,,available,9.2,6.41,/parts/mopar-screw-oval-head~6101718.html
+6,5290004AA,LINE Oil Cooler Inlet,,,,,,,,discontinued,,,/parts/mopar-tube-oil-cooler-inlet~5290004aa.html
+7,5290001AA,LINE Oil Cooler Outlet,,,,,,,,discontinued,,,/parts/mopar-tube-oil-cooler-outlet~5290001aa.html
+,5037039AA,GASKET Oil Cooler,,,,,,,,discontinued,,,/parts/mopar-gasket-oil-cooler~5037039aa.html

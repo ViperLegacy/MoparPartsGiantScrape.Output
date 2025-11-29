@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4643870,"FASCIA, I/Panel",,,,,,,"PANEL, I/Panel Closure, Right",available,22.85,17.96,/parts/mopar-instrument-closure-panel~4643870.html
+1,4643871,"FASCIA, I/Panel",,,,,,,"PANEL, I/Panel Closure, Left",available,42.33,33.26,/parts/mopar-bezel-instrument-closure~4643871.html
+1,PE85RD5,"FASCIA, I/Panel",,,,,,,1993-96 (Quartz),discontinued,,,
+1,PE85RX4,"FASCIA, I/Panel",,,,,,,1993-96 (Black),discontinued,,,
+2,4728733,SPEEDOMETER,,1992,,,,,,discontinued,,,
+2,4741224,SPEEDOMETER,,1993-94,,,,,,discontinued,,,
+2,4746401,SPEEDOMETER,,,,,,,Bux/Canada (Kilo),discontinued,,,
+2,4763850,SPEEDOMETER,,,29,,,,1996 - Coupe (MPH),discontinued,,,
+2,4763853,SPEEDOMETER,,,29,,,,1996 - Coupe (Canada) Kilo,discontinued,,,
+3,4642494,"MODULE, Warning Indicators",,,,,,,,discontinued,,,/parts/mopar-module-message-center-module~4642494.html
+4,4763851,TACHOMETER,,,29,,,,"GAGE, Tachometer (Coupe)",discontinued,,,
+5,4643967,"GAUGE, Temperature",,,,,,,Bux/Canada,discontinued,,,/parts/mopar-gage-temperature~4643967.html
+5,4643968,"GAUGE, Temperature",,,27,,,,"CONTROL, Temperatue,",discontinued,,,/parts/mopar-gage~4643968.html
+5,5245298,"GAUGE, Temperature",,,29,,,,"CONTROL, Temperture (Coupe)",discontinued,,,/parts/mopar-control-a-c-and-heater~5245298.html
+6,4643966,"GAUGE, Oil",,,,,,,Bux/Canada,discontinued,,,/parts/mopar-gage-oil-pressure~4643966.html
+6,4763791,"GAUGE, Oil",,,29,,,,"INDICATOR, Engine Oil Level (Coupe)",discontinued,,,/parts/mopar-indicator-engine-oil-level~4763791.html
+7,4642132,"GAUGE, Fuel",,,,,,,,discontinued,,,
+8,4642135,"GAUGE, Volt",,,,,,,,discontinued,,,

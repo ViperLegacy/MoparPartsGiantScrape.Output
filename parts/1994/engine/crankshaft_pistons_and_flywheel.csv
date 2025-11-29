@@ -1,0 +1,66 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4643416,FLYWHEEL ASSEMBLY,,,,,,,,discontinued,,,
+2,4848733,CRANKSHAFT ASSEMBLY,,,29,,,,,discontinued,,,
+2,5245103,CRANKSHAFT ASSEMBLY,,,27,,,,,discontinued,,,/parts/mopar-c-shaft~5245103.html
+3,6034405,"BOLT, (7/16-20x1.5)",,,,8,,,,discontinued,,,
+4,4778713,"SEAL ASSEMBLY, Crankshaft Rear Oil",,,,,,,,discontinued,,,/parts/mopar-seal-crankshaft-rear-oil-seal~4778713.html
+5,4763726,"SEAL, Crankshaft Rear Oil",,1996,29,,,,,discontinued,,,/parts/mopar-seal-crankshaft-rear-oil-seal~4763726.html
+5,4778713,"SEAL, Crankshaft Rear Oil",,,27,,,,,discontinued,,,/parts/mopar-seal-crankshaft-rear-oil-seal~4778713.html
+6,5245072,"GASKET, Oil Seal Retainer to Block",,,29,,,,,discontinued,,,
+6,5245353,"GASKET, Oil Seal Retainer to Block",,,27,,,,,discontinued,,,/parts/mopar-gasket-egr-tube-flange~5245353.html
+7,2421305,"BEARING PACKAGE, Connecting Rod, Standard",,,,10,1,,,available,22.29,17.51,/parts/mopar-brg-pkg-connecting-rod~2421305.html
+8,6033715,"BOLT, Connecting Rod Bearing Cap",,,,20,,,,discontinued,,,
+9,6032296,"NUT, Connecting Rod Bearing Cap",,,,20,1,,,unavailable,,,/parts/mopar-nut-hex~6032296.html
+10,4773786,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #1)",discontinued,,,
+10,4773787,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #2)",discontinued,,,
+10,4773788,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #3)",discontinued,,,/parts/mopar-piston-as-piston~4773788.html
+10,4773789,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #4)",discontinued,,,/parts/mopar-piston-as-piston-assy-4~4773789.html
+10,4773790,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #5)",discontinued,,,/parts/mopar-piston-as-piston-assy-5~4773790.html
+10,4773791,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #6)",discontinued,,,/parts/mopar-piston-as-piston-assy-6~4773791.html
+10,4773792,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #7)",discontinued,,,/parts/mopar-piston-as-piston-assy-7~4773792.html
+10,4773793,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #8)",discontinued,,,/parts/mopar-piston-as-piston-assy-8~4773793.html
+10,4773794,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #9)",discontinued,,,/parts/mopar-piston-as-piston-assy-9~4773794.html
+10,4773795,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1992-94, Up To, Serial #716 (Cylinder #10)",discontinued,,,/parts/mopar-piston-as-piston-assy-10~4773795.html
+10,5245971,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #1)",discontinued,,,
+10,5245972,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #2)",discontinued,,,
+10,5245973,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #3)",discontinued,,,/parts/mopar-cylinder-assy-piston-3~5245973.html
+10,5245974,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #4)",discontinued,,,/parts/mopar-cylinder-piston-4~5245974.html
+10,5245975,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #5)",discontinued,,,/parts/mopar-cylinder-piston-5~5245975.html
+10,5245976,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #6)",discontinued,,,/parts/mopar-cylinder-piston-6~5245976.html
+10,5245977,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #7)",discontinued,,,/parts/mopar-cylinder-piston-7~5245977.html
+10,5245978,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #8)",discontinued,,,
+10,5245979,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #9)",discontinued,,,/parts/mopar-cylinder-piston-9~5245979.html
+10,5245980,"CYLINDER ASSEMBLY, w/Piston, Rod, and Rings",,,,,,,"1994-96, After, Serial #716 (Cylinder #10)",discontinued,,,/parts/mopar-cylinder-piston-10~5245980.html
+11,4740292,"BEARING PACKAGE, Crankshaft",,,,5,1,,"#1,2,4,5,6",available,6.52,5.12,/parts/mopar-brg-pkg-crankshaft~4740292.html
+11,4740293,"BEARING PACKAGE, Crankshaft",,,,,,,#3,discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4740293.html
+13,6034749,"KEY, Crankshaft Sprocket",,,,,,,,available,6.8,4.6,/parts/mopar-key-woodruff~6034749.html
+14,5245110,"DAMPER, Crankshaft Vibration",,,,,,,,discontinued,,,/parts/mopar-damper-crankshaft~5245110.html
+15,6034504,"WASHER, Damper to Crankshaft",,,,,,,,available,7.1,6.17,/parts/mopar-washer-flat~6034504.html
+16,6034505,"BOLT, Damper to Crankshaft, (3/4-16x2.25)",,,,,,,,available,5.75,5.01,/parts/mopar-screw-hex-head~6034505.html
+17,6034659,"BOLT, Main Cap, (7/16-14x2.50)",,,,12,1,,,discontinued,,,/parts/mopar-bolt-main-cap~6034659.html
+18,6034657,"BOLT/STUD, Main Cap",,,,4,,,"1993-96, After, Serial #105, Bolt Head",discontinued,,,
+18,6034657,"BOLT/STUD, Main Cap",,,,12,,,"19921993, Up To, Serial #104",discontinued,,,
+18,6034836,"BOLT/STUD, Main Cap",,,,8,1,,"1993-96, After, Serial #105, Stud Head",discontinued,,,/parts/mopar-stud-dbl-end-hdr-pt~6034836.html
+19,53009181,"BEARING, Drive Pinion Pilot",,,,,,,,discontinued,,,
+20,4428037,"RING GEAR, Flywheel",,,,,,,,discontinued,,,/parts/mopar-gear-ring-ring~4428037.html
+,4723536,"BEARING PACKAGE, Main",,,,,,,"(Magenta) (1,2,4,5,6)",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4723536.html
+,4723537,"BEARING PACKAGE, Main",,,,,,,(Magenta) (3),available,40.31,31.68,/parts/mopar-brg-pkg-crankshaft-thrust~4723537.html
+,4723538,"BEARING PACKAGE, Main",,,,,,,"(White) (1,2,4,5,6)",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4723538.html
+,4723540,"BEARING PACKAGE, Main",,,,,,,(White) (3),discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4723540.html
+,4723541,"BEARING PACKAGE, Main",,,,,,,"(Orange) (1,2,4,5,6)",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4723541.html
+,4723542,"BEARING PACKAGE, Main",,,,,,,(Orange) (3),discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4723542.html
+,4740292,"BEARING PACKAGE, Main",,,,,,,"(Black) (1,2,4,5,6)",available,6.52,5.12,/parts/mopar-brg-pkg-crankshaft~4740292.html
+,4740293,"BEARING PACKAGE, Main",,,,,,,(Black) (3),discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4740293.html
+,4883374AA,"BEARING PACKAGE, Main",,,,,,,"(Yellow) (1,2,4,5,6)",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883374aa.html
+,4883375AA,"BEARING PACKAGE, Main",,,,,,,(Yellow) (3),discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4883375aa.html
+,4883705AA,"BEARING PACKAGE, Main",,,,,,,"(.010"" O/S) (PISTON, W/O Pin)",discontinued,,,
+,4883706AA,"BEARING PACKAGE, Main",,,,,,,"(.020"" O/S) (PISTON, W/O Pin)",discontinued,,,
+,5096020AA,"BEARING PACKAGE, Main",,,,,,,"(.009""U/S) (1,2,4,5,6)",discontinued,,,
+,5096021AA,"BEARING PACKAGE, Main",,,,,,,"(.009""U/S) (3)",discontinued,,,
+,5096022AA,"BEARING PACKAGE, Main",,,,,,,"(.010""U/S) (1,2,4,5,6)",unavailable,,,/parts/mopar-brg-pkg-crankshaft~5096022aa.html
+,5096023AA,"BEARING PACKAGE, Main",,,,,,,"(.010""U/S) (3)",available,80.32,63.12,/parts/mopar-brg-pkg-crankshaft-thrust~5096023aa.html
+,5096024AA,"BEARING PACKAGE, Main",,,,,,,"(.011""U/S) (1,2,4,5,6)",discontinued,,,
+,5096025AA,"BEARING PACKAGE, Main",,,,,,,"(.011""U/S) (3)",discontinued,,,
+,5245142AB,"BEARING PACKAGE, Main",,,,,,,"(Standard) (PISTON, W/O Pin)",discontinued,,,/parts/mopar-piston-engine~5245142ab.html
+,5245366AD,"BEARING PACKAGE, Main",,,,,,,"ROD (PISTON, W/O Pin)",available,545,94.52,/parts/mopar-piston-connecting~5245366ad.html
+,53005779,"BEARING PACKAGE, Main",,,,,,,"PIN (PISTON, W/O Pin)",discontinued,,,/parts/mopar-pin-piston~53005779.html

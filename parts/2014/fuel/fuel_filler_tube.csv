@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68230237AA,DOOR Fuel Fill,,,,,,5YW75MDRAB,For Vehicles Built after 11-07-2013,available,1685,1135.65,/parts/mopar-door-fuel-fill~68230237aa.html
+2,6102244AA,NUT,,,,4,1,,,available,3.9,2.68,/parts/mopar-nut~6102244aa.html
+3,5181503AG,TUBE Fuel Filler,,,,,,5181503AL,For Vehicles Built 01-28-2014 and Later,available,673,458.28,/parts/mopar-tube-fuel-filler~5181503ag.html
+4,68193089AB,WIRING Ground Jumper,,,,,,,,discontinued,,,
+5,5181883AA,HOSE Fuel Filler Tube,,,,,,,,available,182,143.26,/parts/mopar-hose-fuel-filler-tube~5181883aa.html
+6,68193083AB,TUBE Fuel Vapor Recirculation,,,,,,,,discontinued,,,/parts/mopar-tube-fuel-vapor-recirculation~68193083ab.html
+7,68158775AA,FUNNEL Fuel Tank Filler Tube,,,,,,68158775AC,,available,33.7,23.36,/parts/mopar-funnel-fuel-tank-filler-tube~68158775aa.html
+8,6502720,NUT Hex Flange Lock M8x1.25,,,,,,,,available,7.55,5.24,/parts/mopar-nut-hex-flange-lock~6502720.html
+9,6104392AA,BOLT AND CONED WASHER Hex Head M8X1.25X40.00,,,,,,,,available,6.8,4.6,/parts/mopar-bolt-hex-head~6104392aa.html

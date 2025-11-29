@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,GC54WRR,DECAL Dodge Fascia,,,27,,,,[RN],discontinued,,,/parts/mopar-decal~gc54wrr.html
+1,GC54WYT,DECAL Dodge Fascia,,,27,,,,[YR],discontinued,,,/parts/mopar-decal~gc54wyt.html
+1,GC54ZDR,DECAL Dodge Fascia,,,27,,,,[DR],discontinued,,,/parts/mopar-decal~gc54zdr.html
+2,GC43WYT,DECAL Viper R/T 10 Fascia,,,,,,,[YR],discontinued,,,/parts/mopar-decal-viper-r-t-10~gc43wyt.html
+2,GC43ZDR,DECAL Viper R/T 10 Fascia,,,,,,,[DR],discontinued,,,/parts/mopar-decal-viper-r-t-10~gc43zdr.html
+3,MB59WRR,DECAL VIPER GTS Fascia,,,,,,,[RN],discontinued,,,/parts/mopar-decal-viper-gts~mb59wrr.html
+3,MB59WYT,DECAL VIPER GTS Fascia,,,,,,,[YR],discontinued,,,/parts/mopar-decal-viper-gts~mb59wyt.html
+3,MB59ZDR,DECAL VIPER GTS Fascia,,,,,,,[DR],discontinued,,,/parts/mopar-decal-viper-gts~mb59zdr.html
+4,GC53WYT,DECAL Viper R/T 10 Hood,,,,2,1,,[KCY],discontinued,,,/parts/mopar-decal~gc53wyt.html
+5,MB61WYT,DECAL VIPER GTS Hood,,,,2,1,,[KCY],discontinued,,,/parts/mopar-decal-viper-gts~mb61wyt.html
+6,SZ22GX9AA,DECAL Hood ACR,,,,2,1,,[KAX],discontinued,,,/parts/mopar-decal-hood~sz22gx9aa.html

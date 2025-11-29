@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763676,SHAFT Axle Half,,,,2,,,,discontinued,,,
+2,4428723,CLAMP U-Joint,,,,6,1,,,available,14.1,9.67,/parts/mopar-clamp-u-joint~4428723.html
+3,6502581,BOLT Hex Flange Head M8x1.0x19,,,,12,1,,,available,12.1,8.39,/parts/mopar-screw-hex-flange-head~6502581.html
+4,4797307,U-JOINT,,,,4,1,,,discontinued,,,/parts/mopar-u-joint~4797307.html

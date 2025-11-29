@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037047AA,CAP Oil Pressure Relief Valve,,,,,,,,discontinued,,,/parts/mopar-cap-oil-pressure-relief-valve~5037047aa.html
+2,5037046AB,SPRING Oil Pressure Relief Valve,,,,,,,,unavailable,,,/parts/mopar-spring-oil-pressure-relief-valve~5037046ab.html
+3,5037045AB,PLUNGER Oil Pressure Relief Valve,,,,,,5037045AC,,discontinued,,,/parts/mopar-plunger-oil-pressure-relief-valve~5037045ab.html
+4,5037036AC,COVER Timing Case,,,,,,5037036AF,,unavailable,866,739.86,/parts/mopar-cover-timing-case~5037036ac.html
+5,5245525AC,ROTOR SET Oil Pump,,,,,,,,discontinued,,,/parts/mopar-rotor-oil-pump~5245525ac.html
+6,5037048AB,COVER Engine Oil Pump,,,,,,,,discontinued,,,/parts/mopar-cover-engine-oil-pump~5037048ab.html
+7,6034475,SCREW Torx Head .25-20x.75,,,,7,1,,,discontinued,,,/parts/mopar-bolt~6034475.html
+8,5037214AC,INDICATOR Engine Oil Level,,,,,,,,discontinued,,,
+9,5037215AC,TUBE Engine Oil Indicator,,,,,,5037215AE,,discontinued,,,/parts/mopar-tube-engine-oil-indicator~5037215ac.html
+10,5037312AD,PICKUP Engine Oil,,,,,,5037312AE,,available,54.6,37.92,/parts/mopar-tube-engine-oil~5037312ad.html
+11,154601,SCREW Pan Head .19-24x.5,,,,15,1,,,discontinued,,,/parts/mopar-screw-pan-head~154601.html
+12,6032920,SEAL Oil Pick Up Tube,,,,,,,,available,10.85,7.51,/parts/mopar-seal-oil-pick-up-tube~6032920.html
+13,5037836AA,FILTER Engine Oil,,,,,,5037836AB,,available,26,17.03,/parts/mopar-filter-engine-oil~5037836aa.html
+14,53007563,CONNECTOR Oil Filter,,,,,,53007563AB,,available,17,11.77,/parts/mopar-connector-oil-filter~53007563.html
+15,5037316AB,CONNECTOR Engine Oil Cooler,,,,,,,,discontinued,,,/parts/mopar-connector-engine-oil-cooler~5037316ab.html
+16,5037163AC,GASKET Oil Pan,,,,,,5037163AF,,available,88.45,59.51,/parts/mopar-gasket-oil-pan~5037163ac.html
+17,5037159AC,PAN Engine Oil,,,,,,,,discontinued,,,/parts/mopar-pan-engine-oil~5037159ac.html
+18,6035666,SCREW Hex Flange Head .25-20x1.00,,,,16,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+19,4763738,SEAL Drain Plug,,,,,,,,discontinued,,,/parts/mopar-seal-drain-plug~4763738.html
+20,6035417,PLUG Oil Drain,,,,,,,,available,16.2,11.18,/parts/mopar-plug-oil-drain~6035417.html
+21,5037158AC,TRAY Windage,,,,,,,,discontinued,,,
+22,J0120375,NUT Hex .250-20,,,,4,1,,,available,9.55,6.64,/parts/mopar-nut-hex~j0120375.html

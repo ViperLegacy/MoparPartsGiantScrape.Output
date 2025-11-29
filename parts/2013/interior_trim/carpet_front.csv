@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1UL65DX9AC,CARPET Front Floor,,,,,,1UL65DX9AD,,available,830,567.72,/parts/mopar-carpet-front-floor~1ul65dx9ac.html
+2,1UL66DX9AC,CARPET Front Floor,,,,,,1UL66DX9AE,,available,852,582.54,/parts/mopar-carpet-front-floor~1ul66dx9ac.html
+5,1UL69DX9AA,CARPET Rear Shelf,,,,,,1UL69DX9AD,[CKB],available,420,355.32,/parts/mopar-carpet-trunk~1ul69dx9aa.html
+6,1WS41DX9AB,CARPET Insert Upper,,,,,,1WS41DX9AC,Left [CKB],available,180,151.15,/parts/mopar-carpet-insert~1ws41dx9ab.html
+7,4865929AF,FOOTREST,,,,,,,,available,122,98.83,/parts/mopar-footrest~4865929af.html
+8,6101630,SCREW AND WASHER Hex Head M6X1.00X30.00 Footrest Attach,,,,2,1,,,available,1.9,1.28,/parts/mopar-screw-hex-head~6101630.html
+9,5290365AB,WASHER Footrest Attach,,,,2,1,,,available,5.7,4.01,/parts/mopar-washer-none~5290365ab.html
+10,5290322AB,SPACER Footrest To Frame,,,,2,1,,,available,6.45,4.95,/parts/mopar-spacer~5290322ab.html
+11,5290332AA,RETAINER Footrest Attach,,,,2,1,,,available,,3.93,/parts/mopar-retainer~5290332aa.html
+12,5290331AB,CAP Footrest Attach,,,,2,1,,,available,,3.93,/parts/mopar-plug~5290331ab.html
+13,68172216AA,INSULATOR Cowl Side Inner Right,,,,,,68172216AB,,available,60.95,53.18,/parts/mopar-insulator~68172216aa.html
+14,68172217AB,INSULATOR Cowl Side Inner Left,,,,,,,,available,58.6,51.09,/parts/mopar-insulator~68172217ab.html
+15,68172222AB,INSULATOR Sill Inner Right,,,,,,,,available,46.55,40.6,/parts/mopar-insulator~68172222ab.html
+16,68172223AB,INSULATOR Sill Inner Left,,,,,,,,available,48.15,41.94,/parts/mopar-insulator~68172223ab.html
+,68079236AA,HOOK Mat To Carpet,,,,2,1,,,available,5.6,3.84,/parts/mopar-hook-mat-to-carpet~68079236aa.html
+,1UL77LK5AB,MAT KIT Floor - Front,,,,,,1UL77LK5AC,"[-KX], [CLL]",available,175,118.44,/parts/mopar-mat-kit-floor-front~1ul77lk5ab.html
+,1UL77LV5AB,MAT KIT Floor - Front,,,,,,1UL77LV5AC,"[-VX], [CLL]",available,151,126.34,/parts/mopar-mat-kit-floor-front~1ul77lv5ab.html
+,1UL77XR4AB,MAT KIT Floor - Front,,,,,,1UL77XR4AC,"[-RX], [CLL]",available,111,92.95,/parts/mopar-mat-kit-floor-front~1ul77xr4ab.html

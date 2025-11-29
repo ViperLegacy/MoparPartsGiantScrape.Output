@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290164AA,BLOCKER Fuel Tank,,,,,,,,available,5.85,4.89,/parts/mopar-shield-fuel-tank~5290164aa.html
+2,6504572,NUT AND WASHER Hex Nut-Coned Washer M8 x 1.25,,,,2,1,,,discontinued,,,/parts/mopar-nut-hex-nut-coned-washer~6504572.html
+3,5290323AA,STRAP Fuel Tank,,,,2,1,68280513AA,Frame Mounted,available,15.5,5.75,/parts/mopar-strap-fuel-tank~5290323aa.html
+4,5290097AC,TANK Fuel,,,,,,5290097AG,,available,368,111.6,/parts/mopar-tank-fuel~5290097ac.html
+6,5290256AB,SHIELD Fuel Tank Heat,,,,,,,Front,available,180,159.17,/parts/mopar-shield-fuel-tank-heat~5290256ab.html
+,5029519AA,ISOLATOR FOAM,,,,,,5029519AC,,available,62,43.16,/parts/mopar-isolator-foam~5029519aa.html
+,6100048,NUT Hex M6x1.00,,,,2,1,,,available,10.45,7.28,/parts/mopar-nut-hex~6100048.html
+,6034645,RIVET .25 Grip-.06-.25,,,,4,1,,,available,12.7,8.8,/parts/mopar-retainer~6034645.html
+,5290104AE,TUBE Fuel Supply,,,,,,5290104AG,,available,1125,738.1,/parts/mopar-tube-fuel-supply~5290104ae.html
+,5290105AB,TUBE Fuel Vapor,,,,,,5290105AD,,available,547,373.92,/parts/mopar-tube-fuel-vapor~5290105ab.html
+,5290106AC,TUBE Vacuum,,,,,,5290106AE,,available,547,360.8,/parts/mopar-tube-vacuum~5290106ac.html

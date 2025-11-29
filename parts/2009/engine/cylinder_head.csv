@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037711AE,HEAD Cylinder,,,,2,1,RL037711AE,,available,1735,1434.2,/parts/mopar-head-cylinder~5037711ae.html
+2,6509056AA,BOLT Hex Head M6x1.00x30.00,,,,16,1,,,available,,14.51,/parts/mopar-bolt-hex-head~6509056aa.html
+3,6509080AA,BOLT Hex Flange Head M11x1.50x110.00,,,,24,1,6510385AA,,available,12.05,10.14,/parts/mopar-bolt-hex-flange-head~6509080aa.html
+4,5037734AB,GASKET Cylinder Head,,,,2,1,,,discontinued,,,/parts/mopar-gasket-cylinder-head~5037734ab.html
+5,53010515AA,LOCK Valve Spring Retainer,,,,40,1,,,available,4.7,3.2,/parts/mopar-retainer-valve-spring-retainer~53010515aa.html
+6,53021676AB,RETAINER Valve Spring,,,,20,1,,,available,6.5,4.49,/parts/mopar-retainer-valve-spring~53021676ab.html
+7,5037720AA,SPRING Valve,,,,20,1,5038762AA,,available,15.05,5.4,/parts/mopar-spring-valve~5037720aa.html
+8,5037847AA,SEAL Valve Guide,,,,20,1,,,available,15.55,10.72,/parts/mopar-seal-valve-guide~5037847aa.html
+9,5037718AA,VALVE Intake Standard,,,,10,1,,,available,139,65.34,/parts/mopar-valve-intake~5037718aa.html
+10,5037719AB,VALVE Exhaust Standard,,,,10,1,5037719AC,,available,81.95,66.83,/parts/mopar-valve-exhaust~5037719ab.html

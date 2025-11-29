@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68193554AA,BOOSTER Power Brake,,,,,,68193554AB,,available,466,305.51,/parts/mopar-booster-power-brake~68193554aa.html
+3,5016730AA,VALVE Brake Booster Check,,,,,,,,discontinued,,,/parts/mopar-valve-brake-booster-check~5016730aa.html
+8,5191826AA,SEAL Master Cylinder To Booster,,,,,,,,available,16.3,11.24,/parts/mopar-seal-master-cylinder-to-booster~5191826aa.html
+9,68003622AA,NUT Hex Flange Lock M8X1.25,,,,,,,,available,4.45,3.03,/parts/mopar-nut-hex-flange-lock~68003622aa.html
+10,5030711AC,HOSE Brake Booster Vacuum,,,,,,5030711AF,,available,55.95,38.91,/parts/mopar-line-brake-booster-vacuum~5030711ac.html
+,55111033AA,CLAMP Hose,,,,,,,,available,9.1,6.35,/parts/mopar-clamp-hose~55111033aa.html
+,4581512AA,CLIP Master Cylinder Push Rod Pin,,,,,,,,available,2.45,1.69,/parts/mopar-clip-master-cylinder-push-rod-pi~4581512aa.html
+,5179921AA,GROMMET Brake Booster Check Valve,,,,,,,,available,5.4,3.67,/parts/mopar-grommet-brake-booster-check-valve~5179921aa.html

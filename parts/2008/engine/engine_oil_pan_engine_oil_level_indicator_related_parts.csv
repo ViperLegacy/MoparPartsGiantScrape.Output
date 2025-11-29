@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6503202,BOLT AND WASHER Hex Head M8X1.25X35.00,,,,10,1,,,available,2.95,1.98,/parts/mopar-bolt-hex-head~6503202.html
+2,6507741AA,PLUG Oil Drain [M14x1.50x21.50],,,,,,,,available,15.85,11.07,/parts/mopar-bolt-oil-drain~6507741aa.html
+3,6502929,BOLT Hex Head Locking M8X1.25X119.00,,,,5,1,,,available,12.7,8.68,/parts/mopar-screw-hex-head-locking~6502929.html
+4,5037735AC,PAN Engine Oil,,,,,,5037735AE,,available,1330,867.9,/parts/mopar-pan-engine-oil~5037735ac.html
+5,6509056AA,BOLT Hex Head M6x1.00x30.00,,,,4,1,,,available,,14.51,/parts/mopar-bolt-hex-head~6509056aa.html
+6,5037163AF,GASKET Oil Pan,,,,,,,,available,88.45,59.51,/parts/mopar-gasket-oil-pan~5037163af.html
+7,6101445,NUT AND WASHER Hex M8x1.25,,,,2,1,6102440AA,Mounting Oil Pickup Tube To Main Studs,available,11.3,7.86,/parts/mopar-nut-hex~6101445.html
+8,5037158AD,TRAY Windage,,,,,,,,discontinued,,,/parts/mopar-tray-windage~5037158ad.html
+9,5037851AA,INDICATOR Engine Oil Level,,,,,,5037851AB,,available,59.4,41.47,/parts/mopar-indicator-engine-oil-level~5037851aa.html
+10,6508448AA,BOLT AND CONED WASHER Hex Head M6X1.00X25.00,,,,,,,,available,5.2,3.55,/parts/mopar-bolt-hex-head~6508448aa.html
+11,5037852AA,TUBE Engine Oil Indicator,,,,,,5037852AB,,available,32.55,26.45,/parts/mopar-tube-engine-oil-indicator~5037852aa.html
+12,5037316AC,FITTING Male [Thread 7/8-14 UNF-2A],,,,,,5037316AD,,available,16.35,11.3,/parts/mopar-connector-male~5037316ac.html
+13,6100296,BOLT AND CONED WASHER Hex Head M8X1.25X25.00,,,,,,,,available,8.65,6,/parts/mopar-bolt-hex-head~6100296.html
+14,6509085AA,SCREW Torx Head M6x1.00x28.50,,,,,,,,available,16.35,11.42,/parts/mopar-screw-torx-head~6509085aa.html
+15,6100296,BOLT AND CONED WASHER Hex Head M8X1.25X25.00,,,,,,,,available,8.65,6,/parts/mopar-bolt-hex-head~6100296.html
+16,53020861,SEAL Oil Pick Up Tube,,,,,,,,available,7.7,5.3,/parts/mopar-seal-oil-pick-up-tube~53020861.html
+17,5038022AB,TUBE Oil Pickup,,,,,,,,discontinued,,,/parts/mopar-tube-oil-pickup~5038022ab.html

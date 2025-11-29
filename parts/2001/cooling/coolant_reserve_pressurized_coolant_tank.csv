@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4682828,CAP Coolant Recovery Bottle,,,,,,55111074AC,,available,48.85,34.13,/parts/mopar-cap-coolant-reserve-tank~4682828.html
+2,52027784,TANK Coolant Reserve,,,,,,,,available,73.45,50.27,/parts/mopar-tank-coolant-reserve~52027784.html
+4,6502018,CLAMP Hose M28.9 x 1.60,,,,2,1,,,available,18.35,12.82,/parts/mopar-clamp-hose~6502018.html
+6,4763584,HOSE Coolant Reserve Tank,,,,,,,Radiator Outlet to Water Pump,discontinued,,,
+6,4763877,HOSE Coolant Reserve Tank,,,,,,,High Pressure C/Bottle to Water Pump,unavailable,,,/parts/mopar-hose-coolant-reserve-tank~4763877.html
+6,5245038,HOSE Coolant Reserve Tank,,,,,,,High Pressure Coolant,discontinued,,,/parts/mopar-tube-coolant-reserve-tank~5245038.html
+7,4709389,BOTTLE Pressurized Coolant,,,,,,,,discontinued,,,/parts/mopar-bottle-pressurized-coolant~4709389.html
+8,4596198,CAP Pressurized Coolant,,,,,,,,available,37.85,26.45,/parts/mopar-cap-radiator~4596198.html
+9,5245039,TUBE Coolant Reserve Tank,,,,,,,,discontinued,,,/parts/mopar-tube-coolant-reserve-tank~5245039.html
+10,4709381,CLIP Hose,,,,2,1,,,discontinued,,,/parts/mopar-clip-hose~4709381.html
+11,4592126,CLAMP Hose,,,,2,1,52079632AA,,available,4.9,3.38,/parts/mopar-clamp-hose~4592126.html

@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290090AC,BUNDLE Fuel Supply and Vapor Lines,,,,,,,,discontinued,,,/parts/mopar-bundle-fuel-supply-and-vapor-lines~5290090ac.html
+2,5290801AB,FILTER Fuel,,,,,,,,discontinued,,,/parts/mopar-filter-fuel~5290801ab.html
+3,6101447,NUT AND WASHER M6x1.00,,,,,,,,available,8.55,5.94,/parts/mopar-nut~6101447.html
+4,5290105AB,TUBE Fuel Vapor,,,,,,5290105AD,,available,547,373.92,/parts/mopar-tube-fuel-vapor~5290105ab.html
+5,5290104AE,TUBE Fuel Supply,,,,,,5290104AG,,available,1125,738.1,/parts/mopar-tube-fuel-supply~5290104ae.html
+6,5290106AC,TUBE Vacuum,,,,,,5290106AE,,available,547,360.8,/parts/mopar-tube-vacuum~5290106ac.html
+7,5085043AA,CLIP Fuel Bundle,,,,5,1,,,available,12.75,8.84,/parts/mopar-clip-fuel-bundle~5085043aa.html
+8,5290103AC,TUBE Brake,,,,,,,,available,51,34.95,/parts/mopar-tube-brake~5290103ac.html
+9,5290153AA,TUBE Leak Detection Pump Vacuum Supply,,,,,,,,discontinued,,,/parts/mopar-harness-leak-detection-pump-vacuum~5290153aa.html
+10,5290098AE,HARNESS Engine to Purge Solenoid,,,,,,,,discontinued,,,/parts/mopar-harness-engine-to-purge-solenoid~5290098ae.html
+,6101682,BOLT AND CONED WASHER Hex head M6X1.00X20.00,,,,,,,,available,,14.51,/parts/mopar-bolt-hex-head~6101682.html
+,4612901,FILTER Fuel Vapor Vent,,,,,,,,discontinued,,,/parts/mopar-filter-fuel-vapor-vent~4612901.html
+,4669177,GROMMET,,,,2,1,,,available,9.7,6.7,/parts/mopar-grommet~4669177.html
+,5290151AA,SEPARATOR Fuel Vapor,,,,,,,,available,13.95,10.96,/parts/mopar-valve-fuel-vapor~5290151aa.html
+,5290105AB,TUBE Fuel Vapor,,,,,,5290105AD,,available,547,373.92,/parts/mopar-tube-fuel-vapor~5290105ab.html
+,5290106AC,TUBE Vacuum,,,,,,5290106AE,,available,547,360.8,/parts/mopar-tube-vacuum~5290106ac.html

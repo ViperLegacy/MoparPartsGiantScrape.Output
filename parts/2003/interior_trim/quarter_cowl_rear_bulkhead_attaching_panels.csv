@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5029072AB,PANEL Bulkhead Trim,,,,,,,,available,1435,1182.5,/parts/mopar-panel-bulkhead-trim~5029072ab.html
+4,6101722,SCREW AND WASHER Hex Head M8x1.25x60,,,,4,1,,,available,6.8,4.72,/parts/mopar-bolt-hex-head~6101722.html
+5,XK37DX9AA,COVER Bulkhead,Left,,,,,,,available,27.1,22.66,/parts/mopar-cover-bulkhead~xk37dx9aa.html
+7,UR53DX9AA,PANEL Cowl Side Trim,Left,,,,,,,available,40.2,35.12,/parts/mopar-panel-cowl-side-trim~ur53dx9aa.html
+8,5DV62DX9,FASTENER Trim Panel Attaching,,,,3,1,,,discontinued,,,/parts/mopar-retainer-trim-panel-attaching~5dv62dx9.html
+10,XK37DX9AA,COVER Bulkhead,Left,,,,,,,available,27.1,22.66,/parts/mopar-cover-bulkhead~xk37dx9aa.html
+,5029058AA,BRACKET Close-Out,,,,2,1,,,discontinued,,,/parts/mopar-bracket-close-out~5029058aa.html
+,5096016AA,PANEL Bulkhead Support,,,,,,,,discontinued,,,/parts/mopar-panel-bulkhead-support~5096016aa.html
+,4865797AB,PANEL Quarter,,,,,,,Left [SDP],discontinued,,,/parts/mopar-panel-quarter~4865797ab.html
+,5093696AA,SCREW,,,,8,1,,,available,0.6,0.47,/parts/mopar-screw~5093696aa.html

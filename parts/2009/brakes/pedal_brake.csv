@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290926AD,PEDAL ASSEMBLY Adjustable,,,,,,68369225AB,,available,3560,2619.9,/parts/mopar-pedal-adjustable~5290926ad.html
+2,5102045AB,PAD Brake Pedal,,,,,,,,available,94.8,78.81,/parts/mopar-pad-brake-pedal~5102045ab.html
+3,5102046AB,PAD Clutch Pedal,,,,,,,,available,157,126,/parts/mopar-pad-clutch-pedal~5102046ab.html
+4,5102047AA,PAD Accelerator Pedal,,,,,,,,discontinued,,,/parts/mopar-pad-accelerator-pedal~5102047aa.html
+6,6101446,NUT AND WASHER,,,,2,1,,,available,9.35,6.52,/parts/mopar-nut-hex~6101446.html
+7,J4003909,NUT Hex Flange With Serration,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex-flange-with-serration~j4003909.html
+8,6505300AA,SCREW,,,,,,,,available,9.5,5.92,/parts/mopar-screw-tapping-pan-head~6505300aa.html
+9,5029211AC,BRACKET Wiring Harness,,,,,,,,discontinued,,,/parts/mopar-bracket-wiring~5029211ac.html
+10,4294036,CLIP Master Cylinder Push Rod Pin,,,,,,4581512AA,,available,2.45,1.69,/parts/mopar-clip-master-cylinder-push-rod-pi~4294036.html
+11,6101447,NUT AND WASHER M6x1.00,,,,2,1,,,available,8.55,5.94,/parts/mopar-nut~6101447.html
+12,5029206AB,BRACKET Stop Lamp Switch,,,,,,,,discontinued,,,/parts/mopar-bracket-stop-lamp-switch~5029206ab.html
+13,5083344AA,SWITCH PACKAGE Stop Lamp,,,,,,5083344AB,,available,39,29.99,/parts/mopar-sw-pkg-stop-lamp~5083344aa.html
+,56042387,SWITCH Adjustable Pedals,,,,,,,,available,26.95,18.64,/parts/mopar-switch-adjustable-pedals~56042387.html

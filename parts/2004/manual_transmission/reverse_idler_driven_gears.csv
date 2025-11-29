@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,4626552,GEAR Fifth,,,,,,,,discontinued,,,/parts/mopar-gear-fifth~4626552.html
+3,5018865AA,SYNCHRONIZER Reverse,,,,,,,,available,435.05,341.88,/parts/mopar-synch-reverse~5018865aa.html
+4,4626555,WASHER Reverse Thrust,,,,,,,,available,6.67,5.24,/parts/mopar-washer-reverse-thrust~4626555.html
+5,4626536,SNAP RING,,,,,,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+6,4626557,RING Reverse Blocker,,,,,,,,discontinued,,,/parts/mopar-ring-reverse-blocker~4626557.html
+7,4626556,WASHER Reverse Wave,,,,,,,,available,5.75,4.52,/parts/mopar-washer-reverse-wave~4626556.html
+8,4626558,NEEDLE BEARING Reverse Gear,,,,,,,,available,35.8,24.81,/parts/mopar-bearing-reverse-gear~4626558.html
+9,4626559,GEAR Reverse,,,,,,,,discontinued,,,/parts/mopar-gear-reverse~4626559.html
+10,4626560,WASHER Reverse Thrust,,,,,,,,available,24.15,16.72,/parts/mopar-gear-reverse-thrust~4626560.html
+11,4626562,WASHER Mainshaft,,,,2,1,,,available,30.45,21.09,/parts/mopar-washer-mainshaft~4626562.html
+12,4626563,BEARING,,,,,,,,available,110,72.62,/parts/mopar-bearing-main-shaft~4626563.html
+13,4626562,WASHER Mainshaft,,,,2,1,,,available,30.45,21.09,/parts/mopar-washer-mainshaft~4626562.html
+14,4626564,SNAP RING Mainshaft,,,,,,,,available,23.45,16.25,/parts/mopar-ring-mainshaft~4626564.html
+15,4626463,CUP,,,,,,4626734,,available,170,6.93,/parts/mopar-bearing~4626463.html
+16,4626527,BOLT,,,,3,1,,,available,5.4,3.67,/parts/mopar-bolt-shift-guide-plate~4626527.html
+17,4626551,BRACKET Reverse Idler Shaft,,,,,,,,discontinued,,,/parts/mopar-bracket-reverse-idler-shaft~4626551.html
+18,5093289AA,SNAP RING,,,,,,,,available,38.8,26.97,/parts/mopar-snap-ring-reverse-gear~5093289aa.html
+19,4626548,GEAR Reverse Idler,,,,,,,,available,331,231.08,/parts/mopar-gear-reverse-idler~4626548.html
+20,4626549,BEARING CONE Idler Gear,,,,,,,,available,37.2,25.8,/parts/mopar-bearing-idler-gear~4626549.html
+21,4626547,IDLER SHAFT Transmission,,,,,,,,discontinued,,,/parts/mopar-shaft-transmission~4626547.html
+22,4626555,WASHER Reverse Thrust,,,,,,,,available,6.67,5.24,/parts/mopar-washer-reverse-thrust~4626555.html

@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6102101AA,NUT AND WASHER Hex M5x0.80,,,,6,1,6508886AA,,available,,14.51,/parts/mopar-nut-hex~6102101aa.html
+2,TR36LRNAC,MIRROR Outside Rearview,,,,,,TR36TZZAD,Right [RN],available,612,513,/parts/mopar-mirror-outside-rearview~tr36lrnac.html
+2,TR36MX3AC,MIRROR Outside Rearview,,,,,,TR36TZZAD,Right [X3],available,612,513,/parts/mopar-mirror-outside-rearview~tr36mx3ac.html
+2,TR36VA9AC,MIRROR Outside Rearview,,,,,,TR36TZZAD,Right [A9],available,612,513,/parts/mopar-mirror-outside-rearview~tr36va9ac.html
+2,TR37BWAAC,MIRROR Outside Rearview,,,,,,TR37TZZAD,Left [WA],available,592,497.04,/parts/mopar-mirror-outside-rearview~tr37bwaac.html
+2,TR37LRNAC,MIRROR Outside Rearview,,,,,,TR37TZZAD,Left [RN],available,592,497.04,/parts/mopar-mirror-outside-rearview~tr37lrnac.html
+2,TR37MX3AC,MIRROR Outside Rearview,,,,,,TR37TZZAD,Left [X3],available,592,497.04,/parts/mopar-mirror-outside-rearview~tr37mx3ac.html
+2,TR37VA9AC,MIRROR Outside Rearview,,,,,,TR37TZZAD,Left [A9],available,592,497.04,/parts/mopar-mirror-outside-rearview~tr37va9ac.html

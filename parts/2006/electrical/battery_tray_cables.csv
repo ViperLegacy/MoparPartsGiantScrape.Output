@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5202588,RETAINER Battery,,,,,,,,available,19.65,13.69,/parts/mopar-retainer-battery~5202588.html
+4,5029668AA,WIRING Battery Negative,,,,,,,,available,32.55,26.45,/parts/mopar-cable-bat-battery-negative~5029668aa.html
+8,56041053,SENSOR Battery Temperature,,,,,,,,available,90.65,41.99,/parts/mopar-sensor-battery-temperature~56041053.html
+10,BBH34800AA,BATTERY,,,,,,BB34F101AA,Mopar Replacement Battery (84 Series),available,327,221.09,/parts/mopar-battery-storage~bbh34800aa.html
+10,4609365AE,BATTERY,,,,,,,[BCE]  Production,discontinued,,,
+11,4364958,BATTERY Dry,,,,,,,,available,165,111,/parts/mopar-battery-dry~4364958.html
+12,BL034600AA,BATTERY Storage,,,,,,BL34F101AA,Latin America [BCE],available,382,258.31,/parts/mopar-battery-storage~bl034600aa.html
+12,BE0H5540AA,BATTERY Storage,,,,,,,Europe Middle East [BCE],discontinued,,,/parts/mopar-battery-storage~be0h5540aa.html
+12,BP034600AA,BATTERY Storage,,,,,,BP34F101AA,Asia Pacific [BCE],available,312,210.94,/parts/mopar-battery-storage~bp034600aa.html
+12,VE034710AA,BATTERY Storage,,,,,,,Middle East [BCE],discontinued,,,/parts/mopar-battery-storage~ve034710aa.html
+13,5029087AA,COVER Battery,,,,,,,,discontinued,,,/parts/mopar-cover-battery~5029087aa.html
+,6507008AA,SCREW AND WASHER Truss Head M6x1x30,,,,5,1,6508183AA,,available,11.05,7.69,/parts/mopar-screw-truss-head~6507008aa.html

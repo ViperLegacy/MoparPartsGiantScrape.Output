@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037292AA,COVER Air Cleaner,,,,,,,,discontinued,,,/parts/mopar-cover-air-cleaner~5037292aa.html
+2,5066221AB,SCREW Air Cleaner Cover,,,,6,1,,,discontinued,,,/parts/mopar-screw-air-cleaner-cover~5066221ab.html
+3,6503823,WINGNUT M6-1.00,,,,,,,,discontinued,,,/parts/mopar-nut-wing~6503823.html
+4,5029171AA,SEAL Air Cleaner,,,,,,,,discontinued,,,/parts/mopar-seal-air-cleaner~5029171aa.html
+5,5037331AA,CLAMP Air Cleaner Duct,,,,2,1,,,discontinued,,,/parts/mopar-clamp-air-cleaner-duct~5037331aa.html
+6,5037295AA,TUBE Clean Air,,,,,,,,discontinued,,,
+7,5037297AA,DUCT Air Cleaner to Throttle Body,,,,,,,,discontinued,,,
+8,4606487AB,SENSOR Charge Air Temp,,,,,,,,available,99.05,66.66,/parts/mopar-sensor-charge-air-temp~4606487ab.html
+9,5037294AA,ELEMENT Air Cleaner,,,,2,,,,discontinued,,,
+10,5037293AA,BODY Air Cleaner,,,,,,,,discontinued,,,/parts/mopar-body-air-cleaner~5037293aa.html

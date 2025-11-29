@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1TZ80LSTAB,WHEEL Aluminum,,,,2,1,,"Front [WC2], [X88]",available,2185,1425.55,/parts/mopar-wheel-aluminum~1tz80lstab.html
+1,1TZ80RXFAB,WHEEL Aluminum,,,,2,1,,"Front [WPK], [X88]",available,2075,1359.55,/parts/mopar-wheel-aluminum~1tz80rxfab.html
+1,1TZ83JXYAB,WHEEL Aluminum,,,,2,1,,"Rear [WP9], [X88]",available,2200,1442.05,/parts/mopar-wheel-aluminum~1tz83jxyab.html
+1,1TZ83LSTAB,WHEEL Aluminum,,,,2,1,,"Rear [WC2], [X88]",available,2135,1387.05,/parts/mopar-wheel-aluminum~1tz83lstab.html
+1,1TZ83RXFAB,WHEEL Aluminum,,,,2,1,,"Rear [WPK], [X88]",available,1845,1216.55,/parts/mopar-wheel-aluminum~1tz83rxfab.html
+2,1WL85JXYAB,WHEEL Aluminum,,,,2,1,,"Front [WP4], [X88]",available,1490,974.55,/parts/mopar-wheel-aluminum~1wl85jxyab.html
+2,1WL85RXFAB,WHEEL Aluminum,,,,2,1,,"Front [WF3], [X88]",available,724,622.6,/parts/mopar-wheel-aluminum~1wl85rxfab.html
+2,1WL85SZGAB,WHEEL Aluminum,,,,2,1,,"Front [WC5], [X88]",available,2350,1541.05,/parts/mopar-wheel-aluminum~1wl85szgab.html
+2,1WL88AAAAB,WHEEL Aluminum,,,,2,1,,"Rear [WC1], [X88]",discontinued,,,/parts/mopar-wheel-aluminum~1wl88aaaab.html
+2,1WL88JXYAB,WHEEL Aluminum,,,,2,1,,"Rear [WP4], [X88]",available,1320,865.65,/parts/mopar-wheel-aluminum~1wl88jxyab.html
+2,1WL88RXFAB,WHEEL Aluminum,,,,2,1,,"Rear [WF3], [X88]",available,999,658.9,/parts/mopar-wheel-aluminum~1wl88rxfab.html
+2,1WL88SZGAB,WHEEL Aluminum,,,,2,1,,"Rear [WC5], [X88]",available,1245,816.15,/parts/mopar-wheel-aluminum~1wl88szgab.html
+3,1WR18RXFAA,WHEEL Aluminum,,,,2,1,,"Rear [WPA], [X88]",discontinued,,,/parts/mopar-wheel-aluminum~1wr18rxfaa.html
+3,1WR19JXYAA,WHEEL Aluminum,,,,2,1,,"Front [WC4], [X88]",discontinued,,,/parts/mopar-wheel-aluminum~1wr19jxyaa.html
+3,1WR19RXFAA,WHEEL Aluminum,,,,2,1,,"Front [WPA], [X88]",discontinued,,,/parts/mopar-wheel-aluminum~1wr19rxfaa.html
+4,6036747AA,NUT Wheel,,,,24,1,,,available,16.45,8.91,/parts/mopar-nut-wheel~6036747aa.html

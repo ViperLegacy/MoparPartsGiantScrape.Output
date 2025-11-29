@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1WT40DX9AC,SHROUD Steering Column,,,,,,1WT40DX9AD,,available,102,68.4,/parts/mopar-shroud-steering-column~1wt40dx9ac.html
+2,1UL89DX9AB,SHROUD Steering Column,,,,,,1UL89DX9AC,,available,99.6,67.34,/parts/mopar-shroud-steering-column~1ul89dx9ab.html
+3,6036381AA,SCREW AND WASHER Pan Head .164-18X1.250,,,,2,1,,,available,5.05,3.44,/parts/mopar-screw-pan-head~6036381aa.html
+4,68159858AB,COLUMN Steering,,,,,,,,available,482,322.24,/parts/mopar-column-steering~68159858ab.html
+5,5057521AD,LEVER Tilt Column Release,,,,,,,,available,52.05,36.17,/parts/mopar-lever-tilt-column-release~5057521ad.html
+6,5057112AA,BOLT Steering Inner Pivot,,,,2,1,,,available,4.2,2.85,/parts/mopar-bolt-steering-inner-pivot~5057112aa.html
+7,6506707AA,NUT AND WASHER Hex Lock Coned Washer M8x1.25,,,,2,1,,,available,4.9,3.32,/parts/mopar-nut-hex-lock-coned-washer~6506707aa.html
+8,68183977AB,BRACKET Steering Column,,,,,,,,available,112,75.8,/parts/mopar-bracket-steering-column~68183977ab.html
+9,68183974AB,BRACKET Steering Column,,,,,,,,available,43.3,30.17,/parts/mopar-bracket-steering-column~68183974ab.html
+10,6504926AA,SCREW Hex Flange Head M10x1.5x40,,,,,,,,available,5.15,3.5,/parts/mopar-screw-hex-flange-head~6504926aa.html
+11,5290070AF,SHAFT Steering column intermediate,,,,,,,,available,246,201.91,/parts/mopar-shaft-steering-column-intermediat~5290070af.html
+12,6102204AA,SCREW AND WASHER Hex Head M6X1.00X20.00,,,,2,1,,,available,8.75,7.57,/parts/mopar-screw-hex-head~6102204aa.html
+13,5290187AA,BEARING Steering Column Shaft,,,,,,,,available,41.05,34.37,/parts/mopar-bearing-steering-column-shaft~5290187aa.html
+14,4865588AC,SHAFT Steering column intermediate,,,,,,,,discontinued,,,/parts/mopar-shaft-steering-column-intermediat~4865588ac.html
+,6036264AA,SCREW Tapping Pan Head .164-32X0.50,,,,,,,,available,2.65,1.81,/parts/mopar-screw-tapping-pan-head~6036264aa.html
+,6035937AA,SCREW Tapping Pan Head .250-20X.625,,,,,,,,available,9.2,6.41,/parts/mopar-screw-tapping-pan-head~6035937aa.html

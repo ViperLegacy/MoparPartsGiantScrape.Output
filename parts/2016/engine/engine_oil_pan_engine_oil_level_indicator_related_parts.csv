@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037852AB,TUBE Engine Oil Indicator,,,,,,,,available,32.55,26.45,/parts/mopar-tube-engine-oil-indicator~5037852ab.html
+2,6508448AA,BOLT AND CONED WASHER Hex Head M6X1.00X25.00,,,,,,,,available,5.2,3.55,/parts/mopar-bolt-hex-head~6508448aa.html
+3,5037851AB,INDICATOR Engine Oil Level,,,,,,,,available,59.4,41.47,/parts/mopar-indicator-engine-oil-level~5037851ab.html
+4,5038022AB,TUBE Oil Pickup,,,,,,,,discontinued,,,/parts/mopar-tube-oil-pickup~5038022ab.html
+6,6104716AA,NUT Hex Flange Lock M8X1.25,,,,2,1,,,available,4.2,2.91,/parts/mopar-nut-hex-flange-lock~6104716aa.html
+7,53020861,SEAL Oil Pick Up Tube,,,,,,,,available,7.7,5.3,/parts/mopar-seal-oil-pick-up-tube~53020861.html
+8,6100296,BOLT AND CONED WASHER Hex Head M8X1.25X25.00,,,,,,,,available,8.65,6,/parts/mopar-bolt-hex-head~6100296.html
+10,6100296,BOLT AND CONED WASHER Hex Head M8X1.25X25.00,,,,,,,,available,8.65,6,/parts/mopar-bolt-hex-head~6100296.html
+12,6506759AA,SCREW Header Point M6X1.00X26.00,,,,,,,,available,8.4,5.83,/parts/mopar-bolt-header-point~6506759aa.html
+15,5037735AE,PAN Engine Oil,,,,,,,,available,1330,867.9,/parts/mopar-pan-engine-oil~5037735ae.html
+16,6507894AA,BOLT 6 Lobe Recessed Head M6X1.00X18.00,,,,17,1,,,discontinued,,,/parts/mopar-bolt-6-lobe-recessed-head~6507894aa.html
+18,6507741AA,PLUG Oil Drain,,,,,,,,available,15.85,11.07,/parts/mopar-bolt-oil-drain~6507741aa.html
+19,6509056AA,BOLT Hex Head M6x1.00x30.00,,,,4,1,,,available,,14.51,/parts/mopar-bolt-hex-head~6509056aa.html
+20,5037163AF,GASKET Oil Pan,,,,,,,,available,88.45,59.51,/parts/mopar-gasket-oil-pan~5037163af.html
+21,6503202,BOLT AND WASHER Hex Head M8X1.25X35.00,,,,10,1,,,available,2.95,1.98,/parts/mopar-bolt-hex-head~6503202.html
+22,6104716AA,NUT Hex Flange Lock M8X1.25,,,,6,1,,,available,4.2,2.91,/parts/mopar-nut-hex-flange-lock~6104716aa.html
+23,6502929,BOLT Hex Head Locking M8X1.25X119.00,,,,5,1,,,available,12.7,8.68,/parts/mopar-screw-hex-head-locking~6502929.html
+24,5037158AD,TRAY Windage,,,,,,,,discontinued,,,/parts/mopar-tray-windage~5037158ad.html

@@ -1,0 +1,34 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5XF131X6AA,KNOB Gearshift,,,,,,5XF131X6AB,"With [-X6] And [JAP] Or [JAB] Or [JAC]With [-X6], [CVB], [JAB]",available,242,163.13,/parts/mopar-knob-gearshift~5xf131x6aa.html
+1,5XF13DX9AA,KNOB Gearshift,,,,,,5XF13DX9AB,"With [-V5] And [JAP] Or [JAB] Or [JAC]With [-V5], [CVB], [JAA]With [-V5], [CVB], [JAB]With [-VX], [CVB], [JAA]With [-X6], [CVB], [JAA]With [-X9], [CVB], [JAA]With [-XY], [CVB], [JAA]...View More",available,264,177.75,/parts/mopar-knob-gearshift~5xf13dx9aa.html
+1,5XF13HL1AA,KNOB Gearshift,,,,,,5XF13HL1AB,"With [-VV] And [JAP] Or [JAB] Or [JAC]With [-VV], [ASV]",available,251,168.75,/parts/mopar-knob-gearshift~5xf13hl1aa.html
+1,5XF13LV5AA,KNOB Gearshift,,,,,,5XF13LV5AB,"With [-VX] And [JAP] Or [JAB] Or [JAC]With [-VX], [CVB], [JAB]",available,284,189,/parts/mopar-knob-gearshift~5xf13lv5aa.html
+1,5XF13XR4AA,KNOB Gearshift,,,,,,5XF13XR4AB,"With [-XR] And [JAP] Or [JAB] Or [JAC]With [-XR], [CVB], [JAA]",available,334,221.63,/parts/mopar-knob-gearshift~5xf13xr4aa.html
+1,5XF13YSAAA,KNOB Gearshift,,,,,,5XF13YSAAB,"With [-X9] And [JAP] Or [JAB] Or [JAC]With [-X9], [ASV]With [-X9], [CVB], [JAA]With [-X9], [CVB], [JAB]...View More",available,332,221.63,/parts/mopar-knob-gearshift~5xf13ysaaa.html
+2,1WT151V5AC,BEZEL Console Shifter,,,,,,1WT151V5AD,With [JAA] And [-V5],available,1550,1021.9,/parts/mopar-bezel-console-shifter~1wt151v5ac.html
+2,1WT151VXAC,BEZEL Console Shifter,,,,,,1WT151VXAD,With [JAA] And [-VX],available,1380,910.8,/parts/mopar-bezel-console-shifter~1wt151vxac.html
+2,1WT151X6AC,BEZEL Console Shifter,,,,,,1WT151X6AD,With [JAA] And [-X6],available,1380,910.8,/parts/mopar-bezel-console-shifter~1wt151x6ac.html
+2,1WT151XYAC,BEZEL Console Shifter,,,,,,1WT151XYAD,With [JAA] And [-XY],available,1380,910.8,/parts/mopar-bezel-console-shifter~1wt151xyac.html
+2,1WT15YSAAC,BEZEL Console Shifter,,,,,,1WT15YSAAD,With [JAA] And [-X9],available,1380,910.8,/parts/mopar-bezel-console-shifter~1wt15ysaac.html
+2,1WT161R9AA,BEZEL Console Shifter,,,,,,1WT161R9AB,With [XSQ] And [-R9],available,813,535.7,/parts/mopar-bezel-console-shifter~1wt161r9aa.html
+2,1WT161V5AA,BEZEL Console Shifter,,,,,,1WT161V5AB,With [XSQ] And [-V5],available,784,517,/parts/mopar-bezel-console-shifter~1wt161v5aa.html
+2,1WT161VVAA,BEZEL Console Shifter,,,,,,1WT161VVAB,With [XSQ] And [-VV],available,784,517,/parts/mopar-bezel-console-shifter~1wt161vvaa.html
+2,1WT161VXAA,BEZEL Console Shifter,,,,,,1WT161VXAB,With [XSQ] And [-VX],available,784,517,/parts/mopar-bezel-console-shifter~1wt161vxaa.html
+2,1WT161X6AA,BEZEL Console Shifter,,,,,,1WT161X6AB,With [XSQ] And [-X6],available,784,517,/parts/mopar-bezel-console-shifter~1wt161x6aa.html
+2,1WT161XRAA,BEZEL Console Shifter,,,,,,1WT161XRAB,With [XSQ] And [-XR],available,977,643.5,/parts/mopar-bezel-console-shifter~1wt161xraa.html
+2,1WT161XYAA,BEZEL Console Shifter,,,,,,1WT161XYAB,With [XSQ] And [-XY],available,848,558.8,/parts/mopar-bezel-console-shifter~1wt161xyaa.html
+2,1WT16YSAAA,BEZEL Console Shifter,,,,,,1WT16YSAAB,With [XSQ] And [-X9],available,920,628.14,/parts/mopar-bezel-console-shifter~1wt16ysaaa.html
+2,1WT171VXAC,BEZEL Console Shifter,,,,,,,With [JAB] And [-VX],discontinued,,,
+2,1WT171X6AC,BEZEL Console Shifter,,,,,,,With [JAB] And [-X6],discontinued,,,
+2,1WT181V5AA,BEZEL Console Shifter,,,,,,1WT181V5AB,[-V5] With [AZA] Or [MTR] Or [JKQ],available,915,603.9,/parts/mopar-bezel-console-shifter~1wt181v5aa.html
+2,1WT18YSAAA,BEZEL Console Shifter,,,,,,1WT18YSAAB,[-X9] With [AZA] Or [MTR] Or [JKQ],available,964,635.8,/parts/mopar-bezel-console-shifter~1wt18ysaaa.html
+2,1YS01HL1AC,BEZEL Console Shifter,,,,,,1YS01HL1AD,With [JAC] And [-VV],available,1575,1038.4,/parts/mopar-bezel-console-shifter~1ys01hl1ac.html
+2,1YS01LA8AC,BEZEL Console Shifter,,,,,,1YS01LA8AD,With [JAC] And [-R9],available,1330,876.7,/parts/mopar-bezel-console-shifter~1ys01la8ac.html
+2,1YS01YSAAC,BEZEL Console Shifter,,,,,,1YS01YSAAD,With [JAC] And [-X9],available,1215,800.8,/parts/mopar-bezel-console-shifter~1ys01ysaac.html
+2,5YM861XRAA,BEZEL Console Shifter,,,,,,5YM861XRAB,With [JAP] And [-XR],available,1380,910.8,/parts/mopar-bezel-console-shifter~5ym861xraa.html
+2,5YM86YSAAA,BEZEL Console Shifter,,,,,,5YM86YSAAB,With [JAP] And [-X9],available,1575,1038.4,/parts/mopar-bezel-console-shifter~5ym86ysaaa.html
+3,124934,NUT Hex Jam .50-20,,,,,,,,available,8.75,6.06,/parts/mopar-nut-hex-jam~124934.html
+4,4709410,ISOLATOR Shift Lever,,,,,,,,discontinued,,,/parts/mopar-handle-shift-lever~4709410.html
+6,5038653AA,BOOT Gearshift,,,,,,,,discontinued,,,/parts/mopar-boot-gearshift~5038653aa.html
+7,68027838AA,BOLT,,,,,,,,available,3.3,2.27,/parts/mopar-bolt~68027838aa.html
+8,68206971AA,SHIFTER Transmission,,,,,,,,available,314,204.75,/parts/mopar-shifter-transmission~68206971aa.html

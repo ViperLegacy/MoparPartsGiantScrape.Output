@@ -1,0 +1,62 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4626574,INPUT SHAFT PACKAGE Transaxle,,,,,,,,discontinued,,,
+2,4626737,BEARING PACKAGE Input Shaft,,,,,,,,available,144.01,113.17,/parts/mopar-brg-pkg-input-shaft~4626737.html
+3,4626476,STOP RING Synchronizer,,,,2,1,,,available,72.51,56.99,/parts/mopar-clutch-synchronizer~4626476.html
+4,4626736,BEARING PACKAGE Mainshaft,,,,,,,,discontinued,,,
+5,4626487,SNAP RING,,,,,,,,available,11.8,8.16,/parts/mopar-ring~4626487.html
+6,4626474,STRUT Synchronizer,,,,3,1,,,discontinued,,,/parts/mopar-clutch-synchronizer~4626474.html
+8,4626471,GEAR Third,,,,,,,,discontinued,,,/parts/mopar-gear-third~4626471.html
+9,4626469,NEEDLE BEARING Third Gear,,,,,,,,available,39.3,27.32,/parts/mopar-bearing-2nd-3rd-gear~4626469.html
+11,4626549,BEARING CONE Idler Gear,,,,,,,,available,37.2,25.8,/parts/mopar-bearing-idler-gear~4626549.html
+12,4626467,MAINSHAFT Transmission,,,,,,,,discontinued,,,/parts/mopar-mainshaft~4626467.html
+13,4626469,NEEDLE BEARING Third Gear,,,,,,,,available,39.3,27.32,/parts/mopar-bearing-2nd-3rd-gear~4626469.html
+14,4626478,GEAR Second,,,,,,,,discontinued,,,/parts/mopar-gear-second~4626478.html
+15,4626564,SNAP RING Mainshaft,,,,,,,,available,23.45,16.25,/parts/mopar-ring-mainshaft~4626564.html
+16,4626484,FRICTION CONE Second Gear Inner,,,,2,1,,,available,20.25,15.92,/parts/mopar-cone-inner~4626484.html
+17,4626485,FRICTION CONE Second Gear Inner,,,,2,,,,discontinued,,,
+18,4626483,RING 1st and 2nd Speed Blocker,,,,2,1,,,discontinued,,,/parts/mopar-stop-bmpr-1st-and-2nd-speed-blocker~4626483.html
+19,4626481,KEY Synchronizer,,,,3,,,,discontinued,,,
+21,4626536,SNAP RING,,,,,,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+22,4626487,SNAP RING,,,,,,,,available,11.8,8.16,/parts/mopar-ring~4626487.html
+23,4626488,NEEDLE BEARING First Gear,,,,,,,,available,50.4,35.01,/parts/mopar-bearing-first-gear~4626488.html
+24,4626489,GEAR First,,,,,,,,discontinued,,,/parts/mopar-gear-first~4626489.html
+25,4626734,BEARING Mainshaft,,,,,,,,available,170,132.75,/parts/mopar-brg-pkg-mainshaft~4626734.html
+44,4626735,BEARING PACKAGE Countershaft,,,,,,,,discontinued,,,
+45,4626464,GEAR Cluster,,,,,,,,discontinued,,,/parts/mopar-gear-cluster~4626464.html
+46,4626733,BEARING PACKAGE Countershaft,,,,,,,,discontinued,,,
+47,4626539,GEAR Sixth,,,,,,,,discontinued,,,/parts/mopar-gear-sixth~4626539.html
+48,4626538,BEARING Sixth Gear,,,,,,,,available,32.15,22.25,/parts/mopar-bearing-sixth-gear~4626538.html
+49,4626474,STRUT Synchronizer,,,,3,1,,,discontinued,,,/parts/mopar-clutch-synchronizer~4626474.html
+53,4626531,GEAR Countershaft Fifth,,,,,,,,discontinued,,,/parts/mopar-gear-5th-speed~4626531.html
+55,4626529,GEAR Countershaft,,,,,,,,discontinued,,,/parts/mopar-gear-extension~4626529.html
+56,4626736,BEARING PACKAGE Mainshaft,,,,,,,,discontinued,,,
+,4626527,BOLT,,,,2,1,,,available,5.4,3.67,/parts/mopar-bolt-shift-guide-plate~4626527.html
+,4626551,BRACKET Reverse Idler Shaft,,,,,,,,discontinued,,,/parts/mopar-bracket-reverse-idler-shaft~4626551.html
+,4626545,FUNNEL Counter Shaft,,,,,,,,discontinued,,,
+,4626552,GEAR Fifth,,,,,,,,discontinued,,,/parts/mopar-gear-fifth~4626552.html
+,4626559,GEAR Reverse,,,,,,,,discontinued,,,/parts/mopar-gear-reverse~4626559.html
+,4626548,GEAR Reverse Idler,,,,,,,,available,331,231.08,/parts/mopar-gear-reverse-idler~4626548.html
+,4626547,IDLER SHAFT Transmission,,,,,,,,discontinued,,,/parts/mopar-shaft-transmission~4626547.html
+,4626530,NEEDLE BEARING Fifth Gear,,,,,,,,available,30.85,21.32,/parts/mopar-bearing-fifth-gear~4626530.html
+,4626563,NEEDLE BEARING Mainshaft Rear,,,,,,,,available,110,72.62,/parts/mopar-bearing-main-shaft~4626563.html
+,4626558,NEEDLE BEARING Reverse Gear,,,,,,,,available,35.8,24.81,/parts/mopar-bearing-reverse-gear~4626558.html
+,4626554,RETAINER Reverse Syncro,,,,,,,,discontinued,,,/parts/mopar-retainer-reverse-syncro~4626554.html
+,4626557,RING Reverse Blocker,,,,,,,,discontinued,,,/parts/mopar-ring-reverse-blocker~4626557.html
+,4626566,ROTOR Speedometer,,,,,,,,available,22,17.42,/parts/mopar-rotor-speedometer~4626566.html
+,4626536,SNAP RING,,,,,,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+,4626536,SNAP RING,,,,,,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+,4626565,SNAP RING,,,,3,1,,,discontinued,,,/parts/mopar-snap-ring~4626565.html
+,4626564,SNAP RING Mainshaft,,,,,,,,available,23.45,16.25,/parts/mopar-ring-mainshaft~4626564.html
+,4626537,SPACER Sixth Gear,,,,,,,,discontinued,,,/parts/mopar-shim-sixth-gear~4626537.html
+,4626470,SPACER Third Gear,,,,,,,,discontinued,,,
+,4626475,SPRING 3rd And 4th Synchronizer,,,,2,1,,,discontinued,,,/parts/mopar-3rd-and-4th-synchronizer~4626475.html
+,4626534,SPRING Synchronizer,,,,2,1,,,discontinued,,,/parts/mopar-spring-synchronizer~4626534.html
+,4626534,SPRING Synchronizer,,,,2,1,,,discontinued,,,/parts/mopar-spring-synchronizer~4626534.html
+,4626535,STOP RING Synchronizer,,,,2,1,,,discontinued,,,/parts/mopar-clutch-synchronizer~4626535.html
+,4626474,STRUT Synchronizer,,,,3,1,,,discontinued,,,/parts/mopar-clutch-synchronizer~4626474.html
+,4626486,THRUST WASHER First And Second Gear,,,,2,1,,,available,43.93,34.52,/parts/mopar-bearing-package-mainshaft-rear~4626486.html
+,4626541,THRUST WASHER Sixth Gear,,,,,,,,discontinued,,,/parts/mopar-washer-sixth-gear~4626541.html
+,4626562,WASHER Mainshaft,,,,2,1,,,available,30.45,21.09,/parts/mopar-washer-mainshaft~4626562.html
+,4626550,WASHER Reverse Idler,,,,,,,,discontinued,,,
+,4626560,WASHER Reverse Thrust,,,,,,,,available,24.15,16.72,/parts/mopar-gear-reverse-thrust~4626560.html
+,4626556,WASHER Reverse Wave,,,,,,,,available,5.75,4.52,/parts/mopar-washer-reverse-wave~4626556.html

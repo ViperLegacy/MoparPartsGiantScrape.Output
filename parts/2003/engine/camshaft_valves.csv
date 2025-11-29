@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5004026AA,ROCKER ARM Valve,,,,20,1,,,discontinued,,,/parts/mopar-arm-valve~5004026aa.html
+3,6036425AA,SCREW,,,,20,1,,,discontinued,,,/parts/mopar-screw~6036425aa.html
+4,33003521,LOCK Valve Spring Retainer,,,,40,1,,,available,3.45,2.33,/parts/mopar-retainer-valve-spring-retainer~33003521.html
+5,4483745,RETAINER Valve Spring,,,,20,1,5037754AA,,available,6.85,2.56,/parts/mopar-retainer-valve-spring~4483745.html
+6,5004032AA,SPRING Valve,,,,20,1,,,discontinued,,,/parts/mopar-spring-valve~5004032aa.html
+7,5004031AA,SEAT Valve Spring,,,,20,1,,,discontinued,,,/parts/mopar-seat-valve-spring~5004031aa.html
+8,53009886,SEAL Valve Guide,,,,10,1,,,available,8.95,6.17,/parts/mopar-seal-valve-guide~53009886.html
+9,53009887,SEAL Valve Guide,,,,10,8,,,available,15.65,10.83,/parts/mopar-seal-valve-guide~53009887.html
+11,5037232AB,VALVE Intake Standard,,,,10,1,,,discontinued,,,/parts/mopar-valve-intake~5037232ab.html
+12,4763748,VALVE Exhaust Standard,,,,10,1,,,discontinued,,,/parts/mopar-valve-exhaust~4763748.html
+13,141195,DOWEL .25x.62,,,,,,,,discontinued,,,/parts/mopar-dowel-pin~141195.html
+14,5004042AA,TAPPET Hyd. Roller,,,,20,1,,,discontinued,,,/parts/mopar-tappet-hyd-roller~5004042aa.html
+15,5037057AA,CAMSHAFT Engine,,,,,,,,discontinued,,,/parts/mopar-camshaft-engine~5037057aa.html
+16,5093027AA,"CAMSHAFT Engine .002"" O/S Journal",,,,,,,,discontinued,,,/parts/mopar-camshaft-engine~5093027aa.html
+17,5093028AA,"CAMSHAFT Engine .003"" O/S Journal",,,,,,,,discontinued,,,/parts/mopar-camshaft-engine~5093028aa.html
+18,5093030AA,"CAMSHAFT Engine .030"" O/S Journal",,,,,,,,discontinued,,,/parts/mopar-camshaft-engine~5093030aa.html
+19,5037069AA,PUSH ROD Valve,,,,20,1,,,discontinued,,,/parts/mopar-pushrod-valve~5037069aa.html
+20,5037068AA,YOKE Tappet Aligning,,,,10,1,,,discontinued,,,/parts/mopar-retainer-tappet-aligning~5037068aa.html
+21,181065,BOLT Hex Head .25-20x1.00,,,,10,1,,,available,4.95,3.44,/parts/mopar-bolt~181065.html
+,5037242AA,PEDESTAL Rocker Arm Shaft,,,,10,1,,,discontinued,,,/parts/mopar-support-rocker-arm-shaft~5037242aa.html
+,33003016,"SEAL Valve Guide .015"" Oversize Repair",,,,,,,,discontinued,,,/parts/mopar-seal-valve-guide~33003016.html

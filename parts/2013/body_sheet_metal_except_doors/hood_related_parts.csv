@@ -1,0 +1,28 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68110741AB,HOOD,,,,,,68199406AH,,discontinued,,,/parts/mopar-hood~68110741ab.html
+2,68141087AA,BEZEL Hood,,,,,,68141087AD,Left [MH1],available,141,95.2,/parts/mopar-bezel-hood~68141087aa.html
+3,68199795AA,SILENCER Hood,,,,,,68199795AD,,available,408,272.06,/parts/mopar-silencer-hood~68199795aa.html
+4,6030441,PUSH PIN .250X.900,,,,14,1,,,available,7.95,5.53,/parts/mopar-push-pin~6030441.html
+5,68184977AA,SEAL Air Cleaner,,,,,,,,available,22.8,17.65,/parts/mopar-seal-air-cleaner~68184977aa.html
+6,68141089AB,BEZEL Hood,,,,,,68141089AF,Left Front,available,118,79.02,/parts/mopar-bezel-hood~68141089ab.html
+6,68141090AB,BEZEL Hood,,,,,,68141090AF,Center Right,unavailable,118,79.02,/parts/mopar-bezel-hood~68141090ab.html
+6,68141091AB,BEZEL Hood,,,,,,68141091AF,Center Left,discontinued,,,/parts/mopar-bezel-hood~68141091ab.html
+6,68183762AB,BEZEL Hood,,,,,,68183762AF,Right Rear,discontinued,,,/parts/mopar-bezel-hood~68183762ab.html
+6,68183763AB,BEZEL Hood,,,,,,68183763AF,Left Rear,discontinued,,,/parts/mopar-bezel-hood~68183763ab.html
+7,68139366AB,HOOD,,,,,,68199408AH,,available,16800,11390.4,/parts/mopar-hood~68139366ab.html
+8,68199796AA,SILENCER Hood,,,,,,68199796AD,,available,280,189,/parts/mopar-silencer-hood~68199796aa.html
+9,6030441,PUSH PIN .250X.900,,,,14,1,,,available,7.95,5.53,/parts/mopar-push-pin~6030441.html
+10,68184977AA,SEAL Air Cleaner,,,,,,,,available,22.8,17.65,/parts/mopar-seal-air-cleaner~68184977aa.html
+11,68145350AB,LATCH Hood,,,,2,1,68145350AC,,available,95.75,64.63,/parts/mopar-latch-hood~68145350ab.html
+12,6101455,SCREW AND WASHER Hex Head M6x1x20,,,,6,1,,,available,7.6,5.3,/parts/mopar-screw-hex-head~6101455.html
+13,68156854AB,RELEASE Hood Latch,,,,,,68156854AC,,available,113,92.38,/parts/mopar-cable-hood-latch~68156854ab.html
+14,6101952,SCREW Hex Flange Head Tapping M4.8 x 1.59 x 25.00,,,,2,1,,,available,3.75,2.56,/parts/mopar-screw-hex-flange-head-tapping~6101952.html
+15,68143009AB,SEAL Hood,Left,,,,,,,discontinued,,,/parts/mopar-seal-hood~68143009ab.html
+16,68141384AA,WEATHERSTRIP Wheelhouse Front,,,,,,68141384AC,,available,83.1,58.02,/parts/mopar-w-strip-wheelhouse~68141384aa.html
+17,68171751AB,SEAL Headlamp,Left,,,,,,,available,26,20.15,/parts/mopar-seal-headlamp~68171751ab.html
+18,68199647AA,BRACKET Ballstud,Left,,,,,68199647AB,,discontinued,,,/parts/mopar-bracket-ballstud~68199647aa.html
+19,68139706AA,PROP Hood,,,,2,1,,,available,32.55,26.45,/parts/mopar-prop-hood~68139706aa.html
+20,68096399AA,HINGE Hood,Left,,,,,,,available,45.4,37.69,/parts/mopar-hinge-hood~68096399aa.html
+21,6504175,NUT AND WASHER Hex M8x1.25,,,,4,1,,,available,4.95,3.38,/parts/mopar-nut-hex~6504175.html
+22,6505727AA,BOLT AND CONED WASHER Hex Head M8X1.25X25.00,,,,4,1,6505622AA,,available,5.5,3.73,/parts/mopar-screw-hex-head~6505727aa.html
+23,68143006AB,WEATHERSTRIP Hood,,,,,,68143006AC,,available,31.4,25.16,/parts/mopar-w-strip-hood~68143006ab.html

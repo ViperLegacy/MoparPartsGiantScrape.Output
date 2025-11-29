@@ -1,0 +1,21 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68207646AA,SHIM PACKAGE Countershaft,,,,,,,,available,220,156.85,/parts/mopar-shim-countershaft~68207646aa.html
+2,68045325AA,BEARING KIT Countershaft Front,,,,,,,,available,125,82.52,/parts/mopar-bearing-countershaft-front~68045325aa.html
+3,68206970AA,COUNTERSHAFT,,,,,,68283363AA,,available,2155,1402.5,/parts/mopar-shaft~68206970aa.html
+4,68045326AA,BEARING KIT Countershaft Mid,,,,,,,,available,289,191.25,/parts/mopar-bearing-countershaft-mid~68045326aa.html
+5,68029162AA,WASHER Thrust,,,,,,,,available,60.25,41.82,/parts/mopar-washer-thrust~68029162aa.html
+6,68029146AA,SPACER Sixth Gear,,,,,,,,available,8.6,5.88,/parts/mopar-shim-sixth-gear~68029146aa.html
+7,68259017AA,GEAR Sixth,,,29,,,,,available,363,241.96,/parts/mopar-gear-sixth~68259017aa.html
+8,4626530,NEEDLE BEARING Fifth Gear,,,,,,,,available,30.85,21.32,/parts/mopar-bearing-fifth-gear~4626530.html
+9,68028593AA,BLOCKER RING 5th To 6th,,,,,,68028593AB,,available,317,211.5,/parts/mopar-ring-5th-to-6th~68028593aa.html
+10,68166794AA,SYNCHRONIZER,,,,,,,,available,176,118.13,/parts/mopar-synch~68166794aa.html
+11,68029145AA,SPACER Fifth Gear,,,,,,,,available,6.75,4.72,/parts/mopar-shim-fifth-gear~68029145aa.html
+12,4626536,SNAP RING,,,,,,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+13,68251343AA,GEAR Fifth,,,,,,68251343AB,,available,461,305.51,/parts/mopar-gear-fifth~68251343aa.html
+14,4626538,NEEDLE BEARING Sixth Gear,,,,,,,,available,32.15,22.25,/parts/mopar-bearing-sixth-gear~4626538.html
+15,4626560,WASHER Reverse Thrust,,,,,,,,available,24.15,16.72,/parts/mopar-gear-reverse-thrust~4626560.html
+16,4626536,SNAP RING,,,,,,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+17,68199045AA,GEAR Reverse,,,29,,,,,available,380,250.88,/parts/mopar-gear-reverse~68199045aa.html
+18,5093289AA,SNAP RING Reverse Gear,,,,,,,,available,38.8,26.97,/parts/mopar-snap-ring-reverse-gear~5093289aa.html
+19,68029158AA,SNAP RING,,,29,,,,,available,55.25,38.5,/parts/mopar-ring~68029158aa.html
+20,68028337AA,BEARING,,,,,,,,available,21.75,16.43,/parts/mopar-bearing~68028337aa.html

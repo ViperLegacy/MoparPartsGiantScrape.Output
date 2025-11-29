@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4709489,"GEAR, Rack and Pinion Power",,,,,,,1994-96 (After 9-29-93),discontinued,,,/parts/mopar-gear-power-steering~4709489.html
+2,6034710,WASHER,,,,4,1,,,available,4.5,3.79,/parts/mopar-washer-flat~6034710.html
+3,6033181,BOLT,,,,2,1,,,available,12.4,4.55,/parts/mopar-bolt-hex-head~6033181.html
+4,4117796,NUT,,,,,,,,discontinued,,,/parts/mopar-nut-pivot-arm~4117796.html
+5,9424798,NUT,,,,2,1,,,discontinued,,,/parts/mopar-nut-hex~9424798.html
+7,4642116,"INSULATOR, Gear Mtg.",,,,4,1,,,discontinued,,,/parts/mopar-insulator-steering-gear~4642116.html
+8,4708035,"O-RING, Gear Bushing",,,,2,1,4708035AB,,available,4.5,2.62,/parts/mopar-o-ring-steering-gear~4708035.html
+9,4708069,SHIM,,,,,,,3.0mm,discontinued,,,/parts/mopar-spacer-steering-gear~4708069.html
+9,4708070,SHIM,,,,,,,1.0mm,discontinued,,,/parts/mopar-spacer-steering-gear~4708070.html
+9,4708475,SHIM,,,,,,,0.5mm,available,9.3,6.6,/parts/mopar-spacer-steering-gear~4708475.html
+,52037501,"TIE ROD PACKAGE, Outer",,,,2,1,,,discontinued,,,/parts/mopar-tie-rod-tie-rod~52037501.html

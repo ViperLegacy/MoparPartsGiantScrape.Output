@@ -1,0 +1,21 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,68193492AA,PISTON PIN AND ROD,,,,5,1,,"Right Side Cylinders 2,4,6,8,10",discontinued,,,/parts/mopar-piston~68193492aa.html
+3,68202596AA,RING KIT Piston Standard,,,,,,68202596AB,,discontinued,,,/parts/mopar-ring-set-piston~68202596aa.html
+4,4694106,DOWEL PIN,,,,4,1,,,available,5.5,3.79,/parts/mopar-dowel-pin~4694106.html
+5,5037316AC,FITTING Male Oil Line,,,,,,5037316AD,,available,16.35,11.3,/parts/mopar-connector-male~5037316ac.html
+6,6036543AA,PLUG Pipe,,,,4,1,,,available,3.4,2.27,/parts/mopar-plug-pipe~6036543aa.html
+8,J4005149,DOWEL PIN .620Dx.50,,,,4,1,,,available,15.7,10.83,/parts/mopar-pin~j4005149.html
+9,4663941AB,PLUG Core,,,,,,,,available,7.05,4.78,/parts/mopar-plug-core~4663941ab.html
+10,4429678,DOWEL PIN,,,,2,1,,,available,50.95,35.42,/parts/mopar-dowel-pin~4429678.html
+11,5245058,DOWEL PIN,,,,2,1,,,discontinued,,,/parts/mopar-dowel-pin~5245058.html
+12,6036308AA,PLUG Pipe .375-18X.475,,,,5,1,,,available,4.7,3.2,/parts/mopar-plug-pipe~6036308aa.html
+13,5037796AB,CONTROL VALVE Oil Exhaust,,,,,,,,available,265,214.88,/parts/mopar-valve-oil-exhaust~5037796ab.html
+14,4694106,DOWEL PIN,,,,4,1,,,available,5.5,3.79,/parts/mopar-dowel-pin~4694106.html
+15,6504410,BOLT Hex Flange Head M10X1.50X55.00,,,,12,1,,,available,5.5,3.79,/parts/mopar-screw-hex-flange-head~6504410.html
+16,5037698AB,CAMSHAFT Engine,,,,,,,,available,2675,1791.05,/parts/mopar-camshaft-engine~5037698ab.html
+18,5038250AD,CRANKSHAFT,,,,,,,,available,2065,1395.55,/parts/mopar-crankshft~5038250ad.html
+21,J4005149,DOWEL PIN .620Dx.50,,,,6,1,,,available,15.7,10.83,/parts/mopar-pin~j4005149.html
+23,6508545AA,STUD Double Ended M12x1.00xM12x1.75x144.00,,,,12,1,,,available,39.2,27.2,/parts/mopar-stud-double-ended~6508545aa.html
+25,6101668,BOLT AND WASHER Hex Head M10x1.5x90,,,,,,,,available,10.35,7.16,/parts/mopar-screw-hex-head~6101668.html
+28,6507894AA,BOLT 6 Lobe Recessed Head M6X1.00X18.00,,,,8,1,,,discontinued,,,/parts/mopar-bolt-6-lobe-recessed-head~6507894aa.html
+29,5037819AC,PLATE Camshaft Thrust,,,,,,5045560AA,,available,150,101.52,/parts/mopar-gear-camshaft-thrust~5037819ac.html

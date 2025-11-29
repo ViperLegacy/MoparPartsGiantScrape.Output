@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,XC871D5AC,PANEL Door Trim Front,,,,,,,Left [X5],available,836,714.78,/parts/mopar-panel-door-trim-front~xc871d5ac.html
+1,XC871U4AC,PANEL Door Trim Front,,,,,,,Left [XU],available,951,812.82,/parts/mopar-panel-door-trim-front~xc871u4ac.html
+1,XC871X9AC,PANEL Door Trim Front,,,,,,,Left [X9],discontinued,,,/parts/mopar-panel-door-trim-front~xc871x9ac.html
+1,XC871XRAC,PANEL Door Trim Front,,,,,,,Left [XR],discontinued,,,/parts/mopar-panel-door-trim-front~xc871xrac.html
+1,XC921BNAC,PANEL Door Trim Front,,,,,,,Right [XB],available,1105,742.41,/parts/mopar-panel-door-trim-front~xc921bnac.html
+1,XC921D5AC,PANEL Door Trim Front,,,,,,,Right [X5],available,623,532.38,/parts/mopar-panel-door-trim-front~xc921d5ac.html
+1,XC921U4AC,PANEL Door Trim Front,,,,,,,Right [XU],available,944,807.12,/parts/mopar-panel-door-trim-front~xc921u4ac.html
+1,XC921X9AC,PANEL Door Trim Front,,,,,,,Right [X9],discontinued,,,/parts/mopar-panel-door-trim-front~xc921x9ac.html
+1,XC921XRAC,PANEL Door Trim Front,,,,,,,Right [XR],discontinued,,,/parts/mopar-panel-door-trim-front~xc921xrac.html
+2,5096019AB,HANDLE,Left,,,,,,,available,217,175.5,/parts/mopar-handle~5096019ab.html
+3,5GC71DX9AA,FASTENER Push Pin,,,,6,1,,,available,3.45,2.62,/parts/mopar-pin~5gc71dx9aa.html
+4,LE82RX9,CAP Pull Cup Screw Cover,,,,2,1,,,discontinued,,,/parts/mopar-cap-end-pull-cup-screw-cover~le82rx9.html
+5,UA37SZ6AA,APPLIQUE Front Door,Left,,,,,,,available,187,118.13,/parts/mopar-applique-front-door~ua37sz6aa.html
+6,6036430AA,SCREW,,,,2,1,,,discontinued,,,/parts/mopar-screw~6036430aa.html
+8,153754,SCREW .190-16x1.00,,,,2,1,,,discontinued,,,/parts/mopar-screw~153754.html
+,5083940AA,BRACKET Speaker,,,,,,,,discontinued,,,/parts/mopar-speaker-speaker~5083940aa.html

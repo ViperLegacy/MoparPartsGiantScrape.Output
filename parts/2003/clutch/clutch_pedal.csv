@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290890AA,"PEDAL ASSEMBLY Adjustable Brake, Clutch and Accelerator",,,,,,,,discontinued,,,/parts/mopar-pedal-brake-clutch-and-accelera~5290890aa.html
+3,6102167AA,NUT AND WASHER,,,,2,1,,,discontinued,,,/parts/mopar-nut~6102167aa.html
+4,J4003909,NUT Hex Flange With Serration,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex-flange-with-serration~j4003909.html
+6,5029211AA,BRACKET Wiring Harness,,,,,,,,discontinued,,,/parts/mopar-bracket-wiring-harness~5029211aa.html
+7,4294036,CLIP,,,,,,4581512AA,,available,2.45,1.69,/parts/mopar-clip-master-cylinder-push-rod-pi~4294036.html
+8,6101444,NUT AND WASHER Hex M6x1.0,,,,2,1,34201358,,available,13.9,9.67,/parts/mopar-nut-a-c-suct-hose-clamp~6101444.html
+9,5029206AB,BRACKET Stop Lamp Switch,,,,,,,,discontinued,,,/parts/mopar-bracket-stop-lamp-switch~5029206ab.html
+10,5083344AA,SWITCH PACKAGE Stop Lamp,,,,,,5083344AB,,available,39,29.99,/parts/mopar-sw-pkg-stop-lamp~5083344aa.html
+12,5102046AA,PAD Clutch Pedal,,,,,,,,discontinued,,,/parts/mopar-pad-clutch-pedal~5102046aa.html
+13,5102045AA,PAD Brake Pedal,,,,,,,,discontinued,,,/parts/mopar-pad-brake-pedal~5102045aa.html
+14,5102047AA,PAD Accelerator Pedal,,,,,,,,discontinued,,,/parts/mopar-pad-accelerator-pedal~5102047aa.html
+,56042387,SWITCH Console,,,,,,,,available,26.95,18.64,/parts/mopar-switch-adjustable-pedals~56042387.html

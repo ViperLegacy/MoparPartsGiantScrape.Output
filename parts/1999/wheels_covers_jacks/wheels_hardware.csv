@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,RR36SZ2AA,WHEEL Steel,,,,,,,"Polished, 18x10 (WPD)",discontinued,,,/parts/mopar-wheel-steel~rr36sz2aa.html
+2,SM09WD2AA,WHEEL Aluminum,,,,,,,Rear (13 x 18) (WPE),discontinued,,,/parts/mopar-wheel-aluminum~sm09wd2aa.html
+3,6034958,NUT Hex .50-20,,,,24,1,,,available,18.75,14.51,/parts/mopar-nut-hex~6034958.html
+4,4854268AA,NUT Wheel,,,,,,,,discontinued,,,/parts/mopar-nut-wheel~4854268aa.html
+5,4708167,TOOL Wheel Cap Removal,,,,,,,,discontinued,,,/parts/mopar-wrench-wheel-cap-removal~4708167.html
+6,2073355,STEM Wheel Valve,,,,,,,,available,4.9,3.38,/parts/mopar-stem-wheel-valve~2073355.html
+7,5013756AA,VALVE Shrader,,,,,,,,available,1.67,1.31,/parts/mopar-valve-shrader~5013756aa.html

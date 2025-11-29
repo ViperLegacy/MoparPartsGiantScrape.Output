@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68050022AB,WING KIT Rear Tailgate,,,29,,,,With Sales Code [AP6],available,7750,5115,/parts/mopar-wing-kit-rear-tailgate~68050022ab.html
+1,68050023AB,WING KIT Rear Tailgate,,,27,,,,Without Sales Codes [AP6] or [APQ],available,7420,4895,/parts/mopar-wing-kit-rear-tailgate~68050023ab.html
+2,68050025AA,END PLATE KIT Tailgate Wing,,,29,,,,Coupe ARY,available,1005,827.2,/parts/mopar-plate-kit-tailgate-wing~68050025aa.html
+2,68050026AA,END PLATE KIT Tailgate Wing,,,27,,,,Roadster,available,1120,733.7,/parts/mopar-plate-kit-tailgate-wing~68050026aa.html
+3,68050028AB,STANCHION KIT Tailgate Wing,,,27,,,,,available,1815,1193.5,/parts/mopar-stanchion-tailgate-wing~68050028ab.html
+,68050029AA,HARDWARE KIT Stanchion,,,,,,,,available,1060,716.42,/parts/mopar-hardware-stanchion~68050029aa.html

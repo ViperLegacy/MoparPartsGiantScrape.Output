@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763187,LATCH Front Door,Left,,,,,,,discontinued,,,
+2,6501373,SCREW AND WASHER Hex Head M6x1x20,,,,6,1,,,available,9,6.23,/parts/mopar-screw-hex-head~6501373.html
+6,4643066,STRIKER Door Latch,,,,2,1,,,available,18.1,15.72,/parts/mopar-striker-door-latch~4643066.html
+7,4643067,SPACER Door Lock Striker,,,,,,4643067AB,,available,7.7,6.35,/parts/mopar-shim-door-lock-striker~4643067.html
+8,4643428,SCREW Flat Head M8x1.25x36.3,,,,4,1,,,available,5.27,4.14,/parts/mopar-screw-flat-head~4643428.html
+9,5245098AB,INTERLOCK Door Restraint,,,,2,1,,,available,34.49,27.1,/parts/mopar-striker-door-restraint~5245098ab.html
+10,4763553,SPACER Lower Door Restraint,,,,,,,,available,6.2,3.88,/parts/mopar-shim-lower-door-restraint~4763553.html
+11,4763554,INSULATOR Restraint System,,,,2,1,,,discontinued,,,/parts/mopar-insulator-restraint-system~4763554.html
+12,6503665,SCREW Flange Head M6x1x18,,,,4,1,,,discontinued,,,/parts/mopar-screw-flange-head~6503665.html
+14,PS20TX9,HANDLE Front Door,,,27,,,,Right Flat Black,discontinued,,,/parts/mopar-handle-front-door~ps20tx9.html
+14,PS21SX8,HANDLE Front Door,,,29,,,,Left Black,discontinued,,,/parts/mopar-handle-front-door~ps21sx8.html
+14,PS21TX9,HANDLE Front Door,,,27,,,,Left Flat Black,discontinued,,,/parts/mopar-handle-front-door~ps21tx9.html
+15,5245795,NUT,,,,,,,,discontinued,,,/parts/mopar-nut~5245795.html
+16,4848479,PIN Snap,,,,2,1,,,discontinued,,,/parts/mopar-pin-snap~4848479.html

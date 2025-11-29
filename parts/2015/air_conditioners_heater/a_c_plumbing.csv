@@ -1,0 +1,25 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5264988AI,LINE A/C Suction,,,,,,,,unavailable,83,69.94,/parts/mopar-line-a-c-suction~5264988ai.html
+2,5019242AA,CAP A/C Charge Valve,,,,,,,,available,6.7,4.54,/parts/mopar-cap-a-c-charge-valve~5019242aa.html
+3,68202611AA,VALVE CORE A/C Line,,,,,,,,available,17.4,11.36,/parts/mopar-valvecore-a-c-line~68202611aa.html
+4,5072893AA,O RING A/C Line 5/8,,,,,,,,available,10.1,6.99,/parts/mopar-o-ring-a-c-line~5072893aa.html
+5,68028717AA,O RING A/C Line,,,,,,,,available,1.35,0.79,/parts/mopar-o-ring-a-c-line~68028717aa.html
+6,68202830AA,CLIP A/C Line,,,,,,,,available,1,0.64,/parts/mopar-clip-a-c-line~68202830aa.html
+7,5264927AE,LINE A/C Discharge,,,,,,,,available,241,195.75,/parts/mopar-line-a-c-discharge~5264927ae.html
+8,5183358AA,O RING A/C Line,,,,,,,,available,24.55,16.95,/parts/mopar-o-ring-a-c-line~5183358aa.html
+9,5072868AA,O RING A/C Line 1/2,,,,,,,,available,9.75,6.76,/parts/mopar-o-ring-a-c-line~5072868aa.html
+10,5093078AA,CLIP A/C Line,,,,,,,,available,22.3,18.52,/parts/mopar-clip-a-c-line~5093078aa.html
+11,68141376AB,VALVE A/C pressure Transducer,,,,,,68308727AA,,available,133,89.16,/parts/mopar-transduce-a-c-pressure-transducer~68141376ab.html
+12,5264926AH,LINE A/C Liquid,,,,,,,,discontinued,,,/parts/mopar-line-a-c-liquid~5264926ah.html
+13,5015603AA,O RING A/C Line 1/2,,,,,,,,available,4.15,2.8,/parts/mopar-o-ring-a-c-line~5015603aa.html
+14,5080520AA,O RING A/C Line 1/2,,,,,,,,available,15.7,10.83,/parts/mopar-o-ring-a-c-line~5080520aa.html
+15,5072866AA,CAP A/C Charge Valve,,,,,,,,available,5.75,3.9,/parts/mopar-cap-a-c-charge-valve~5072866aa.html
+16,5093078AA,CLIP A/C Line,,,,,,,,available,22.3,18.52,/parts/mopar-clip-a-c-line~5093078aa.html
+17,5181842AA,CONDENSER Air Conditioning,,,,,,,,unavailable,895,754.68,/parts/mopar-condenser-air-conditioning~5181842aa.html
+18,6101826,BOLT Hex Head M6x1.00x20.00,,,,2,1,,,available,8.75,6.06,/parts/mopar-bolt-hex-head~6101826.html
+19,6506254AA,BOLT Torx M8x1.25x19.75,,,,2,1,,,available,9.2,6.41,/parts/mopar-bolt-torx~6506254aa.html
+20,5181845AA,DRIER Receiver,,,,,,,,available,113,90.96,/parts/mopar-drier-receiver~5181845aa.html
+21,68026799AA,O RING Receiver Drier,,,,4,1,,,available,9.45,6.52,/parts/mopar-o-ring-receiver-drier~68026799aa.html
+22,68003499AA,SCREW,,,,,,,,available,7.45,5.07,/parts/mopar-screw~68003499aa.html
+23,5010431AA,ISOLATOR A/C Condenser,,,,,,,,available,24.25,16.43,/parts/mopar-isolator-a-c-condenser~5010431aa.html
+24,6036237AA,SCREW AND WASHER Hex Head .250-14X.750,,,,3,1,,,available,11.4,7.92,/parts/mopar-screw-hex-head~6036237aa.html

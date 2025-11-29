@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865487AG,LAMP Tail Stop Turn,Left,,,,,4865487AJ,,available,406,328.25,/parts/mopar-lamp-tail-stop-turn~4865487ag.html
+1,4865487AH,LAMP Tail Stop Turn,,,,,,4865487AJ,Left Export,available,406,328.25,/parts/mopar-lamp-tail-stop-turn~4865487ah.html
+5,4865489AD,LAMP Back-Up and Turn Signal,Left,,,,,,,discontinued,,,/parts/mopar-lamp-back-up-and-turn-signal~4865489ad.html
+8,5030506AA,WIRING Taillamp,,,,,,,,available,66.95,56.5,/parts/mopar-wiring-taillamp~5030506aa.html
+10,4642929AB,LAMP License Plate,,,,2,1,,,discontinued,,,/parts/mopar-lamp-license-plate~4642929ab.html
+15,5030107AA,LAMP High Mounted Stop,,,29,,,5030107AB,,available,213,179.35,/parts/mopar-lamp-high-mounted-stop~5030107aa.html
+,L0000168,BULB 168,,,,2,1,,,available,10.5,7.34,/parts/mopar-bulb~l0000168.html
+,L003057K,BULB 3057K,,,,,,68604811AA,,available,7.2,4.83,/parts/mopar-bulb~l003057k.html
+,L0003457ST,BULB 3457AK,,,,,,,Sylvania Lighting,discontinued,,,/parts/mopar-bulb~l0003457st.html
+,6101447,NUT AND WASHER M6x1.00,,,,4,1,,,available,8.55,5.94,/parts/mopar-nut~6101447.html
+,6034537,NUT U Type .190-16,,,,4,1,,,available,7.55,5.24,/parts/mopar-nut-u-type~6034537.html
+,6502589,NUT Wing M6,,,,6,1,,,discontinued,,,/parts/mopar-nut-wing~6502589.html
+,4399599,SEAL,,,,,,,,available,4.05,1.4,/parts/mopar-seal-socket~4399599.html
+,4815972AB,SHIM,,,,,,,,available,4.45,1.69,/parts/mopar-shim~4815972ab.html
+,4523097,SOCKET Turn Signal Lamp,,,,,,,,available,11.25,7.81,/parts/mopar-socket-turn-signal-lamp~4523097.html
+,5029224AA,U-CLIP Grille To Fascia,,,,6,1,,,discontinued,,,/parts/mopar-clip-grille-to-fascia~5029224aa.html
+,5003368AA,VENT,,,,2,1,,,available,3.75,1.4,/parts/mopar-tube~5003368aa.html
+,6100876,WASHER Flat M6.82x17.00x1.75,,,,6,1,,,discontinued,,,/parts/mopar-washer-flat~6100876.html
+,5030501AA,WIRING High Mounted Stop Lamp,,,,,,5030501AB,,available,72.6,50.74,/parts/mopar-wiring-high-mounted-stop-lamp~5030501aa.html

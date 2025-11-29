@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5093244AA,HOUSING Air Inlet,,,,,,,,discontinued,,,/parts/mopar-housing-air-inlet~5093244aa.html
+2,68197583AA,HOUSING A/C And Heater,,,,,,68197583AB,,available,421,279.87,/parts/mopar-housing-a-c-and-heater~68197583aa.html
+3,68197589AA,TUBE Jumper Evaporator To Expansion Valve,,,,,,,,available,13.7,9.55,/parts/mopar-tube-jumper~68197589aa.html
+4,5093248AB,MOTOR Blower with Wheel,,,,,,,,discontinued,,,/parts/mopar-motor-blower-with-wheel~5093248ab.html
+5,68197587AA,MODULE Power Blower Motor,,,,,,,,available,37.8,31.4,/parts/mopar-module-power~68197587aa.html
+6,4885206AB,ACTUATOR A/C and Heater,,,,,,,,available,202,136.13,/parts/mopar-actuator-a-c-and-heater~4885206ab.html
+7,68197584AA,CORE Heater,,,,,,,,available,358,234.15,/parts/mopar-core-heater~68197584aa.html
+8,68197585AA,EVAPORATOR Air Conditioning,,,,,,,,unavailable,341,226.73,/parts/mopar-evaporato-air-conditioning~68197585aa.html
+9,5093245AB,SEAL KIT A/C And Heater Unit,,,,,,5093245AC,,available,53.25,37.22,/parts/mopar-seal-pkg-a-c-and-heater-unit~5093245ab.html
+10,68197586AA,WIRING A/C and HEATER,,,,,,,,discontinued,,,/parts/mopar-wiring-a-c-and-heater~68197586aa.html
+11,5104821AA,DRAIN KIT A/C and Heater,,,,,,,,available,37.8,31.4,/parts/mopar-drain-a-c-and-heater~5104821aa.html
+12,4720533,SCREW,,,,33,1,,,available,6,4.08,/parts/mopar-screw~4720533.html
+13,68197588AA,VALVE A/C Expansion,,,,,,,,available,41.15,27.67,/parts/mopar-valve-a-c-expansion~68197588aa.html
+14,5161806AA,O RING A/C Line,,,,,,,,available,26.9,18.58,/parts/mopar-o-ring-a-c-line~5161806aa.html
+15,68046015AA,O RING A/C Line,,,,,,,,available,24.45,14.51,/parts/mopar-o-ring-a-c-line~68046015aa.html
+16,5161807AA,O RING A/C Line,,,,,,,,available,15.05,10.37,/parts/mopar-o-ring-a-c-line~5161807aa.html
+17,68197590AA,PROBE Air Conditioning,,,,,,,,available,8.75,7.57,/parts/mopar-probe-air-conditioning~68197590aa.html
+18,6503811,BOLT Hex Head M6x1.00x20.00,,,,,,,,available,29.7,20.08,/parts/mopar-screw-hex-head~6503811.html
+19,6104725AA,NUT AND WASHER Hex M6X1.00,,,,3,1,,,available,6.15,4.25,/parts/mopar-nut-hex~6104725aa.html
+20,2837680,CLAMP Blower Motor Wheel,,,,,,,,available,2.35,1.31,/parts/mopar-clamp-blower-motor-wheel~2837680.html
+21,5012745AA,CLAMP Heater,,,,,,,,discontinued,,,/parts/mopar-clamp-heater~5012745aa.html

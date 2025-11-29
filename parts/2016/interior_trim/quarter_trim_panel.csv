@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1UL93DX9AD,COVER Bulkhead,Left,,,,,,,available,750,495,/parts/mopar-cover-bulkhead~1ul93dx9ad.html
+2,1WV69DX9AB,BEZEL Harness Anchor,Left,,,,,,,available,23.85,18.87,/parts/mopar-shield~1wv69dx9ab.html
+3,6510416AA,NUT AND WASHER Hex M5x0.80 Bulkhead Attach,,,,2,1,,,available,11.3,7.86,/parts/mopar-nut-hex~6510416aa.html
+4,6510416AA,NUT AND WASHER Hex M5x0.80 Bulkhead Attach To Rear Clip,,,,2,1,,,available,11.3,7.86,/parts/mopar-nut-hex~6510416aa.html
+7,68202600AA,PUSH PIN,,,,,,,,available,4.85,3.96,/parts/mopar-push-pin~68202600aa.html
+8,68186730AB,BRACKET Floor Console,,,,,,,,available,77.7,54.29,/parts/mopar-bracket-floor-console~68186730ab.html

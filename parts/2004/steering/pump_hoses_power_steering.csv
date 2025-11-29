@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5093985AA,PUMP Power Steering,,,,,,,,discontinued,,,/parts/mopar-pump-power-steering~5093985aa.html
+4,5103202AA,"RESERVOIR Power Steering Pump Kit, Contains: 2-Clips, Throat Tube, O`Ring",,,,,,,,discontinued,,,/parts/mopar-reservoir-power-steering-pump~5103202aa.html
+5,5073626AA,CAP Power Steering Reservoir,,,,,,,,discontinued,,,/parts/mopar-cap-power-steering-reservoir~5073626aa.html
+6,5290139AA,PULLEY Power Steering Pump,,,,,,5290139AB,,available,291,131.83,/parts/mopar-pulley-power-steering-pump~5290139aa.html
+7,5290267AB,LINE Power Steering,,,,,,5290267AD,,available,179,105.83,/parts/mopar-line-power-steering~5290267ab.html
+8,5290269AA,HOSE Power Steering Return,,,,,,,,discontinued,,,/parts/mopar-line-power-steering-return~5290269aa.html
+9,5290013AD,COOLER Power Steering,,,,,,5290013AF,,available,301,242.52,/parts/mopar-cooler-power-steering~5290013ad.html
+11,5102281AA,LINE Power Steering,,,,,,,,discontinued,,,/parts/mopar-line-power-steering~5102281aa.html
+12,5102280AA,LINE Power Steering,,,,,,,,discontinued,,,/parts/mopar-line-power-steering~5102280aa.html
+13,5290008AC,LINE Power Steering,,,,,,,,discontinued,,,
+14,52088914AA,FITTING Quick Disconnect,,,,,,,,available,238,157.5,/parts/mopar-fitting-quick-disconnect~52088914aa.html
+16,52088116AB,FITTING Quick Connect,,,,,,,,discontinued,,,/parts/mopar-fitting-quick-connect~52088116ab.html
+17,52079929AB,CLIP Line,,,,,,,Pressure Line 3/8 Inch,available,6.45,2.99,/parts/mopar-clip-line~52079929ab.html
+18,5290177AA,CLIP Power Steering Return Hose,,,,,,,,available,5.35,1.98,/parts/mopar-clip-power-steering-return-hose~5290177aa.html
+,6034248,BOLT,,,,3,1,,,available,7,5.5,/parts/mopar-bolt~6034248.html
+,6100557,BOLT AND CONED WASHER Hex Head M6x20x14,,,,2,1,,,available,9.2,6.41,/parts/mopar-screw-hex-head~6100557.html
+,5290238AA,CONNECTOR Quick Type,,,,2,1,68034089AA,,available,27.35,19.11,/parts/mopar-connector-quick-type~5290238aa.html
+,5019705AA,O RING,,,,,,,,available,7.6,5.24,/parts/mopar-o-ring~5019705aa.html
+,154910AA,SCREW,,,,,,,,available,8,5.59,/parts/mopar-screw-hex-flange-head~154910aa.html
+,4778797AB,SEAL Power Steering Pump,,,,,,,,discontinued,,,/parts/mopar-seal-power-steering-pump~4778797ab.html
+,2537833,SPRING Power Steering Pump Flow,,,,,,,,discontinued,,,/parts/mopar-none-power-steering-pump-flow~2537833.html

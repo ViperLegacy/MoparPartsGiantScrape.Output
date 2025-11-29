@@ -1,0 +1,45 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4882965,PISTON RING SET COMPLETE ENGINE STD.,,,,,,,,discontinued,,,
+2,5245142AB,PISTON ENGINE,,,,,,,,discontinued,,,/parts/mopar-piston-engine~5245142ab.html
+3,4883706AA,PISTON,,,,,,,[+.020 Oversize],discontinued,,,
+4,53005779,PIN Piston,,,,,,,,discontinued,,,/parts/mopar-pin-piston~53005779.html
+5,5245366,ROD Connecting,,,,10,1,5245366AD,,available,545,20.02,/parts/mopar-conn-rod-connecting~5245366.html
+6,6033441,BOLT Connecting Rod,,,,10,1,,,available,14.75,11.59,/parts/mopar-bolt-connecting-rod~6033441.html
+7,4848733,CRANKSHAFT,,,,,,,,discontinued,,,
+8,53009181,BEARING Pilot,,,,,,,,discontinued,,,
+9,6035811,BOLT Hex Head .437-20x1.50,,,,8,1,,,available,30.05,20.4,/parts/mopar-bolt-hex-head~6035811.html
+10,4763726,RETAINER Crankshaft Rear Oil Seal,,,,,,,,discontinued,,,/parts/mopar-seal-crankshaft-rear-oil-seal~4763726.html
+11,4428037,GEAR Ring,,,,,,,,discontinued,,,/parts/mopar-gear-ring-ring~4428037.html
+12,5245072,GASKET Rear Oil Seal Retainer,,,,,,,,discontinued,,,
+13,2421305,BEARING Connecting Rod STD.,,,,20,1,,,available,22.29,17.51,/parts/mopar-brg-pkg-connecting-rod~2421305.html
+14,4643416,FLYWHEEL,,,,,,,,discontinued,,,
+15,6032296,NUT Hex .375-24,,,,10,1,,,unavailable,,,/parts/mopar-nut-hex~6032296.html
+16,4723538,BEARING PACKAGE Crankshaft Standard,,,,,,,Main -#1-2-4-5-6- White - Clear,discontinued,,,/parts/mopar-brg-pkg-crankshaft~4723538.html
+16,4723541,BEARING PACKAGE Crankshaft Standard,,,,,,,Main -#1-2-4-5-6- Orange,discontinued,,,/parts/mopar-brg-pkg-crankshaft~4723541.html
+16,4740292,BEARING PACKAGE Crankshaft Standard,,,,,,,Main -#1-2-4-5-6- Black,available,6.52,5.12,/parts/mopar-brg-pkg-crankshaft~4740292.html
+16,4883374AA,BEARING PACKAGE Crankshaft Standard,,,,,,,Main -#1-2-4-5-6- Yellow,discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883374aa.html
+17,4883686AA,BEARING PACKAGE Crankshaft Thrust,,,,,,,"[.001 Undersized,+.030 Outside Diameter]",available,294,13.46,/parts/mopar-brg-pkg-crankshaft~4883686aa.html
+17,4883687AA,BEARING PACKAGE Crankshaft Thrust,,,,,,,"[.002 Undersized,+.030 Outside Diameter]",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883687aa.html
+17,4883688AA,BEARING PACKAGE Crankshaft Thrust,,,,,,,"[.020 Undersized,+.030 Outside Diameter]",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883688aa.html
+17,4883690AA,BEARING PACKAGE Crankshaft Thrust,,,,,,,"[.010 Undersized, Standard,Outside Diameter]",available,106.49,83.68,/parts/mopar-brg-pkg-crankshaft~4883690aa.html
+18,4723540,BEARING PACKAGE Crankshaft Thrust Standard Size,,,,,,,White-Clear,discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4723540.html
+18,4723542,BEARING PACKAGE Crankshaft Thrust Standard Size,,,,,,,Orange,discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4723542.html
+18,4740293,BEARING PACKAGE Crankshaft Thrust Standard Size,,,,,,,Black,discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4740293.html
+18,4883375AA,BEARING PACKAGE Crankshaft Thrust Standard Size,,,,,,,Yellow,discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4883375aa.html
+19,4883682AA,BEARING PACKAGE Crankshaft,,,,,,,"[.001 Undersized, Main,+.030 Outside Diameter]",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883682aa.html
+19,4883683AA,BEARING PACKAGE Crankshaft,,,,,,,"[.002 Undersized, Main,+.030 Outside Diameter]",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883683aa.html
+19,4883684AA,BEARING PACKAGE Crankshaft,,,,,,,"[.010 Undersized, Main,+.030 Outside Diameter]",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883684aa.html
+19,4883689AA,BEARING PACKAGE Crankshaft,,,,,,,"[.010 Undersized, Main, Standard,Outside Diameter]",discontinued,,,/parts/mopar-brg-pkg-crankshaft~4883689aa.html
+20,5096020AA,"BEARING PACKAGE Crankshaft .009"" U/S",,,,,,,,discontinued,,,
+21,5096021AA,"BEARING PACKAGE Crankshaft thrust .009"" U/S",,,,,,,,discontinued,,,
+22,5096022AA,"BEARING PACKAGE Crankshaft .010"" U/S",,,,,,,,unavailable,,,/parts/mopar-brg-pkg-crankshaft~5096022aa.html
+23,5096023AA,"BEARING PACKAGE Crankshaft thrust .010"" U/S",,,,,,,,available,80.32,63.12,/parts/mopar-brg-pkg-crankshaft-thrust~5096023aa.html
+24,5096024AA,"BEARING PACKAGE Crankshaft .011"" U/S",,,,,,,,discontinued,,,
+25,5096025AA,"BEARING PACKAGE Crankshaft thrust .011"" U/S",,,,,,,,discontinued,,,
+26,6034749,KEY Crankshaft Sprocket,,,,,,,,available,6.8,4.6,/parts/mopar-key-woodruff~6034749.html
+27,5245110,DAMPER Crankshaft,,,,,,,,discontinued,,,/parts/mopar-damper-crankshaft~5245110.html
+28,6034504,WASHER Flat .78x1.94,,,,,,,,available,7.1,6.17,/parts/mopar-washer-flat~6034504.html
+29,6034505,SCREW Hex Head .75-16x2.25,,,,,,,,available,5.75,5.01,/parts/mopar-screw-hex-head~6034505.html
+30,6035470,BOLT Bearing Cap,,,,12,1,6036816AA,,available,17.85,12.47,/parts/mopar-bolt-hex-head~6035470.html
+31,6035665,BOLT Bearing Cap,,,,4,1,,,available,12.5,9.83,/parts/mopar-bolt~6035665.html
+32,6035469,STUD .562-12x5.670,,,,8,1,,,discontinued,,,/parts/mopar-stud~6035469.html

@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,5037330AD,COVER Transmission Dust,,,,,,,,discontinued,,,/parts/mopar-shield-clutch-housing-dust~5037330ad.html
+3,6035666,SCREW Hex Flange Head .25-20x1.00,,,,2,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+4,6036621AA,SCREW Hex Head .437-14x2.75,,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-head~6036621aa.html
+5,154927AA,SCREW,,,,4,1,,,available,4.43,3.48,/parts/mopar-screw~154927aa.html

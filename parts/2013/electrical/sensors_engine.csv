@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,5033307AC,SENSOR Crankshaft Position,,,,,,5033307AE,,available,133,95.97,/parts/mopar-sensor-crankshaft-position~5033307ac.html
+4,5149054AC,SENSOR Camshaft,,,,,,,,available,51.7,36.12,/parts/mopar-sensor-camshaft~5149054ac.html
+5,5033310AB,SENSOR MAP,,,,,,,,available,102,68.7,/parts/mopar-sensor-map~5033310ab.html
+6,68032079AA,CLIP,,,,,,,,available,3.6,3.15,/parts/mopar-clip~68032079aa.html
+7,5037945AA,SENSOR Mass Airflow,,,,2,1,5037945AB,,available,200,162.43,/parts/mopar-sensor-mass-airflow~5037945aa.html
+8,5033316AB,SENSOR Knock,,,,2,1,,,available,194,129.38,/parts/mopar-sensor-knock~5033316ab.html
+9,5149077AB,SENSOR Coolant Temperature,,,,,,,,available,67.9,47.24,/parts/mopar-sensor-fluid-temperature~5149077ab.html
+,5037678AC,SHIELD Crank Position Sensor,,,,,,,,available,35.35,24.82,/parts/mopar-shield-crank-position-sensor~5037678ac.html

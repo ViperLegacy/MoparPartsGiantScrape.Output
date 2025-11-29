@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5245237AB,SEPERATOR Ignition Cable,,,,4,1,,,discontinued,,,/parts/mopar-seperator-ignition-cable~5245237ab.html
+2,4883365AA,CABLE PACKAGE Ignition,,,,,,,,discontinued,,,/parts/mopar-cable-pkg-ignition~4883365aa.html
+3,4763781,WIRE Spark Plug,,,,,,,[#2],discontinued,,,/parts/mopar-wiring-spark-plug~4763781.html
+3,4763782,WIRE Spark Plug,,,,,,,[#3],discontinued,,,/parts/mopar-wiring-spark-plug~4763782.html
+3,4763783,WIRE Spark Plug,,,,,,,[#4],discontinued,,,/parts/mopar-wiring-spark-plug~4763783.html
+3,4763784,WIRE Spark Plug,,,,,,,[#5],discontinued,,,/parts/mopar-wiring-spark-plug~4763784.html
+3,4763785,WIRE Spark Plug,,,,,,,[#6],discontinued,,,/parts/mopar-wiring-spark-plug~4763785.html
+3,4763786,WIRE Spark Plug,,,,,,,[#7],discontinued,,,/parts/mopar-wiring-spark-plug~4763786.html
+3,4763787,WIRE Spark Plug,,,,,,,[#8],discontinued,,,/parts/mopar-wiring-spark-plug~4763787.html
+3,4763788,WIRE Spark Plug,,,,,,,[#9],discontinued,,,/parts/mopar-wiring-spark-plug~4763788.html
+3,4763789,WIRE Spark Plug,,,,,,,[#10],discontinued,,,/parts/mopar-wiring-spark-plug~4763789.html
+4,SP0RC12LYC,SPARK PLUG,,,,,,68304020AA,,available,15.25,10.66,/parts/mopar-plug~sp0rc12lyc.html
+6,56032520,COIL Ignition,,,,,,,,discontinued,,,/parts/mopar-coil-ign-ignition~56032520.html
+7,56032521,COIL Ignition,,,,,,,,discontinued,,,/parts/mopar-coil-ignition~56032521.html
+,53020419,SHIELD Heat,,,,10,1,,,discontinued,,,/parts/mopar-shield-heat~53020419.html

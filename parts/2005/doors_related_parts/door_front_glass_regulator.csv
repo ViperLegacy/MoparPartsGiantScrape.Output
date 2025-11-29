@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865616AB,GLASS Door With Liftplate,Right,,,,,,,available,359,288.79,/parts/mopar-glass-front-door~4865616ab.html
+2,4512685,BUSHING Door Glass Liftplate to Glass,,,,2,1,,,available,8.05,5.96,/parts/mopar-bushing-door-glass~4512685.html
+3,4512684,RETAINER Glass to Liftplate,,,,2,1,,,discontinued,,,/parts/mopar-retainer-glass-to-liftplate~4512684.html
+4,6504791,"SCREW TAPPING, BUTTON HEAD M6 X 1.00 X 18.00",,,,2,1,,,discontinued,,,/parts/mopar-screw-tapping-button-head~6504791.html
+5,6101694,NUT M6x1.00,,,,10,1,,,available,9.35,6.52,/parts/mopar-nut~6101694.html
+6,4865610AC,REGULATOR Front Door Window,Right,,,,,4865610AI,,available,1180,773.3,/parts/mopar-regulator-front-door-window~4865610ac.html
+7,5029626AA,REINFORCEMENT Window Regulator,,,,10,1,,,available,0.8,0.52,/parts/mopar-reinfmnt-window-regulator~5029626aa.html
+,4396294,STABILIZER Door Glass,,,,2,1,,,discontinued,,,/parts/mopar-bracket-door-glass~4396294.html
+,4658734AC,"STABILIZER Door Glass Belt Includes item #9, Bracket, Rivet",,,,2,1,,,discontinued,,,/parts/mopar-stable-door-glass-belt~4658734ac.html

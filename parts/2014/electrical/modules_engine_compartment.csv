@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5035357AC,MODULE Engine Controller,,,,,,,,available,2560,1677.11,/parts/mopar-module-engine-controller~5035357ac.html
+2,5181368AB,COVER Module,,,,,,,,available,11.05,8.91,/parts/mopar-cover-module~5181368ab.html
+3,6509674AA,BOLT Hex Flange Head M5X0.8X55.00,,,,3,1,,,available,2.25,1.51,/parts/mopar-screw-hex-flange-head~6509674aa.html
+4,5043011AC,MODULE A/C And Heater,,,,,,,Up To 11/08/2013,available,175,115.88,/parts/mopar-control-a-c-and-heater~5043011ac.html

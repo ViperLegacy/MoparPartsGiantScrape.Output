@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5103065AC,TRANSMISSION 6 speed,,,,,,RL103065AE,,discontinued,,,/parts/mopar-trans-6-speed~5103065ac.html
+2,6035470,BOLT,,,,4,1,6036816AA,,available,17.85,12.47,/parts/mopar-bolt-hex-head~6035470.html
+3,154927AA,SCREW,,,,4,1,,,available,4.43,3.48,/parts/mopar-screw~154927aa.html
+4,6036621AA,SCREW Hex Head .437-14x2.75,,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-head~6036621aa.html

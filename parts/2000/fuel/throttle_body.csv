@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6035666,SCREW Hex Flange Head .25-20x1.00,,,,2,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+2,4763766,THROTTLE BODY,Right,,,,,,,discontinued,,,/parts/mopar-t-body~4763766.html
+3,4874371AB,SENSOR Throttle Position,,,,,,,,discontinued,,,/parts/mopar-sensor-throttle-position~4874371ab.html
+4,4848126,GASKET Throttle Body To Intake,,,,2,1,,,discontinued,,,/parts/mopar-gasket-throttle-body-to-intake~4848126.html
+5,5245749AB,MOTOR AND BODY IACV,,,,,,,,discontinued,,,/parts/mopar-motor-iacv~5245749ab.html
+6,6035666,SCREW Hex Flange Head .25-20x1.00,,,,8,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+7,4778637AB,MOTOR KIT A.I.S.,,,,,,,,discontinued,,,/parts/mopar-motor-a-i-s~4778637ab.html
+8,5245373,GASKET A.I.S. Motor,,,,,,,,discontinued,,,/parts/mopar-gasket-a-i-s-motor~5245373.html
+9,4763805,HOSE A.I.S. Supply,,,,,,,,discontinued,,,/parts/mopar-hose-a-i-s-supply~4763805.html
+10,53009672,CONNECTOR Emission Hose,,,,,,,,discontinued,,,/parts/mopar-connector-emission-hose~53009672.html

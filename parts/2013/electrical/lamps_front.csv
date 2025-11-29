@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68207853AA,COVER,,,,,,,,available,25.25,17.13,/parts/mopar-cover~68207853aa.html
+2,L0000D3S,BULB Headlamp D3S,,,,,,,,available,405,270.95,/parts/mopar-headlamp-headlamp~l0000d3s.html
+3,68111652AC,HEADLAMP,,,,,,,Right [LMC],unavailable,1460,1209.1,/parts/mopar-headlamp~68111652ac.html
+3,68145248AB,HEADLAMP,,,,,,68145248AC,Right [LMP],available,1460,1209.1,/parts/mopar-headlamp~68145248ab.html
+3,68145249AB,HEADLAMP,,,,,,68145249AC,Left [LMP],available,1460,1209.1,/parts/mopar-headlamp~68145249ab.html
+4,153624,BULB W3W,,,,,,,,available,9.95,6.93,/parts/mopar-bulb~153624.html
+5,68194269AA,LAMP Side Marker,Left,,,,,68194269AB,,discontinued,,,/parts/mopar-lamp-side-marker~68194269aa.html
+6,6102244AA,NUT,,,,4,1,,,available,3.9,2.68,/parts/mopar-nut~6102244aa.html
+7,68170821AA,MODULE HID Ballast,,,,,,,,available,671,442.2,/parts/mopar-module-hid-ballast~68170821aa.html
+8,6508913AA,BOLT AND CONED WASHER Hex Head M6x1x20,,,,2,1,,,available,3.9,2.68,/parts/mopar-screw-hex-head~6508913aa.html
+9,6509367AA,NUT M6x1.00,,,,6,1,,,available,3.8,2.62,/parts/mopar-nut~6509367aa.html
+10,4389440,CAP Wiper Arm Nut,,,,,,,,available,28.9,20.15,/parts/mopar-cap-wiper-arm-nut~4389440.html

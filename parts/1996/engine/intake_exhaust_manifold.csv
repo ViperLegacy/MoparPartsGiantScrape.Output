@@ -1,0 +1,28 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763758,"MANIFOLD ASSEMBLY, Intake, Partial",,,29,,,,,discontinued,,,/parts/mopar-manifold-intake~4763758.html
+1,5245637,"MANIFOLD ASSEMBLY, Intake, Partial",,,,,,,"1993, From, Serial #105 To, Serial #1421",discontinued,,,
+1,5245651,"MANIFOLD ASSEMBLY, Intake, Partial",,,,,,,"1992-93, Up To, Serial #104",discontinued,,,
+1,R4763401,"MANIFOLD ASSEMBLY, Intake, Partial",,,27,,,,"MANIFOLD, Intake",discontinued,,,
+1,R5245637,"MANIFOLD ASSEMBLY, Intake, Partial",,,,,,,"MANIFOLD, Intake",discontinued,,,/parts/mopar-manifold-intake~r5245637.html
+1,R5245651,"MANIFOLD ASSEMBLY, Intake, Partial",,,,,,,"MANIFOLD, Intake",discontinued,,,
+2,6034166,"PLUG, AIS Passage",,,,,,,,discontinued,,,/parts/mopar-plug-cylinder-block-oil-hole~6034166.html
+3,6034582,"SCREW, Manifold, (5/16-18x1.125)",,,,20,1,,,available,14,11,/parts/mopar-screw-header-pt~6034582.html
+4,5245194,"GASKET, Intake Manifold To Head",,,,2,,,,discontinued,,,
+5,4848339,"GASKET, Exhaust Manifold",,,29,2,1,5004014AA,,discontinued,,,/parts/mopar-manifold-exhaust-manifold~4848339.html
+6,4763771,"MANIFOLD, Exhaust",,,,,,,"1996, Lt.",discontinued,,,/parts/mopar-manifold-exhaust~4763771.html
+6,5245600,"MANIFOLD, Exhaust",,1992,,2,,,,discontinued,,,
+6,5245610,"MANIFOLD, Exhaust",,,,,,,"1993-95, Rt., After, Serial #105",discontinued,,,
+6,5245611,"MANIFOLD, Exhaust",,,,,,,"1993-95, Lt., After, Serial #105",discontinued,,,/parts/mopar-manifold-exhaust-lt-mach~5245611.html
+6,5245700,"MANIFOLD, Exhaust",,,,2,1,,"1993, Up To, Serial #104",discontinued,,,/parts/mopar-manifold-exhaust~5245700.html
+7,6034595,"WASHER, Lock",,,,20,1,,,available,8.3,5.78,/parts/mopar-washer-conical~6034595.html
+8,6034596,"BOLT, Exhaust Manifold, (5/16-18x1.5)",,,,10,1,,,discontinued,,,/parts/mopar-bolt-hex-head~6034596.html
+9,6034658,"STUD, Manifold and Heat Shield, (5/16-18x5/16-24x2.22)",,,,10,1,,,available,22.25,13.53,/parts/mopar-stud~6034658.html
+10,5245597,"NUT, Hex Flanged, w/2-Piece Manifold, (5/16-24), 1992-93",,,,16,,,,discontinued,,,
+11,5245642,"HEAT SHIELD, Exhaust",,,,2,,,"1993-96, After, Serial #105, w/1-Piece Manifold",discontinued,,,
+12,5245598,"STUD, w/2-Piece Manfold, (5/16-18/5/16-24x1.625), 1992-93",,,,16,1,,,discontinued,,,/parts/mopar-stud-exhaust~5245598.html
+13,5245583,"GASKET, Exhaust Outlet, w/2-Piece Manifold, 1992-93",,,,2,,,,discontinued,,,
+14,5245605,"EXTENSION ASSEMBLY, Exhaust Manifold",,,,,,,"Left, 1992-93",discontinued,,,
+15,5245585,"HEAT SHIELD, Crankshaft Position Sensor",,,,,,,,discontinued,,,/parts/mopar-shield-crank-position-sensor~5245585.html
+16,6034856,"NUT, w/Washer, Heat Shield, (5/16x24)",,,,6,1,,,available,15.34,12.05,/parts/mopar-nut~6034856.html
+17,4763414,"CUP PLUG, Intake Manifold",,,,,,,,discontinued,,,/parts/mopar-plug-cylinder-block-oil-hole~4763414.html
+18,5245193,"VALVE, Pressure Relief",,,,,,,,discontinued,,,/parts/mopar-valve-shrader~5245193.html

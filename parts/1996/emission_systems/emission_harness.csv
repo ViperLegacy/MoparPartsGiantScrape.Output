@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848014,"HARNESS, Purge",,,27,,,,(1996),available,7.3,5.74,/parts/mopar-harness-canister-purge~4848014.html
+1,5245623,"HARNESS, Purge",,1992-95,,,,,,discontinued,,,/parts/mopar-canister-purge-harness-asm~5245623.html
+2,4763831,"HARNESS, Duty Cycle Purge",,1996,,,,,,discontinued,,,/parts/mopar-harness-purge-body~4763831.html
+3,4762085,"BRACKET, Duty Cycle Purge Solenoid",,1996,,,,,,available,14.35,11.28,/parts/mopar-bracket-duty-cycle-purge-solenoid~4762085.html
+4,6015756,"TIE STRAP, Purge Harness",,,,,,4641780,,available,0.45,0.29,/parts/mopar-tiestrap~6015756.html
+5,4669475,"SOLENOID, Duty Cycle Purge",,1996,,,,,,discontinued,,,
+6,6100047,"NUT, Solenoid Bracket",,1992-95,,,,,,available,9.35,6.52,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+7,6100270,"SCREW, w/Washer, 1996",,,,,,,,available,6.6,5.19,/parts/mopar-screw~6100270.html
+8,4275637,"ELBOW, Duty Cycle Purge Harness, (90 Degree 1/ 4x1/4)",,,,,,,,discontinued,,,/parts/mopar-elbow-vapor-tube-harness~4275637.html

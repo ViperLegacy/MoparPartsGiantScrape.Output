@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5VT59DX9AA,CARPET Front Floor,,,,,,,Right [CKC],available,895,590.7,/parts/mopar-carpet-front-floor~5vt59dx9aa.html
+2,5VT58DX9AB,CARPET Front Floor,,,,,,5VT58DX9AC,[CKC],available,950,649.8,/parts/mopar-carpet-front-floor~5vt58dx9ab.html
+5,1WS41DX9AC,CARPET Insert Upper,,,,,,,Left [CKB],available,180,150.75,/parts/mopar-carpet-insert~1ws41dx9ac.html
+6,5NN53DX9AB,CARPET Rear Shelf,,,,,,,,available,616,500.5,/parts/mopar-carpet-trunk~5nn53dx9ab.html
+7,4865929AF,FOOTREST,,,,,,,,available,122,98.83,/parts/mopar-footrest~4865929af.html
+8,5290331AB,CAP Footrest Attach,,,,2,1,,,available,,3.93,/parts/mopar-plug~5290331ab.html
+9,6101630,SCREW AND WASHER Hex Head M6X1.00X30.00 Footrest Attach,,,,2,1,,,available,1.9,1.28,/parts/mopar-screw-hex-head~6101630.html
+10,5290332AA,RETAINER Footrest Attach,,,,2,1,,,available,,3.93,/parts/mopar-retainer~5290332aa.html
+11,5290365AB,WASHER Footrest Attach,,,,2,1,,,available,5.7,4.01,/parts/mopar-washer-none~5290365ab.html
+12,5290322AB,SPACER Footrest To Frame,,,,2,1,,,available,6.45,4.95,/parts/mopar-spacer~5290322ab.html
+13,68172216AB,INSULATOR Cowl Side Inner Right,,,,,,,,available,60.95,53.18,/parts/mopar-insulator~68172216ab.html
+14,68172217AB,INSULATOR Cowl Side Inner Left,,,,,,,,available,58.6,51.09,/parts/mopar-insulator~68172217ab.html
+15,68172222AB,INSULATOR Sill Inner Right,,,,,,,,available,46.55,40.6,/parts/mopar-insulator~68172222ab.html
+16,68172223AB,INSULATOR Sill Inner Left,,,,,,,,available,48.15,41.94,/parts/mopar-insulator~68172223ab.html
+17,68229934AA,INSULATION Cowl Front Right,,,,,,,,available,46.95,32.79,/parts/mopar-insulatio-cowl-front~68229934aa.html
+18,68229935AA,INSULATION Cowl Front Left,,,,,,,,available,50.75,35.42,/parts/mopar-insulatio-cowl-front~68229935aa.html
+,1UL77DX9AC,MAT KIT Floor - Front,,,,,,,[-V5][-X9][-XY],available,142,108.96,/parts/mopar-mat-kit-floor-front~1ul77dx9ac.html
+,1UL77LV5AC,MAT KIT Floor - Front,,,,,,,[-VV][-VX],available,151,126,/parts/mopar-mat-kit-floor-front~1ul77lv5ac.html
+,1UL77XR4AC,MAT KIT Floor - Front,,,,,,,[-XR],available,111,92.7,/parts/mopar-mat-kit-floor-front~1ul77xr4ac.html
+,82213429,MAT KIT Floor - Front,,,,,,,"Black With Red Inner, Gray Stitching, Viper Logo",discontinued,,,/parts/mopar-mat-kit-floor-front~82213429.html
+,82213560,MAT KIT Floor - Front,,,,,,,"Black With Cognac Inner, Gray Stitching, Viper Logo",discontinued,,,/parts/mopar-mat-kit-floor-front~82213560.html
+,82214080,MAT KIT Floor - Front,,,,,,,"Black With Black Inner, Gray Stitching, Viper Logo",available,119,89.26,/parts/mopar-accessories_mat_kit_floor_front-82214080.html

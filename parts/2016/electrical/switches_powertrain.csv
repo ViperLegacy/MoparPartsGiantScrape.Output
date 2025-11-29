@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5149064AA,SENDING UNIT Oil Pressure,,,,,,5149064AB,,available,85.7,57.83,/parts/mopar-switch-oil-pressure~5149064aa.html
+2,5149077AB,SENSOR Fluid Temperature,,,,,,,,available,67.9,47.24,/parts/mopar-sensor-fluid-temperature~5149077ab.html
+3,5037678AC,SHIELD Sensor,,,,,,,,available,35.35,24.82,/parts/mopar-shield-crank-position-sensor~5037678ac.html
+4,6508686AA,STUD Double Ended,,,,,,,,available,6.45,4.43,/parts/mopar-stud-double-ended~6508686aa.html
+5,5033307AC,SENSOR Crankshaft Position,,,,,,5033307AE,,available,133,95.97,/parts/mopar-sensor-crankshaft-position~5033307ac.html
+6,6505316AA,NUT Hex Flange Lock M6X1.00,,,,,,,,available,7.2,4.89,/parts/mopar-nut-hex-flange-lock~6505316aa.html
+7,68056417AA,SWITCH Back Up Lamp,,,,,,68294034AA,,available,238,157.5,/parts/mopar-switch-back-up-lamp~68056417aa.html
+8,68029166AA,SOLENOID Transmission Skip Shift,,,,,,,,available,226,150.75,/parts/mopar-solenoid-transmission-skip-shift~68029166aa.html
+9,4762008,BOLT,,,,,,,,discontinued,,,
+10,68029168AA,SOLENOID ASSEMBLY Reverse Lockout,,,,,,,,available,388,273.13,/parts/mopar-solenoid-reverse-lockout~68029168aa.html
+11,5149054AC,SENSOR Camshaft,,,,,,,,available,51.7,36.12,/parts/mopar-sensor-camshaft~5149054ac.html
+12,6502993,BOLT Hex Flange Head M6x1.00x12.00,,,,,,,,available,3.1,2.1,/parts/mopar-bolt-hex-flange-head~6502993.html
+13,6101759,SCREW AND WASHER Hex Head M8x1.25x35,,,,2,1,,,available,3.1,2.1,/parts/mopar-screw-hex-head~6101759.html
+14,5033316AB,SENSOR Knock,,,,2,1,,,available,194,129.38,/parts/mopar-sensor-knock~5033316ab.html
+15,5149077AB,SENSOR Fluid Temperature,,,,,,,,available,67.9,47.24,/parts/mopar-sensor-fluid-temperature~5149077ab.html

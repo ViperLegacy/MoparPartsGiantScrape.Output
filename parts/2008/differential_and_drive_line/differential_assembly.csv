@@ -1,0 +1,49 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5191197AA,NUT Pinion,,,,,,,,available,,14.51,/parts/mopar-nut-pinion~5191197aa.html
+2,1795175,WASHER Pinion,,,,,,,,available,7,4.83,/parts/mopar-washer-pinion~1795175.html
+3,5093385AA,YOKE Drive Shaft,,,,,,,,available,111,94.03,/parts/mopar-yoke-drive-shaft~5093385aa.html
+4,5019843AA,SEAL Drive Pinion,,,,,,,,discontinued,,,/parts/mopar-seal-drive-pinion~5019843aa.html
+5,4856368,SHIM KIT Pinion Shaft 0.035 to 0.039,,,,,,,,available,105,66.67,/parts/mopar-shim-kit-pinion-shaft~4856368.html
+9,4626696,SEAL Axle Drive Shaft,,,,2,1,,,available,35.05,24.35,/parts/mopar-seal-axle-drive-shaft~4626696.html
+10,4864214,SPACER Drive Pinion Bearing,,,,,,,,available,32.3,22.37,/parts/mopar-spacer-drive-pinion-bearing~4864214.html
+11,5093384AA,GEAR KIT Ring And Pinion,,,,,,,,available,556,447.7,/parts/mopar-gear-kit-ring-and-pinion~5093384aa.html
+12,5038236AB,CASE Differential,,,,,,5038236AF,,available,4735,3118.5,/parts/mopar-differntl-differential~5038236ab.html
+13,5012810AC,BOLT KIT Ring Gear 7/16-20x0.750,,,,,,,,available,56.45,39.26,/parts/mopar-bolt-kit-ring-gear~5012810ac.html
+14,68046923AA,BEARING KIT Differential Side,,,,,,,,discontinued,,,/parts/mopar-bearingki-differential-side~68046923aa.html
+15,68046911AA,BEARING Axle Shaft,,,,2,1,,,available,26,20.15,/parts/mopar-bearing-axle-shaft~68046911aa.html
+16,4746867,SLINGER Drive Pinion,,,,,,,,available,13.6,9.32,/parts/mopar-slinger-drive-pinion~4746867.html
+17,68027861AA,O RING,,,,2,1,,,available,2.3,1.34,/parts/mopar-seal~68027861aa.html
+18,5069009AA,SNAP RING Axle Shaft,,,,2,1,,,available,22.75,15.84,/parts/mopar-ring-axle-shaft~5069009aa.html
+19,68027872AC,SHAFT Axle Intermediate,,,,,,,,available,282,225.23,/parts/mopar-shaft-axle-intermediate~68027872ac.html
+20,68046925AA,BEARING KIT Drive Pinion,,,,,,,,available,76.65,62.04,/parts/mopar-bearing-drive-pinion~68046925aa.html
+21,68046924AA,BEARING KIT Drive Pinion,,,,,,,,available,63.9,55.22,/parts/mopar-bearing-drive-pinion~68046924aa.html
+22,68027873AC,SHAFT Axle Intermediate,,,,,,,,discontinued,,,/parts/mopar-shaft-axle-intermediate~68027873ac.html
+43,5013882AA,SHIM KIT Differential,,,,,,,,available,93.5,63.17,/parts/mopar-shim-kit-differential~5013882aa.html
+,5017376AA,SHIM Differential Bearing,,,,,,,[.132 SHIM FOR MODEL 44] Serviced in 5013882aa Kit,discontinued,,,/parts/mopar-shim-differential-bearing~5017376aa.html
+,5017377AA,SHIM Differential Bearing,,,,,,,[.133 SHIM FOR MODEL 44] Serviced in 5013882aa Kit,available,36.2,25.22,/parts/mopar-shim-differential-bearing~5017377aa.html
+,5017378AA,SHIM Differential Bearing,,,,,,,[.134 SHIM FOR MODEL 44] Serviced in 5013882aa Kit,available,35.9,27.18,/parts/mopar-shim-differential-bearing~5017378aa.html
+,5017383AA,SHIM Differential Bearing,,,,,,,[.135 SHIM FOR MODEL 44] Serviced in 5013882aa Kit,available,38.25,26.62,/parts/mopar-shim-differential-bearing~5017383aa.html
+,68014932AA,SHIM Drive Pinion Bearing 0.035,,,,,,,,available,17.15,11.82,/parts/mopar-shim-drive-pinion-bearing~68014932aa.html
+,68014933AA,SHIM Drive Pinion Bearing 0.036,,,,,,,,available,17.2,11.82,/parts/mopar-shim-drive-pinion-bearing~68014933aa.html
+,68014934AA,SHIM Drive Pinion Bearing 0.037,,,,,,,,available,17.45,12,/parts/mopar-shim-drive-pinion-bearing~68014934aa.html
+,68014935AA,SHIM Drive Pinion Bearing 0.038,,,,,,,,available,17.45,12,/parts/mopar-shim-drive-pinion-bearing~68014935aa.html
+,68014936AA,SHIM Drive Pinion Bearing 0.039,,,,,,,,available,16.75,11.65,/parts/mopar-shim-drive-pinion-bearing~68014936aa.html
+,5017332AA,SHIM Drive Pinion Bearing 0.040,,,,,,,,available,16.5,11.42,/parts/mopar-shim-drive-pinion-bearing~5017332aa.html
+,5017333AA,SHIM Drive Pinion Bearing 0.041,,,,,,,,available,16.55,11.42,/parts/mopar-shim-drive-pinion-bearing~5017333aa.html
+,5017334AA,SHIM Drive Pinion Bearing 0.042,,,,,,,,available,16.5,11.42,/parts/mopar-shim-drive-pinion-bearing~5017334aa.html
+,5017335AA,SHIM Drive Pinion Bearing 0.043,,,,,,,,available,16.5,11.42,/parts/mopar-shim-drive-pinion-bearing~5017335aa.html
+,5017336AA,SHIM Drive Pinion Bearing 0.044,,,,,,,,available,18.55,12.82,/parts/mopar-shim-drive-pinion-bearing~5017336aa.html
+,5017337AA,SHIM Drive Pinion Bearing 0.045,,,,,,,,available,16.75,11.59,/parts/mopar-shim-drive-pinion-bearing~5017337aa.html
+,5017338AA,SHIM Drive Pinion Bearing 0.046,,,,,,,,available,16.85,11.59,/parts/mopar-shim-drive-pinion-bearing~5017338aa.html
+,5017339AA,SHIM Drive Pinion Bearing 0.047,,,,,,,,available,16.75,11.59,/parts/mopar-shim-drive-pinion-bearing~5017339aa.html
+,5017340AA,SHIM Drive Pinion Bearing 0.048,,,,,,,,available,15.4,10.66,/parts/mopar-shim-drive-pinion-bearing~5017340aa.html
+,5017341AA,SHIM Drive Pinion Bearing 0.049,,,,,,,,available,16.75,14.51,/parts/mopar-shim-drive-pinion-bearing~5017341aa.html
+,5017342AA,SHIM Drive Pinion Bearing 0.050,,,,,,,,available,19.75,13.63,/parts/mopar-shim-drive-pinion-bearing~5017342aa.html
+,5017343AA,SHIM Drive Pinion Bearing 0.051,,,,,,,,available,19.7,13.63,/parts/mopar-shim-drive-pinion-bearing~5017343aa.html
+,5017344AA,SHIM Drive Pinion Bearing 0.052,,,,,,,,available,19.7,13.63,/parts/mopar-shim-drive-pinion-bearing~5017344aa.html
+,5017345AA,SHIM Drive Pinion Bearing 0.053,,,,,,,,available,18.8,12.99,/parts/mopar-shim-drive-pinion-bearing~5017345aa.html
+,5017346AA,SHIM Drive Pinion Bearing 0.054,,,,,,,,available,20.45,14.21,/parts/mopar-shim-drive-pinion-bearing~5017346aa.html
+,4856369,SHIM KIT Pinion Shaft 0.040 to 0.044,,,,,,,,available,107,70.54,/parts/mopar-shim-kit-pinion-shaft~4856369.html
+,4856370,SHIM KIT Pinion Shaft 0.045 to 0.049,,,,,,,,available,70.9,49.34,/parts/mopar-shim-kit-pinion-shaft~4856370.html
+,4856371,SHIM KIT Pinion Shaft 0.050 to 0.054,,,,,,,,available,75.4,52.48,/parts/mopar-shim-kit-pinion-shaft~4856371.html
+,68184320AA,SNAP RING Differential,,,,2,1,,,available,6.7,5.13,/parts/mopar-ring-differential~68184320aa.html

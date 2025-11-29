@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68110793AA,DOOR Fuel Fill,,,,,,5YW75SZ6AB,,available,1255,846.37,/parts/mopar-door-fuel-fill~68110793aa.html
+2,6102244AA,NUT,,,,4,1,,,available,3.9,2.68,/parts/mopar-nut~6102244aa.html
+3,5181503AC,TUBE Fuel Filler,,,,,,,,discontinued,,,
+4,68193089AA,WIRING Ground Jumper,,,,,,,,discontinued,,,
+5,5181883AA,HOSE Fuel Filler Tube,,,,,,,,available,182,143.26,/parts/mopar-hose-fuel-filler-tube~5181883aa.html
+6,68193083AA,TUBE Fuel Vapor Recirculation,,,,,,,,discontinued,,,
+7,68158775AA,FUNNEL Fuel Tank Filler Tube,,,,,,68158775AC,,available,33.7,23.36,/parts/mopar-funnel-fuel-tank-filler-tube~68158775aa.html
+8,6502720,NUT Hex Flange Lock M8x1.25,,,,,,,,available,7.55,5.24,/parts/mopar-nut-hex-flange-lock~6502720.html
+9,6104392AA,BOLT AND CONED WASHER Hex Head M8X1.25X40.00,,,,,,,,available,6.8,4.6,/parts/mopar-bolt-hex-head~6104392aa.html

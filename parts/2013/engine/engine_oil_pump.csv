@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037947AA,ROTOR SET Oil Pump,,,,,,,,available,410,274.1,/parts/mopar-rotor-oil-pump~5037947aa.html
+2,5037942AB,COVER Engine Oil Pump,,,,,,,,available,241,167.42,/parts/mopar-cover-engine-oil-pump~5037942ab.html
+3,6505388AA,BOLT Torx M6X1.00X18.00,,,,9,1,,,available,2.7,1.86,/parts/mopar-bolt-torx~6505388aa.html
+4,5037929AB,BODY Oil Pump Pressure,,,,,,,,discontinued,,,/parts/mopar-body-oil-pump-pressure~5037929ab.html

@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848421,LAMP Tail Stop Turn,Left,,,,,,,discontinued,,,/parts/mopar-lamp-tail-stop-turn~4848421.html
+4,4848422,WIRING Taillamp,,,,,,,,available,17.17,13.49,/parts/mopar-wiring-taillamp~4848422.html
+8,L0000168,BULB 168,,,27,2,1,,"License, CHMSL",available,10.5,7.34,/parts/mopar-bulb~l0000168.html
+10,4642571,LAMP High Mounted Stop,,,,,,,,discontinued,,,/parts/mopar-lamp-high-mounted-stop~4642571.html
+11,4848203,GROMMET Lamp,,,,,,,,available,34.67,27.25,/parts/mopar-seal-lamp~4848203.html
+12,4643601,BRACKET High Mounted Stop Lamp,,,,,,,,discontinued,,,/parts/mopar-bracket-high-mounted-stop-lamp~4643601.html
+13,34201942,CLIP Panel Fastener,,,,2,1,,,discontinued,,,/parts/mopar-retainer-panel-fastener~34201942.html
+16,4642910,PANEL Chmsl Cover,,,,,,,,discontinued,,,/parts/mopar-panel-center-high-mounted-stop-li~4642910.html
+18,6034756,RIVET Blind .156x.460,,,27,10,1,,,discontinued,,,/parts/mopar-rivet-blind~6034756.html
+19,4763042,LAMP Liftgate Chmsl,,,,,,,,discontinued,,,/parts/mopar-lamp-liftgate-chmsl~4763042.html

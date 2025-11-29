@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4886458AA,FRAME,,,,,,,Right Rear,available,535.06,420.47,/parts/mopar-rail~4886458aa.html
+1,4886459AA,FRAME,,,,,,,Left Rear,discontinued,,,/parts/mopar-freight-parts~4886459aa.html
+2,4886314AA,FRAME Front Clip,,,,,,,,discontinued,,,
+3,4848657,CROSSMEMBER Front Frame,,,,,,,,available,578.07,454.27,/parts/mopar-c-member-front-frame~4848657.html
+7,4763524AB,CROSSMEMBER Differential,,,,,,,,discontinued,,,/parts/mopar-c-member-differential~4763524ab.html
+8,6102073AA,SCREW Hex Flange Head M10x1.5x65,,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-flange-head~6102073aa.html
+9,6502696,NUT Hex Flange Lock M14x1.50,,,,3,1,,,available,7.2,4.89,/parts/mopar-nut-hex-flange-lock~6502696.html
+10,4708053,STRUT Support to Upper Rail,Left,,,,,,,discontinued,,,/parts/mopar-reinfmnt-support-to-upper-rail~4708053.html
+11,6101780,SCREW M6x1x25 to Upper Radiator,,,,2,,,,discontinued,,,
+12,6025335,SCREW,,,,4,1,,,discontinued,,,/parts/mopar-screw~6025335.html
+,4848653,BRACKET Sportbar,,,,2,1,,,discontinued,,,/parts/mopar-bracket-sportbar~4848653.html
+,6503571,SCREW AND WASHER M10x1.50x35,,,,3,1,6502467,,available,11.15,7.75,/parts/mopar-screw~6503571.html
+,4848656,STUD PLATE Sport Bar Support Bracket,,,,2,1,,,available,7.93,6.24,/parts/mopar-plate-sport-bar-support-bracket~4848656.html

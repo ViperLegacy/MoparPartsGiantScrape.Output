@@ -1,0 +1,51 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1WQ64LV5AB,GRILLE Defroster,,,,,,1WQ64LV5AC,"[-VX], [RC5] OR [RCA]",available,249,167.63,/parts/mopar-grille-defroster~1wq64lv5ab.html
+2,68203408AA,DUCT Air Distribution,,,,,,,,available,113,76.28,/parts/mopar-duct-air-distribution~68203408aa.html
+3,68207010AA,CARRIER Instrument Panel,,,,,,,,available,285,186.12,/parts/mopar-carrier-instrument-panel~68207010aa.html
+4,5NK50XR4AA,OUTLET Air Conditioning & Heater,,,,4,1,,"[-RX], [JAB]",available,467,312.2,/parts/mopar-outlet-air-conditioning-heater~5nk50xr4aa.html
+4,5NK50YSAAA,OUTLET Air Conditioning & Heater,,,,4,1,5NK50SZ6AA,"[-X9], [JAA][-X9], [JAB]",available,589,388.3,/parts/mopar-outlet-air-conditioning-heater~5nk50ysaaa.html
+4,5NK50YSAAA,OUTLET Air Conditioning & Heater,,,,,,5NK50SZ6AA,"[-X9], [JAB][-X9], [JAB], [ARZ][-X9], [JAC]",available,589,388.3,/parts/mopar-outlet-air-conditioning-heater~5nk50ysaaa.html
+5,1YW76DX9AB,GLOVE BOX Opening,,,,,,,,available,142,95.06,/parts/mopar-bezel-opening~1yw76dx9ab.html
+6,68191399AA,LATCH Glovebox Door,,,,,,,,available,150,99.68,/parts/mopar-latch-glovebox-door~68191399aa.html
+7,5NK69DX9AA,GLOVE BOX Instrument Panel,,,,,,,"[-X9], [JAB][-X9], [JAB], [ARZ]",available,862,568.7,/parts/mopar-glove-box-instrument-panel~5nk69dx9aa.html
+7,5NS61DX9AA,GLOVE BOX Instrument Panel,,,,,,,"[-X9], [JAC]",available,648,534.6,/parts/mopar-glove-box-instrument-panel~5ns61dx9aa.html
+7,5NS61LV5AA,GLOVE BOX Instrument Panel,,,,,,,"[-VX], [JAC]",available,810,533.5,/parts/mopar-glove-box-instrument-panel~5ns61lv5aa.html
+9,4865537AB,HINGE Glovebox,,,,,,,,available,54.65,46.83,/parts/mopar-hinge-glovebox~4865537ab.html
+10,5NK86DX9AA,BEZEL Instrument Panel Center,,,,,,,"[-KX], [X81], [JAB], [XSQ], [ARZ][-RX], [X81], [JAB], [XSQ], [ARZ][-X9], [JAB], [ARZ][-X9], [X81], [JAB], [XSQ], [ARZ]...View More",available,667,541.2,/parts/mopar-bezel-instrument-panel~5nk86dx9aa.html
+10,5NK86LK5AA,BEZEL Instrument Panel Center,,,,,,5NK86DX9AA,"[-KX], [X81], [JAB][-KX], [X81], [JAB], [XSQ]",available,667,560.88,/parts/mopar-bezel-instrument-panel~5nk86lk5aa.html
+10,5NK86XR4AA,BEZEL Instrument Panel Center,,,,,,5NK86DX9AA,"[-RX], [X81], [JAB][-RX], [X81], [JAB], [XSQ]",available,667,560.88,/parts/mopar-bezel-instrument-panel~5nk86xr4aa.html
+10,5NK86YSAAA,BEZEL Instrument Panel Center,,,,,,5NK86DX9AA,"[-X9], [X81], [JAB][-X9], [X81], [JAB], [XSQ]",available,667,560.88,/parts/mopar-bezel-instrument-panel~5nk86ysaaa.html
+10,5NS24DX9AB,BEZEL Instrument Panel Center,,,,,,,"[-X9], [JAC]",available,1010,665.5,/parts/mopar-bezel-instrument-panel~5ns24dx9ab.html
+10,5NS24LV5AA,BEZEL Instrument Panel Center,,,,,,5NS24LV5AB,"[-VX], [JAC]",available,897,613.32,/parts/mopar-bezel-instrument-panel~5ns24lv5aa.html
+11,5LX97DX9AB,COVER Steering Column Opening,,,,,,5LX97DX9AD,"[-X9], [JAC]",available,1200,811.34,/parts/mopar-cover-steering-column-opening~5lx97dx9ab.html
+11,5LX97LV5AB,COVER Steering Column Opening,,,,,,5LX97LV5AD,"[-VX], [JAC]",available,1200,811.34,/parts/mopar-cover-steering-column-opening~5lx97lv5ab.html
+11,5LZ03AAAAA,COVER Steering Column Opening,,,,,,,"[-X9], [JAA], [XSQ]",available,1850,1254.3,/parts/mopar-cover-steering-column-opening~5lz03aaaaa.html
+11,5LZ04AAAAA,COVER Steering Column Opening,,,,,,5LZ04AAAAC,"[-KX], [JAB], [XSQ][-RX], [JAB], [XSQ][-X9], [JAB], [XSQ]...View More",available,1945,1316.45,/parts/mopar-cover-steering-column-opening~5lz04aaaaa.html
+11,5LZ05AAAAA,COVER Steering Column Opening,,,,,,5LZ05AAAAC,"[-X9], [JAC], [XSQ]",available,1945,1316.45,/parts/mopar-cover-steering-column-opening~5lz05aaaaa.html
+11,5LZ05LV5AA,COVER Steering Column Opening,,,,,,5LZ05LV5AC,"[-VX], [JAC], [XSQ]",available,1945,1316.45,/parts/mopar-cover-steering-column-opening~5lz05lv5aa.html
+12,68172542AB,BRACKET Relay,,,,,,,,discontinued,,,
+13,5NK41DX9AA,PAD Instrument Panel,,,,,,,"[-X9], [JAA][-X9], [JAB][-X9], [JAB], [ARZ][-X9], [X81], [JAA][-X9], [X81], [JAA], [XSQ][-X9], [X81], [JAB][-X9], [X81], [JAB], [ARZ][-X9], [X81], [JAB], [XSQ], [ARZ]...View More",available,1275,816.2,/parts/mopar-pad-instrument-panel~5nk41dx9aa.html
+13,5NK41LK5AA,PAD Instrument Panel,,,,,,,"[-KX], [X81], [JAB][-KX], [X81], [JAB], [ARZ][-KX], [X81], [JAB], [XSQ][-KX], [X81], [JAB], [XSQ], [ARZ]...View More",available,924,609.4,/parts/mopar-pad-instrument-panel~5nk41lk5aa.html
+13,5NK41XR4AA,PAD Instrument Panel,,,,,,,"[-RX], [X81], [JAB][-RX], [X81], [JAB], [ARZ][-RX], [X81], [JAB], [XSQ], [ARZ]...View More",available,812,668.8,/parts/mopar-pad-instrument-panel~5nk41xr4aa.html
+13,5NK41YSAAA,PAD Instrument Panel,,,,,,,"[-X9], [X81], [JAB], [XSQ]",available,1100,724.9,/parts/mopar-pad-instrument-panel~5nk41ysaaa.html
+14,1WQ62LV5AB,GRILLE Instrument Panel Speaker,,,,,,,Left [-VX],available,305,202.5,/parts/mopar-grille-instrument-panel-speaker~1wq62lv5ab.html
+14,1WQ63DX9AB,GRILLE Instrument Panel Speaker,,,,,,,Right [-KX]Right [-RX]Right [-V5],available,100,66.09,/parts/mopar-grille-instrument-panel-speaker~1wq63dx9ab.html
+14,1WQ63LV5AB,GRILLE Instrument Panel Speaker,,,,,,,Right [-VX],available,305,202.5,/parts/mopar-grille-instrument-panel-speaker~1wq63lv5ab.html
+15,5NS63DX9AA,END CAP Instrument Panel,,,,,,,"[-X9], [JAC]",available,19.2,13.4,/parts/mopar-cap-end-instrument-panel~5ns63dx9aa.html
+16,68203524AA,NAMEPLATE,,,,,,68203524AB,[JAC],available,53.2,37.16,/parts/mopar-nameplate~68203524aa.html
+16,68260410AA,NAMEPLATE,,,,,,,"[JAB], [ARZ]",available,81.75,57.14,/parts/mopar-nameplate~68260410aa.html
+18,5XP87DX9AA,BEZEL Instrument Cluster,,,,,,,"[-X9] ,[X81], [JAA]",available,1460,987.62,/parts/mopar-pad-instrument-panel~5xp87dx9aa.html
+18,5XR21CV5AA,BEZEL Instrument Cluster,,,,,,,"[-V5] ,[X81], [JAB], [AZA]",available,1130,763.88,/parts/mopar-pad-instrument-panel~5xr21cv5aa.html
+18,5XR21LK5AA,BEZEL Instrument Cluster,,,,,,,"[-KX] ,[X81], [JAB]",available,1130,763.88,/parts/mopar-pad-instrument-panel~5xr21lk5aa.html
+18,5XR21XR4AA,BEZEL Instrument Cluster,,,,,,,"[-RX] ,[X81], [JAB][-RX] ,[X81], [JAB], [ARZ]",available,1290,874.62,/parts/mopar-pad-instrument-panel~5xr21xr4aa.html
+18,5XR21YSAAA,BEZEL Instrument Cluster,,,,,,,"[-X9] ,[X81], [JAB][-X9] ,[X81], [JAB], [ARZ]",available,1275,863.32,/parts/mopar-pad-instrument-panel~5xr21ysaaa.html
+18,5XR27DX9AA,BEZEL Instrument Cluster,,,,,,,"[-X9] ,[X81], [JAC][-X9] ,[X81], [JAC], [ARZ]",available,647,441.18,/parts/mopar-pad-instrument-panel~5xr27dx9aa.html
+18,5XR27LV5AA,BEZEL Instrument Cluster,,,,,,,"[-VX] ,[X81], [JAC][-VX] ,[X81], [JAC], [ARZ]",available,684,466.26,/parts/mopar-pad-instrument-panel~5xr27lv5aa.html
+18,5XV16DX9AA,BEZEL Instrument Cluster,,,,,,,"[-X9] ,[X81], [JAA], [XSQ]",available,1095,719.4,/parts/mopar-pad-instrument-panel~5xv16dx9aa.html
+18,5XV17DX9AA,BEZEL Instrument Cluster,,,,,,,"[-X9] ,[X81], [JAC], [XSQ][-X9] ,[X81], [JAC], [XSQ], [ARZ]",available,1055,695.2,/parts/mopar-pad-instrument-panel~5xv17dx9aa.html
+18,5XV17LV5AA,BEZEL Instrument Cluster,,,,,,,"[-VX] ,[X81], [JAC], [XSQ][-VX] ,[X81], [JAC], [XSQ], [ARZ]",available,2220,1463,/parts/mopar-pad-instrument-panel~5xv17lv5aa.html
+18,5XV55LK5AA,BEZEL Instrument Cluster,,,,,,,"[-KX] ,[X81], [JAB], [XSQ][-KX] ,[X81], [JAB], [XSQ], [ARZ]",available,997,657.8,/parts/mopar-pad-instrument-panel~5xv55lk5aa.html
+18,5XV55XR4AA,BEZEL Instrument Cluster,,,,,,,"[-RX] ,[X81], [JAB], [XSQ][-RX] ,[X81], [JAB], [XSQ], [ARZ]",available,1045,687.5,/parts/mopar-pad-instrument-panel~5xv55xr4aa.html
+18,5XV55YSAAA,BEZEL Instrument Cluster,,,,,,,"[-X9] ,[X81], [JAB], [XSQ][-X9] ,[X81], [JAB], [XSQ], [ARZ]",available,1280,841.5,/parts/mopar-pad-instrument-panel~5xv55ysaaa.html
+,5LX33AAAAA,BEZEL A/C Outlet,,,,4,1,,,discontinued,,,/parts/mopar-bezel-a-c-outlet~5lx33aaaaa.html
+,4524343,BUMPER Glove Box Door,,,,2,1,,,available,29,20.21,/parts/mopar-stop-bmpr-glove-box-door~4524343.html

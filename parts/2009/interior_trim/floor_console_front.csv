@@ -1,0 +1,31 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5029529AA,ASH RECEIVER Floor Console,,,,,,5108051AA,,available,92.2,62.38,/parts/mopar-ashtray-floor-console~5029529aa.html
+2,154936AA,SCREW,,,,4,1,,,unavailable,1.3,0.87,/parts/mopar-screw~154936aa.html
+3,5093230AA,RING,,,,,,,,discontinued,,,/parts/mopar-ring~5093230aa.html
+4,1CH381D5AB,BEZEL Console Shifter,,,,,,,[X5],discontinued,,,
+4,1CH381U4AB,BEZEL Console Shifter,,,,,,,[XU],discontinued,,,
+4,1CH381X9AB,BEZEL Console Shifter,,,,,,,[XB][XR],discontinued,,,
+5,4685370,KNOB AND ELEMENT Cigar Lighter,,,,,,,,available,39.35,27.32,/parts/mopar-lighter-cigar-lighter~4685370.html
+6,4793555,RING Cigar Lighter Mounting,,,,,,,,available,4.65,3.15,/parts/mopar-ring-cigar-lighter-mounting~4793555.html
+7,4793551,BASE Cigar Lighter,,,,,,,,available,37.4,25.98,/parts/mopar-lighter-cigar-lighter~4793551.html
+9,5037319AA,BOOT Gearshift,,,,,,5038653AA,,discontinued,,,/parts/mopar-boot-gearshift~5037319aa.html
+10,6032058,NUT Snap In,,,,2,1,,,discontinued,,,/parts/mopar-nut-snap-in~6032058.html
+11,4278662,SPACER,,,,4,1,,,available,4.15,2.85,/parts/mopar-spacer~4278662.html
+12,124934,NUT Hex Jam .50-20,,,,,,,,available,8.75,6.06,/parts/mopar-nut-hex-jam~124934.html
+13,4865688AA,SILENCER Floor Pan Front Tunnel,,,,,,,,discontinued,,,/parts/mopar-pad-floor-pan-front-tunnel~4865688aa.html
+17,5030500AB,WIRING Console,,,,,,,,discontinued,,,/parts/mopar-wiring-console~5030500ab.html
+23,XN891D5AC,LID Center Console Storage,,,,,,,[X5],available,280,228.58,/parts/mopar-lid-center-console-storage~xn891d5ac.html
+23,XN891U4AC,LID Center Console Storage,,,,,,,[XU],available,255,150.11,/parts/mopar-lid-center-console-storage~xn891u4ac.html
+23,XN891XRAC,LID Center Console Storage,,,,,,,[XR],available,163,137.25,/parts/mopar-lid-center-console-storage~xn891xrac.html
+23,XN89DX9AC,LID Center Console Storage,,,,,,,[X9],available,241,195.75,/parts/mopar-lid-center-console-storage~xn89dx9ac.html
+24,1JX801U4AA,BASE Floor Console,,,,,,,[XU],available,770,657.78,/parts/mopar-base-floor-console~1jx801u4aa.html
+24,1JX801XBAA,BASE Floor Console,,,,,,,[XB],discontinued,,,
+24,1JX801XRAA,BASE Floor Console,,,,,,,[XR],available,770,634.7,/parts/mopar-base-floor-console~1jx801xraa.html
+24,1JX80DX9AA,BASE Floor Console,,,,,,,[X9],available,324,263.14,/parts/mopar-base-floor-console~1jx80dx9aa.html
+25,5114426AA,HINGE Floor Console Lid,,,,,,,,available,65.35,57.09,/parts/mopar-hinge-int-floor-console-lid~5114426aa.html
+26,PR29DX9AB,LATCH Armrest Lid,,,,,,,,available,10.1,7.93,/parts/mopar-actuator-armrest-lid~pr29dx9ab.html
+27,5093220AA,MAT Floor Console,,,,,,,,available,10.9,7.57,/parts/mopar-mat-floor-console~5093220aa.html
+28,XP191X9AA,BOOT Gearshift,,,,,,,,discontinued,,,/parts/mopar-boot-gearshift~xp191x9aa.html
+,5093227AB,HOUSING Switch,,,,,,,,discontinued,,,/parts/mopar-housing-switch~5093227ab.html
+,5093298AA,SCREW Cap,,,,6,1,,,discontinued,,,/parts/mopar-screw-cap~5093298aa.html
+,5093434AA,SCREW Console,,,,,,,,available,0.7,0.41,/parts/mopar-screw-console~5093434aa.html

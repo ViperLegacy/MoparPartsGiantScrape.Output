@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5029214AD,STRAP Ground,,,,,,,,available,22.3,19.46,/parts/mopar-strap-ground~5029214ad.html
+2,5029027AD,STRAP Ground,,,,,,,,available,17.7,15.44,/parts/mopar-strap-ground~5029027ad.html
+3,6506210AA,SCREW Tapping Hex Head M6X2.25X19.25,,,,,,,,available,7.55,6.55,/parts/mopar-nut-tapping-hex-head~6506210aa.html
+4,4793468,CLIP,,,,2,1,,,available,4.8,3.32,/parts/mopar-clip~4793468.html
+5,6509218AA,PUSH PIN,,,,2,1,,,discontinued,,,/parts/mopar-push-pin~6509218aa.html
+6,6506293AA,PIN Push,,,,8,1,,,available,8.8,6.12,/parts/mopar-push-pin~6506293aa.html

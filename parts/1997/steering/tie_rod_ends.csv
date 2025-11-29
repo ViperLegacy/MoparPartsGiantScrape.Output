@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,52037501,END Tie Rod,,,,,,,,discontinued,,,/parts/mopar-tie-rod-tie-rod~52037501.html
+2,6035643,NUT .562-18,,,,2,1,6036331AA,,available,14.45,9.96,/parts/mopar-nut~6035643.html
+3,120123,PIN Cotter,,,,2,1,,,available,8.1,5.65,/parts/mopar-pin-cotter~120123.html

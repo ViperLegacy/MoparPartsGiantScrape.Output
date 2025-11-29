@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,32002366,CLAMP Hose 55mm Black,,,,2,1,55037660AA,,available,13.65,9.49,/parts/mopar-clamp-hose~32002366.html
+2,4763584,HOSE Radiator Outlet,,,,,,,,discontinued,,,
+3,4763585,HOSE Radiator Inlet,,,,,,,,available,81.95,66.66,/parts/mopar-hose-coolant-reserve-tank~4763585.html
+4,52006750,CLAMP Radiator,,,,2,1,55111033AA,,available,9.1,6.35,/parts/mopar-clamp-radiator~52006750.html
+6,4855123AB,RADIATOR Engine Cooling,,,,,,,,discontinued,,,
+9,6100049,NUT AND WASHER Hex M6x1.0,,,,2,1,6102612AA,,available,2.3,1.57,/parts/mopar-nut-hex~6100049.html
+11,4854720AA,FAN MODULE Radiator Cooling,,,,,,,,discontinued,,,/parts/mopar-module-radiator-cooling~4854720aa.html
+12,4709352AC,SHROUD Fan,,,,,,,,discontinued,,,/parts/mopar-bracket-fan~4709352ac.html
+13,6100049,NUT AND WASHER Hex M6x1.0,,,,2,1,6102612AA,,available,2.3,1.57,/parts/mopar-nut-hex~6100049.html
+14,53041078,THERMOSTAT 195 Degrees,,,,,,53041078AC,,discontinued,,,/parts/mopar-thrmostat~53041078.html
+18,4848199,RETAINER Radiator Closure,,,,2,1,,,discontinued,,,/parts/mopar-retainer-radiator-closure~4848199.html
+19,4763564,SHIM,,,,,,,,discontinued,,,/parts/mopar-shim~4763564.html
+20,4763565,SHIM,,,,,,,,discontinued,,,/parts/mopar-shim~4763565.html
+,4709357,BRACKET Bulkhead,Left,,,,,,,discontinued,,,/parts/mopar-bracket-bulkhead~4709357.html
+,4596198,CAP Pressurized Coolant,,,,,,,,available,37.85,26.45,/parts/mopar-cap-radiator~4596198.html
+,4763839,GASKET Thermostat,,,,,,,,discontinued,,,
+,4763779AC,HOUSING Thermostat,,,,,,,,discontinued,,,
+,4266328,ISOLATOR Radiator,,,,2,,,,discontinued,,,
+,4855100AB,LABEL Emission,,,,,,,,discontinued,,,/parts/mopar-label-emission~4855100ab.html

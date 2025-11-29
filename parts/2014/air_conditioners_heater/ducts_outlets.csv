@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68144918AA,DUCT Defroster,,,,,,,,available,56,38.91,/parts/mopar-duct-defroster~68144918aa.html
+2,4865554AA,DUCT Floor Distribution,,,,,,,,available,48.3,42.68,/parts/mopar-duct-floor-distribution~4865554aa.html
+3,4865809AA,DUCT Floor,,,,,,,,available,28.7,25.05,/parts/mopar-duct-floor~4865809aa.html
+4,6505300AA,SCREW Tapping Pan Head M6X2.25X19.25,,,,2,1,,,available,9.5,5.92,/parts/mopar-screw-tapping-pan-head~6505300aa.html
+5,6100840,NUT Spring,,,,,,,,available,7.25,5.01,/parts/mopar-nut-spring~6100840.html
+6,1WQ64LV5AA,GRILLE Defroster,,,,,,1WQ64LV5AC,[VX],available,249,167.63,/parts/mopar-grille-defroster~1wq64lv5aa.html
+6,1YK91DX9AA,GRILLE Defroster,,,,,,1YK91DX9AB,[RC9],available,292,197.4,/parts/mopar-grille-defroster~1yk91dx9aa.html
+7,5NK50LK5AA,OUTLET Air Conditioning & Heater,,,,4,1,,[KX],available,467,312.2,/parts/mopar-outlet-air-conditioning-heater~5nk50lk5aa.html
+7,5NK50XR4AA,OUTLET Air Conditioning & Heater,,,,4,1,,[RX],available,467,312.2,/parts/mopar-outlet-air-conditioning-heater~5nk50xr4aa.html
+7,5NK50YSAAA,OUTLET Air Conditioning & Heater,,,,4,1,5NK50SZ6AA,[X9] [JAB][X9] [JAC],available,589,388.3,/parts/mopar-outlet-air-conditioning-heater~5nk50ysaaa.html
+8,68203408AA,DUCT Air Distribution,,,,,,,,available,113,76.28,/parts/mopar-duct-air-distribution~68203408aa.html
+9,68203411AA,DUCT Air Distribution,,,,,,,,available,139,93.83,/parts/mopar-duct-air-distribution~68203411aa.html
+10,68203414AA,DUCT Air Distribution,,,,,,,,available,114,76.95,/parts/mopar-duct-air-distribution~68203414aa.html
+11,4865640AD,PLENUM Fresh Air Inlet,,,,,,4865640AE,,available,465,308.86,/parts/mopar-plenum-fresh-air-inlet~4865640ad.html

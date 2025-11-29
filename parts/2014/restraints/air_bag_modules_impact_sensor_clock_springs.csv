@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,56038963AE,MODULE Occupant Restraint,,,,,,56038963AF,,available,679,444.4,/parts/mopar-module-occupant-restraint~56038963ae.html
+2,6101736,NUT AND  WASHER Hex M6x1,,,,2,1,,,available,9.35,6.52,/parts/mopar-nut-hex~6101736.html
+3,56054085AA,SENSOR Acceleration,,,,2,1,,,available,294,195.75,/parts/mopar-sensor-acceleration~56054085aa.html
+4,5179718AA,SCREW,,,,2,1,6104182AA,,available,7,5.24,/parts/mopar-screw~5179718aa.html
+6,68110739AC,CLOCKSPRING Steering Column Control Module,,,,,,68528300AA,,available,718,473,/parts/mopar-sccm-steering-column-control-mod~68110739ac.html

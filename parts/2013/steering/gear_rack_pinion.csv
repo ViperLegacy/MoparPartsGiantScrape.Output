@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865678AH,GEAR Rack and Pinion,,,,,,,,discontinued,,,/parts/mopar-gear-rack-and-pinion~4865678ah.html
+2,6506039AA,SCREW Hex Head,,,,2,1,,,available,56.75,39.49,/parts/mopar-screw-hex-head~6506039aa.html
+3,4642116,ISOLATOR Steering Gear,,,,4,1,,,discontinued,,,/parts/mopar-insulator-steering-gear~4642116.html
+4,4708035,O RING Steering Gear,,,,2,1,4708035AB,,available,4.5,2.62,/parts/mopar-o-ring-steering-gear~4708035.html
+5,4708475,SHIM Steering Gear 0.5mm,,,,,,,,available,9.3,6.6,/parts/mopar-spacer-steering-gear~4708475.html
+6,4708070,SHIM Steering Gear 1.0mm,,,,2,1,,,discontinued,,,/parts/mopar-spacer-steering-gear~4708070.html
+7,4708068,SHIM Steering Gear 1.5mm,,,,2,1,,,discontinued,,,/parts/mopar-spacer-steering-gear~4708068.html
+8,4708069,SHIM Steering Gear 3.0mm,,,,6,1,,,discontinued,,,/parts/mopar-spacer-steering-gear~4708069.html

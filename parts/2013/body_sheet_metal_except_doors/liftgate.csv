@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68213894AA,LIFTGATE,,,,,,68213894AF,,available,5630,3813.75,/parts/mopar-liftgate~68213894aa.html
+2,68141071AB,PANEL Liftgate Trim Upper,,,,,,,,available,141,108.84,/parts/mopar-panel-liftgate-trim-upper~68141071ab.html
+3,6106103AA,SCREW M6x1x20,,,,4,1,,,available,3.65,2.5,/parts/mopar-screw~6106103aa.html
+4,68159962AA,HINGE Liftgate,,,,2,1,,,discontinued,,,/parts/mopar-hinge-liftgate~68159962aa.html
+5,6506710AA,SCREW AND WASHER Hex Head M8-1.25x22.00,,,,2,1,,,available,11.05,7.69,/parts/mopar-screw-hex-head~6506710aa.html
+6,6509474AA,STUD,,,,2,1,,,available,4.95,3.44,/parts/mopar-stud~6509474aa.html
+7,68139828AA,PROP Liftgate,,,,2,1,68139828AB,,available,37.75,26.21,/parts/mopar-prop-gas-liftgate~68139828aa.html
+8,6509131AA,STUD,,,,2,1,,,available,20.85,14.5,/parts/mopar-stud~6509131aa.html
+9,68186509AB,GASKET Ball Stud,,,,2,1,,,available,8.95,6.23,/parts/mopar-gasket-ball-stud~68186509ab.html
+10,6100051,NUT AND WASHER Hex Nut-Coned Washer M8 x 1.25,,,,2,1,,,available,10.45,7.28,/parts/mopar-nut-hex-nut-coned-washer~6100051.html
+11,68110772AA,WEATHERSTRIP Liftgate Opening,,,,,,68110772AC,,available,165,110.53,/parts/mopar-w-strip-liftgate-opening~68110772aa.html
+12,5065494AA,BUMPER Deck Lid Overslam,,,,2,1,,,available,16.35,11.42,/parts/mopar-stop-bmpr-deck-lid-overslam~5065494aa.html
+13,68170593AA,STRIKER Backlite,,,,,,,,available,7.65,5.3,/parts/mopar-striker-backlite~68170593aa.html
+14,6100567,SCREW AND WASHER Hex Head M6x1x25,,,,2,1,,,available,9.3,6.47,/parts/mopar-screw-hex-head~6100567.html
+15,5035211AB,LAMP High Mounted Stop,,,,,,5035211AC,,available,873,593.94,/parts/mopar-lamp-high-mounted-stop~5035211ab.html
+16,153835,SCREW Round Washer Head Tapping .164-18X.625,,,,,,,,available,4,2.74,/parts/mopar-screw-round-washer-head-tapping~153835.html
+17,4589108AB,LATCH Liftgate,,,,,,,,available,260,175.5,/parts/mopar-latch-liftgate~4589108ab.html

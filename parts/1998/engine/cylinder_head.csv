@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,4763754AB,COVER Cylinder Head,,,,,,4763754AC,,discontinued,,,/parts/mopar-cover-cylinder-head~4763754ab.html
+3,4763755AB,COVER Cylinder Head,,,,,,4763755AC,,discontinued,,,/parts/mopar-cover-cylinder-head~4763755ab.html
+4,5245081AB,CAP Oil Filler,,,,,,,,discontinued,,,
+5,6035666,SCREW Hex Flange Head .25-20x1.00,,,,26,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+6,5245095,GASKET Valve Cover,,,,2,1,,,available,131,103.05,/parts/mopar-gasket-valve-cover~5245095.html
+7,4763724AB,HEAD Cylinder,,,,2,1,,,discontinued,,,/parts/mopar-head-cylinder~4763724ab.html
+8,5013101AA,GASKET Cylinder Head,,,,,,,,discontinued,,,/parts/mopar-gasket-cylinder-head~5013101aa.html
+9,6035471,BOLT Cylinder Head,,,,24,1,,,available,19.9,13.86,/parts/mopar-screw-cylinder-head~6035471.html
+10,6035666,SCREW Hex Flange Head .25-20x1.00,,,,12,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+,4882950AB,GASKET PACKAGE Engine Upper,,,,,,,,discontinued,,,

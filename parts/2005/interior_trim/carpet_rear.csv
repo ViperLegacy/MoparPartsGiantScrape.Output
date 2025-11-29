@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,TU06VXLAB,SLINGWELL Folding Top,,,,,,,,available,303,248.16,/parts/mopar-slingwell-folding-top~tu06vxlab.html
+2,5DV62DX9,FASTENER Trim Panel Attaching,,,,4,1,,,discontinued,,,/parts/mopar-retainer-trim-panel-attaching~5dv62dx9.html
+4,5029825AA,TRAY KIT Cargo - Flexible,,,,2,1,82206654AB,Right & Left,available,382,258.31,/parts/mopar-tray-kit-cargo-flexible~5029825aa.html
+4,5029835AC,TRAY KIT Cargo - Flexible,,,,,,82206654AB,Front Wall,available,382,258.31,/parts/mopar-tray-kit-cargo-flexible~5029835ac.html
+4,5029836AC,TRAY KIT Cargo - Flexible,,,,,,82206654AB,Rear Wall,available,382,258.31,/parts/mopar-tray-kit-cargo-flexible~5029836ac.html

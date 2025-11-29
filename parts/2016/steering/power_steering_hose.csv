@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290013AF,COOLER Power Steering,,,,,,,,available,301,242.52,/parts/mopar-cooler-power-steering~5290013af.html
+2,6101826,BOLT Hex Head M6x1.00x20.00,,,,2,1,,,available,8.75,6.06,/parts/mopar-bolt-hex-head~6101826.html
+3,68029526AB,LINE KIT Power Steering,,,,,,,,discontinued,,,/parts/mopar-line-power-steering~68029526ab.html
+4,68004340AA,FITTING ASSY Quick Connect,,,,,,,,available,13.1,9.26,/parts/mopar-fitting-quick-connect~68004340aa.html
+5,68028573AA,HOSE Power Steering Supply,,,,,,,,available,26.1,18.12,/parts/mopar-package-power-steering-supply~68028573aa.html
+6,5290267AC,LINE Power Steering Return,,,,,,5290267AD,,available,179,120.7,/parts/mopar-line-power-steering-return~5290267ac.html
+7,5290267AC,LINE Power Steering Return,,,,,,5290267AD,,available,179,120.7,/parts/mopar-line-power-steering-return~5290267ac.html
+8,6036237AA,SCREW AND WASHER Hex Head .250-14X.750,,,,,,,,available,11.4,7.92,/parts/mopar-screw-hex-head~6036237aa.html

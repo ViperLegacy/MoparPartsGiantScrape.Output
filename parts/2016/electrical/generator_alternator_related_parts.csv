@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037198AF,GENERATOR Engine,,,,,,,,available,512,358.51,/parts/mopar-altenator-engine~5037198af.html
+2,6506929AA,NUT Hex Flange Lock M8X1.25,,,,,,,,available,4.65,3.2,/parts/mopar-nut-hex-flange-lock~6506929aa.html
+3,6102431AA,BOLT AND CONED WASHER Hex Head M10X1.50X115.00,,,,2,1,,,available,9.05,6.23,/parts/mopar-bolt-hex-head~6102431aa.html

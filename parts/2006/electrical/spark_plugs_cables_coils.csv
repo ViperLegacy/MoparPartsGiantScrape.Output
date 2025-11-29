@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,5135171AA,CABLE PACKAGE Ignition,,,,,,,,discontinued,,,/parts/mopar-cable-pkg-ignition~5135171aa.html
+3,5029645AA,CABLE Ignition,,,,,,,[#3],discontinued,,,/parts/mopar-wiring-ignition~5029645aa.html
+3,5029646AB,CABLE Ignition,,,,,,,[#5],discontinued,,,/parts/mopar-wiring-ignition~5029646ab.html
+3,5029647AA,CABLE Ignition,,,,,,,[#7],available,53.25,37.11,/parts/mopar-wiring-ignition~5029647aa.html
+3,5029648AB,CABLE Ignition,,,,,,,[#9],discontinued,,,/parts/mopar-wiring-ignition~5029648ab.html
+3,5029650AA,CABLE Ignition,,,,,,,[#2],discontinued,,,/parts/mopar-wiring-ignition~5029650aa.html
+3,5029651AA,CABLE Ignition,,,,,,,[#4],available,50.9,35.53,/parts/mopar-wiring-ignition~5029651aa.html
+3,5029652AA,CABLE Ignition,,,,,,,[#6],discontinued,,,/parts/mopar-wiring-ignition~5029652aa.html
+3,5029653AA,CABLE Ignition,,,,,,,[#8],available,49.45,34.54,/parts/mopar-wiring-ignition~5029653aa.html
+3,5029654AA,CABLE Ignition,,,,,,,[#10],available,46.1,32.21,/parts/mopar-wiring-ignition~5029654aa.html
+4,SP0RC12ECC,SPARK PLUG,,,,10,1,68304022AA,,available,8.25,5.71,/parts/mopar-plug~sp0rc12ecc.html
+5,5037104AB,SHIELD Heat,,,,10,1,,,discontinued,,,/parts/mopar-shield-heat~5037104ab.html
+6,56029098AA,COIL Ignition,,,,,,56029098AB,,available,195,87.7,/parts/mopar-coil-ign-ignition~56029098aa.html
+7,56032521AB,COIL Ignition,,,,,,56032521AC,,available,243,160.88,/parts/mopar-coil-ign-ignition~56032521ab.html
+,6034526,SCREW AND WASHER,,,,8,1,,,discontinued,,,/parts/mopar-screw~6034526.html
+,154777,SCREW AND WASHER Hex Head .25-20x1.00,,,,8,1,,,available,14.2,7.13,/parts/mopar-bolt~154777.html

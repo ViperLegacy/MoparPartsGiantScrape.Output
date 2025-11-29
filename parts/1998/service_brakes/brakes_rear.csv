@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848716,HUB AND BEARING Brake,,,,,,,,available,1020,666.6,/parts/mopar-hub-brake~4848716.html
+2,4642353,ROTOR Brake,,,,2,1,,,discontinued,,,/parts/mopar-rotor-brake~4642353.html
+3,4709282,KNUCKLE Rear,Right,,,,,,,discontinued,,,/parts/mopar-knuckle-rear~4709282.html
+4,4723607,CALIPER Disc Brake,Left,,,2,1,,,discontinued,,,/parts/mopar-caliper-disc-brake~4723607.html
+6,4720990,BLEEDER SCREW PKG BRAKE,,,,,,,,discontinued,,,/parts/mopar-screw-brake~4720990.html
+7,34202857,SCREW Socket Head M8x1.25x60,,,,2,,,,discontinued,,,
+8,34202858,BOLT Hex Head M10x1.25x80,,,,2,1,,,discontinued,,,/parts/mopar-bolt-hex-head~34202858.html
+9,6033702,BOLT D Head .50-20x2.00,,,,6,1,,,discontinued,,,/parts/mopar-stud-hub~6033702.html
+10,6035642,SCREW AND WASHER Hex Head Locking .50-20x2.25 Grade 8,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-head-locking~6035642.html
+11,6500336,PIN Cotter M5x36.00,,,,2,1,,,available,6.75,4.9,/parts/mopar-pin-cotter~6500336.html
+12,4293167,NUT AND WASHER PACKAGE Front Hub,,,,2,1,4293167AB,,available,25.75,17.94,/parts/mopar-lk-nutpkg~4293167.html
+13,6502294,NUT Hex Flange M22x1.25,,,,,,,,available,12.4,8.56,/parts/mopar-nut-hex-flange~6502294.html
+14,6502293,WASHER Flat M23x43x4,,,,2,1,,,available,8.15,5.59,/parts/mopar-washer-flat~6502293.html
+,4897219AB,PAD KIT Rear Disc Brake,,,,,,,,available,257.35,202.24,/parts/mopar-pad-rear-disc-brake~4897219ab.html
+,4723459,PLATE Brake Torque,,,,,,,,available,8.37,6.58,/parts/mopar-plate-brake-torque~4723459.html

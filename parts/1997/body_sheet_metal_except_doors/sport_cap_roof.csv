@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848848AA,PANEL Sport Cap,,,,,,,,discontinued,,,
+6,6034578,RIVET .25 Grip.06-.25,,,,12,1,,,discontinued,,,/parts/mopar-retainer~6034578.html
+7,6502337,NUT M10x1.5,,,,4,1,,,available,8.75,6,/parts/mopar-nut-hex-locking~6502337.html
+8,6503675,SCREW AND WASHER Hex Head M10x1.5x40,,,,2,1,,,available,11.35,8.91,/parts/mopar-screw-hex-head~6503675.html
+9,6035227,STUD .312-18x1.875,,,,2,1,,,discontinued,,,/parts/mopar-stud~6035227.html
+10,PR73DX9,PAD Sport Cap,,,,,,,,discontinued,,,
+12,4848371,SEAL Sport Cap Base,,,,2,1,,,available,19,14.93,/parts/mopar-seal-sport-cap-base~4848371.html
+14,4643353,SHIM Floor Pan Isolator,,,,,,,,discontinued,,,/parts/mopar-shim-floor-pan-isolator~4643353.html
+15,QX23DX9AA,GROMMET Sport Cap,,,,2,,,,discontinued,,,
+16,RV89DX9AA,"COVER ""B"" Pillar Outside",Left,,,,,,,available,8.79,6.9,/parts/mopar-cover-b-pillar-outside~rv89dx9aa.html
+,4848876AA,BRACKET Quarter Trim,,,,2,1,,,discontinued,,,/parts/mopar-bracket-quarter-trim~4848876aa.html
+,6034756,RIVET Blind .156x.460,,,,10,1,,,discontinued,,,/parts/mopar-rivet-blind~6034756.html
+,6503139,SCREW Tress Head M5x.80x15,,,,5,1,,,discontinued,,,/parts/mopar-screw-tress-head~6503139.html

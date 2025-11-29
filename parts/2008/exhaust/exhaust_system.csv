@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5264999AF,CONVERTER Catalytic,,,,,,5181827AA,,available,4110,3601.2,/parts/mopar-converter-exhaust~5264999af.html
+2,5264998AG,CONVERTER Catalytic,,,,,,5181828AA,,available,4110,3601.2,/parts/mopar-converter-exhaust~5264998ag.html
+3,5290111AB,CLAMP Exhaust Manifold,,,,2,1,,,available,56.15,37.69,/parts/mopar-clamp-exhaust-manifold~5290111ab.html
+4,5290265AA,ISOLATOR Exhaust,,,,2,1,,,available,46.45,38.97,/parts/mopar-isolator-exhaust-support~5290265aa.html
+5,5290387AE,RESONATOR Exhaust,,,,2,1,5290387AF,,available,370,306.63,/parts/mopar-resonator-exhaust~5290387ae.html
+6,52110201AA,CLAMP Exhaust,,,,2,1,,,available,39.3,26.68,/parts/mopar-clamp-exhaust~52110201aa.html
+7,5290178AJ,SPOUT Exhaust,,,,,,,,available,302,244.19,/parts/mopar-spout-tailpipe~5290178aj.html
+8,5290179AJ,SPOUT Exhaust,,,,,,,,available,328,264.26,/parts/mopar-spout-tailpipe~5290179aj.html
+9,5290154AB,SUPPORT Exhaust Isolator,,,,4,1,,,available,7.7,6.35,/parts/mopar-support-exhaust-isolator~5290154ab.html
+10,4763667AD,ISOLATOR Exhaust,,,,2,1,,,available,47.55,40.25,/parts/mopar-isolator-exhaust-support~4763667ad.html
+11,5290160AD,SHIELD Heat,,,,,,,,discontinued,,,/parts/mopar-shield-exhaust~5290160ad.html
+12,5290161AD,SHIELD Heat,,,,,,,,available,366,295.54,/parts/mopar-shield-exhaust~5290161ad.html

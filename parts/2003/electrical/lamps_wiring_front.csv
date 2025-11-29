@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5029226AA,LAMP Front Fog,,,,2,1,,,discontinued,,,/parts/mopar-lamp-front-fog~5029226aa.html
+4,5029228AA,BRACKET Fog Lamp,,,,2,1,,,discontinued,,,/parts/mopar-bracket-fog-lamp~5029228aa.html
+7,4865485AC,HEADLAMP,Left,,,,,4865485AE,,unavailable,831,710.22,/parts/mopar-headlamp~4865485ac.html
+12,4865895AB,WIRING Headlamp Jumper,,,,,,,,discontinued,,,/parts/mopar-wiring-headlamp-jumper~4865895ab.html
+,L0000194,BULB 194,,,,,,,,available,9.35,6.52,/parts/mopar-bulb~l0000194.html
+,L003157K,BULB 3157K,,,,,,68604812AA,,available,15.2,10.6,/parts/mopar-bulb~l003157k.html
+,L004157NAK,BULB 4157 NAK,,,,,,68604854AA,,available,7.55,5.07,/parts/mopar-bulb~l004157nak.html
+,L0009145,BULB Fog Lamp 50 Watt,,,,2,1,,,available,36.5,24.8,/parts/mopar-bulb~l0009145.html
+,L09005XSLL,BULB Headlamp,,,27,,,,High Beam,available,45.15,31.34,/parts/mopar-bulb-headlamp~l09005xsll.html
+,4865941AA,BULB Headlamp,,,,,,4865941AC,Right or Left,available,428,283.21,/parts/mopar-bulb-headlamp~4865941aa.html
+,P0009005EB,BULB Headlamp,,,,,,,Sylvania Lighting,discontinued,,,/parts/mopar-bulb-headlamp-eco-bright-9005~p0009005eb.html
+,L002825W5W,BULB W10/5,,,,,,,,available,10.7,7.46,/parts/mopar-bulb~l002825w5w.html
+,153624,BULB W3W,,,,,,,,available,9.95,6.93,/parts/mopar-bulb~153624.html
+,4865822AA,PANEL Fog Lamp,,,,,,4865822AB,,available,22.8,17.65,/parts/mopar-panel-fog-lamp-access~4865822aa.html
+,5029065AA,SOCKET Headlamp,,,,,,,,available,21.1,18.41,/parts/mopar-socket-headlamp~5029065aa.html

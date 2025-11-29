@@ -1,0 +1,32 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5245335,"ROCKER, Valve",,,,20,1,,,discontinued,,,/parts/mopar-arm-valve~5245335.html
+2,5245336,"PIVOT, Rocker Arm",,,,20,1,,,discontinued,,,/parts/mopar-arm-rocker-arm~5245336.html
+3,5245337,"RETAINER, Rocker Arm/Push Rod",,,,10,1,,,discontinued,,,/parts/mopar-retainer-pedestal~5245337.html
+4,6034499,"BOLT, Rocker Arm Pivot, (.375-16x1.5)",,,,20,1,,,discontinued,,,/parts/mopar-screw-hex-flange-head~6034499.html
+5,33003521,"LOCK, Valve Spring Retainer",,,,40,1,,,available,3.45,2.33,/parts/mopar-retainer-valve-spring-retainer~33003521.html
+6,5245374,"RETAINER, Valve Spring",,,,20,1,,,discontinued,,,/parts/mopar-retainer-valve-spring~5245374.html
+7,4761616,"SPRING, Valve, (Serviced in Sets Only)",,,,20,1,,,discontinued,,,/parts/mopar-spring-valve-serviced-in-sets-only~4761616.html
+8,5245162,"SEAT, Valve Spring",,,,20,1,,,discontinued,,,/parts/mopar-seat-valve-spring~5245162.html
+9,53009886,"SEAL, Intake Valve",,,,10,1,,,available,8.95,6.17,/parts/mopar-seal-valve-guide~53009886.html
+10,53009887,"SEAL, Exhaust Valve",,,,10,8,,,available,15.65,10.83,/parts/mopar-seal-valve-guide~53009887.html
+11,4883658AA,"VALVE, Intake",,,,,,,.015 O/S,discontinued,,,/parts/mopar-intake-valve~4883658aa.html
+11,04883659AA,"VALVE, Intake",,,,,,,.030 O/S,discontinued,,,
+11,5245163,"VALVE, Intake",,,,10,1,,Standard,discontinued,,,/parts/mopar-intake-valve~5245163.html
+12,4883661AA,"VALVE, Exhaust",,,,,,,.015 O/S,discontinued,,,/parts/mopar-exhaust-valve~4883661aa.html
+12,04883662AA,"VALVE, Exhaust",,,,,,,.030 O/S,discontinued,,,
+12,5245166,"VALVE, Exhaust",,,,10,1,,Standard,discontinued,,,/parts/mopar-valve-exhaust~5245166.html
+13,5245071,"PLUG, Camshaft Rear Bearing",,,,,,,,discontinued,,,/parts/mopar-plug-camshaft~5245071.html
+14,141195,"PIN, Dowel, (.25x.56)",,,,,,,,discontinued,,,/parts/mopar-dowel-pin~141195.html
+15,4713439,"TAPPET, Valve",,,,20,1,,,discontinued,,,/parts/mopar-tappetpkg-valve~4713439.html
+16,4763708,CAMSHAFT,,,29,,,,Std. (1994-96),discontinued,,,/parts/mopar-camshaft-engine~4763708.html
+16,4864367,CAMSHAFT,,,27,,,,.002 O/S (1994-96),discontinued,,,
+16,4883616AA,CAMSHAFT,,,27,,,,.003 O/S (1994-96),discontinued,,,/parts/mopar-camshaft-engine~4883616aa.html
+16,4883617AA,CAMSHAFT,,,27,,,,0.30 O/S (1994-96),discontinued,,,/parts/mopar-camshaft-engine~4883617aa.html
+16,4883695AA,CAMSHAFT,,,29,,,,.002 O/S (1994-96),discontinued,,,/parts/mopar-camshaft~4883695aa.html
+16,4883696AA,CAMSHAFT,,,29,,,,.003 O/S (1994-96),discontinued,,,/parts/mopar-camshaft-engine~4883696aa.html
+16,4883697AA,CAMSHAFT,,,29,,,,0.30 O/S (1994-96),discontinued,,,/parts/mopar-camshaft-engine~4883697aa.html
+16,5245121,CAMSHAFT,,1992-93,,,,,,discontinued,,,
+17,5245334,"PUSH ROD, Valve",,1992-93,,20,1,,,discontinued,,,/parts/mopar-rod-push~5245334.html
+17,5245556,"PUSH ROD, Valve",,1994-96,27,20,1,,,discontinued,,,/parts/mopar-push-rod-engine~5245556.html
+18,5245169,"YOKE, Tappet Aligning",,,,10,1,,,discontinued,,,/parts/mopar-retainer-tappet-aligning~5245169.html
+19,5245170,"BOLT, (.25-20x.88)",,,,10,1,,,discontinued,,,/parts/mopar-bolt~5245170.html

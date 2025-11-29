@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5064074AE,RECEIVER Satellite,,,,,,,,discontinued,,,
+2,5064724AA,ANTENNA Satellite,,,,,,,,available,149,90.96,/parts/mopar-antenna-satellite~5064724aa.html
+3,6506489AA,RIVET,,,,3,1,,,available,12.5,8.74,/parts/mopar-rivet~6506489aa.html
+4,6502407,SCREW AND WASHER Hex Head M6x1x20,,,29,2,1,,,discontinued,,,/parts/mopar-screw-hex-head~6502407.html
+5,6034383,SCREW Pan Head .437-20x1.5,,,,2,1,,,available,10.15,7.05,/parts/mopar-screw-pan-head~6034383.html
+6,5064246AB,CABLE Antenna,,,,,,,,available,19.6,13.69,/parts/mopar-cable-antenna~5064246ab.html

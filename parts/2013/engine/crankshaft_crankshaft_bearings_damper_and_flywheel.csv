@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6036207AA,BOLT Hex Head .750-16x2.250,,,,,,,,discontinued,,,/parts/mopar-bolt-hex-head~6036207aa.html
+2,5037727AD,DAMPER Vibration,,,,,,,,available,399,324.47,/parts/mopar-damper-vibration~5037727ad.html
+3,4723538AD,BEARING KIT Crankshaft Standard Under/Over Sized Bearings Are Not Serviced,,,,5,1,,,discontinued,,,/parts/mopar-brg-pkg-crankshaft~4723538ad.html
+4,4723540AD,BEARING KIT Crankshaft Thrust Std Under/Over Sized Bearings Are Not Serviced,,,,,,,,discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4723540ad.html
+5,5038250AD,CRANKSHAFT,,,,,,,,available,2065,1395.55,/parts/mopar-crankshft~5038250ad.html
+7,6034749,KEY Woodruff,,,,,,,,available,6.8,4.6,/parts/mopar-key-woodruff~6034749.html
+8,53009181AB,BEARING Pilot,,,,,,,,available,42.7,29.59,/parts/mopar-bearing-pilot~53009181ab.html
+9,5038010AB,RETAINER Crankshaft Rear Oil Seal,,,,,,5045562AA,,available,501,338.58,/parts/mopar-seal-crankshaft-rear-oil-seal~5038010ab.html
+10,5037056AC,GASKET Crankshaft Rear Oil Seal Retainer,,,,,,,,available,43.35,30.12,/parts/mopar-gasket-crankshaft-rear-oil-seal-re~5037056ac.html
+12,5037300AA,SEAL Crankshaft Oil Rear,,,,,,,,available,128,54.57,/parts/mopar-seal-crankshaft-oil~5037300aa.html
+13,6509056AA,BOLT Hex Head M6x1.00x30.00,,,,8,1,,,available,,14.51,/parts/mopar-bolt-hex-head~6509056aa.html
+14,5038699AA,FLYWHEEL,,,,,,,,discontinued,,,/parts/mopar-flywheel~5038699aa.html
+16,2843214,GEAR Flywheel Ring,,,,,,,,available,212,140.63,/parts/mopar-gear-flywheel-ring~2843214.html
+17,6508879AA,BOLT Hex Head Locking M10x1.00x30.00,,,,8,1,,,available,4.95,3.38,/parts/mopar-bolt-hex-head-locking~6508879aa.html

@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4389440,CAP Wiper Arm Nut,,,,2,1,,,available,28.9,20.15,/parts/mopar-cap-wiper-arm-nut~4389440.html
+2,4865504AE,ARM Front Wiper,Right,,,,,,,discontinued,,,/parts/mopar-arm-wiper-front-wiper~4865504ae.html
+3,4865507AB,BLADE Front Wiper,Left,,,,,68166573AA,,discontinued,,,/parts/mopar-blade-front-wiper~4865507ab.html
+4,4865509AD,MODULE Wiper,,,,,,,,available,456,425.93,/parts/mopar-wiperassy-windshield~4865509ad.html
+5,6503992,SCREW AND WASHER Hex Head M6x1x30,,,,2,1,,,available,8.9,6.17,/parts/mopar-screw-hex-head~6503992.html
+6,6503664,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,,,,,,,available,9.15,3.26,/parts/mopar-nut-washe-hex~6503664.html

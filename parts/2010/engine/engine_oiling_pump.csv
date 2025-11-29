@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037947AA,ROTOR SET Oil Pump,,,,,,,,available,410,274.1,/parts/mopar-rotor-oil-pump~5037947aa.html
+2,6505388AA,BOLT Torx M6X1.00X18.00,,,,9,1,,,available,2.7,1.86,/parts/mopar-bolt-torx~6505388aa.html
+3,5037942AB,COVER Engine Oil Pump,,,,,,,,available,241,167.42,/parts/mopar-cover-engine-oil-pump~5037942ab.html
+4,5015248AB,SCREW Bleeder,,,,,,,,available,30.3,20.97,/parts/mopar-bleeder-bleeder~5015248ab.html
+5,6035854,NIPPLE .375-18X2.00,,,,2,1,6036575AA,,available,15.85,11.07,/parts/mopar-nipple~6035854.html
+6,5037316AC,FITTING Male [Thread 7/8-14 UNF-2A],,,,,,5037316AD,,available,16.35,11.3,/parts/mopar-connector-male~5037316ac.html
+7,5037973AA,CONNECTOR Oil Filter Adapter,,,,,,,,available,11.15,7.75,/parts/mopar-adapter-oil-filter-adapter~5037973aa.html
+8,5037929AB,BODY Oil Pump Pressure,,,,,,,,discontinued,,,/parts/mopar-body-oil-pump-pressure~5037929ab.html
+9,5245135,SEAL Crankshaft Oil Front,,,,,,,,available,65.2,45.38,/parts/mopar-seal-crankshaft-oil~5245135.html
+10,5038041AA,FILTER Engine Oil,,,,,,,,available,36.1,23.87,/parts/mopar-accessories_filter_engine_oil-5038041aa.html

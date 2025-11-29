@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,MB86SX9,SEAT BELT Front,,,,2,,,,discontinued,,,
+2,6034383,SCREW Pan Head .437-20x1.5,,,,4,1,,,available,10.15,7.05,/parts/mopar-screw-pan-head~6034383.html
+3,4708494,SPACER Seat Belt Retainer,,,,4,1,,,available,1.78,1.4,/parts/mopar-shim-seat-belt-retainer~4708494.html
+4,6034457,SCREW Pan Head .437-20x1.375,,,,2,1,,,available,20,14.51,/parts/mopar-bolt-pan-head~6034457.html
+5,4848719,SEAT BELT Buckle Half,Left,,,,,4848719AB,,discontinued,,,/parts/mopar-seat-belt-buckle-half~4848719.html
+6,6034389,SCREW Pan Head Shoulder .437-20x1.87,,,,,,,,discontinued,,,/parts/mopar-bolt-pan-head-shoulder~6034389.html
+7,6036185AA,SPACER,,,,4,1,,,discontinued,,,/parts/mopar-spacer~6036185aa.html
+8,4854439AA,SEAT BELT Front,,,,,,,Left 5-Point Seat Belt Harness,discontinued,,,
+9,6034459,SCREW Pan Head .437-20x1.875,,,,4,1,,,discontinued,,,/parts/mopar-bolt-pan-head~6034459.html
+,5260606,EXTENDER Seat Belt,,,,,,,,discontinued,,,

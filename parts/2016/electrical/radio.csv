@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68258673AD,RADIO MULTI Media,,,,,,68258673AJ,"[X81], [RA4]",discontinued,,,/parts/mopar-radio-multi-media~68258673ad.html
+1,68258675AD,RADIO MULTI Media,,,,,,,"[X81], [RA4], [RSD]",discontinued,,,/parts/mopar-multi-media~68258675ad.html
+2,6101946,SCREW Tapping Hex Head M4.2X1.70X20.00,,,,4,1,,,available,2.3,1.34,/parts/mopar-screw-tapping-hex-head~6101946.html
+3,5091906AB,CENTER STACK Upper,,,,,,5091906AC,"[SDV] OR [SDY], [X81], [XSQ] AND/OR [AZA] AND/OR [MTR]",available,933,792.3,/parts/mopar-stack~5091906ab.html
+3,68223407AC,CENTER STACK Upper,,,,,,68223407AD,"[SDK] OR [SDE], [X81], [JBK] AND/OR [JAP]",available,776,660.06,/parts/mopar-stack~68223407ac.html
+3,68223408AC,CENTER STACK Upper,,,,,,68223408AH,"[SDV] OR [SDY], [X81], [JBK]",available,910,775.2,/parts/mopar-stack~68223408ac.html
+3,68223409AC,CENTER STACK Upper,,,,,,68223409AD,"[SDV] OR [SDY], [X81], [JBD]",available,1115,607.01,/parts/mopar-stack~68223409ac.html

@@ -1,0 +1,21 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5245035,LINE A/C Suction,,,,,,5245035AB,,discontinued,,,/parts/mopar-line-air-conditioning-suction~5245035.html
+2,4796564,O RING A/C Line,,,,,,,,available,8.42,6.62,/parts/mopar-o-ring-a-c-line~4796564.html
+3,4740361,O RING A/C Line,,,,,,,,discontinued,,,/parts/mopar-gasket-a-c-line~4740361.html
+5,6035583,CLIP Wrap Around,,,,2,1,,,available,47.59,37.4,/parts/mopar-clamp-wrap-around~6035583.html
+6,5264642,CAP A/C Check Valve,,,,,,68620804AA,,available,,6.55,/parts/mopar-cap-a-c-check-valve~5264642.html
+7,4848164,LINE A/C Liquid,,,,,,,,discontinued,,,/parts/mopar-line-air-conditioning-liquid~4848164.html
+8,5114529AA,O RING A/C Line Drier,,,,,,,,discontinued,,,
+9,5114528AA,O RING A/C Line Condenser,,,,,,,,discontinued,,,
+11,5072866AA,CAP A/C Charge Valve,,,,,,,,available,5.75,3.9,/parts/mopar-cap-a-c-charge-valve~5072866aa.html
+12,5245036,LINE A/C Discharge,,,,,,,,discontinued,,,
+13,4796565,O RING A/C Line,,,,2,1,,,available,9.75,6.76,/parts/mopar-o-ring-a-c-line~4796565.html
+14,4709099,CLIP Discharge Line,,,,,,,,available,3.1,2.44,/parts/mopar-clip-discharge-line~4709099.html
+15,4708201,RECEIVER DRIER,,,,,,,,discontinued,,,/parts/mopar-drier~4708201.html
+16,5264650,DECAL A/C System Specification English,,,,,,,,discontinued,,,/parts/mopar-decal-a-c-system-specification~5264650.html
+17,4708204,SWITCH Dual Pressure,,,,,,,,discontinued,,,/parts/mopar-switch-dual-pressure~4708204.html
+19,4708206,CONDENSER Air Conditioning,,,,,,,,discontinued,,,/parts/mopar-condenser-air-conditioning~4708206.html
+20,4708365,DRAIN A/C And Heater,,,,,,,,discontinued,,,/parts/mopar-hose-drain~4708365.html
+21,4709377,BRACKET A/C Condenser,,,,,,,,discontinued,,,/parts/mopar-bracket-air-conditioning-condenser~4709377.html
+,4848672,TUBE Filter Drier to Evaporator,,,,,,,,discontinued,,,/parts/mopar-tube-filter-drier-to-evaporator~4848672.html
+,5011346AA,VALVE CORE A/C Line,,,,,,5003461AA,,available,31.95,22.14,/parts/mopar-valve-cor-service-port~5011346aa.html

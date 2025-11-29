@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,WN73ERSAC,DECAL VIPER,,,,,,,[KEM],available,66.95,61.64,/parts/mopar-d-viper~wn73ersac.html
+1,WN73FCVAC,DECAL VIPER,,,,,,,[KEV],available,24,18.86,/parts/mopar-d-viper~wn73fcvac.html
+1,WN73GBCAC,DECAL VIPER,,,,,,,[KEC],available,68.1,47.59,/parts/mopar-d-viper~wn73gbcac.html
+1,WN73GGSAC,DECAL VIPER,,,,,,,[KEN],available,72.3,58.22,/parts/mopar-d-viper~wn73ggsac.html
+1,WN73GK3AC,DECAL VIPER,,,,,,,[KEL],available,84.15,56.5,/parts/mopar-d-viper~wn73gk3ac.html
+1,WN73SBBAC,DECAL VIPER,,,,,,,[KEB],available,66.95,56.5,/parts/mopar-d-viper~wn73sbbac.html
+1,WN73WRRAC,DECAL VIPER,,,,,,,[KER],available,72.3,58.22,/parts/mopar-d-viper~wn73wrrac.html
+2,WN80ERSAC,DECAL DODGE,,,,,,,[KSM],available,48.2,40.25,/parts/mopar-d~wn80ersac.html
+2,WN80FCVAC,DECAL DODGE,,,,,,,[KSV],discontinued,,,/parts/mopar-d~wn80fcvac.html
+2,WN80GBCAC,DECAL DODGE,,,,,,,[KSC],available,55.55,37.8,/parts/mopar-d~wn80gbcac.html
+2,WN80GGSAC,DECAL DODGE,,,,,,,[KSN],discontinued,,,/parts/mopar-d~wn80ggsac.html
+2,WN80GK3AC,DECAL DODGE,,,,,,,[KSL],available,57.65,39.03,/parts/mopar-d~wn80gk3ac.html
+2,WN80SBBAC,DECAL DODGE,,,,,,,[KSB],discontinued,,,/parts/mopar-d~wn80sbbac.html
+2,WN80WRRAC,DECAL DODGE,,,,,,,[KSR],available,50.85,42.76,/parts/mopar-d~wn80wrrac.html
+3,WN81XZAAC,DECAL SRT-10,,,,2,1,,,available,75.5,60.64,/parts/mopar-d-viper~wn81xzaac.html
+,68037898AA,DECAL ACR,,,,2,1,68037898AB,,available,265,215.45,/parts/mopar-d-viper~68037898aa.html

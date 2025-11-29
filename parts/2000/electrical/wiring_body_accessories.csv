@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4794427AA,WIRING Body,,,29,,,4794427AC,,discontinued,,,/parts/mopar-wiring-body~4794427aa.html
+,4865675AA,PROTECTOR Wiring,,,,,,,,discontinued,,,/parts/mopar-cover-wiring~4865675aa.html
+,4642610AC,WIRING Battery Negative,,,,,,,,discontinued,,,/parts/mopar-cable-bat-battery-negative~4642610ac.html
+,4763057AB,WIRING Battery Positive,,,,,,4763057AE,,discontinued,,,/parts/mopar-cable-bat-battery-positive~4763057ab.html
+,4763076AE,WIRING Door,,,,,,,Right Door,discontinued,,,/parts/mopar-wiring-door~4763076ae.html
+,4848156AC,WIRING Electric Back Light,,,,,,,,discontinued,,,/parts/mopar-wiring-electric-back-light~4848156ac.html
+,5245041,WIRING Transmission,,,,,,,,discontinued,,,/parts/mopar-wiring-transmission~5245041.html

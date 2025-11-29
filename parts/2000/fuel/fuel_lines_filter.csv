@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848994AB,TUBE Fuel Supply,,,,,,,,discontinued,,,/parts/mopar-tube-fuel-supply~4848994ab.html
+2,4848995AA,TUBE Vacuum,,,,,,,,discontinued,,,/parts/mopar-tube-vacuum~4848995aa.html
+3,4848996AB,TUBE Vapor,,,,,,,,discontinued,,,/parts/mopar-tube-vapor~4848996ab.html
+4,4763679AB,TUBE Brake,,,,,,,Left Rear,discontinued,,,/parts/mopar-line-brake~4763679ab.html
+5,5264859AB,CLIP Fuel Bundle,,,,5,1,,,discontinued,,,/parts/mopar-clip-fuel-bundle~5264859ab.html
+6,3404625,CLIP Tube,,,,,,,,discontinued,,,
+7,5290074AA,BUNDLE Fuel Line,,,,,,,,discontinued,,,/parts/mopar-bundle-fuel-line~5290074aa.html
+8,2207919,CLIP Parking Brake Cable,,,,2,1,,,available,6.75,5.31,/parts/mopar-clip-parking-brake-cable~2207919.html
+9,4708317,FILTER Fuel,,,,,,,,discontinued,,,

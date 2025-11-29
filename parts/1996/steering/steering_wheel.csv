@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,PR12SB4,"WHEEL, Steering 1992-3-4-5",,,,,,,Bright Blue 1996,discontinued,,,
+1,PR12SR1,"WHEEL, Steering 1992-3-4-5",,,,,,,Red 1996,discontinued,,,/parts/mopar-wheel-steering-wheel-assy~pr12sr1.html
+1,PR12SX9,"WHEEL, Steering 1992-3-4-5",,,,,,,Flat Black 1996,discontinued,,,
+1,PB41TB4,"WHEEL, Steering, Leather",,,,,,,Bright Blue,discontinued,,,/parts/mopar-steering-wheel~pb41tb4.html
+1,PB41TR1,"WHEEL, Steering, Leather",,,,,,,Red,discontinued,,,/parts/mopar-wheel-steering~pb41tr1.html
+2,LB45JX8,"MODULE, Air Bag",,,,,,,,discontinued,,,/parts/mopar-airbag-driver~lb45jx8.html
+3,6503771,"SCREW, Air Bag Module",,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-flange-head~6503771.html
+3,52000745,"WIRE, (w/Retainer J3187257)",,,,,,,,discontinued,,,/parts/mopar-wiring-steering-wheel~52000745.html
+4,4642740,SCREW,,,,6,,,,discontinued,,,
+5,4848437,CLOCKSPRING PACKAGE,,,,,,4848437AA,,discontinued,,,/parts/mopar-clkspring~4848437.html
+5,J4200414,NUT,,,,,,,,discontinued,,,
+6,4642738,"ADAPTER, Steering Wheel",,,,,,,,discontinued,,,/parts/mopar-adaptor-wheel-to-column~4642738.html
+6,J4200414,"NUT, Steering Wheel",,,,,,,,discontinued,,,
+7,52004402,"SPRING, Horn Button",,,,,,,,discontinued,,,/parts/mopar-spring-horn-button~52004402.html

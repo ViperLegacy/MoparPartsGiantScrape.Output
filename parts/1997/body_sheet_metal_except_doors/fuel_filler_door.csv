@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4709219AB,DOOR Fuel Fill,,,,,,,,discontinued,,,
+2,4643884,SHIM Fuel Filler Door,,,,,,,,discontinued,,,/parts/mopar-shim-fuel-filler-door~4643884.html
+4,4763838,BUMPER Fuel Door,,,,2,1,,,discontinued,,,/parts/mopar-bumper-fuel-door~4763838.html
+5,4709364,PLATE AND SCREW Fuel Filler Door,,,,,,,,available,8.05,6.33,/parts/mopar-reinfmnt-fuel-filler-door~4709364.html
+6,4708234,LABEL Fuel,,,,,,,,discontinued,,,/parts/mopar-label-fuel~4708234.html
+7,4848132,CAP Fuel Filler,,,,,,,,discontinued,,,/parts/mopar-cap-fuel-filler~4848132.html
+10,6102004,SCREW CAP M8x1.25x26.8,,,,4,1,,,discontinued,,,/parts/mopar-screw-cap~6102004.html
+11,5245877,SEAL Truck Closeout,,,,,,,,discontinued,,,/parts/mopar-seal-truck-closeout~5245877.html
+12,5245665,SEAL,,,,,,,,discontinued,,,/parts/mopar-seal~5245665.html
+13,4643885,SEAL Fuel Filler Flange,,,,,,,,discontinued,,,/parts/mopar-seal-fuel-filler-flange~4643885.html
+14,4763476,SHIELD Fuel Filler Door,,,,,,,,available,8.75,7.57,/parts/mopar-shield-fuel-filler-door~4763476.html
+15,5245856,TUBE Drain,,,,,,,,available,4.55,3.58,/parts/mopar-tube-drain~5245856.html

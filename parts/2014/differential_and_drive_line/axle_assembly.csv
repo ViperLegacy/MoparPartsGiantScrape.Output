@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6102404AA,BOLT Hex Head,,,,2,1,,,available,7.7,6.35,/parts/mopar-screw-hex-head~6102404aa.html
+2,6506890AA,WASHER Flat,,,,2,1,,,available,2.85,2.45,/parts/mopar-washer-flat~6506890aa.html
+3,5037260AA,BUSHING Axle Mount,,,,2,1,,,available,34.65,28.01,/parts/mopar-bushing-axle-mount~5037260aa.html
+4,6502698,NUT Hex Flange Lock M14x2.00,,,,2,1,,,available,8.95,6.17,/parts/mopar-nut-hex-flange-lock~6502698.html
+5,6504065,NUT AND RETAINER Hex Flange Locking M12x1.75,,,,2,1,,,discontinued,,,/parts/mopar-nut-hex-flange-locking~6504065.html
+6,5037261AA,BUSHING Axle Mount,,,,4,1,,,available,46.45,38.97,/parts/mopar-bushing-axle-mount~5037261aa.html
+7,5037260AA,BUSHING Axle Mount,,,,2,1,,,available,34.65,28.01,/parts/mopar-bushing-axle-mount~5037260aa.html
+8,53010704AA,DIFFERENTIAL Rear Axle,,,,,,53010704AI,,available,7385,4994.6,/parts/mopar-differntl-rear-axle~53010704aa.html
+9,6102430AA,BOLT AND CONED WASHER Hex Head M12X1.75X95.00,,,,2,1,,,available,10.35,7.16,/parts/mopar-bolt-hex-head~6102430aa.html
+,68197927AA,LUBE Axle 75W140 Synthetic,,,,,,,,discontinued,,,/parts/mopar-lubricant-axle~68197927aa.html

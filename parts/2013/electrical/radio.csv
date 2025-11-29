@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5091060AF,RADIO MULTI Media,,,,,,,[RA4],discontinued,,,
+1,68184965AF,RADIO MULTI Media,,,,,,,"[RA4], [RSD]",discontinued,,,
+1,68184966AG,RADIO MULTI Media,,,,,,,"[RA3], [RSD]",discontinued,,,
+2,6101946,SCREW Tapping Hex Head M4.2X1.70X20.00,,,,4,1,,,available,2.3,1.34,/parts/mopar-screw-tapping-hex-head~6101946.html
+3,1UX67AAAAC,CENTER STACK Upper,,,,,,68223408AH,[SDY],available,910,775.2,/parts/mopar-stack~1ux67aaaac.html
+3,1UX68LC6AB,CENTER STACK Upper,,,,,,,"[SDY], [JBD]",discontinued,,,

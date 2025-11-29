@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4671789AE,CLOCKSPRING,,,,,,,,available,323,261.7,/parts/mopar-clkspring~4671789ae.html
+2,4896069AF,MODULE Occupant Restraint,,,,,,,,discontinued,,,/parts/mopar-module-occupant-restraint~4896069af.html
+3,56054153AA,MODULE Occupant Classification,,,,,,,,unavailable,124,103.83,/parts/mopar-module-occupant-classification~56054153aa.html

@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5029125AA,PANEL Taillamp Mounting,Left,,,,,,,available,66.95,56.5,/parts/mopar-panel-taillamp-mounting~5029125aa.html
+2,6503698,SCREW AND WASHER Truss Head M6-1.00x30.00,,,,4,1,,,discontinued,,,/parts/mopar-screw-truss-head~6503698.html
+4,6101442,U-NUT M6 x 1.00 M6x1.00,,,,4,1,,,available,8.9,6.17,/parts/mopar-nut-m6-x-1-00~6101442.html
+,5029121AA,BRACKET Tail Lamp,,,,,,,Left Tail Lamp Mounting,discontinued,,,/parts/mopar-bracket-tail-lamp~5029121aa.html
+,5029520AA,ISOLATOR FOAM,,,,2,1,5029520AB,,available,6.2,5.42,/parts/mopar-isolator-foam~5029520aa.html

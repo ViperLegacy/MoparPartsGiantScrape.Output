@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4642227,"TUBE ASSEMBLY, Front Brake , Right",,,,,,,"TUBE ASSEMBLY, Front Brake , Left",discontinued,,,
+2,2207919,"CLIP, Front Brake Tube",,,,,,,,available,6.75,5.31,/parts/mopar-clip-parking-brake-cable~2207919.html
+3,4642229,"HOSE ASSEMBLY, Front Brake",,,,,,,"1992-95, Left",discontinued,,,/parts/mopar-hose-frt-disc-brake-lt~4642229.html
+3,4763154,"HOSE ASSEMBLY, Front Brake",,,,,,,"1996, Right",discontinued,,,
+3,4763155,"HOSE ASSEMBLY, Front Brake",,,,,,,"1996, Left",discontinued,,,/parts/mopar-line-front-wheel-disc~4763155.html
+4,6502114,"WASHER, Brake Hose to Caliper",,,,8,1,,,available,9.2,6.68,/parts/mopar-gasket-brake-hose-to-caliper~6502114.html
+5,34202708,"BOLT, Brake Hose to Caliper",,,,4,,,,discontinued,,,
+6,6034434,"SCREW and WASHER ASSEMBLY, Hose to Knuckle (Front)",,,,2,1,,,available,8.34,6.55,/parts/mopar-hex-head-screw-wa-asm~6034434.html
+7,34201596,"BOLT, Pan Head Torx",,,,5,1,,,discontinued,,,/parts/mopar-bolt-pan-head~34201596.html
+8,6031012,"SCREW, Self Tapping",,,,4,,,,discontinued,,,
+9,3404625,"CLIP, Front Brake Tubes",,,,,,,,discontinued,,,
+10,4642212,"TUBE ASSEMBLY, M/Cyl. to Prop. Valve (Primary)",,,,,,,,discontinued,,,
+11,4642209,"TUBE ASSEMBLY, M/Cyl. to Prop. Valve (Secondary)",,,,,,,,discontinued,,,/parts/mopar-tube-m-cyl-to-prop~4642209.html
+12,4642219,"VALVE and BRACKET ASSEMBLY, Proportioning",,,,,,,,discontinued,,,/parts/mopar-valve-differential~4642219.html
+13,4709072,"TUBE ASSEMBLY, Valve to Rear Brake Tee 1992-93",,1994,,,,,,discontinued,,,/parts/mopar-tube-assy-assy-main-brake~4709072.html
+14,6100151,"BOLT, Valve and Bracket Mounting",,,,,,,,discontinued,,,/parts/mopar-bolt-hex-head~6100151.html
+15,52017741,"CLIP, Brake and Fuel Tubes",,,,5,1,,,discontinued,,,/parts/mopar-clip-fuel-bundle~52017741.html
+16,6031573,"CLIP, Rear Brake Tube",,,,2,,,,discontinued,,,
+17,4642224,"TUBE ASSEMBLY, Rear Brake",,,,,,,Right Up to 2-3-93,discontinued,,,
+17,4709068,"TUBE ASSEMBLY, Rear Brake",,,,,,,Right After 2-3-93,discontinued,,,
+17,4709069,"TUBE ASSEMBLY, Rear Brake",,,,,,,Left After 2-3-93,discontinued,,,/parts/mopar-tube-assy-rear-rt~4709069.html
+17,6034881,"TUBE ASSEMBLY, Rear Brake",,,,,,,"NUT, Inverted Flare Tube .437-24x.825",available,16,12.58,/parts/mopar-nut-inverted-flare~6034881.html
+18,1141472,"TEE, Front to Rear Brake Tubes",,,,,,,,discontinued,,,/parts/mopar-connector-brake-tube~1141472.html
+19,4642231,"HOSE ASSEMBLY, Rear Brake , Right",,,,,,,"HOSE ASSEMBLY, Rear Brake , Left",discontinued,,,/parts/mopar-line-brake~4642231.html
+20,J3220009,"SCREW & WASHER, Brake Hose Bracket to Caliper (Rear)",,,,,,,"NUT, Brake Tube to Valve 1/2-20 Black",discontinued,,,
+,6100047,"NUT and WASHER, Valve Mounting Bolt",,,,,,,,available,9.35,6.52,/parts/mopar-nut-hex-nut-coned-washer~6100047.html

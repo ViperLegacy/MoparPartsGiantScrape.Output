@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,4626462,CUP,,,,,,,,available,34.85,24.35,/parts/mopar-bearing~4626462.html
+3,4626541,THRUST WASHER Sixth Gear,,,,,,,,discontinued,,,/parts/mopar-washer-sixth-gear~4626541.html
+4,5093272AA,GEAR Sixth,,,,,,,,discontinued,,,/parts/mopar-gear-pkg-sixth~5093272aa.html
+5,4626538,BEARING Sixth Gear,,,,,,,,available,32.15,22.25,/parts/mopar-bearing-sixth-gear~4626538.html
+6,4626496,PAD Shift Fork,,,,2,1,,,available,7.8,5.3,/parts/mopar-fork-shift-fork~4626496.html
+7,4626553,FORK Transmission,,,,,,,,discontinued,,,/parts/mopar-fork-transmission~4626553.html
+8,4626561,SNAP RING Shift Fork,,,,,,,,available,5.5,3.79,/parts/mopar-ring-shift-fork~4626561.html
+9,4626535,STOP RING Synchronizer,,,,2,1,,,discontinued,,,/parts/mopar-clutch-synchronizer~4626535.html
+10,4626537,SPACER Sixth Gear,,,,,,,,discontinued,,,/parts/mopar-shim-sixth-gear~4626537.html
+11,4626536,SNAP RING,,,,3,1,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+12,5018863AA,SYNCHRONIZER Fifth and Sixth,,,,,,,,discontinued,,,/parts/mopar-synch-fifth-and-sixth~5018863aa.html
+13,5093273AA,GEAR Fifth,,,,,,,,discontinued,,,/parts/mopar-gear-fifth~5093273aa.html
+14,4626530,NEEDLE BEARING Fifth Gear,,,,,,,,available,30.85,21.32,/parts/mopar-bearing-fifth-gear~4626530.html
+15,4626540,FORK Fifth Shift,,,,,,,,discontinued,,,/parts/mopar-fork-5th-and-6th-shift~4626540.html
+16,4626542,SNAP RING Shift Fork,,,,,,,,available,7.2,4.89,/parts/mopar-retainer-shift-fork~4626542.html
+17,4626496,PAD Shift Fork,,,,2,1,,,available,7.8,5.3,/parts/mopar-fork-shift-fork~4626496.html
+18,4626529,COUNTERSHAFT Extension,,,,,,,,discontinued,,,/parts/mopar-gear-extension~4626529.html
+19,4626468,BEARING,,,,,,,,available,43.1,29.92,/parts/mopar-bearing-input-shaft~4626468.html
+20,4626544,CUP,,,,,,,,available,31.6,15.31,/parts/mopar-cup-input-shaft~4626544.html
+21,5018856AA,SHIM KIT Transmission,,,,,,,,discontinued,,,/parts/mopar-shim-transmission~5018856aa.html
+22,4626545,FUNNEL Counter Shaft,,,,,,,,discontinued,,,

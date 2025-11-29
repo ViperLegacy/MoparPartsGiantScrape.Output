@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6034523,BOLT Alternator,,,,,,,,discontinued,,,/parts/mopar-screw-alternator~6034523.html
+2,6502696,NUT Hex Flange Lock M14x1.50,,,,3,1,,,available,7.2,4.89,/parts/mopar-nut-hex-flange-lock~6502696.html
+3,4796376,BRACKET PACKAGE Engine Mount,,,,2,1,,,discontinued,,,/parts/mopar-insulator-engine-mount~4796376.html
+4,53020419,SHIELD Heat,,,,10,1,,,discontinued,,,/parts/mopar-shield-heat~53020419.html
+5,4643530,INSULATOR Engine Mount,Right,,,,,,,available,261.39,205.41,/parts/mopar-insulator-engine-mount~4643530.html
+6,6025022,NUT AND WASHER Hex Nut-Coned Washer .500-13,,,,2,1,,,discontinued,,,/parts/mopar-nut-hex-nut-coned-washer~6025022.html
+,6030478,NUT AND WASHER Hex Lock Nut-Coned Lock Washer .500-13,,,,2,,,,discontinued,,,

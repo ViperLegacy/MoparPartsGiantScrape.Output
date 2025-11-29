@@ -1,0 +1,35 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848508,SHOCK ABSORBER Suspension Rear,,,,2,1,,,discontinued,,,/parts/mopar-absorber-suspension~4848508.html
+2,120123,PIN Cotter,,,,2,1,,,available,8.1,5.65,/parts/mopar-pin-cotter~120123.html
+3,152349,NUT Hex .50-20,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex~152349.html
+4,6502337,NUT M10x1.5,,,,2,1,,,available,8.75,6,/parts/mopar-nut-hex-locking~6502337.html
+5,6035641,NUT Hex .625-18,,,,2,1,,,discontinued,,,/parts/mopar-nut-hex~6035641.html
+6,6101063,SCREW AND WASHER M10x1.5x45,,,,4,1,,,available,4.1,2.8,/parts/mopar-screw~6101063.html
+7,4763159,LINK Trailing Rear Suspension,,,,2,1,,,discontinued,,,/parts/mopar-link-trailing-rear-suspension~4763159.html
+8,6100969,BOLT Hex Flange Head M14x2.00x90,,,,2,1,,,discontinued,,,/parts/mopar-bolt-hex-flange-head~6100969.html
+9,6504189,SCREW,,,,2,1,,,available,14.75,10.19,/parts/mopar-bolt~6504189.html
+10,6502698,NUT,,,,2,1,,,available,8.95,6.17,/parts/mopar-nut-hex-flange-lock~6502698.html
+11,4709289,LINK Rear Suspension Assist,,,,2,1,68231479AA,,available,291,194.63,/parts/mopar-link~4709289.html
+13,6502556,NUT Hex M10-1.5,,,,2,1,,,available,11.3,7.86,/parts/mopar-nut-hex~6502556.html
+14,6100219,NUT Hex Jam M10x1.5,,,,2,1,,,available,8.75,6.06,/parts/mopar-nut-hex-jam~6100219.html
+15,4709320,ARM Control,,,,2,,,,discontinued,,,
+16,4709325,ARM Control,,,,,,,Left Lower,discontinued,,,/parts/mopar-arm-control~4709325.html
+17,2269232,CAM Front Suspension Control Arm,,,,4,1,,,discontinued,,,/parts/mopar-nut-front-suspension-control-ar~2269232.html
+18,6502585,NUT Engine Mounting M12 x 1.75,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex~6502585.html
+20,6100219,NUT Hex Jam M10x1.5,,,,2,1,,,available,8.75,6.06,/parts/mopar-nut-hex-jam~6100219.html
+21,4643913,SHIM Tow Link To Frame,,,,,,,(2U),discontinued,,,
+21,4643914,SHIM Tow Link To Frame,,,,,,,(4U),discontinued,,,/parts/mopar-shim-tow-link-to-frame~4643914.html
+21,4643915,SHIM Tow Link To Frame,,,,,,,(6U),available,24,16.31,/parts/mopar-shim-tow-link-to-frame~4643915.html
+21,4643985,SHIM Tow Link To Frame,,,,,,,(2D),available,24,16.31,/parts/mopar-shim-tow-link-to-frame~4643985.html
+21,4643986,SHIM Tow Link To Frame,,,,,,,(4D),available,26,19.65,/parts/mopar-shim-tow-link-to-frame~4643986.html
+21,4643987,SHIM Tow Link To Frame,,,,,,,(6D),available,23,18.08,/parts/mopar-shim-tow-link-to-frame~4643987.html
+22,4848646,BAR Rear Sway,,,,,,,,discontinued,,,/parts/mopar-bar-rear-sway~4848646.html
+23,4873203,SPRING Rear Coil,,,,,,,,discontinued,,,/parts/mopar-spring-rear-coil~4873203.html
+24,4709316,BRACKET Suspension,,,,2,,,,discontinued,,,
+25,4404219,RETAINER Stabilizer Bar Grommet,,,,2,1,,,discontinued,,,/parts/mopar-cover-sway-bar~4404219.html
+26,4643031,BUSHING Stabilizer Bar,,,,2,1,,,discontinued,,,/parts/mopar-bushing-sway-bar~4643031.html
+27,6035643,NUT .562-18,,,,2,1,6036331AA,,available,14.45,9.96,/parts/mopar-nut~6035643.html
+28,4709282,KNUCKLE Rear,Right,,,,,,,discontinued,,,/parts/mopar-knuckle-rear~4709282.html
+29,4848174AB,BALL JOINT Lower Control Arm,,,,4,1,5290860AA,,available,81.5,56.97,/parts/mopar-balljoint-lower-control-arm~4848174ab.html
+30,4709309,ROD Toe Link,,,,2,1,,,discontinued,,,/parts/mopar-rod-toe-link~4709309.html
+,5012650AA,BUSHING Shock Absorber,,,,2,1,,,discontinued,,,/parts/mopar-bushing-shock-absorber~5012650aa.html

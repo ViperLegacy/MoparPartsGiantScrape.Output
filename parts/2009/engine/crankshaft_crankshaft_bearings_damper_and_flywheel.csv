@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037965AB,FLYWHEEL,,,,,,,,discontinued,,,/parts/mopar-flywheel~5037965ab.html
+2,2843214,GEAR Flywheel Ring,,,,,,,,available,212,140.63,/parts/mopar-gear-flywheel-ring~2843214.html
+3,5038250AC,CRANKSHAFT,,,,,,,,available,2640,2237.4,/parts/mopar-crankshft~5038250ac.html
+4,6508879AA,BOLT Hex Head Locking M10x1.00x30.00,,,,8,1,,,available,4.95,3.38,/parts/mopar-bolt-hex-head-locking~6508879aa.html
+5,53009181AB,BEARING Pilot,,,,,,,,available,42.7,29.59,/parts/mopar-bearing-pilot~53009181ab.html
+6,5037727AB,DAMPER Vibration,,,,,,,,discontinued,,,/parts/mopar-damper-vibration~5037727ab.html
+7,6036207AA,BOLT Hex Head .750-16x2.250,,,,,,,,discontinued,,,/parts/mopar-bolt-hex-head~6036207aa.html
+8,4723540AD,BEARING KIT Crankshaft Thrust Std,,,,,,,,discontinued,,,/parts/mopar-brg-pkg-crankshaft-thrust~4723540ad.html
+9,4723536AB,BEARING PACKAGE Crankshaft Standard Main Bearing,,,,,,4723536AC,,available,125,10.25,/parts/mopar-brg-pkg-crankshaft~4723536ab.html
+10,6034749,KEY Woodruff [.188x.780],,,,,,,,available,6.8,4.6,/parts/mopar-key-woodruff~6034749.html

@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5245359,PLATE Camshaft Thrust,,,,,,,,discontinued,,,/parts/mopar-gear-camshaft-thrust~5245359.html
+2,220800,SCREW Hex Head .312-18x.75,,,,2,1,,,discontinued,,,/parts/mopar-bolt~220800.html
+3,4863827,CHAIN PACKAGE Timing,,,,,,,,discontinued,,,/parts/mopar-sprkt-pkg-timing~4863827.html
+4,6034749,KEY Crankshaft Sprocket,,,,,,,,available,6.8,4.6,/parts/mopar-key-woodruff~6034749.html
+5,6024035,BOLT Hex Head .375-14x1.75,,,,,,,,discontinued,,,/parts/mopar-screw-hex-head~6024035.html
+6,6035558,SCREW Hex Flange Head .375-16x1.50,,,,9,1,,,available,6.25,4.91,/parts/mopar-screw-hex-flange-head~6035558.html
+7,4763745,GASKET Chain Case Cover,,,,,,,,discontinued,,,
+8,4763731AD,COVER Timing Case,,,,,,,,discontinued,,,
+9,5245135,SEAL Rear Main Crankshaft,,,,,,,,available,65.2,45.38,/parts/mopar-seal-crankshaft-oil~5245135.html

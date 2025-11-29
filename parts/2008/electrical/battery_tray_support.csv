@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5202588,RETAINER Battery,,,,,,,,available,19.65,13.69,/parts/mopar-retainer-battery~5202588.html
+4,5029668AA,WIRING Battery Negative,,,,,,,,available,32.55,26.45,/parts/mopar-cable-bat-battery-negative~5029668aa.html
+5,5161517AA,TERMINAL Battery,,,,,,,,available,53.75,37.4,/parts/mopar-terminal-battery~5161517aa.html
+9,56041053,SENSOR Battery Temperature,,,,,,,,available,90.65,41.99,/parts/mopar-sensor-battery-temperature~56041053.html
+11,BBH34800AA,BATTERY,,,,,,BB34F101AA,Mopar Replacement Battery (84 Series),available,327,221.09,/parts/mopar-battery-storage~bbh34800aa.html
+11,4609365AE,BATTERY,,,,,,,[BCE]  Production,discontinued,,,
+13,BB034600AA,BATTERY Storage,,,,,,BB34F101AA,,available,327,221.09,/parts/mopar-battery-storage~bb034600aa.html
+14,5029087AA,COVER Battery,,,,,,,,discontinued,,,/parts/mopar-cover-battery~5029087aa.html
+,6508183AA,SCREW AND WASHER Truss Head M6X1.00X30.00,,,,5,1,,,available,11.05,7.69,/parts/mopar-screw-truss-head~6508183aa.html

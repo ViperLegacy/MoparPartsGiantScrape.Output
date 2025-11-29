@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037344AA,THERMOSTAT 185 Degrees,,,,,,,,available,558,380.76,/parts/mopar-thrmostat~5037344aa.html
+2,5037173AA,GASKET Thermostat,,,,,,,,available,39.7,27.61,/parts/mopar-gasket-thermostat~5037173aa.html
+3,5037174AB,HOUSING Thermostat,,,,,,5045558AA,,available,582,381.7,/parts/mopar-housing-thermostat~5037174ab.html
+4,55035944AB,NIPPLE Heater Inlet,,,,,,,,discontinued,,,/parts/mopar-nipple-heater-inlet~55035944ab.html
+6,5264985AA,HOSE Radiator Inlet,,,,,,,,available,59.35,50.27,/parts/mopar-hose-radiator-inlet~5264985aa.html
+7,52006750,CLAMP Radiator,,,,2,1,55111033AA,,available,9.1,6.35,/parts/mopar-clamp-radiator~52006750.html
+8,6101308,NUT U M6x1.00,,,,2,1,,,available,6.2,4.19,/parts/mopar-nut-u~6101308.html
+9,5264986AA,HOSE Radiator Outlet,,,,,,,,discontinued,,,
+10,5264994AB,RADIATOR Engine Cooling,,,,,,,,discontinued,,,/parts/mopar-radiator-engine-cooling~5264994ab.html
+14,4809071,ISOLATOR Radiator Lower,,,,2,1,4809071AB,,available,9.9,8.91,/parts/mopar-isolator-radiator~4809071.html
+15,52027827,ISOLATOR Radiator Upper,,,,2,1,,,available,18.7,13.05,/parts/mopar-isolator-radiator~52027827.html
+16,5290099AA,FAN MODULE Radiator Cooling,,,,,,,,discontinued,,,
+17,5290176AA,WIRING Fan Motor,,,,,,,,available,48.2,40.74,/parts/mopar-wiring-fan-motor~5290176aa.html
+,52079928AA,CLIP Line,,,,,,,,discontinued,,,/parts/mopar-clip-hose~52079928aa.html
+,5290177AA,CLIP Power Steering Return Hose,,,,,,,,available,5.35,1.98,/parts/mopar-clip-power-steering-return-hose~5290177aa.html
+,52029087AA,DRAINCOCK Radiator,,,,,,,,discontinued,,,/parts/mopar-draincock-radiator~52029087aa.html
+,5290670AA,SEAL Radiator Upper,,,,,,,,discontinued,,,
+,153355,U-NUT .25-20,,,,2,1,,,available,4.8,3.32,/parts/mopar-nut~153355.html
+,6504118,U-NUT M6 x 1.00 M6x1.00 Radiator attaching,,,,8,1,,,available,14.4,10.02,/parts/mopar-nut-m6-x-1-00~6504118.html

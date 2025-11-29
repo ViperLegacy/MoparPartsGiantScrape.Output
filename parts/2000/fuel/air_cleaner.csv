@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5245780AB,HOUSING Air Inlet,,,,,,,,discontinued,,,/parts/mopar-housing-air-inlet~5245780ab.html
+2,5245312,HOUSING Air Outlet,,,,,,,,discontinued,,,/parts/mopar-housing-air-outlet~5245312.html
+3,5245778AC,TUBE Air Cleaner to T/Body,,,,2,1,,,discontinued,,,/parts/mopar-tube-air-cleaner-to-t-body~5245778ac.html
+4,5245492,SCREW Air Cleaner Cover,,,,,,,,discontinued,,,/parts/mopar-screw-air-cleaner-cover~5245492.html
+5,4763806AC,HARNESS CCV To Air Cleaner,,,,,,,,discontinued,,,/parts/mopar-harness-ccv-to-air-cleaner~4763806ac.html
+6,6502018,CLAMP Hose M28.9 x 1.60,,,,2,1,,,available,18.35,12.82,/parts/mopar-clamp-hose~6502018.html
+7,4763805,HOSE A.I.S. Supply,,,,,,,,discontinued,,,/parts/mopar-hose-a-i-s-supply~4763805.html
+8,5245266,ELEMENT Air Cleaner,,,,,,,,discontinued,,,/parts/mopar-element-air-cleaner~5245266.html
+9,5245265AB,ELEMENT Air Cleaner,,,,2,1,5245265AE,,available,34.4,24,/parts/mopar-element-air-cleaner~5245265ab.html
+10,4848313,SCREW Air Cleaner,,,,2,1,,,discontinued,,,/parts/mopar-screw-air-cleaner~4848313.html
+11,5245455,HOSE Crankcase Vent,,,,,,,,discontinued,,,

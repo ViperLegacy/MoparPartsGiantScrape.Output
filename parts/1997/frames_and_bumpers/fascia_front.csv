@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,KS72LRNAC,FASCIA Front,,,,,,,,discontinued,,,
+7,6025335,SCREW,,,,4,1,,,discontinued,,,/parts/mopar-screw~6025335.html
+8,6100515,NUT Hex Flange Lock M5,,,,2,1,,,available,7.55,5.24,/parts/mopar-nut-hex-flange-lock~6100515.html
+9,4848613,PANEL Front Facsia,Left,,,,,,,discontinued,,,/parts/mopar-panel-front-facsia~4848613.html
+10,6029074,U-NUT .25-20,,,,10,1,,,discontinued,,,/parts/mopar-nut~6029074.html
+11,6100545,SCREW AND WASHER Hex Head M5x.8x25,,,,10,1,,,discontinued,,,/parts/mopar-screw-hex-head~6100545.html
+16,4709049,HANDLE AND CABLE Hood Release,,,,,,,,discontinued,,,
+18,4709275,PAD Bulkhead Spacer,,,,2,1,,,discontinued,,,/parts/mopar-pad-bulkhead-spacer~4709275.html
+19,4709348,BRACKET Hood Latch,,,,,,,,discontinued,,,
+,4763096,FOAM AND TAPE Fascia,,,,,,,,discontinued,,,/parts/mopar-absorber-fascia~4763096.html
+,5245044,FOAM AND TAPE Frt Fascia Grille Opng GT-2,,,,,,,,discontinued,,,/parts/mopar-absorber-frt-fascia-grille-opng~5245044.html
+,6025002,NUT AND WASHER Hex Nut-Coned Washer .190-24,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex-nut-coned-washer~6025002.html
+,4848448,SEAL Front Fascia To Hood,,,,,,,,discontinued,,,/parts/mopar-seal-front-fascia-to-hood~4848448.html

@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,82214295,EMERGENCY KIT Tire Repair,,,,,,,,available,149,108.13,/parts/mopar-accessories_emergency_tire_repair-82214295.html
+2,56029400AE,SENSOR Tire Pressure,,,,4,1,68374924AB,,available,99.1,70.99,/parts/mopar-sensor-tire-pressure~56029400ae.html
+3,56053037AB,NUT Tire Pressure Sensor,,,,4,1,,,available,11.05,7.69,/parts/mopar-nut-tire-pressure-sensor~56053037ab.html
+4,68219831AE,MODULE Tire Pressure Monitoring,,,,,,68219831AF,,available,195,130.5,/parts/mopar-module-tire-pressure-monitoring~68219831ae.html

@@ -1,0 +1,24 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763380AC,BACKLITE,,,,,,,,discontinued,,,/parts/mopar-backlite~4763380ac.html
+2,4763965,HINGE Liftgate,Left,,,,,,,discontinued,,,/parts/mopar-hinge-liftgate~4763965.html
+3,QM20SX9,COVER Hinge,,,,,,,,discontinued,,,/parts/mopar-cover-hinge~qm20sx9.html
+4,6035857,PIN PUSH .281x.770,,,,8,1,,,discontinued,,,/parts/mopar-pin~6035857.html
+5,4848225,SHIM Liftgate Hinge,,,,,,,,discontinued,,,/parts/mopar-shim-liftgate-hinge~4848225.html
+6,6100567,SCREW AND WASHER Hex Head M6x1x25,,,,4,1,,,available,9.3,6.47,/parts/mopar-screw-hex-head~6100567.html
+7,6501941,NUT AND WASHER,,,,4,,,,discontinued,,,
+8,4763387AB,PROP Backlite,,,,2,1,,,available,46.45,38.97,/parts/mopar-prop-backlite~4763387ab.html
+9,5256749,BUMPER Deck Lid Adjuster,,,,2,1,,,discontinued,,,/parts/mopar-bumper-deck-lid-adjuster~5256749.html
+10,4854301AA,GASKET Bumper Bracket,,,,2,1,,,discontinued,,,/parts/mopar-gasket-bumper-bracket~4854301aa.html
+11,4763384,STRIKER Backlite,,,,,,,,discontinued,,,/parts/mopar-striker-backlite~4763384.html
+12,6501941,NUT AND WASHER,,,,2,,,,discontinued,,,
+13,4848359,BRACKET Liftgate,Left,,,,,,,available,70.66,55.53,/parts/mopar-bracket-liftgate~4848359.html
+15,6100557,BOLT AND CONED WASHER Hex Head M6x20x14,,,,6,1,,,available,9.2,6.41,/parts/mopar-screw-hex-head~6100557.html
+16,5017672AA,LATCH Decklid,,,,,,,,discontinued,,,/parts/mopar-latch-decklid~5017672aa.html
+17,5017673AA,CABLE Deck Lid Release,,,,,,,,discontinued,,,/parts/mopar-cable-deck-lid-release~5017673aa.html
+19,6100567,SCREW AND WASHER Hex Head M6x1x25,,,,,,,,available,9.3,6.47,/parts/mopar-screw-hex-head~6100567.html
+20,4763671AB,WEATHERSTRIP Liftgate Glass,,,,,,,,discontinued,,,/parts/mopar-w-strip-liftgate-glass~4763671ab.html
+21,4763386,BRACKET Mounting,,,,,,,,discontinued,,,/parts/mopar-bracket-mounting~4763386.html
+,4848767,BRACKET Trunk Lamp Mounting,,,,,,,,discontinued,,,/parts/mopar-bracket-trunk-lamp-mounting~4848767.html
+,6016152,CLIP,,,,2,1,,,discontinued,,,/parts/mopar-retainer~6016152.html
+,SF88DX9AA,HANDLE Backlight Remote Release,,,,,,,,discontinued,,,/parts/mopar-handle-backlite-remote-release~sf88dx9aa.html
+,5245667,REINFORCEMENT Mounting,Left,,,,,,,discontinued,,,/parts/mopar-reinfmnt-mounting~5245667.html

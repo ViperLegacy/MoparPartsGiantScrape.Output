@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5181333AA,WHEEL Front,,,,,,,[WPS] 18x10.0 Aluminum Wheel,available,1240,804.1,/parts/mopar-wheel-aluminum~5181333aa.html
+1,5290863AA,WHEEL Front,,,,,,,[WP7] 18x10.0 Aluminum Polished Wheel,discontinued,,,/parts/mopar-wheel~5290863aa.html
+1,5290866AA,WHEEL Front,,,,,,,[WP6] 18x10.0 Aluminum Polished Wheel,discontinued,,,/parts/mopar-wheel~5290866aa.html
+2,5181334AA,WHEEL Rear,,,,,,,[WPS] 19x13.0 Aluminum Wheel,available,1280,833.8,/parts/mopar-wheel-aluminum~5181334aa.html
+2,5290867AA,WHEEL Rear,,,,,,,[WP7]19x13.0 Aluminum Polished Wheel,discontinued,,,/parts/mopar-wheel~5290867aa.html
+2,5290868AA,WHEEL Rear,,,,,,,[WP6]19x13.0 Aluminum Polished Wheel,discontinued,,,/parts/mopar-wheel~5290868aa.html
+3,6036310AA,NUT Wheel .50x20 Chrome,,,,24,1,6036747AA,,available,16.45,8.91,/parts/mopar-nut-wheel~6036310aa.html
+6,TW94XZAAA,CAP Wheel Center,,,,4,1,,,available,90.7,59.61,/parts/mopar-cap-wheel-center~tw94xzaaa.html
+,52088961AA,NUT Tire Pressure Sensor,,,,,,,,available,15.85,11.07,/parts/mopar-nut-tire-pressure-sensor~52088961aa.html
+,52088990AC,SENSOR Tire Pressure Valve stem,,,,,,68406527AA,,available,102,68.4,/parts/mopar-sensor-tire-pressure~52088990ac.html

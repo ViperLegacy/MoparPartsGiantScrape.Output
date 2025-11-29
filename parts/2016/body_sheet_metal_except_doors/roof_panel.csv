@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68256852AB,PANEL Roof,,,,,,,,discontinued,,,
+2,6503992,SCREW AND WASHER Hex Head M6x1x30,,,,6,1,,,available,8.9,6.17,/parts/mopar-screw-hex-head~6503992.html
+3,68174034AB,SEAL Header Foam,,,,,,,,available,12.8,11.01,/parts/mopar-seal-header-foam~68174034ab.html
+4,5039061AD,SEAL Header Foam,,,,,,,,available,19.25,13.4,/parts/mopar-seal-header-foam~5039061ad.html
+5,6505026AA,SCREW Pan Head M8,,,,,,,,available,8.6,6,/parts/mopar-screw-pan-head~6505026aa.html
+6,68172149AB,SEAL Inlet Duct Panel,,,,4,1,,,available,7.45,6.17,/parts/mopar-seal-inlet-duct-panel~68172149ab.html
+7,1VY85DX8AD,PANEL Inlet Duct Rear Brake Cooling,Left,,,,,1VY85DX8AE,,available,694,474.24,/parts/mopar-panel-inlet-duct~1vy85dx8ad.html
+7,68191404AB,PANEL Inlet Duct Rear Brake Cooling,,,,,,,Right [MBM],available,2175,1469,/parts/mopar-panel-inlet-duct~68191404ab.html
+7,68191405AB,PANEL Inlet Duct Rear Brake Cooling,,,,,,,Left [MBM],available,2175,1469,/parts/mopar-panel-inlet-duct~68191405ab.html
+8,68186521AC,SEAL Brake Air Duct,Left,,,,,68186521AD,,available,10.8,7.51,/parts/mopar-seal-brake-air-duct~68186521ac.html
+9,5043043AB,DUCT Brake Cooling,Left,,,,,,,available,52.65,36.58,/parts/mopar-duct-brake-cooling~5043043ab.html
+10,68253421AB,REINFORCEMENT Roof Panel,Left,,,,,68253421AD,,available,747,510.72,/parts/mopar-reinfmnt-roof-panel~68253421ab.html
+11,6035201,RIVET,,,,6,1,,,available,12.2,8.45,/parts/mopar-rivet~6035201.html
+12,68186516AC,SEAL Foam,,,,,,,,available,6.4,5.42,/parts/mopar-seal-foam~68186516ac.html
+13,68144494AD,BRACKET Roof To Body,,,,2,1,68144494AE,,available,34.6,24.12,/parts/mopar-bracket-roof-to-body~68144494ad.html
+14,68186513AC,STUFFER Foam Trunk Pan To Roof Inner,Left,,,,,,,available,22.75,19.81,/parts/mopar-stuffer-foam~68186513ac.html
+15,68172150AB,SEAL Quarter Panel to Trunkpan,,,,2,1,,,available,7.7,6.35,/parts/mopar-seal-quarter-panel-to-trunkpan~68172150ab.html
+16,6503992,SCREW AND WASHER Hex Head M6x1x30,,,,2,1,,,available,8.9,6.17,/parts/mopar-screw-hex-head~6503992.html

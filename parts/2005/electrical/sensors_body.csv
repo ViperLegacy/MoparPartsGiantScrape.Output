@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,56041053,SENSOR Battery Temperature,,,,,,,,available,90.65,41.99,/parts/mopar-sensor-battery-temperature~56041053.html
+2,5290952AA,SENSOR Anti-Lock Brakes,,,,2,1,,,available,81.95,66.66,/parts/mopar-sensor-anti-lock-brakes~5290952aa.html
+3,5290248AA,SENSOR Anti-Lock Brakes,,,,2,1,5290248AB,,available,163,108.73,/parts/mopar-sensor-anti-lock-brakes~5290248aa.html
+4,52088990AA,SENSOR Tire Pressure Valve stem,,,,,,,,discontinued,,,/parts/mopar-sensor-tire-pressure~52088990aa.html
+,5083124AA,CAP Valve stem,,,,,,,,discontinued,,,/parts/mopar-cap-valve-stem~5083124aa.html
+,52088961AA,NUT Tire Pressure Sensor,,,,,,,,available,15.85,11.07,/parts/mopar-nut-tire-pressure-sensor~52088961aa.html

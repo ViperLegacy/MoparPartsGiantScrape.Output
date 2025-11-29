@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68195693AE,DOOR Front,Left,,,,,68241579AC,,available,3735,2531.2,/parts/mopar-door-front~68195693ae.html
+2,4865462AE,HINGE Front Door,,,,,,4865462AG,,available,720,474.1,/parts/mopar-hinge-front-door~4865462ae.html
+3,6502549,SCREW Pan Head M8x1.25x30,,,,2,1,,,available,7.8,5.13,/parts/mopar-screw-pan-head~6502549.html
+4,6503351,SCREW AND WASHER Hex Head M8x1.25x35,,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-head~6503351.html
+,6511120AA,SCREW Torx M8x1.25x25.05 Striker Attaching,,,,2,1,,,available,4.4,3.79,/parts/mopar-screw-torx~6511120aa.html
+,68146996AA,SHIM Door Striker,,,,2,,,,discontinued,,,
+,68145349AA,STRIKER Door Latch,,,,,,,,available,15.4,13.4,/parts/mopar-striker-door-latch~68145349aa.html

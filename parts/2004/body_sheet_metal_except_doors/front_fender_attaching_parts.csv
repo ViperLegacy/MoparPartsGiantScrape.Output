@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865830AB,BRACKET Sill To Fender,,,,2,1,4865830AC,,available,1130,936.77,/parts/mopar-bracket-sill-to-fender~4865830ab.html
+2,6034645,RIVET .25 Grip-.06-.25,,,,6,1,,,available,12.7,8.8,/parts/mopar-retainer~6034645.html
+3,4865637AB,SUPPORT Fender,Left,,,,,4865637AI,,available,1380,1169.55,/parts/mopar-support-fender~4865637ab.html
+4,TP57RXFAC,FRAME Windshield Surround,,,,,,TP57RXFAE,,available,4250,3604.7,/parts/mopar-frame-windshield-surround~tp57rxfac.html
+5,6507167AA,SCREW [M5x0.8x28.0],,,,2,1,,,available,11,7.63,/parts/mopar-screw-hex-head~6507167aa.html
+7,5029103AC,FENDER Front,,,,,,5029103AF,Left Service Dealer Painted,available,1750,1463.35,/parts/mopar-fender-front~5029103ac.html
+8,6504118,U-NUT M6 x 1.00 M6x1.00,,,,,,,,available,14.4,10.02,/parts/mopar-nut-m6-x-1-00~6504118.html
+9,6035625,SCREW [.190-16x.750],,,,2,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+10,6036568AA,SCREW [.164-18x.780],,,,6,1,,,available,8.85,5.24,/parts/mopar-screw~6036568aa.html
+11,6036568AA,SCREW [.164-18x.780],,,,2,1,,,available,8.85,5.24,/parts/mopar-screw~6036568aa.html
+12,5029277AC,GRILLE Fender,Left,,,,,,,discontinued,,,/parts/mopar-grille-fender~5029277ac.html
+13,6507167AA,SCREW,,,,16,1,,,available,11,7.63,/parts/mopar-screw-hex-head~6507167aa.html
+19,5029245AA,COVER Hinge,Left,,,,,,,available,324,266.21,/parts/mopar-panel-hinge~5029245aa.html
+,4860223,PLUG Shock Tower Hole,,,,2,1,,,available,10.55,7.34,/parts/mopar-plug-body~4860223.html
+,4708057,PLUG Trunk Seal,,,,2,1,,,available,47.85,33.38,/parts/mopar-plug-trunk-seal~4708057.html
+,6034645,RIVET .25 Grip-.06-.25,,,,6,1,,,available,12.7,8.8,/parts/mopar-retainer~6034645.html
+,6507769AA,STUD 1 End M5x0.80x20.00,,,,2,1,,,available,6.25,5.24,/parts/mopar-stud-1-end~6507769aa.html

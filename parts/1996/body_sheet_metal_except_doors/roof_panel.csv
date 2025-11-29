@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,PE84SBE,"PANEL, Roof",,,,,,,,discontinued,,,
+2,4763933,"FILLER SEAL, Roof To Door Surround",Left,,,,,,,discontinued,,,
+3,5245858,"SHIM, Side Rail To Sport Bar",,,,,,,,available,3.88,3.05,/parts/mopar-shim~5245858.html
+4,4848395,"BRACKET, Roof To Sport Bar",,,,,,,,available,4.83,3.8,/parts/mopar-bracket-roof-assy-to-sport-bar-mtg~4848395.html
+5,6101452,"SCREW and WASHER, M8x1.25x20.00",,,,8,1,,,available,8.1,5.65,/parts/mopar-bolt-hex-head~6101452.html
+6,6034756,"RIVET, Roof To Windshield Frame",,,,2,1,,,discontinued,,,/parts/mopar-rivet-blind~6034756.html
+7,4763531,SPORT BAR,,,,,,,,discontinued,,,
+8,5245857,"SHIM, Sport Bar Base",,,,2,,,,discontinued,,,
+9,4763931,"COVER, Roof To Door Surround",Left,,,,,,,discontinued,,,
+10,6503102,"NUT and WASHER, M6x1.00",,,,9,1,,,available,8.05,5.59,/parts/mopar-nut-hex-nut-coned-washer~6503102.html
+11,4848265,"CABLE ASSY., Roof to Sport Bar Mounting",,,,2,1,,,discontinued,,,/parts/mopar-cable-roof-to-sport-bar-mounting~4848265.html
+12,5245640,"REINFORCEMENT ASSY., Roof Inner Liftgate Latch Mounting",,,,,,,,discontinued,,,/parts/mopar-reinfmnt-mounting~5245640.html
+14,5245664,"REINFORCEMENT ASSY., Roof Inner Closeout Mounting",,,,4,1,,,discontinued,,,/parts/mopar-reinfmnt-mounting~5245664.html
+,4848384,"SEAL, Drain Channel Rear",,,,2,,,,discontinued,,,
+,5245853,"TUBE, Nozzle Roof Drain",,,,4,1,,,available,4.47,3.51,/parts/mopar-tube-tube~5245853.html
+,4848128,"WASHER, Sport Bar Attachment",,,,2,1,,,available,1.47,1.15,/parts/mopar-washer-sport-bar~4848128.html

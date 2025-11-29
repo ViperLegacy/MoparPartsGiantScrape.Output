@@ -1,0 +1,40 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5093291AB,PAD KIT Disc Brake,,,,,,,"[BRF] Or [BR4], With [XS9][BRF] Or [BR4], With [XSP][BRF] Or [BR4], With [XTU]...View More",available,301,239.73,/parts/mopar-pad-disc-brake~5093291ab.html
+1,68283290AA,PAD KIT Disc Brake,,,,,,68283290AB,[BRM],available,1305,847,/parts/mopar-pad-disc-brake~68283290aa.html
+3,5093303AA,CLIP Brake Caliper,,,,,,,,available,18.45,13.86,/parts/mopar-retainer-brake-caliper~5093303aa.html
+4,5093301AA,PISTON KIT DISC BRAKE,,,,,,,"[BR1], 38mm Diameter Pistons.[BRF] Or [BR4], With [XS9], 38mm Diameter Pistons.[BRF] Or [BR4], With [XSP], 38mm Diameter Pistons.[BRF] Or [BR4], With [XTU], 38mm Diameter Pistons....View More",available,101,65.65,/parts/mopar-piston-disc-brake~5093301aa.html
+5,5093299AA,BOOT AND SEAL KIT Disc Brake,,,,,,,,available,28.15,22.66,/parts/mopar-seal-disc-brake~5093299aa.html
+6,68192025AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,"Left Rear [BRF] OR [BR4], [XS9]",available,589,387.62,/parts/mopar-caliper-disc-brake~68192025aa.html
+6,68192028AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,"Right Rear [BRF] OR [BR4], [XSP]",available,728,474.52,/parts/mopar-caliper-disc-brake~68192028aa.html
+6,68192029AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,"Left Rear [BRF] OR [BR4], [XSP]",available,741,482.22,/parts/mopar-caliper-disc-brake~68192029aa.html
+6,68237076AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,Right Rear [BR1],available,592,389.82,/parts/mopar-caliper-disc-brake~68237076aa.html
+6,68237077AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,Left Rear [BR1],available,564,371.12,/parts/mopar-caliper-disc-brake~68237077aa.html
+6,68237334AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,"Right Rear [BRF] OR [BR4], [XTU]",available,904,402.92,/parts/mopar-caliper-disc-brake~68237334aa.html
+6,68237335AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,"Left Rear [BRF] OR [BR4], [XTU]",available,904,402.92,/parts/mopar-caliper-disc-brake~68237335aa.html
+6,68283288AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,Right Rear [BRM],available,1225,793.52,/parts/mopar-caliper-disc-brake~68283288aa.html
+6,68283289AA,CALIPER ASSEMBLY Disc Brake Rear,,,,,,,Left Rear [BRM],available,1230,799.02,/parts/mopar-caliper-disc-brake~68283289aa.html
+7,6507587AA,SCREW Cap,,,,2,1,,,discontinued,,,/parts/mopar-screw-cap~6507587aa.html
+8,68203104AA,BLEEDER SCREW Brake,,,,,,,[BRM],available,21.4,14.8,/parts/mopar-screw-brake~68203104aa.html
+9,68283294AA,PIN KIT Disc Brake,,,,,,,[BRM],available,41.8,29.01,/parts/mopar-pin-disc-brake~68283294aa.html
+12,5290125AH,KNUCKLE Rear,,,,,,,Right Rear,available,5195,3410,/parts/mopar-knuckle-rear~5290125ah.html
+12,68253068AA,KNUCKLE Rear,,,,,,68253068AC,Right Rear [BRM],available,5600,3685,/parts/mopar-knuckle-rear~68253068aa.html
+12,68253069AA,KNUCKLE Rear,,,,,,68253069AC,Left Rear [BRM],available,5135,3382.5,/parts/mopar-knuckle-rear~68253069aa.html
+13,6035642,SCREW AND WASHER Hex Head Locking .50-20x2.25 Grade 8,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-head-locking~6035642.html
+14,52006404,SEAL Ball Joint,,,,,,,,available,43.8,30.41,/parts/mopar-seal-ball-joint~52006404.html
+15,83507064AB,FITTING Ball Joint Zirc,,,,,,,,discontinued,,,/parts/mopar-fitting-grease~83507064ab.html
+16,4848716,HUB AND BEARING Brake,,,,,,,,available,1020,666.6,/parts/mopar-hub-brake~4848716.html
+17,4848171,GASKET,,,,,,,,discontinued,,,/parts/mopar-gasket~4848171.html
+18,6033702,STUD Hub,,,,6,1,,,discontinued,,,/parts/mopar-stud-hub~6033702.html
+19,68225239AA,ROTOR Brake,,,,,,,Left Rear [BR1],available,2055,1347.5,/parts/mopar-rotor-brake~68225239aa.html
+19,68225242AA,ROTOR Brake,,,,,,,Right Rear [BR1],available,2055,1347.5,/parts/mopar-rotor-brake~68225242aa.html
+19,5181462AC,ROTOR Brake,,,,,,,Right Rear [BR4],discontinued,,,/parts/mopar-rotor-brake~5181462ac.html
+19,5290393AA,ROTOR Brake,,,,2,1,,Right And Left Rear [BRF],available,192,154.54,/parts/mopar-rotor-brake~5290393aa.html
+19,68252786AA,ROTOR Brake,,,,2,1,,Right And Left Rear [BRM],available,5785,3800.5,/parts/mopar-rotor-brake~68252786aa.html
+20,6500336,PIN Cotter M5x36.00,,,,,,,,available,6.75,4.9,/parts/mopar-pin-cotter~6500336.html
+21,4293167AB,NUT AND WASHER KIT,,,,,,,,available,25.75,19.45,/parts/mopar-lk-nutpkg~4293167ab.html
+22,6502294,NUT Hex Flange M22x1.25,,,,,,,,available,12.4,8.56,/parts/mopar-nut-hex-flange~6502294.html
+23,6502293,WASHER Flat M23x43x4,,,,,,,,available,8.15,5.59,/parts/mopar-washer-flat~6502293.html
+24,6035670,NUT Hex,,,,,,,,discontinued,,,/parts/mopar-nut-hex~6035670.html
+25,120123,PIN Cotter,,,,,,,,available,8.1,5.65,/parts/mopar-pin-cotter~120123.html
+,68283293AA,CLIP Disc Brake Pad,,,,,,,,available,50.2,34.89,/parts/mopar-retainer-disc-brake-pad~68283293aa.html
+,68211008AA,SHIM KIT Brake Rear,,,,,,,,discontinued,,,

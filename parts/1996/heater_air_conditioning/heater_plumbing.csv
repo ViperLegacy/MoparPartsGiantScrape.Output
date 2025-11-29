@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,6500434,"VALVE, Water",,,,2,,,"STUD, Water Valve Attaching",discontinued,,,
+2,4643381,"CABLE, Heater Control",,,,,,,,discontinued,,,/parts/mopar-cable-a-c-and-heater-control~4643381.html
+3,4642555,"HOSE, Valve to Core",,,,,,,,discontinued,,,/parts/mopar-hose-water-valve-to-heater-core~4642555.html
+4,32003300AB,CLAMP,,,,2,1,,,available,6.7,5.13,/parts/mopar-clamp-hose~32003300ab.html
+5,1779258,"NIPPLE, Heater water return",,,,,,,,discontinued,,,
+7,6100047,NUT and WASHER,,,,2,1,,,available,9.35,6.52,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+8,5245342,"HOSE, Heater to Water Valve",,1992-95,,,,,,available,10.69,8.4,/parts/mopar-hose-coolant-eng-heater-nipple~5245342.html
+8,5245463,"HOSE, Heater to Water Valve",,,27,,,,,available,42.74,33.59,/parts/mopar-hose-coolant-engine-htr-nipple-t~5245463.html
+9,5245112,"HOSE, Heater Return",,,27,,,,,discontinued,,,/parts/mopar-heater-return-hose~5245112.html
+9,5245458,"HOSE, Heater Return",,,29,,,,"TUBE, Heater Return",discontinued,,,/parts/mopar-tube-heater-return~5245458.html
+10,6502017,CLAMP,,,,2,1,,,available,8.6,5.88,/parts/mopar-clamp-hose~6502017.html

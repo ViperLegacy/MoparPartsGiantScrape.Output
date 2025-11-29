@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1ZV76LV5AA,KNOB Gearshift,,,,,,,With [VX],available,360,231.92,/parts/mopar-knob-gearshift~1zv76lv5aa.html
+2,1WT16AAAAA,BEZEL Console Shifter,,,,,,,With [JAA] and [XSQ],available,1125,760.49,/parts/mopar-bezel-console-shifter~1wt16aaaaa.html
+2,1WT17LK5AB,BEZEL Console Shifter,,,,,,,With [JAB] and [KX],discontinued,,,
+2,1WT17XR4AB,BEZEL Console Shifter,,,,,,,With [JAB] and [RX],discontinued,,,
+2,1WT17YSAAB,BEZEL Console Shifter,,,,,,,With [JAB] and [X9],discontinued,,,
+2,1WT18AAAAA,BEZEL Console Shifter,,,,,,,[XSQ] With [JAB] or [JAC] and [KX][XSQ] With [JAB] or [JAC] and [RX][XSQ] With [JAB] or [JAC] and [VX][XSQ] With [JAB] or [JAC] and [X9]...View More,discontinued,,,/parts/mopar-bezel-console-shifter~1wt18aaaaa.html
+2,1YS01HL1AB,BEZEL Console Shifter,,,,,,1YS01HL1AD,With [JAC] and [VX],available,1575,1038.4,/parts/mopar-housing-console-shifter~1ys01hl1ab.html
+2,1YS01YSAAB,BEZEL Console Shifter,,,,,,1YS01YSAAD,With [JAC] and [X9],available,1215,800.8,/parts/mopar-housing-console-shifter~1ys01ysaab.html
+3,124934,NUT Hex Jam .50-20,,,,,,,,available,8.75,6.06,/parts/mopar-nut-hex-jam~124934.html
+4,4709410,ISOLATOR Shift Lever,,,,,,,,discontinued,,,/parts/mopar-handle-shift-lever~4709410.html
+6,5038653AA,BOOT Gearshift,,,,,,,,discontinued,,,/parts/mopar-boot-gearshift~5038653aa.html
+7,68027838AA,BOLT,,,,,,,,available,3.3,2.27,/parts/mopar-bolt~68027838aa.html
+8,68206971AA,SHIFTER Transmission,,,,,,,,available,314,204.75,/parts/mopar-shifter-transmission~68206971aa.html

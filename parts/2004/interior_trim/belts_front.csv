@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,UB641X9AE,SEAT BELT Front,,,,,,1BD961X9AA,,available,210,170.33,/parts/mopar-seatbelt-front~ub641x9ae.html
+2,5029126AB,TURNING LOOP Seat Belt,,,,,,5029126AD,,available,37.1,32.39,/parts/mopar-loop-seat-belt~5029126ab.html
+3,6101758,SCREW Hex Head M8x1.25x20,,,,4,1,6508738AA,,available,7.75,5.36,/parts/mopar-screw-hex-head~6101758.html
+4,5029127AB,TURNING LOOP Seat Belt,,,,,,5029127AD,,available,52.1,36.41,/parts/mopar-loop-seat-belt~5029127ab.html
+5,UB651X9AE,SEAT BELT Front,,,,,,UB651X9AF,,available,165,135.36,/parts/mopar-seatbelt-front~ub651x9ae.html
+6,6503571,SCREW AND WASHER M10x1.50x35,,,,4,1,6502467,,available,11.15,7.75,/parts/mopar-screw~6503571.html
+7,6036512AA,SCREW Pan Head .437-20x1.375,,,,2,1,,,available,11.7,6.86,/parts/mopar-bolt-pan-head~6036512aa.html
+8,6100583,BOLT AND CONED WASHER Hex Head M8x25x20,,,,,,,,available,,14.51,/parts/mopar-screw-hex-head~6100583.html
+9,5029290AA,PLATE Child Tether Anchor,,,,,,,,discontinued,,,/parts/mopar-plate-child-tether-anchor~5029290aa.html
+10,TQ881X9AC,SEAT BELT Buckle Half,,,,,,,,discontinued,,,/parts/mopar-seat-belt-buckle-half~tq881x9ac.html
+11,6036547AA,SCREW,,,,2,1,,,available,1.45,0.99,/parts/mopar-screw-hex-head~6036547aa.html
+,XN611X9AA,BUCKLE,,,,,,TQ881X9AC,,available,42.15,35.18,/parts/mopar-buckle~xn611x9aa.html
+,5093280AB,BUTTON BELT WEBBING,,,,,,5093280AC,,available,32.5,22.72,/parts/mopar-button-belt-webbing~5093280ab.html
+,5086227AA,EXTENDER Seat Belt,,,,,,,,available,58.5,40.89,/parts/mopar-extender-seat-belt~5086227aa.html

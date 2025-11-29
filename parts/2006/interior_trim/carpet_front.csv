@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,TU02DX9AC,CARPET Front Floor,,,,,,,,discontinued,,,/parts/mopar-carpet-front-floor~tu02dx9ac.html
+2,TU03DX9AD,CARPET Front Floor,,,,,,,,available,500,427.5,/parts/mopar-carpet-front-floor~tu03dx9ad.html
+,5029434AA,INSULATOR,,,,3,1,,,available,21,13.98,/parts/mopar-insulator~5029434aa.html
+,5029435AA,INSULATOR Floor carpet lt,,,,,,,,available,24.2,16.89,/parts/mopar-insulator-floor-carpet-lt~5029435aa.html
+,5030449AA,MAT KIT Floor - Front,,,29,,,,,discontinued,,,/parts/mopar-mat-kit-floor-front~5030449aa.html

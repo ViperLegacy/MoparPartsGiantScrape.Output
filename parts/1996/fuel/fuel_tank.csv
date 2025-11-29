@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4709500,"TANK, Fuel",,1996,,,,,,discontinued,,,/parts/mopar-tank-fuel~4709500.html
+2,4848282,"STRAP, Fuel Tank",,1996,,2,1,,,available,26.39,20.74,/parts/mopar-strap-fuel-tank~4848282.html
+4,6502766,BOLT,,,,2,,,,discontinued,,,

@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4671789AF,CLOCKSPRING,,,,,,4671789AE,,available,323,261.7,/parts/mopar-clkspring~4671789af.html
+2,4896069AE,MODULE Occupant Restraint,,,,,,,,available,233,176.85,/parts/mopar-module-occupant-restraint~4896069ae.html
+3,4896038AC,MODULE Occupant Classification,,,,,,,,unavailable,148,118.44,/parts/mopar-module-occupant-classification~4896038ac.html
+,6101826,BOLT Hex Head M6x1.00x20.00 ORC Module To Tunnel,,,,3,1,,,available,8.75,6.06,/parts/mopar-bolt-hex-head~6101826.html
+,6104709AA,NUT Hex Flange M8x1.25x8.0 Impact Sensor Attaching,,,,2,1,,,available,4.3,2.97,/parts/mopar-nut-hex-flange~6104709aa.html
+,4896061AA,SENSOR Impact,,,,2,1,4896061AB,,available,112,75.04,/parts/mopar-sensor-impact~4896061aa.html

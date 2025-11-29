@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5181438AA,STABILIZER BAR Rear Suspension,,,,,,,,available,301,242.52,/parts/mopar-bar-rear-suspension~5181438aa.html
+2,68231477AA,LINK KIT Stabilizer Bar,,,,2,1,,,available,335,240.09,/parts/mopar-link-stabilizer-bar~68231477aa.html
+3,6502556,NUT Hex M10-1.5,,,,2,1,,,available,11.3,7.86,/parts/mopar-nut-hex~6502556.html
+4,4404219AB,RETAINER Stabilizer Bar Grommet,,,,2,1,,,discontinued,,,/parts/mopar-cover-stabilizer-bar-grommet~4404219ab.html
+5,4643004,BUSHING Stabilizer Bar,,,,2,1,,,discontinued,,,/parts/mopar-bushing-stabilizer-bar~4643004.html
+6,6502467,BOLT AND WASHER Hex Head M10x1.50x30.00,,,,4,1,,,available,11.15,7.75,/parts/mopar-bolt-hex-head~6502467.html

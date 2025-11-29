@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,56041053,SENSOR Battery Temperature,,,,,,,,available,90.65,41.99,/parts/mopar-sensor-battery-temperature~56041053.html
+2,52088990AC,SENSOR Tire Pressure Valve stem,,,,,,68406527AA,,available,102,68.4,/parts/mopar-sensor-tire-pressure~52088990ac.html
+3,52088961AA,NUT Tire Pressure Sensor,,,,,,,,available,15.85,11.07,/parts/mopar-nut-tire-pressure-sensor~52088961aa.html
+4,4896061AB,SENSOR Impact,,,,2,1,,,available,112,75.04,/parts/mopar-sensor-impact~4896061ab.html
+5,5084008AA,SENSOR Seat Position,,,,,,68605049AA,,available,39.25,27.44,/parts/mopar-sensor-seat-position~5084008aa.html

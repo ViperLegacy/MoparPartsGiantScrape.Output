@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4642554,VALVE Water Control,,,,,,,,discontinued,,,/parts/mopar-valve-water-control~4642554.html
+2,4643381,CABLE A/C And Heater Control,,,,,,,,discontinued,,,/parts/mopar-cable-a-c-and-heater-control~4643381.html
+3,4642555,HOSE Water Valve To Heater Core,,,,,,,,discontinued,,,/parts/mopar-hose-water-valve-to-heater-core~4642555.html
+4,6505604AA,CLAMP,,,,2,1,,,discontinued,,,/parts/mopar-clamp~6505604aa.html
+5,6502017,CLAMP Heater Hose,,,,2,1,,,available,8.6,5.88,/parts/mopar-clamp-hose~6502017.html
+7,4763975AC,HOSE Heater Core To Engine,,,,,,,,available,36.8,34.91,/parts/mopar-hose-heater-core-to-engine~4763975ac.html
+8,4763974AD,HOSE Engine to Water Valve,,,,,,,,discontinued,,,
+10,6035728,SCREW .190-16x1.00,,,,2,1,,,discontinued,,,/parts/mopar-screw~6035728.html
+,6100047,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,,,,,,,available,9.35,6.52,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+,5245458AC,TUBE Heater Core,,,,,,,,discontinued,,,/parts/mopar-tube-heater-core~5245458ac.html

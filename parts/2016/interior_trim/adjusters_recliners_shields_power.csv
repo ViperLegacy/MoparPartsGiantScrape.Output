@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5NJ25DX9AA,SHIELD Recliner,,,,,,,"Left Inboard [-R9]Left Inboard [-R9], [XSQ]Left Inboard [-V5]Left Inboard [-V5], [XSQ]Left Inboard [-VV]Left Inboard [-VV], [XSQ]Left Inboard [-VX]Left Inboard [-VX], [XSQ]Left Inboard [-X6]Left Inboard [-X6], [XSQ]Left Inboard [-X9]Left Inboard [-X9], [XSQ]...View More",available,27.75,24.23,/parts/mopar-shield-recliner~5nj25dx9aa.html
+1,5NJ30DX9AA,SHIELD Recliner,,,,,,,"Right Outboard [-R9]Right Outboard [-R9], [XSQ]Right Outboard [-V5]Right Outboard [-V5], [XSQ]Right Outboard [-VV]Right Outboard [-VV], [XSQ]Right Outboard [-VX]Right Outboard [-VX], [XSQ]Right Outboard [-X6]Right Outboard [-X6], [XSQ]Right Outboard [-X9]Right Outboard [-X9], [XSQ]...View More",available,27.75,24.23,/parts/mopar-shield-recliner~5nj30dx9aa.html
+1,5NJ31DX9AA,SHIELD Recliner,,,,,,,"Left Outboard [-R9]Left Outboard [-R9], [XSQ]Left Outboard [-V5]Left Outboard [-V5], [XSQ]Left Outboard [-VV]Left Outboard [-VV], [XSQ]Left Outboard [-VX]Left Outboard [-VX], [XSQ]Left Outboard [-X6]Left Outboard [-X6], [XSQ]Left Outboard [-X9]Left Outboard [-X9], [XSQ]...View More",available,27.75,24.23,/parts/mopar-shield-recliner~5nj31dx9aa.html
+3,68210980AA,CABLE Seat Back Release Recliner,,,,,,,,available,137,92.14,/parts/mopar-cable-seat-back-release~68210980aa.html
+4,5NJ29DX9AA,SHIELD Seat,,,,,,,"Left Inboard [-R9]Left Inboard [-R9], [XSQ]Left Inboard [-V5]Left Inboard [-V5], [XSQ]Left Inboard [-VV]Left Inboard [-VV], [XSQ]Left Inboard [-VX]Left Inboard [-VX], [XSQ]Left Inboard [-X6]Left Inboard [-X6], [XSQ]Left Inboard [-X9]Left Inboard [-X9], [XSQ]...View More",discontinued,,,/parts/mopar-shield-seat~5nj29dx9aa.html
+4,5NJ34DX9AA,SHIELD Seat,,,,,,,"Right Outboard [-R9]Right Outboard [-R9], [XSQ]Right Outboard [-V5]Right Outboard [-V5], [XSQ]Right Outboard [-VV]Right Outboard [-VV], [XSQ]Right Outboard [-VX]Right Outboard [-VX], [XSQ]Right Outboard [-X6]Right Outboard [-X6], [XSQ]Right Outboard [-X9]Right Outboard [-X9], [XSQ]...View More",discontinued,,,/parts/mopar-shield-seat~5nj34dx9aa.html
+4,5NJ35DX9AA,SHIELD Seat,,,,,,,"Left Outboard [-R9]Left Outboard [-R9], [XSQ]Left Outboard [-V5]Left Outboard [-V5], [XSQ]Left Outboard [-VV]Left Outboard [-VV], [XSQ]Left Outboard [-VX]Left Outboard [-VX], [XSQ]Left Outboard [-X6]Left Outboard [-X6], [XSQ]Left Outboard [-X9]Left Outboard [-X9], [XSQ]...View More",discontinued,,,/parts/mopar-shield-seat~5nj35dx9aa.html
+6,68210981AA,CABLE Seat Adjuster Height Adjustment,,,,,,,,available,169,109.63,/parts/mopar-cable-seat-adjuster~68210981aa.html
+7,68206493AA,MOTOR Power Seat,,,,3,1,,[XSQ],available,224,187.88,/parts/mopar-motor-power-seat~68206493aa.html
+8,68206487AA,BRACKET Switch,,,,,,,,discontinued,,,/parts/mopar-bracket-switch~68206487aa.html
+9,68210407AA,RISER Seat,,,,,,,LeftLeft [XSQ],unavailable,779,664.62,/parts/mopar-riser-seat~68210407aa.html
+10,68206494AA,CABLE Adjuster Fore and Aft,,,,,,,[XSQ],available,48,40.78,/parts/mopar-cable-adjuster~68206494aa.html
+11,68385587AA,SCREW Seat,,,,,,,,discontinued,,,/parts/mopar-screw-seat~68385587aa.html
+12,68206560AA,ADJUSTER Power Seat,,,,,,,RightRight [XSQ],available,2510,1655.5,/parts/mopar-adjuster-power-seat~68206560aa.html
+,68210413AA,CLIP Seat Side Shield Mounting,,,,6,1,,,available,9.9,6.35,/parts/mopar-clip-seat~68210413aa.html
+,68210415AA,NUT Seat Bladder Gauge Attaching,,,,2,1,,,available,8.25,5.77,/parts/mopar-nut-seat~68210415aa.html
+,68206489AA,NUT Seat Cable Mounting,,,,,,,[XSQ],discontinued,,,
+,6511334AA,SCREW AND WASHER Hex Head M10x1.5x40 Seat Mounting,,,,2,1,,,available,4.5,3.09,/parts/mopar-screw-hex-head~6511334aa.html
+,68206490AA,WASHER Lock Cushion Cable,,,,,,,,discontinued,,,

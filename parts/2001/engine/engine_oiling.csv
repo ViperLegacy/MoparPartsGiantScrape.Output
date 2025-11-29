@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,2806273,CAP Oil Pressure Relief Valve,,,,,,,,available,56.2,27.55,/parts/mopar-cap-oil-pressure-relief-valve~2806273.html
+2,4848785,SPRING Oil Pressure Relief Valve,,,,,,,,discontinued,,,/parts/mopar-spring-oil-pressure-relief-valve~4848785.html
+3,4848786,VALVE Oil Cooler Pressure,,,,,,,,discontinued,,,/parts/mopar-plunger-oil-cooler-pressure~4848786.html
+4,4763731AI,COVER Timing Case,,,,,,,,discontinued,,,/parts/mopar-cover-timing-case~4763731ai.html
+5,5245525AB,ROTOR SET Oil Pump,,,,,,,,discontinued,,,/parts/mopar-rotor-oil-pump~5245525ab.html
+6,5245128,COVER Engine Oil Pump,,,,,,,,discontinued,,,/parts/mopar-cover-engine-oil-pump~5245128.html
+7,6034475,SCREW Torx Head .25-20x.75,,,,4,1,,,discontinued,,,/parts/mopar-bolt~6034475.html
+8,4763791AD,INDICATOR Engine Oil Level,,,,,,,,discontinued,,,/parts/mopar-indicator-engine-oil-level~4763791ad.html
+9,4763792AC,TUBE Engine Oil Indicator,,,,,,,,discontinued,,,/parts/mopar-tube-engine-oil-indicator~4763792ac.html
+10,4763740,PICKUP Engine Oil,,,,,,,,discontinued,,,/parts/mopar-screen-engine-oil~4763740.html
+11,154601,SCREW Pan Head .19-24x.5,,,,8,1,,,discontinued,,,/parts/mopar-screw-pan-head~154601.html
+12,J0120375,NUT Hex .250-20,,,,8,1,,,available,9.55,6.64,/parts/mopar-nut-hex~j0120375.html
+13,5037836AA,FILTER Engine Oil,,,,,,5037836AB,,available,26,17.03,/parts/mopar-filter-engine-oil~5037836aa.html
+14,53007563,CONNECTOR Oil Filter,,,,,,53007563AB,,available,17,11.77,/parts/mopar-connector-oil-filter~53007563.html
+15,6035666,SCREW Hex Flange Head .25-20x1.00,,,,6,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+16,4886503AC,ADAPTER Oil Filter,,,,,,,,unavailable,423,357.58,/parts/mopar-adapter-oil-filter~4886503ac.html
+17,4763738,SEAL Drain Plug,,,,,,,,discontinued,,,/parts/mopar-seal-drain-plug~4763738.html
+18,5245086AC,GASKET Oil Filter Adapter,,,,,,,,discontinued,,,/parts/mopar-gasket-oil-filter-adapter~5245086ac.html
+19,4848331AC,CONNECTOR Engine Oil Cooler,,,,,,,,available,6.35,1.1,/parts/mopar-connector-engine-oil-cooler~4848331ac.html
+20,5037022AA,GASKET Oil Pan,,,,,,,,discontinued,,,/parts/mopar-gasket-oil-pan~5037022aa.html
+21,4763744AC,PAN Engine Oil,,,,,,,,discontinued,,,/parts/mopar-pan-engine-oil~4763744ac.html
+22,6035666,SCREW Hex Flange Head .25-20x1.00,,,,26,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+23,4763739,PLUG Oil Drain,,,,,,6035417,,available,16.2,11.18,/parts/mopar-plug-oil-drain~4763739.html
+24,4848705AC,TRAY Windage,,,,,,,,discontinued,,,/parts/mopar-tray-windage~4848705ac.html
+,2843208AB,PLUNGER Oil Pressure Relief Valve Serviced in Case Cover,,,,2,1,,,discontinued,,,/parts/mopar-plunger-oil-pressure-relief-valve~2843208ab.html
+,5245324,SEAL Rear Main Crankshaft,,,,,,,,discontinued,,,/parts/mopar-seal-rear-main-crankshaft~5245324.html

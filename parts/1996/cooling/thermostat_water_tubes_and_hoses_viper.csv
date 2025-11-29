@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5245325,WATER CROSSOVER,,,,,,,,discontinued,,,/parts/mopar-crossover-machined~5245325.html
+2,5226374,"SENSOR, Coolant Temperature",,,,,,,,discontinued,,,/parts/mopar-sensor-coolant-temperature~5226374.html
+3,5245195,"GASKET, Water Passage",,1992,,2,,,,discontinued,,,
+4,56027012,"SENDING UNIT, Temperature Gauge",,,,,,,,available,45.55,31.75,/parts/mopar-sensor-temperature-gauge~56027012.html
+5,5245156,THERMOSTAT,,,,,,,,discontinued,,,
+6,5245575,"NIPPLE, Heater Water Return",,,,,,,,discontinued,,,/parts/mopar-connector-heater-return~5245575.html
+7,4763839,"GASKET, Thermostat Housing",,,29,,,,,discontinued,,,
+8,5245811,"HOSE, Thermostat Outlet to Engine Tube",,,27,,,,,discontinued,,,/parts/mopar-hose-cool-stat-outlet-to-eng-tube~5245811.html
+9,32002366,CLAMP,,,,,,55037660AA,,available,13.65,9.49,/parts/mopar-clamp-hose~32002366.html
+10,5245521,"HOUSING, Thermostat",,,27,,,,,discontinued,,,
+11,32002365,"CLAMP, Hose, By-Pass",,,,3,1,4596498AA,,available,7.25,5.01,/parts/mopar-clamp-by-pass~32002365.html
+12,5245658,"HOSE, Thermostat By-Pass to Engine By-Pass",,,,,,,,discontinued,,,
+14,5245461,"TUBE, Water Return",,,,,,,,discontinued,,,/parts/mopar-tube-water-bypass-and-ais~5245461.html
+15,6034502,"TUBE, Water By-Pass",,,,,,,"SCREW and WASHER, By-Pass Tube Attaching",discontinued,,,
+15,6034541,"TUBE, Water By-Pass",,,,4,1,,"STUD, Water Tubes Attaching",discontinued,,,/parts/mopar-stud-coolant-tube~6034541.html
+16,5245413,"HOSE, By-Pass Tube to Water Pump",,,,,,,,discontinued,,,
+17,4709200,"HOSE, Tube to Radiator",,1992-95,,,,,,discontinued,,,/parts/mopar-hose-cool-rad-out-to-water-pump-2-00~4709200.html
+17,4763584,"HOSE, Tube to Radiator",,,29,,,,,discontinued,,,
+17,5245960,"HOSE, Tube to Radiator",,,27,,,,"1996HOSE, Radiator to Water Pump",discontinued,,,
+18,52006750,CLAMP,,,,4,1,55111033AA,,available,9.1,6.35,/parts/mopar-clamp-radiator~52006750.html
+19,5245236,"SEAL, Thermostat By-Pass",,,,,,53010047,,discontinued,,,/parts/mopar-seal-thermostsat-by-pass~5245236.html

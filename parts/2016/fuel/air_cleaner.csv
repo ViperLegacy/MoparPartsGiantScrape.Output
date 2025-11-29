@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037935AC,AIR CLEANER,,,,,,,,available,2175,1419,/parts/mopar-air-clnr~5037935ac.html
+2,5038053AB,DUCT Clean Air,,,,2,1,,,available,162,108.06,/parts/mopar-duct-clean-air~5038053ab.html
+3,6508386AA,SCREW Hex Flange Head M4.2X1.70X15.80,,,,4,1,,,available,3.5,2.39,/parts/mopar-screw-hex-flange-head~6508386aa.html
+4,5037945AB,SENSOR Mass Airflow,,,,2,1,,,available,200,162,/parts/mopar-sensor-mass-airflow~5037945ab.html
+5,5038070AA,FILTER Air,,,,,,,,available,59.35,50.27,/parts/mopar-filter-air~5038070aa.html
+6,6508836AA,SCREW Air Cleaner Cover,,,,3,1,,,available,13.7,11.4,/parts/mopar-screw-air-cleaner-cover~6508836aa.html
+7,5038721AA,SCREW,,,,2,1,,,available,3.45,2.62,/parts/mopar-screw~5038721aa.html
+8,4268295,GROMMET Air Cleaner Bracket,,,,,,,,available,10.1,6.99,/parts/mopar-grommet-air-cleaner-bracket~4268295.html

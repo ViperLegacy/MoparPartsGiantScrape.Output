@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,TR89DX9AB,SILL COVER Interior,Left,,,,,TR89DX9AD,,available,217,175.97,/parts/mopar-pad-interior~tr89dx9ab.html
+4,5DV62DX9,FASTENER Trim Panel Attaching,,,,3,1,,,discontinued,,,/parts/mopar-retainer-trim-panel-attaching~5dv62dx9.html
+5,4865929AC,FOOTREST,,,,,,,,discontinued,,,/parts/mopar-footrest~4865929ac.html
+6,6101737,SCREW M6x1.0x18,,,,2,1,,,discontinued,,,/parts/mopar-screw~6101737.html
+,4865830AB,BRACKET Sill To Fender,,,,2,1,4865830AC,,available,1130,936.77,/parts/mopar-bracket-sill-to-fender~4865830ab.html
+,5086369AC,PANEL Sill,,,,,,,Left Service Dealer Painted,discontinued,,,/parts/mopar-panel-sill~5086369ac.html

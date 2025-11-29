@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,WN73GBCAC,DECAL VIPER,,,,,,,[KEC],available,68.1,47.59,/parts/mopar-d-viper~wn73gbcac.html
+1,WN73GGSAC,DECAL VIPER,,,,,,,[KEN],available,72.3,58.22,/parts/mopar-d-viper~wn73ggsac.html
+1,WN73GK3AC,DECAL VIPER,,,,,,,[KEL],available,84.15,56.5,/parts/mopar-d-viper~wn73gk3ac.html
+1,WN73HGRAC,DECAL VIPER,,,,,,,[KEG],available,39.4,27.49,/parts/mopar-d-viper~wn73hgrac.html
+1,WN73HVGAC,DECAL VIPER,,,,,,,[KED],available,49.3,32.97,/parts/mopar-d-viper~wn73hvgac.html
+1,WN73SBEAC,DECAL VIPER,,,,,,,[KEJ],discontinued,,,/parts/mopar-d-viper~wn73sbeac.html
+1,WN73VADAC,DECAL VIPER,,,,,,,[KEU],available,34.65,23.88,/parts/mopar-d-viper~wn73vadac.html
+1,WN73WRRAC,DECAL VIPER,,,,,,,[KER],available,72.3,58.22,/parts/mopar-d-viper~wn73wrrac.html
+1,WN73WYRAC,DECAL VIPER,,,,,,,[KEY],available,41.15,28.95,/parts/mopar-d-viper~wn73wyrac.html
+1,WN73ZDRAC,DECAL VIPER,,,,,,,[KEZ],available,72.35,50.27,/parts/mopar-d-viper~wn73zdrac.html
+2,WN80GBCAC,DECAL Dodge,,,,,,,[--C][KSC],available,55.55,37.8,/parts/mopar-d~wn80gbcac.html
+2,WN80GGSAC,DECAL Dodge,,,,,,,[--N][KSN],discontinued,,,/parts/mopar-d~wn80ggsac.html
+2,WN80GK3AC,DECAL Dodge,,,,,,,[--L][KSL],available,57.65,39.03,/parts/mopar-d~wn80gk3ac.html
+2,WN80HGRAC,DECAL Dodge,,,,,,,[--G][KSG],available,45.95,32.1,/parts/mopar-d~wn80hgrac.html
+2,WN80HVGAC,DECAL Dodge,,,,,,,[--D][KSD],available,39.9,26.85,/parts/mopar-d~wn80hvgac.html
+2,WN80SBEAC,DECAL Dodge,,,,,,,[--J][KSJ],available,38.2,32.45,/parts/mopar-d~wn80sbeac.html
+2,WN80VADAC,DECAL Dodge,,,,,,,[--U][KSU],discontinued,,,/parts/mopar-d~wn80vadac.html
+2,WN80WRRAC,DECAL Dodge,,,,,,,"[--R][--W], [AL3][KSR]",available,50.85,42.76,/parts/mopar-d~wn80wrrac.html
+2,WN80WYRAC,DECAL Dodge,,,,,,,[--Y][KSY],available,35.05,24,/parts/mopar-d~wn80wyrac.html
+2,WN80ZDRAC,DECAL Dodge,,,,,,,[--Z][KSZ],available,51.85,35.18,/parts/mopar-d~wn80zdrac.html
+3,WN81XZAAC,DECAL SRT-10,,,,2,1,,,available,75.5,60.64,/parts/mopar-d-viper~wn81xzaac.html
+,68037898AB,DECAL ACR,,,,2,1,,,discontinued,,,/parts/mopar-d-viper~68037898ab.html

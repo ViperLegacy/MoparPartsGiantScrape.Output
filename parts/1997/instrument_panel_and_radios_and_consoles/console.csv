@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,D221SX8,ASH RECEIVER Rear Door,,,,,,,,discontinued,,,/parts/mopar-ashtray-rear-door~d221sx8.html
+3,PK84MX4,BEZEL Instrument Panel Center,,,27,,,,,discontinued,,,
+5,PF25TX7,CONSOLE Front,,,,,,,,discontinued,,,/parts/mopar-console-front~pf25tx7.html
+8,4373688,KNOB AND ELEMENT Cigar Lighter,,,,,,,,discontinued,,,
+9,PD66TX9,BOOT Parking Brake Lever,,,,,,,,discontinued,,,/parts/mopar-boot-parking-brake-lever~pd66tx9.html
+10,PD67TX9,BOOT Gearshift,,,,,,,,discontinued,,,/parts/mopar-boot-gearshift~pd67tx9.html
+11,4848038,BOOT Gearshift,,,,,,,,available,90.6,74.17,/parts/mopar-boot-gearshift~4848038.html
+,4643872,CLIP Ash Receiver Retention,,,,2,1,,,discontinued,,,/parts/mopar-spring-ash-receiver-retent~4643872.html
+,3747634,SHELL Cigar Lighter,,,,,,,,available,23.34,18.34,/parts/mopar-lighter-cigar-lighter~3747634.html

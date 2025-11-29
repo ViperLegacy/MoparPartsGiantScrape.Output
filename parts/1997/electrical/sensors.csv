@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4626572,SOLENOID Transmission Skip Shift,,,,,,68029166AA,,available,226,150.75,/parts/mopar-solenoid-transmission-skip-shift~4626572.html
+2,4848214,SENSOR Vehicle Speed,,,,,,,,discontinued,,,/parts/mopar-sensor-vehicle-speed~4848214.html
+4,5227805,SENSOR Ambient Temperature,,,,,,,,discontinued,,,/parts/mopar-sensor-ambient-temperature~5227805.html
+5,4848416,SENSOR Crankshaft,,,,,,,,discontinued,,,/parts/mopar-sensor-crankshaft~4848416.html
+7,5245084,SENSOR Camshaft,,,,,,,,discontinued,,,/parts/mopar-sensor-camshaft~5245084.html
+8,56029405,SENSOR MAP,,,,,,,,available,272,196.66,/parts/mopar-sensor-map~56029405.html
+9,56027916,SENSOR Oxygen,,,,2,,,"Front 18 inch, Pigtail",discontinued,,,
+,56028194,SENSOR Battery Temperature,,,,,,,,discontinued,,,/parts/mopar-sensor-battery-temperature~56028194.html
+,4874371,SENSOR Throttle Position,,,,,,,,discontinued,,,
+,4848214,SENSOR Vehicle Speed,,,,,,,,discontinued,,,/parts/mopar-sensor-vehicle-speed~4848214.html
+,5245585,SHIELD Crank Position Sensor,,,,,,,,discontinued,,,/parts/mopar-shield-crank-position-sensor~5245585.html
+,4746271,SOLENOID Transmission,,,,,,68029168AA,,available,388,256.45,/parts/mopar-solenoid-reverse-lockout~4746271.html

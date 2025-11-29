@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5030030AB,PANEL Roof,,,,,,,,discontinued,,,
+2,6503992,SCREW AND WASHER Hex Head M6x1x30,,,,6,1,,,available,8.9,6.17,/parts/mopar-screw-hex-head~6503992.html
+3,6102126AA,NUT AND WASHER Hex M6x1.0,,,,2,1,,,available,10.65,7.4,/parts/mopar-nut-hex~6102126aa.html
+4,5030031AB,BAR Sport,,,,,,5030031AG,,available,1880,1271.25,/parts/mopar-bar-assy-sport~5030031ab.html
+5,6101718,SCREW AND WASHER Oval Head M6x1x25,,,,2,1,,,available,9.2,6.41,/parts/mopar-screw-oval-head~6101718.html

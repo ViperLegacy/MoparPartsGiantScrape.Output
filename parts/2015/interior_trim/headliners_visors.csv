@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1VT171X6AD,HEADLINER,,,,,,,"[-X6], [CHE]",available,1935,1310.8,/parts/mopar-headliner~1vt171x6ad.html
+1,1VT17DX9AD,HEADLINER,,,,,,,"[-V5], [CHE][-X9], [CHE]",available,1985,1344.7,/parts/mopar-headliner~1vt17dx9ad.html
+4,6035201,RIVET Headliner To Roof - Push-Pin Style,,,,10,1,,,available,12.2,8.45,/parts/mopar-rivet~6035201.html
+5,1UL85DX9AC,VISOR,,,,,,1UL85DX9AE,"Left [-KX], [HD], ExportLeft [-RX], [HD], ExportLeft [-V5], [HD], ExportLeft [-X9], [HD], Export...View More",available,868,592.8,/parts/mopar-visor~1ul85dx9ac.html
+5,1WV62DX9AC,VISOR,,,,,,1WV62DX9AE,"Right [-V5], [CHE]Right [-VX], [CHE]Right [-X6], [CHE]Right [-X9], [CHE]Right [-X9], [CHE], [ASV]...View More",available,492,328.93,/parts/mopar-visor~1wv62dx9ac.html
+5,1WV62LV5AC,VISOR,,,,,,1WV62LV5AE,"Right [-VX], [CHE], [ASV]",available,492,332.76,/parts/mopar-visor~1wv62lv5ac.html
+5,1WV63DX9AC,VISOR,,,,,,1WV63DX9AF,"Left [-V5], [CHE]Left [-VX], [CHE]Left [-X6], [CHE]Left [-X9], [CHE]Left [-X9], [CHE], [ASV]...View More",available,474,316.66,/parts/mopar-visor~1wv63dx9ac.html
+5,1WV63LR9AC,VISOR,,,,,,1WV63LR9AF,"Left [-X6], [CHE], [ASV]",available,474,316.66,/parts/mopar-visor~1wv63lr9ac.html
+5,1WV63LV5AC,VISOR,,,,,,1WV63LV5AF,"Left [-VX], [CHE], [ASV]",available,474,320.35,/parts/mopar-visor~1wv63lv5ac.html
+6,4720533,SCREW,,,,,,,,available,6,4.08,/parts/mopar-screw~4720533.html
+,5KX19DX9AB,BEZEL Dome Lamp Includes LED,,,,2,1,,,available,31.4,25.16,/parts/mopar-bezel-dome-lamp~5kx19dx9ab.html

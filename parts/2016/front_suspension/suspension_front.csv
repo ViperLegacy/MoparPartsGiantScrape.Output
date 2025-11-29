@@ -1,0 +1,41 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290277AE,ARM Upper Control Front,,,,,,,Front Left,discontinued,,,/parts/mopar-arm-upper-control~5290277ae.html
+2,83507064AB,FITTING Ball Joint Zirc,,,,,,,,discontinued,,,/parts/mopar-fitting-grease~83507064ab.html
+3,52006405,SEAL Ball Joint,,,,,,,,discontinued,,,/parts/mopar-seal-ball-joint~52006405.html
+4,6502698,NUT Hex Flange Lock M14x2.00,,,,2,1,,,available,8.95,6.17,/parts/mopar-nut-hex-flange-lock~6502698.html
+5,6502046,BOLT Suspension Upper Arm,,,,4,1,,,available,7.7,6.35,/parts/mopar-bolt-suspension-upper-arm~6502046.html
+6,6036525AA,BOLT Control Arm Cam,,,,4,1,,,available,73.45,59.46,/parts/mopar-bolt-control-arm-cam~6036525aa.html
+7,6506919AA,BOLT Hex Flange Head M14x2.00x130.00,,,,2,1,6513389AA,,available,16.9,11.65,/parts/mopar-bolt-hex-flange-head~6506919aa.html
+8,6508274AA,NUT AND WASHER Hex M12x1.75,,,,4,1,,,available,8.2,5.71,/parts/mopar-nut-hex~6508274aa.html
+9,6036467AA,NUT Hex Lock .50-20,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex-lock~6036467aa.html
+10,6036469AA,WASHER Control Arm,,,,4,1,,,available,12.05,10.14,/parts/mopar-washer-control-arm~6036469aa.html
+11,68228266AA,SHOCK ABSORBER Suspension,,,,2,1,,[SDV],discontinued,,,/parts/mopar-shock-suspension~68228266aa.html
+12,5181787AC,SHOCK ABSORBER Suspension,,,,2,1,5181789AC,,available,528,170.55,/parts/mopar-absorber-suspension~5181787ac.html
+13,5181966AB,SPRING Front Coil,,,,2,1,5181664AD,[SDY],available,2105,922.5,/parts/mopar-spring-front-coil~5181966ab.html
+13,68228267AA,SPRING Front Coil,,,,2,1,,[SDV],available,1370,928.86,/parts/mopar-spring-front-coil~68228267aa.html
+13,68252773AA,SPRING Front Coil,,,,2,1,,"Right & Left [SDK], ACR",discontinued,,,/parts/mopar-front-coil~68252773aa.html
+18,6507654AA,BOLT Hex Flange Head M14x2.00x90.00,,,,2,1,,,available,13.6,9.38,/parts/mopar-bolt-hex-flange-head~6507654aa.html
+19,6104717AA,NUT Hex Flange Lock M10x1.50,,,,3,1,,,available,4.15,2.85,/parts/mopar-nut-hex-flange-lock~6104717aa.html
+20,5290691AG,ARM Lower Control Front,,,,,,,Front Left,available,1095,884.4,/parts/mopar-arm-lower-control~5290691ag.html
+21,4848050,BUSHING Control Arm,,,,2,1,,,discontinued,,,/parts/mopar-bushing-control-arm~4848050.html
+22,5290860AA,BALL JOINT Lower Control Arm,,,,,,,,available,81.5,56.97,/parts/mopar-balljoint-lower-control-arm~5290860aa.html
+24,83507064AB,FITTING Ball Joint Zirc,,,,,,,,discontinued,,,/parts/mopar-fitting-grease~83507064ab.html
+25,52006404,SEAL Ball Joint,,,,,,,,available,43.8,30.41,/parts/mopar-seal-ball-joint~52006404.html
+26,4709299,BRACKET Shock Mounting,Left,,,,,,,available,77,52.43,/parts/mopar-bracket-shock-mounting~4709299.html
+28,68272306AA,KNUCKLE Front,Right,,,,,,,unavailable,1735,1163.9,/parts/mopar-knuckle-front~68272306aa.html
+29,6035641,NUT Hex .625-18,,,,2,1,,,discontinued,,,/parts/mopar-nut-hex~6035641.html
+30,6035670,NUT Hex,,,,2,1,,,discontinued,,,/parts/mopar-nut-hex~6035670.html
+32,4763182AB,BEARING,,,,,,,,discontinued,,,/parts/mopar-bearing~4763182ab.html
+33,6509598AA,NUT Hex Flange Lock M22x1.50,,,,,,,,available,11.55,7.98,/parts/mopar-nut-hex-flange-lock~6509598aa.html
+34,6033702,STUD Hub,,,,6,1,,,discontinued,,,/parts/mopar-stud-hub~6033702.html
+37,6506557AA,NUT AND WASHER Hex Lock M14x1.50,,,,2,1,,,available,6.7,4.6,/parts/mopar-nut-hex-lock~6506557aa.html
+38,120123,PIN Cotter,,,,2,1,,,available,8.1,5.65,/parts/mopar-pin-cotter~120123.html
+39,68228265AA,SPRING AND SHOCK ASSEMBLY Front Suspension,,,,2,,,[SDV],discontinued,,,
+40,5181789AC,SPRING AND SHOCK ASSEMBLY Front Suspension,,,,2,1,,,available,528,344.3,/parts/mopar-shock-frontsuspension~5181789ac.html
+41,68252766AC,SPRING AND SHOCK ASSEMBLY Front Suspension,,,,2,1,,,available,9255,6099.5,/parts/mopar-shock-front-suspension~68252766ac.html
+42,68268011AA,DUCT AIR,,,,,,,Left [BRM],available,153,100.14,/parts/mopar-duct-air~68268011aa.html
+,6502136,BOLT Hex Flange Head M10x1.50x55,,,,4,1,,,available,14.25,9.96,/parts/mopar-bolt-hex-flange-head~6502136.html
+,4848173,GASKET,,,,,,,,available,4.25,3.67,/parts/mopar-gasket~4848173.html
+,4848166,GASKET Front Wheel Bearing,,,,,,,,discontinued,,,/parts/mopar-gasket-front-wheel-bearing~4848166.html
+,6104717AA,NUT Hex Flange Lock M10x1.50,,,,3,1,,,available,4.15,2.85,/parts/mopar-nut-hex-flange-lock~6104717aa.html
+,5290695AA,SEAL,,,,,,,,available,20.7,16.43,/parts/mopar-seal~5290695aa.html

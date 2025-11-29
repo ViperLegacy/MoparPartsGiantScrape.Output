@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1VX80DX8AA,MIRROR Outside Rearview,,,,,,1VX80TZZAB,"Right [GTK], [PX8]",available,1570,1035.1,/parts/mopar-mirror-outside-rearview~1vx80dx8aa.html
+1,1VX80JSCAA,MIRROR Outside Rearview,,,,,,1VX80TZZAB,"Right [GTK], [PSC]",available,1570,1035.1,/parts/mopar-mirror-outside-rearview~1vx80jscaa.html
+1,1VX80KBUAA,MIRROR Outside Rearview,,,,,,1VX80TZZAB,"Right [GTK], [PBU]",available,1570,1035.1,/parts/mopar-mirror-outside-rearview~1vx80kbuaa.html
+1,1VX80KL4AA,MIRROR Outside Rearview,,,,,,,"Right [GTK], [PL4]",available,745,491.7,/parts/mopar-mirror-outside-rearview~1vx80kl4aa.html
+1,1VX80LCCAA,MIRROR Outside Rearview,,,,,,1VX80TZZAB,"Right [GTK], [PCC]",available,1570,1063.33,/parts/mopar-mirror-outside-rearview~1vx80lccaa.html
+1,1VX80LR7AA,MIRROR Outside Rearview,,,,,,1VX80TZZAB,"Right [GTK], [PR7]",available,1570,1035.1,/parts/mopar-mirror-outside-rearview~1vx80lr7aa.html
+1,1VX80LRKAA,MIRROR Outside Rearview,,,,,,1VX80TZZAB,"Right [GTK], [PRK]",available,1570,1035.1,/parts/mopar-mirror-outside-rearview~1vx80lrkaa.html
+1,1VX80WYRAA,MIRROR Outside Rearview,,,,,,1VX80TZZAB,"Right [GTK], [PYR]",available,1570,1035.1,/parts/mopar-mirror-outside-rearview~1vx80wyraa.html
+1,1VX81BWAAA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PWA]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81bwaaa.html
+1,1VX81DX8AA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PX8]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81dx8aa.html
+1,1VX81JSCAA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PSC]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81jscaa.html
+1,1VX81KBUAA,MIRROR Outside Rearview,,,,,,,"Left [GTK], [PBU]",available,1160,764.5,/parts/mopar-mirror-outside-rearview~1vx81kbuaa.html
+1,1VX81KL4AA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PL4]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81kl4aa.html
+1,1VX81LCCAA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PCC]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81lccaa.html
+1,1VX81LR7AA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PR7]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81lr7aa.html
+1,1VX81LRKAA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PRK]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81lrkaa.html
+1,1VX81WYRAA,MIRROR Outside Rearview,,,,,,1VX81TZZAB,"Left [GTK], [PYR]",available,1325,871.2,/parts/mopar-mirror-outside-rearview~1vx81wyraa.html
+4,68227844AA,GLASS Mirror Replacement,,,,,,,Right [GTK],available,46.05,38.21,/parts/mopar-glass-mirror-replacement~68227844aa.html
+4,68227845AA,GLASS Mirror Replacement,,,,,,,Left [GTK],available,49.7,41.47,/parts/mopar-glass-mirror-replacement~68227845aa.html
+,68227847AA,GASKET Door Mirror,,,,,,,Left [GTK],available,27.45,17.82,/parts/mopar-gasket-door-mirror~68227847aa.html
+,6508886AA,NUT,,,,3,1,,,available,,14.51,/parts/mopar-nut~6508886aa.html

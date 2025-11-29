@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4669456,CANISTER Vapor,,,,,,,,discontinued,,,/parts/mopar-canister-vapor~4669456.html
+2,5013433AA,BRACKET Leak Detection Pump,,,,,,,,available,8.57,6.73,/parts/mopar-bracket-leak-detection-pum~5013433aa.html
+6,6503951,STUD M6X1.00X.250-14X30.00,,,,3,1,,,discontinued,,,/parts/mopar-stud~6503951.html
+,6101447,NUT,,,,3,1,,,available,8.55,5.94,/parts/mopar-nut~6101447.html

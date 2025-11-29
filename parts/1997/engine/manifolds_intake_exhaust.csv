@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763758,MANIFOLD Intake,,,,,,,,discontinued,,,/parts/mopar-manifold-intake~4763758.html
+2,6034166,PLUG Cylinder Block Oil Hole,,,,10,1,,,discontinued,,,/parts/mopar-plug-cylinder-block-oil-hole~6034166.html
+3,6035666,SCREW Hex Flange Head .25-20x1.00,,,,20,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+4,5245194,GASKET Intake Manifold,,,,2,,,,discontinued,,,
+5,4848339,GASKET Exhaust Manifold,,,,2,1,5004014AA,,discontinued,,,/parts/mopar-manifold-exhaust-manifold~4848339.html
+6,4763771,MANIFOLD Exhaust,Left,,,,,,,discontinued,,,/parts/mopar-manifold-exhaust~4763771.html
+7,6034595,WASHER Coned .340 x .750 x .180,,,,20,1,,,available,8.3,5.78,/parts/mopar-washer-conical~6034595.html
+8,6034596,BOLT Hex Head,,,,14,1,,,discontinued,,,/parts/mopar-bolt-hex-head~6034596.html
+9,6034658,STUD,,,,6,1,,,available,22.25,13.53,/parts/mopar-stud~6034658.html
+10,5245642,SHIELD Exhaust Manifold,,,,2,,,,discontinued,,,
+11,5245585,SHIELD Crank Position Sensor,,,,,,,,discontinued,,,/parts/mopar-shield-crank-position-sensor~5245585.html
+12,6034856,NUT AND WASHER Hex Nut-E Teeth Washer .312-24,,,,6,1,,,available,15.34,12.05,/parts/mopar-nut~6034856.html
+13,4763414,PLUG Cylinder Block Oil Hole,,,,2,1,,,discontinued,,,/parts/mopar-plug-cylinder-block-oil-hole~4763414.html
+14,5245193,VALVE Shrader,,,,,,,,discontinued,,,/parts/mopar-valve-shrader~5245193.html

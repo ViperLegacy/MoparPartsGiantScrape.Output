@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1KY31TZZAB,FASCIA Rear Primed,,,29,,,1CR60TZZAE,[APQ],available,1840,1542.45,/parts/mopar-fascia-rear~1ky31tzzab.html
+1,5029155AD,FASCIA Rear Primed,,,27,,,,,available,1430,1166,/parts/mopar-fascia-rear~5029155ad.html
+2,6101442,U-NUT M6 x 1.00 M6x1.00,,,,3,1,,,available,8.9,6.17,/parts/mopar-nut-m6-x-1-00~6101442.html
+3,6035625,SCREW,,,,,,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+4,152493,NUT,,,,,,,,available,3.55,2.45,/parts/mopar-nut~152493.html
+5,5029201AB,RETAINER Fascia,Left,,,,,,,available,16.3,12.64,/parts/mopar-retainer-fascia~5029201ab.html
+6,5029568AA,BRACKET Fascia,,,,,,,,discontinued,,,/parts/mopar-bracket-fascia~5029568aa.html
+7,5029165AA,FOAM Rear Bumper Fascia,Left,,,,,,,discontinued,,,/parts/mopar-absorber-rear-bumper-fascia~5029165aa.html
+8,6100840,NUT Spring,,,,4,1,,,available,7.25,5.01,/parts/mopar-nut-spring~6100840.html
+9,6507326AA,PIN Push,,,,4,1,,,available,6.7,5.76,/parts/mopar-pin-push~6507326aa.html
+10,34201358,NUT AND WASHER Hex Nut-Sealing Washer M6 x 1.00,,,,4,1,,,available,13.9,9.67,/parts/mopar-nut-hex-nut-sealing-washer~34201358.html
+11,6501067,PIN Push M6.3x20.5,,,27,6,1,,,available,9.65,6.7,/parts/mopar-pin-push~6501067.html
+12,4865654AC,BUMPER Fascia Rear,,,,,,,,available,450,369.98,/parts/mopar-absorber-rear-energy~4865654ac.html
+13,6100558,BOLT AND CONED WASHER Hex Head M6x25x14,,,,2,1,,,available,7.55,6.55,/parts/mopar-bolt-hex-head~6100558.html
+15,6100842,NAMEPLATE Push On,,,,4,1,,,available,3.65,2.5,/parts/mopar-nut-push~6100842.html
+16,6101448,NUT AND WASHER Hex Nut-Coned Washer M10 x 1.5,,,,4,1,,,available,11.3,7.86,/parts/mopar-nut-hex-nut-coned-washer~6101448.html
+17,34201358,NUT AND WASHER Hex Nut-Sealing Washer M6 x 1.00,,,,4,1,,,available,13.9,9.67,/parts/mopar-nut-hex-nut-sealing-washer~34201358.html
+18,4865915AC,RETAINER Fascia,Left,,,,,,,available,24.25,18.7,/parts/mopar-retainer-fascia~4865915ac.html
+19,5029209AA,PLATE Reinforcement,,,,4,1,,,available,4.05,3.14,/parts/mopar-shim-reinforcement~5029209aa.html
+20,6100877,WASHER Flat M6,,,,2,1,,,discontinued,,,/parts/mopar-washer-flat~6100877.html
+21,5290246AB,PLATE Fascia,,,,,,,,discontinued,,,/parts/mopar-plate-fascia~5290246ab.html
+22,5030612AA,RETAINER Fascia,Right,,,,,,,discontinued,,,/parts/mopar-retainer-fascia~5030612aa.html
+23,5030350AB,RETAINER Fascia,,,,2,1,,,available,10.2,8.91,/parts/mopar-retainer-fascia~5030350ab.html
+24,5030415AA,SEAL Quarter Panel to Trunkpan,,,,2,1,,,discontinued,,,/parts/mopar-seal-quarter-panel-to-trunkpan~5030415aa.html
+25,5030559AA,BRACKET Fascia,,,,,,,,discontinued,,,/parts/mopar-bracket-fascia~5030559aa.html
+26,6034645,RIVET .25 Grip-.06-.25,,,,3,1,,,available,12.7,8.8,/parts/mopar-retainer~6034645.html

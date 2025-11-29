@@ -1,0 +1,39 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5093265AA,ADAPTER Transmission,,,,,,,,discontinued,,,/parts/mopar-adapter-transmission~5093265aa.html
+2,4626514,DOWEL Transmission Case,,,,2,1,,,available,6.5,4.49,/parts/mopar-dowel-pin-transmission-case~4626514.html
+3,4626520,BOLT Transmission Case,,,,6,1,,,discontinued,,,/parts/mopar-bolt-transmission-case~4626520.html
+4,4626512,BUSHING Shift Rail,,,,,,,,available,6.2,4.19,/parts/mopar-bushing-shift-rail~4626512.html
+5,4626513,DOWEL Transmission Case,,,,2,1,,,available,4.7,3.2,/parts/mopar-dowel-pin-transmission-case~4626513.html
+6,4626515,SEAL Input Shaft,,,,,,,,discontinued,,,/parts/mopar-seal-input-shaft~4626515.html
+7,5018856AA,SHIM KIT Transmission,,,,,,,,discontinued,,,/parts/mopar-shim-transmission~5018856aa.html
+8,4626490,BEARING,,,,,,4626734,,available,170,133.1,/parts/mopar-bearing~4626490.html
+9,4626510,CONE Input Shaft,,,,,,,,discontinued,,,/parts/mopar-bearing-input-shaft~4626510.html
+10,4626737,BEARING PACKAGE Input Shaft,,,,,,,,available,144.01,113.17,/parts/mopar-brg-pkg-input-shaft~4626737.html
+11,4626574AB,SHAFT PACKAGE Input,,,,,,,,discontinued,,,/parts/mopar-shaft-pkg-input~4626574ab.html
+12,4626519,CUP,,,,,,,,available,11.3,8.88,/parts/mopar-cup~4626519.html
+13,4626465,BEARING,,,,,,,,discontinued,,,/parts/mopar-bearing~4626465.html
+14,5139853AA,COUNTERSHAFT,,,,,,,,unavailable,,,/parts/mopar-shaft~5139853aa.html
+15,4626466,BEARING,,,,,,,,available,54,37.75,/parts/mopar-bearing~4626466.html
+16,4626517,CUP,,,,,,,,available,17.75,13.95,/parts/mopar-bearing~4626517.html
+17,4626476,STOP RING Synchronizer,,,,2,1,,,available,72.51,56.99,/parts/mopar-clutch-synchronizer~4626476.html
+18,4626487,SNAP RING,,,,,,,,available,11.8,8.16,/parts/mopar-ring~4626487.html
+19,5018859AA,SYNCHRONIZER Third and Fourth,,,,,,5166039AA,,available,518,353.4,/parts/mopar-synch-third-and-fourth~5018859aa.html
+20,4626471,GEAR Third,,,,,,,,discontinued,,,/parts/mopar-gear-third~4626471.html
+21,5093261AA,SPACER Third Gear,,,,,,,,available,19.5,15.33,/parts/mopar-shim-third-gear~5093261aa.html
+22,4626469,NEEDLE BEARING,,,,2,1,,,available,39.3,27.32,/parts/mopar-bearing-2nd-3rd-gear~4626469.html
+23,4626563,BEARING,,,,,,,,available,110,72.62,/parts/mopar-bearing-main-shaft~4626563.html
+24,4626467,MAINSHAFT Transmission,,,,,,,,discontinued,,,/parts/mopar-mainshaft~4626467.html
+25,4626469,NEEDLE BEARING,,,,2,1,,,available,39.3,27.32,/parts/mopar-bearing-2nd-3rd-gear~4626469.html
+26,4626478,GEAR Second,,,,,,,,discontinued,,,/parts/mopar-gear-second~4626478.html
+27,4626486,THRUST WASHER First And Second Gear,,,,2,1,,,available,43.93,34.52,/parts/mopar-bearing-package-mainshaft-rear~4626486.html
+28,4626484,CONE Inner,,,,2,1,,,available,20.25,15.92,/parts/mopar-cone-inner~4626484.html
+29,5093262AA,FRICTION CONE Second Gear Inner,,,,2,1,,,available,84.77,66.61,/parts/mopar-synch-second-gear-inner~5093262aa.html
+30,4626483,RING 1st and 2nd Speed Blocker,,,,2,1,,,discontinued,,,/parts/mopar-stop-bmpr-1st-and-2nd-speed-blocker~4626483.html
+31,5018860AA,SYNCHRONIZER First and Second,,,,,,,,discontinued,,,/parts/mopar-synch-first-and-second~5018860aa.html
+32,4626484,CONE Inner,,,,2,1,,,available,20.25,15.92,/parts/mopar-cone-inner~4626484.html
+33,4626486,THRUST WASHER First And Second Gear,,,,2,1,,,available,43.93,34.52,/parts/mopar-bearing-package-mainshaft-rear~4626486.html
+34,4626536,SNAP RING,,,,,,,,available,8.65,5.94,/parts/mopar-ring~4626536.html
+35,4626488,NEEDLE BEARING First Gear,,,,,,,,available,50.4,35.01,/parts/mopar-bearing-first-gear~4626488.html
+36,4626489,GEAR First,,,,,,,,discontinued,,,/parts/mopar-gear-first~4626489.html
+37,4626490,BEARING,,,,,,4626734,,available,170,133.1,/parts/mopar-bearing~4626490.html
+38,4626463,CUP,,,,,,4626734,,available,170,6.93,/parts/mopar-bearing~4626463.html

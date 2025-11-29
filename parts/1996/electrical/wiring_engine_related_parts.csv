@@ -1,0 +1,30 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4642863,"WIRING, Engine",,,,,,,Up to 02/13/94,discontinued,,,
+1,4763548,"WIRING, Engine",,,,,,,After 02/13/94,discontinued,,,
+1,4763760,"WIRING, Engine",,1996,29,,,,,discontinued,,,
+2,4414901,"INSULATOR, Eng. Temp. Sensor",,,,,,,,discontinued,,,/parts/mopar-insulator~4414901.html
+3,3843937,"MOLD, To Inst. Panel Wire",,,,,,,,discontinued,,,
+4,1704562,"INSULATOR, Eng. Temp. Gauge",,,,,,,,discontinued,,,
+5,4439077,"INSULATOR, Lt. Ign. Coil",,,,,,,,discontinued,,,/parts/mopar-insulator-pkg-4-way-female~4439077.html
+6,4504260,"INSULATOR, Map Sensor",,,,,,,,discontinued,,,/parts/mopar-3-way-female~4504260.html
+7,4439077,"INSULATOR, Rt. Ign. Coil",,,,,,,,discontinued,,,/parts/mopar-insulator-pkg-4-way-female~4439077.html
+8,4414900,"INSULATOR, A.I.S Motor",,,,,,,,discontinued,,,/parts/mopar-idle-speed-repair~4414900.html
+9,4419499,"INSULATOR, Injector",,,,10,,,,discontinued,,,
+10,2230985,"MOLD, Eng. Temp. Lp. (Term. 2257444)",,,,,,,,discontinued,,,/parts/mopar-wiring-lead-w-boot~2230985.html
+13,2230985,"MOLD, Oil Press. Switch (Term. 2257444)",,,,2,1,,,discontinued,,,/parts/mopar-wiring-lead-w-boot~2230985.html
+14,5211587,"MOLD, Eng. Crank Sensor",,,,,,,,discontinued,,,
+15,4439077,"INSULATOR, Rt. Heated Oxygen Sensor",,,,,,,,discontinued,,,/parts/mopar-insulator-pkg-4-way-female~4439077.html
+17,2197947,"TERMINAL, Alternator",,,,,,,,discontinued,,,
+18,4209957,"INSULATOR, A/C Clutch (Term. 56017580)",,,,,,,,discontinued,,,
+19,4439077,"INSULATOR, Lt. Htd. Oxygen Sensor",,,,,,,,discontinued,,,/parts/mopar-insulator-pkg-4-way-female~4439077.html
+20,4271603,"MOLD, Cam Sensor",,,,,,,,discontinued,,,
+21,4763074,"WIRING, Starter (All Insul. & Term. Serv. In Wiring)",,1996,,,,,,available,7.37,5.79,/parts/mopar-wiring-starter-harness~4763074.html
+22,4642610,"WIRING, Battery Negative",,,,,,,,discontinued,,,/parts/mopar-wiring-battery-negative~4642610.html
+22A,4708242,"JUNCTION BOX, Battery Cable",,,,,,,,discontinued,,,/parts/mopar-battery-cable-black-juncti~4708242.html
+23,4643109,"WIRING, Engine Ground",,,,,,,,available,13.59,10.68,/parts/mopar-wiring-engine-ground-asm~4643109.html
+24,4642603,"WIRING, Battery Positive",,,,,,,,discontinued,,,/parts/mopar-wiring-battery-positive~4642603.html
+25,4643177,"COIL, D.I.S. (6-Pack) (Electronic Ignition Coil)",,,,,,,,discontinued,,,
+26,4643178,"COIL, D.I.S, 4-Pack",,,,,,,,discontinued,,,/parts/mopar-coil-d-i-s-4-pack~4643178.html
+27,56026779,"SENDING UNIT, Oil Pressure (Engine Oil Pressure Sending Unit)",,,,,,,,discontinued,,,/parts/mopar-sending-unit-oil-pressure-1991~56026779.html
+28,33004791,"SWITCH, Oil Pressure (Gasket T7777650) (Oil Pressure Switch)",,,,,,,,discontinued,,,
+,4687475,"BRACKET, Relay Mounting",,,,,,,,discontinued,,,

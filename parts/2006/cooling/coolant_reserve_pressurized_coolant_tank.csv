@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5043002AA,BOTTLE Pressurized Coolant,,,,,,5043002AB,,available,118,97.23,/parts/mopar-bottle-pressurized-coolant~5043002aa.html
+3,4596198,CAP Radiator,,,,,,,,available,37.85,26.45,/parts/mopar-cap-radiator~4596198.html
+4,6507008AA,SCREW AND WASHER Truss Head M6x1x30,,,,3,1,6508183AA,,available,11.05,7.69,/parts/mopar-screw-truss-head~6507008aa.html
+5,6503422,CLAMP Supply Hose 26 mm Diameter,,,,2,1,6502017,,available,8.6,5.88,/parts/mopar-clamp-supply-hose~6503422.html
+6,6502018,CLAMP Hose M28.9 x 1.60,,,,2,1,,,available,18.35,12.82,/parts/mopar-clamp-hose~6502018.html
+7,5037987AD,HOSE Heater Return,,,,,,,,available,61.3,48.17,/parts/mopar-hose-heater-return~5037987ad.html
+8,5264929AC,HOSE Heater Supply,,,,,,,,available,87.5,75.05,/parts/mopar-hose-heater-supply~5264929ac.html
+9,5290217AA,CLIP Heater Hose,,,,,,,,available,4.2,3.3,/parts/mopar-clip-heater-hose~5290217aa.html
+10,5264931AB,HOSE Coolant Bottle Inlet,,,,,,,,discontinued,,,/parts/mopar-hose-coolant-bottle-inlet~5264931ab.html
+11,5290218AC,HOSE Oil Cooler Return,,,,,,,,available,32.55,26.45,/parts/mopar-hose-oil-cooler-return~5290218ac.html
+12,5290014AD,COOLER Engine Oil,,,,,,5290014AE,,unavailable,377,254.93,/parts/mopar-cooler-engine-oil~5290014ad.html
+,4266423,HOSE Overflow Roll Stock,,,,,,,,available,318,211.5,/parts/mopar-hose-coolant-recovery-bottle~4266423.html

@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848662AB,GENERATOR Engine,,,,,,,,available,301,242.52,/parts/mopar-alternatr-engine~4848662ab.html
+2,53009508,PULLEY Idler,,,,,,,,available,28.25,19.75,/parts/mopar-pulley-idler~53009508.html
+3,4763731AH,COVER Timing Case,,,,,,,,discontinued,,,/parts/mopar-cover-timing-case~4763731ah.html
+4,4626444AB,TENSIONER PACKAGE Belt,,,,,,,,discontinued,,,/parts/mopar-tensnrpkg-belt~4626444ab.html
+5,4763795AB,BELT A/C,,,,,,,,discontinued,,,
+,6035558,SCREW Hex Flange Head .375-16x1.50,,,,,,,,available,6.25,4.91,/parts/mopar-screw-hex-flange-head~6035558.html
+,4848124,SPACER Alternator,,,,,,,,discontinued,,,/parts/mopar-bushing-altr-brkt~4848124.html
+,4848285AC,WIRING Alternator,,,,,,,,discontinued,,,/parts/mopar-wiring-alternator~4848285ac.html

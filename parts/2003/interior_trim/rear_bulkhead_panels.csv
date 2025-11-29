@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,TS04DX9AB,PANEL Bulkhead Trim,,,,2,1,,Deluxe Model,available,3800,3135,/parts/mopar-panel-bulkhead-trim~ts04dx9ab.html
+4,TS39DX9AB,SPORT HOOP Bulkhead,Left,,,,,,,discontinued,,,/parts/mopar-hoop-bulkhead~ts39dx9ab.html
+5,6031869,NUT Push .19,,,,2,1,,,discontinued,,,/parts/mopar-grommet-push~6031869.html
+6,TS04DX9AB,PANEL Bulkhead Trim,,,,,,,,available,3800,3135,/parts/mopar-panel-bulkhead-trim~ts04dx9ab.html
+7,6101722,SCREW AND WASHER Hex Head M8x1.25x60,,,,4,1,,,available,6.8,4.72,/parts/mopar-bolt-hex-head~6101722.html
+8,6102103AA,SCREW AND WASHER Hex Head M6x1x20,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-head~6102103aa.html
+9,6032058,NUT Snap In,,,,2,1,,,discontinued,,,/parts/mopar-nut-snap-in~6032058.html
+10,6032058,NUT Snap In,,,,2,1,,,discontinued,,,/parts/mopar-nut-snap-in~6032058.html
+,5093777AA,NUT U,,,,8,1,,,available,1.5,0.87,/parts/mopar-nut-u~5093777aa.html
+,5029290AA,PLATE Child Tether Anchor,,,,,,,,discontinued,,,/parts/mopar-plate-child-tether-anchor~5029290aa.html
+,5093846AA,SCREW,,,,4,1,,,available,,1.28,/parts/mopar-screw~5093846aa.html

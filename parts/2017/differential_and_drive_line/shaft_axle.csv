@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68226552AA,SHAFT Axle Half,,,,,,,,unavailable,765,648.57,/parts/mopar-shaft-axle-half~68226552aa.html
+2,6510757AA,BOLT AND RETAINER Halfshaft M10X1.25X54.00,,,,6,1,,,available,13.15,10.14,/parts/mopar-bolt-halfshaft~6510757aa.html
+3,6502293,WASHER Flat M23x43x4,,,,,,,,available,8.15,5.59,/parts/mopar-washer-flat~6502293.html
+4,6502294,NUT Hex Flange M22x1.25,,,,,,,,available,12.4,8.56,/parts/mopar-nut-hex-flange~6502294.html
+5,5212684,WASHER Wave,,,,,,,,available,10.85,7.51,/parts/mopar-pkg-part-wave~5212684.html
+6,5212525,LOCK NUT,,,,,,,,available,13.9,9.67,/parts/mopar-nut~5212525.html
+7,6500336,PIN Cotter M5x36.00,,,,,,,,available,6.75,4.9,/parts/mopar-pin-cotter~6500336.html

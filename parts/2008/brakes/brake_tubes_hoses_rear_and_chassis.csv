@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5181551AA,HOSE AND TUBE Brake,,,,,,,Left [BR1],discontinued,,,/parts/mopar-tube-brake~5181551aa.html
+1,5290112AC,HOSE AND TUBE Brake,Right,,,,,,,available,39.6,31.11,/parts/mopar-tube-brake~5290112ac.html
+1,5290113AC,HOSE AND TUBE Brake,Left,,,,,,,available,63,43.11,/parts/mopar-tube-brake~5290113ac.html
+2,6100575,BOLT AND CONED WASHER Hex Head M8x25x17,,,,2,1,,,available,8.65,6,/parts/mopar-screw-hex-head~6100575.html
+3,J4200303,WASHER Brake Hose,,,,8,1,,,discontinued,,,/parts/mopar-washer-brake-hose~j4200303.html
+4,6505801AA,BOLT Banjo,,,,4,1,,,discontinued,,,/parts/mopar-bolt-banjo~6505801aa.html
+5,5290857AA,TUBE Brake,,,,,,,,discontinued,,,/parts/mopar-line-brake~5290857aa.html
+6,4683653,CLIP Tube,,,,2,1,,,available,6.2,2.21,/parts/mopar-retainer-tube~4683653.html
+7,154910AA,SCREW,,,,2,1,,,available,8,5.59,/parts/mopar-screw-hex-flange-head~154910aa.html
+8,5290103AC,TUBE Brake,,,,,,,,available,51,34.95,/parts/mopar-tube-brake~5290103ac.html
+9,5085043AA,CLIP Fuel Bundle,,,,5,1,,,available,12.75,8.84,/parts/mopar-clip-fuel-bundle~5085043aa.html
+10,5290952AA,SENSOR Anti-Lock Brakes,,,,2,1,,,available,81.95,66.66,/parts/mopar-sensor-anti-lock-brakes~5290952aa.html
+11,6101630,SCREW,,,,2,1,,,available,1.9,1.28,/parts/mopar-screw-hex-head~6101630.html

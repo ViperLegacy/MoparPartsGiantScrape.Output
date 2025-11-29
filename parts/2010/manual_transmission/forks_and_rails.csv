@@ -1,0 +1,32 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68028433AA,BUSHING Reverse Rail,,,,,,4626512,,available,6.2,4.19,/parts/mopar-bushing-reverse-rail~68028433aa.html
+2,4626493,PIN Roll,,,,5,1,,,available,3.95,2.68,/parts/mopar-pin-roll~4626493.html
+3,5086732AA,LEVER,,,,,,,,available,9.75,8.55,/parts/mopar-lever~5086732aa.html
+4,68028349AA,RAIL Reverse Shift,,,,,,,,available,279,185.63,/parts/mopar-rail-reverse-shift~68028349aa.html
+5,68045187AA,SNAP RING Shift Fork,,,,,,,,available,1.5,1.05,/parts/mopar-snap-ring-shift-fork~68045187aa.html
+6,4626512,BUSHING Shift Rail,,,,,,,,available,6.2,4.19,/parts/mopar-bushing-shift-rail~4626512.html
+7,4626496,PAD Shift Fork,,,,,,,,available,7.8,5.3,/parts/mopar-fork-shift-fork~4626496.html
+8,68028954AB,FORK Fifth and Sixth,,,,,,,,available,161,107.16,/parts/mopar-fork-fifth-and-sixth~68028954ab.html
+9,4626502,PAD Shift Fork,,,,,,,,available,6.45,4.37,/parts/mopar-pad-shift-fork~4626502.html
+10,4626542,SNAP RING Shift Fork,,,,,,,,available,7.2,4.89,/parts/mopar-retainer-shift-fork~4626542.html
+11,68028340AA,RAIL Reverse Shift,,,,,,,,available,225,149.63,/parts/mopar-rail-reverse-shift~68028340aa.html
+12,68032076AA,SPACER Reverse Rail Shift,,,,,,,,available,21.1,14.56,/parts/mopar-spacer-reverse-rail-shift~68032076aa.html
+13,68028955AB,FORK Reverse,,,,,,,,available,164,117.21,/parts/mopar-fork-reverse~68028955ab.html
+14,4626502,PAD Shift Fork,,,,,,,,available,6.45,4.37,/parts/mopar-pad-shift-fork~4626502.html
+15,4626561,SNAP RING Shift Fork,,,,,,,,available,5.5,3.79,/parts/mopar-ring-shift-fork~4626561.html
+16,68028433AA,BUSHING Reverse Rail,,,,,,4626512,,available,6.2,4.19,/parts/mopar-bushing-reverse-rail~68028433aa.html
+17,68028346AA,RAIL Top,,,,,,,,available,64.9,54.81,/parts/mopar-rail-top~68028346aa.html
+18,68251532AA,FORK Third and Fourth,,,,,,,,available,371,246.42,/parts/mopar-fork-third-and-fourth~68251532aa.html
+19,68036451AA,PAD Shift Fork,,,,2,1,,,available,187,120.7,/parts/mopar-fork-shift-fork~68036451aa.html
+20,4626507,PLATE Interlock,,,,,,,,discontinued,,,/parts/mopar-plate-interlock~4626507.html
+21,4626506,HOUSING Gearshift Selector,,,,,,,,available,94.7,63.73,/parts/mopar-housing-gearshift-selector~4626506.html
+22,68251457AA,FORK First and Second,,,,,,,,available,407,286.5,/parts/mopar-fork-first-and-second~68251457aa.html
+23,68036451AA,PAD Shift Fork,,,,2,1,,,available,187,120.7,/parts/mopar-fork-shift-fork~68036451aa.html
+24,68029155AA,PLATE Transmission Shifter,,,,,,,,available,76.1,53.07,/parts/mopar-plate-transmission-shifter~68029155aa.html
+25,4626527,BOLT Shift Guide Plate,,,,,,,,available,5.4,3.67,/parts/mopar-bolt-shift-guide-plate~4626527.html
+26,68028960AA,LEVER Offset,,,,,,68166793AA,,available,194,144.38,/parts/mopar-lever-offset~68028960aa.html
+27,4626579,LEVER Offset,,,,,,,,available,75.3,52.43,/parts/mopar-lever-offset~4626579.html
+28,68029169AA,BOLT Roller Detent,,,,,,,,available,47.2,32.79,/parts/mopar-bolt-roller-detent~68029169aa.html
+29,68029164AA,SPRING Shift Detent,,,,,,68280867AA,,available,91.65,61.76,/parts/mopar-spring-shift-detent~68029164aa.html
+30,68029153AA,DETENT,,,,,,68280867AA,,available,91.65,61.76,/parts/mopar-detent~68029153aa.html
+31,68029165AA,BUSHING Roller Detent,,,,,,,,available,34.95,24.23,/parts/mopar-bushing-roller-detent~68029165aa.html

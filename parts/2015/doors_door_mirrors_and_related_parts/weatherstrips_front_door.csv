@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68096408AB,RETAINER Weatherstrip,Right,,,,,68096408AC,,available,259,173.25,/parts/mopar-retainer-weatherstrip~68096408ab.html
+2,68096356AC,WEATHERSTRIP Front Door Opening Glass Run,Right,,,,,68096356AD,,available,322,217.13,/parts/mopar-w-strip-front-door-opening~68096356ac.html
+3,68141985AF,FLAG Door,Left,,,,,68141985AH,,available,852,581.4,/parts/mopar-flag-door~68141985af.html
+6,68096407AC,WEATHERSTRIP Door Belt Inner,Left,,,,,68096407AD,,available,123,81.45,/parts/mopar-w-strip-door-belt~68096407ac.html
+8,68141572AD,WEATHERSTRIP Door Opening,,,,,,68141572AE,,available,114,55.79,/parts/mopar-weatherst-door-opening~68141572ad.html
+10,68096405AE,WEATHERSTRIP Door Belt Outer,Left,,,,,68096405AG,,available,137,91.07,/parts/mopar-w-strip-door-belt~68096405ae.html
+12,68096403AC,WEATHERSTRIP Front Door,Left,,,,,,,available,117,75.21,/parts/mopar-w-strip-front-door~68096403ac.html
+,6509582AA,BOLT Outer Belt Attaching,,,,8,1,,,available,2.65,1.81,/parts/mopar-bolt~6509582aa.html
+,5029719AB,ISOLATOR,Left,,,,,,,available,51.1,35.71,/parts/mopar-isolator~5029719ab.html
+,6102126AA,NUT AND WASHER Hex M6x1.0 Flag Attaching,,,,,,,,available,10.65,7.4,/parts/mopar-nut-hex~6102126aa.html
+,4658673,PIN PUSH .150x.410 Inner Belt Attaching,,,,2,1,,,available,8.55,5.94,/parts/mopar-pin~4658673.html
+,6100567,SCREW AND WASHER Hex Head M6x1x25 Flag Attaching,,,,2,1,,,available,9.3,6.47,/parts/mopar-screw-hex-head~6100567.html

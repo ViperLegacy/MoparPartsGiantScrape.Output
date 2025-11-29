@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5086542AA,WINDSHIELD Shipping Assembly - 05 Lite Glass,,,,,,4865461AC,,available,1050,849.2,/parts/mopar-w-shield-shipping-assembly-05-lite~5086542aa.html
+3,4865616AB,GLASS Front Door,Right,,27,,,,,available,359,288.79,/parts/mopar-glass-front-door~4865616ab.html
+3,5030094AC,GLASS Front Door,Right,,29,,,,,discontinued,,,/parts/mopar-glass-front-door~5030094ac.html
+3,5030095AC,GLASS Front Door,Left,,29,,,,,available,371,297.71,/parts/mopar-glass-front-door~5030095ac.html
+4,5030041AF,GLASS Liftgate,,,,,,,,available,1070,704,/parts/mopar-backlite-liftgate~5030041af.html
+5,5029067AB,MIRROR Inside Rear View Lighted,,,,,,,,available,66.95,56.5,/parts/mopar-mirror-inside-rear-view~5029067ab.html
+7,4512685,BUSHING Door Glass,,,,2,1,,,available,8.05,5.96,/parts/mopar-bushing-door-glass~4512685.html
+8,4512684,RETAINER Glass to Liftplate,,,,2,1,,,discontinued,,,/parts/mopar-retainer-glass-to-liftplate~4512684.html
+9,4643847,SHIM Windshield,,,,,,,,available,2.2,1.28,/parts/mopar-shim-windshield~4643847.html
+11,6504791,"SCREW TAPPING, BUTTON HEAD M6 X 1.00 X 18.00",,,,2,1,,,discontinued,,,/parts/mopar-screw-tapping-button-head~6504791.html
+,4864015AB,INSTALLATION PACKAGE Windshield Glass,,,,4,1,4864015AD,,available,113,51.01,/parts/mopar-instalpkg-windshieldglass~4864015ab.html

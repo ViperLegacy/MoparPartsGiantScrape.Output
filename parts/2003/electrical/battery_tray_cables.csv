@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290220AA,RETAINER Battery Hold Down,,,,,,,,discontinued,,,
+2,6500584,SCREW AND WASHER Hex Head M8x1.25x30,,,,,,,,available,10.35,7.16,/parts/mopar-bolt-hex-head~6500584.html
+3,4865468AE,WIRING Body,,,,,,5029664AC,,discontinued,,,/parts/mopar-wiring-body~4865468ae.html
+4,4865977AC,WIRING Battery Negative,,,,,,,After 05/07/03,discontinued,,,/parts/mopar-cable-bat-battery-negative~4865977ac.html
+8,56028194,SENSOR Battery Temperature,,,,,,,,discontinued,,,/parts/mopar-sensor-battery-temperature~56028194.html
+10,BA034500EX,BATTERY,,,,,,BB34F101AA,Mopar Power Pro 5,available,327,220.88,/parts/mopar-battery-none~ba034500ex.html
+10,4727159AD,BATTERY,,,,,,,[BCE]  Production,discontinued,,,
+10,BA078770EX,BATTERY,,,,,,,Mopar Power Pro 7,discontinued,,,
+10,BAUNV34650,BATTERY,,,,,,,Mopar Universal Battery,discontinued,,,/parts/mopar-battery-storage~baunv34650.html
+10,NAS34770EX,BATTERY,,,,,,,Mopar NASCAR Battery,discontinued,,,
+11,4364958,BATTERY Dry,,,,,,,,available,165,111,/parts/mopar-battery-dry~4364958.html
+12,BL034600AA,BATTERY Storage,,,27,,,BL34F101AA,Latin America South Africa [BCE],available,382,258.31,/parts/mopar-battery-storage~bl034600aa.html
+12,BE0H5540AA,BATTERY Storage,,,27,,,,Europe Middle East [BCE],discontinued,,,/parts/mopar-battery-storage~be0h5540aa.html
+12,BP034600AA,BATTERY Storage,,,27,,,BP34F101AA,Asia Pacific [BCE],available,312,210.94,/parts/mopar-battery-storage~bp034600aa.html
+12,VE034710AA,BATTERY Storage,,,27,,,,Middle East [BCE],discontinued,,,/parts/mopar-battery-storage~ve034710aa.html
+,5029087AA,COVER Battery,,,,,,,,discontinued,,,/parts/mopar-cover-battery~5029087aa.html

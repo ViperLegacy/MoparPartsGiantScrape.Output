@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037805AA,ROCKER ARM AND PIVOT Valve Includes Pedestal,,,,10,1,,Exhaust,available,95.6,64.29,/parts/mopar-arm-valve~5037805aa.html
+2,6508789AA,BOLT Hex Flange Head M8x1.25x37.50,,,,10,1,,,available,2.45,1.69,/parts/mopar-bolt-hex-flange-head~6508789aa.html
+3,5037847AA,SEAL Valve Guide,,,,20,1,,,available,15.55,10.72,/parts/mopar-seal-valve-guide~5037847aa.html
+4,5037720AA,SPRING Valve,,,,20,1,5038762AA,,available,15.05,5.4,/parts/mopar-spring-valve~5037720aa.html
+5,53021676AB,RETAINER Valve Spring,,,,20,1,,,available,6.5,4.49,/parts/mopar-retainer-valve-spring~53021676ab.html
+6,53010515AA,LOCK Valve Spring Retainer,,,,40,1,,,available,4.7,3.2,/parts/mopar-retainer-valve-spring-retainer~53010515aa.html
+7,5037808AA,PUSH ROD Valve,,,,20,1,,,available,7.8,2.91,/parts/mopar-pushrod-valve~5037808aa.html
+8,6508877AA,BOLT Hex Head M6x1.00x25.00,,,,10,1,,,discontinued,,,/parts/mopar-bolt-hex-head~6508877aa.html
+9,5037807AA,YOKE Tappet Aligning,,,,10,1,,,available,6.15,4.19,/parts/mopar-retainer-tappet-aligning~5037807aa.html
+10,5037812AA,TAPPET Hyd. Roller,,,,20,1,,,available,16.45,11.42,/parts/mopar-tappet-hyd-roller~5037812aa.html
+11,5037819AC,PLATE Camshaft Thrust,,,,,,5045560AA,,available,150,101.52,/parts/mopar-gear-camshaft-thrust~5037819ac.html
+12,6507894AA,BOLT 6 Lobe Recessed Head M6X1.00X18.00,,,,8,1,,,discontinued,,,/parts/mopar-bolt-6-lobe-recessed-head~6507894aa.html
+14,5037698AA,CAMSHAFT Engine,,,,,,,,discontinued,,,/parts/mopar-camshaft-engine~5037698aa.html
+15,5037719AB,VALVE Exhaust Standard,,,,10,1,5037719AC,,available,81.95,66.83,/parts/mopar-valve-exhaust~5037719ab.html
+16,5037718AA,VALVE Intake Standard,,,,10,1,,,available,139,65.34,/parts/mopar-valve-intake~5037718aa.html

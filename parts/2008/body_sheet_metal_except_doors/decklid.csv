@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865482AH,DECKLID,,,,,,4865482AI,,available,4350,3683.8,/parts/mopar-decklid~4865482ah.html
+2,4763384AD,STRIKER Backlite,,,,,,,,discontinued,,,/parts/mopar-striker-backlite~4763384ad.html
+3,6101651,SCREW Hex Head M6x1x16,,,,,,,,available,3.2,2.16,/parts/mopar-screw-hex-head~6101651.html
+5,6100877,WASHER Flat M6,,,,4,1,,,discontinued,,,/parts/mopar-washer-flat~6100877.html
+6,5029156AC,LATCH Decklid,,,,,,,,discontinued,,,/parts/mopar-latch-decklid~5029156ac.html
+7,6101718,SCREW AND WASHER Oval Head M6x1x25,,,,2,1,,,available,9.2,6.41,/parts/mopar-screw-oval-head~6101718.html
+8,4865619AB,HINGE Deck Lid,Left,,,,,,,discontinued,,,/parts/mopar-hinge-deck-lid~4865619ab.html
+9,4865981AA,PROP Deck Lid,,,,2,1,4589610AA,,available,32.55,26.45,/parts/mopar-prop-deck-lid~4865981aa.html
+10,6101636,SCREW AND WASHER Hex Head M8x1.25x25,,,,6,1,,,available,10.85,7.51,/parts/mopar-screw-hex-head~6101636.html
+11,6101636,SCREW AND WASHER Hex Head M8x1.25x25,,,,6,1,,,available,10.85,7.51,/parts/mopar-screw-hex-head~6101636.html
+12,5030588AA,ISOLATOR Decklid,,,,,,,,discontinued,,,/parts/mopar-isolator-decklid~5030588aa.html
+13,5029232AA,BUMPER Deck Lid Overslam,,,,2,1,,,discontinued,,,/parts/mopar-stop-bmpr-deck-lid-overslam~5029232aa.html
+14,5256749,BUMPER Deck Lid Adjuster,,,,2,1,,,discontinued,,,/parts/mopar-bumper-deck-lid-adjuster~5256749.html
+15,6035625,SCREW [.190-16x.750],,,,4,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+16,4865876AA,BRACKET Key Cylinder,,,,,,,,discontinued,,,/parts/mopar-bracket-key-cylinder~4865876aa.html
+17,5029349AC,WEATHERSTRIP Decklid,,,,,,5029349AD,,discontinued,,,/parts/mopar-w-strip-decklid~5029349ac.html
+18,5029210AA,BRACKET Deck Lid Overslam,,,,2,1,,,discontinued,,,/parts/mopar-bracket-deck-lid-overslam~5029210aa.html
+19,6034844,RIVET Blind .250x.375/.562,,,,4,1,68258407AA,,available,5.7,3.96,/parts/mopar-rivet-blind~6034844.html
+20,5029179AA,BUMPER Hood,,,,6,1,,,available,8.75,7.57,/parts/mopar-stop-bmpr-hood~5029179aa.html
+23,5029766AA,DEFLECTOR Air,,,,2,1,,,available,16.85,11.01,/parts/mopar-deflector-air~5029766aa.html
+,4865778AA,BRACKET Deck Lid Striker Mounting,,,,,,,,discontinued,,,/parts/mopar-bracket-deck-lid-striker-mounting~4865778aa.html
+,5029623AA,PLATE Decklid Stabilizer,,,,,,,,discontinued,,,

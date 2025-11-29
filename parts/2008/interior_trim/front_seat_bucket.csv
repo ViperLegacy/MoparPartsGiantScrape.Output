@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1PP741XRAA,SEAT BACK Front,,,,,,,Black/Red,available,274,184.5,/parts/mopar-seat-back-front~1pp741xraa.html
+1,1PP74BD5AA,SEAT BACK Front,,,,,,,Medium Quartz,available,275,185.63,/parts/mopar-seat-back-front~1pp74bd5aa.html
+1,1PP74BU4AA,SEAT BACK Front,,,,,,,Tan,available,437,295.54,/parts/mopar-seat-back-front~1pp74bu4aa.html
+1,1PP74DBNAA,SEAT BACK Front,,,,,,,,available,437,295.54,/parts/mopar-seat-back-front~1pp74dbnaa.html
+2,1HX601D5AA,CUSHION Front Seat,,,,,,,Right [-X5],available,361,238.61,/parts/mopar-seat-cush-front-seat~1hx601d5aa.html
+2,1HX571D5AA,CUSHION Front Seat,,,,,,,Medium Quartz,available,249,207,/parts/mopar-seat-cush-front-seat~1hx571d5aa.html
+2,1HX571U4AA,CUSHION Front Seat,,,,,,,Tan,available,360,243.65,/parts/mopar-seat-cush-front-seat~1hx571u4aa.html
+2,1HX571XBAA,CUSHION Front Seat,,,,,,,Graphite,available,467,315.84,/parts/mopar-seat-cush-front-seat~1hx571xbaa.html
+2,1HX571XRAA,CUSHION Front Seat,,,,,,,Black/Red,discontinued,,,/parts/mopar-seat-cush-front-seat~1hx571xraa.html
+2,1HX601U4AA,CUSHION Front Seat,,,,,,,Right [-XU],discontinued,,,/parts/mopar-seat-cush-front-seat~1hx601u4aa.html
+2,1HX601X9AA,CUSHION Front Seat,,,,,,,Right [-X9],unavailable,282,190.63,/parts/mopar-seat-cush-front-seat~1hx601x9aa.html
+2,1HX601XBAA,CUSHION Front Seat,,,,,,,Right [-XB],discontinued,,,/parts/mopar-seat-cush-front-seat~1hx601xbaa.html
+2,1HX601XRAA,CUSHION Front Seat,,,,,,,Right [-XR],unavailable,267,180.48,/parts/mopar-seat-cush-front-seat~1hx601xraa.html
+3,5093210AA,TOWEL BAR Seat Adjuster Handle,,,,,,,,available,54.05,22.6,/parts/mopar-towel-bar-seat-adjuster-handle~5093210aa.html
+4,5093213AA,RECLINER Seat Back,,,,,,,Right Inboard,available,240,146.8,/parts/mopar-recliner-seat-back~5093213aa.html
+4,5093214AA,RECLINER Seat Back,,,,,,,Left Inboard,available,197,170.29,/parts/mopar-recliner-seat-back~5093214aa.html
+4,5093215AA,RECLINER Seat Back,,,,,,,Left Outboard,discontinued,,,/parts/mopar-recliner-seat-back~5093215aa.html
+5,68027816AA,CABLE Recliner,,,,,,,,available,24.35,16.93,/parts/mopar-cable-recliner~68027816aa.html
+6,68042577AA,WIRING Seat,Left,,,,,,,available,34.6,33.55,/parts/mopar-wiring-seat~68042577aa.html

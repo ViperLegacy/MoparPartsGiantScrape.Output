@@ -1,0 +1,34 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,GR86MKA,"COVER, Seat Back",,,,2,1,,"Tan (1992,93,94,95)",discontinued,,,/parts/mopar-seat-back-cover~gr86mka.html
+1,GR86SX9,"COVER, Seat Back",,,27,2,1,,Black (1996),discontinued,,,/parts/mopar-cover-seat-back~gr86sx9.html
+1,JR39MD5,"COVER, Seat Back",,,,2,1,,"Quartz (1993,94,95, EUROPE)",discontinued,,,/parts/mopar-cover-seat-back~jr39md5.html
+1,JR39MKA,"COVER, Seat Back",,,,2,1,,"Tan (1993,94,95, EUROPE)",discontinued,,,/parts/mopar-cover-seat-back~jr39mka.html
+1,JR39SX9,"COVER, Seat Back",,,27,2,1,,"Black (1996, EUROPE)",discontinued,,,/parts/mopar-seat-back-cover~jr39sx9.html
+2,JX72MKA,"PAD and COVER, Seat Back",,,,2,1,,"Tan (1992,93,94,95)",discontinued,,,/parts/mopar-seat-back-seatback~jx72mka.html
+2,JX72SX9,"PAD and COVER, Seat Back",,,27,2,1,,Black (1996),discontinued,,,/parts/mopar-seatback-pad-cover~jx72sx9.html
+2,JX74MD5,"PAD and COVER, Seat Back",,,,2,,,"Quartz (1993,94,95, EUROPE)",discontinued,,,
+2,JX74MKA,"PAD and COVER, Seat Back",,,,2,1,,"Tan (1993,94,95, EUROPE)",discontinued,,,/parts/mopar-pad-cvr-seatback~jx74mka.html
+2,JX74SX9,"PAD and COVER, Seat Back",,,27,2,1,,Black (1996),discontinued,,,/parts/mopar-seatback-pad-cover~jx74sx9.html
+3,4746940,"FRAME, Seat Back",,,,2,1,,,discontinued,,,/parts/mopar-frame-st-seat-back~4746940.html
+4,GR88MKA,"COVER, Cushion",,,,2,1,,Tan (1992-93-94),discontinued,,,/parts/mopar-cover-cushion~gr88mka.html
+4,MV27PD5,"COVER, Cushion",,,,2,1,,"Quartz (1995, w/Map Pockets)",discontinued,,,/parts/mopar-cover-cushion~mv27pd5.html
+4,MV27PKA,"COVER, Cushion",,,,2,1,,"Tan (1995, w/Map Pockets)",discontinued,,,/parts/mopar-cover-cushion~mv27pka.html
+4,MV27SX9,"COVER, Cushion",,,27,2,,,"Black (1996, w/Map Pockets)",discontinued,,,
+5,JX73MKA,"PAD and COVER, Cushion",,,,2,,,Tan (1992-93-94),discontinued,,,
+5,MV26PD5,"PAD and COVER, Cushion",,,,2,1,,"Quartz (1995, w/Map Pockets)",discontinued,,,/parts/mopar-pad-cvr-cushion~mv26pd5.html
+5,MV26PKA,"PAD and COVER, Cushion",,,,2,1,,"Tan (1995, w/Map Pockets)",discontinued,,,/parts/mopar-cushion-pad-cover~mv26pka.html
+5,MV26SX9,"PAD and COVER, Cushion",,,27,2,1,,"Black (1996, w/Map Pockets)",discontinued,,,/parts/mopar-pad-cvr-cushion~mv26sx9.html
+6,4746941,"FRAME, Cushion",,,,2,,,,discontinued,,,
+7,4713962,LUMBAR SUPPORT,,,,2,1,,,discontinued,,,/parts/mopar-bladder-frt-st~4713962.html
+8,4713967,"RECLINER, 1992-95, (1996 Serviced in Seat Cushion)",,,,2,1,,,available,119.01,93.52,/parts/mopar-recliner-1992-95-1996-serviced-in-seat-cushion~4713967.html
+9,4713961,"LATCH/CABLE, Assy.",,,,2,1,,,available,32.21,25.31,/parts/mopar-recliner-frt-st~4713961.html
+10,4708255,"TRACK, Front Seat",,,,,,,Left - Driver,discontinued,,,/parts/mopar-adjuster~4708255.html
+11,6502806,"SCREW, Seat Track Mounting",,,,8,1,,,discontinued,,,/parts/mopar-screw~6502806.html
+12,4773262,HINGE,,,,,,,,discontinued,,,/parts/mopar-hinge-recliner~4773262.html
+13,6503354,"SCREW, Seat Track To Floor Riser",,,,,,,,discontinued,,,/parts/mopar-screw-hex-head~6503354.html
+14,4773266,PIN,,,,,,,,discontinued,,,/parts/mopar-pin-actuator-front~4773266.html
+15,QE67TX9,"SEAT BACK, Complete",Left,,,,,,,discontinued,,,
+16,QE61TX9,"SEAT CUSHION, Complete, Frame, Cover, Pad, Tracks",,,,2,,,,discontinued,,,
+17,4874889,"BULB, Lumbar Support",,,,,,,,discontinued,,,/parts/mopar-blub-lumbar-support~4874889.html
+,4874894,"BELT GUIDE KIT, Seat Back",,,,,,,,discontinued,,,
+,QE63TX9,"GUIDE, Seat Belt",,,,,,,,discontinued,,,

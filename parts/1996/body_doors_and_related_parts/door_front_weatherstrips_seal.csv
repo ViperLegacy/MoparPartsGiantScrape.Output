@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4642870,"SEAL, Door Opening Primary",,,,,,,"Right, 1992-94 (SEAL, Door Surround to Sportcap)",unavailable,55.2,48.23,/parts/mopar-seal-front-door-opening-primary~4642870.html
+1,4709252,"SEAL, Door Opening Primary",Right,,,,,,,available,132,102.69,/parts/mopar-seal-assy-assy-front-door-opening-p~4709252.html
+1,4709253,"SEAL, Door Opening Primary",Left,,,,,,,discontinued,,,/parts/mopar-seal-assy-assy-front-door-opening-p~4709253.html
+1,4848204,"SEAL, Door Opening Primary",,,,,,,"Right, 1995-96 (SEAL, Door Surround to Sportcap)",discontinued,,,/parts/mopar-seal-door~4848204.html
+1,4848205,"SEAL, Door Opening Primary",,,,,,,"Left, 1995-96 (SEAL, Door Surround to Sportcap)",discontinued,,,/parts/mopar-seal-door~4848205.html
+2,4642872,"SEAL, Door Opening Secondary",,,,2,1,,,discontinued,,,/parts/mopar-seal-door~4642872.html
+3,4763557,"SEAL, V-Profile",,,,2,1,,,available,23.17,18.21,/parts/mopar-seal-v-profile~4763557.html
+4,4709079,"SEAL, Mucket",Left,,,,,,,discontinued,,,/parts/mopar-seal-door-mucket-rt~4709079.html
+4,4848728,"SEAL, Mucket",,,,,,,Right (1996),discontinued,,,/parts/mopar-seal-door-mucket-rt~4848728.html
+4,4763878,"SEAL, Mucket",,,,,,,"Right (WEATHERSTRIP, Glass Channel)",discontinued,,,
+4,4763879,"SEAL, Mucket",,,,,,,"Left (WEATHERSTRIP, Glass Channel)",discontinued,,,
+4,4848729,"SEAL, Mucket",,,,,,,Left (1996),discontinued,,,

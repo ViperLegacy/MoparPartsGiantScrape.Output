@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,1UL83DX9AB,MOLDING A PILLAR,,,,,,,Left [-V5]Left [-VX]Left [-X6]Left [-X9]Left [-XR]Left [-XY]...View More,available,334,223,/parts/mopar-molding-a-pillar~1ul83dx9ab.html
+1,1VT20DX9AB,MOLDING A PILLAR,,,,,,,"Right [-X9], [ASV]",available,322,217.13,/parts/mopar-panel-a-pillar~1vt20dx9ab.html
+1,1VT20LR9AB,MOLDING A PILLAR,,,,,,,"Right [-R9], [ASV]",available,304,204.75,/parts/mopar-panel-a-pillar~1vt20lr9ab.html
+1,1VT20LV5AB,MOLDING A PILLAR,,,,,,,"Right [-VV], [ASV]",available,304,204.75,/parts/mopar-panel-a-pillar~1vt20lv5ab.html
+1,1VT21DX9AB,MOLDING A PILLAR,,,,,,,"Left [-X9], [ASV]",available,337,225.23,/parts/mopar-panel-a-pillar~1vt21dx9ab.html
+1,1VT21LR9AB,MOLDING A PILLAR,,,,,,,"Left [-R9], [ASV]",available,304,204.75,/parts/mopar-panel-a-pillar~1vt21lr9ab.html
+1,1VT21LV5AB,MOLDING A PILLAR,,,,,,,"Left [-VV], [ASV]",available,304,204.75,/parts/mopar-panel-a-pillar~1vt21lv5ab.html
+2,1UL81DX9AC,MOLDING B Pillar Upper,Left,,,,,6BT59DX9AA,,available,169,113.93,/parts/mopar-panel-b-pillar~1ul81dx9ac.html
+3,68184350AC,BRACKET B-Pillar,,,,,,,,discontinued,,,/parts/mopar-bracket-b-pillar~68184350ac.html
+4,1UL87DX9AD,SILL COVER Interior,Left,,,,,,,available,65.7,45.84,/parts/mopar-pad-interior~1ul87dx9ad.html
+5,68258681AA,BAR Sport,,,,,,,,available,795,523.6,/parts/mopar-bar-assy-sport~68258681aa.html

@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4854333AE,DOOR Front Paint as Required,Left,,27,,,,,discontinued,,,/parts/mopar-door-front~4854333ae.html
+1,4854336AE,DOOR Front Paint as Required,Right,,29,,,,,available,391.71,307.82,/parts/mopar-door-front~4854336ae.html
+1,4854337AE,DOOR Front Paint as Required,Left,,29,,,,,discontinued,,,/parts/mopar-door-front~4854337ae.html
+2,ME75MX3AD,MOLDING B Pillar,Left,,29,,,,,discontinued,,,
+2,QB96JX8AF,MOLDING B Pillar,Right,,27,,,,,discontinued,,,/parts/mopar-cover-door-outer-stanchion~qb96jx8af.html
+2,QB97JX8AF,MOLDING B Pillar,Left,,27,,,,,discontinued,,,
+6,5245109,HINGE Front Door,,,,2,1,,,unavailable,,,/parts/mopar-hinge-front-door~5245109.html
+7,6502549,SCREW Pan Head M8x1.25x30,,,,4,1,,,available,7.8,5.13,/parts/mopar-screw-pan-head~6502549.html
+8,6503351,SCREW AND WASHER Hex Head M8x1.25x35,,,,4,1,,,discontinued,,,/parts/mopar-screw-hex-head~6503351.html
+10,6502676,NUT Hex M6x1.00,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex~6502676.html
+11,6032723,SCREW Self Tapping M4.2x1.69x19.05,,,,4,1,,,available,9.15,6.35,/parts/mopar-screw-self-tapping~6032723.html
+12,4865447AA,COVER Hinge,Left,,,,,,,discontinued,,,/parts/mopar-panel-hinge~4865447aa.html
+13,35022111,SPACER Fender 1.0,,,,,,,,discontinued,,,/parts/mopar-shim-fender~35022111.html
+15,4848919AB,TAPE Stanchion Cover Shutface,Left,,,,,,,discontinued,,,/parts/mopar-tape~4848919ab.html
+,4763963,BRACKET Stanchion Cover Mtg.,,,,,,,,discontinued,,,/parts/mopar-bracket~4763963.html
+,2860332,PLUG Anti-Rattle,,,,4,1,,,available,9.2,6.41,/parts/mopar-plug-anti-rattle~2860332.html

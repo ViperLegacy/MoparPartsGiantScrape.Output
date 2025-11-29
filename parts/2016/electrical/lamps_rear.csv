@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5035179AD,LAMP Tail,Left,,,,,,,available,1545,1016.4,/parts/mopar-lamp-tail~5035179ad.html
+2,153835,SCREW Round Washer Head Tapping .164-18X.625,,,,,,,,available,4,2.74,/parts/mopar-screw-round-washer-head-tapping~153835.html
+3,68141021AB,BEZEL Fascia,Left,,,,,,,discontinued,,,/parts/mopar-reflector-fascia~68141021ab.html
+4,5035211AC,LAMP High Mounted Stop,,,,,,,,available,873,593.94,/parts/mopar-lamp-high-mounted-stop~5035211ac.html
+5,68292409AA,PANEL Diffuser Rear Fascia,,,,,,,[MEX] Attaching Hardware & Rear Fog Lamps,available,857,584.82,/parts/mopar-panel-diffuser~68292409aa.html
+6,68146207AA,LAMP License Plate,Left,,,,,,,available,65.85,55.28,/parts/mopar-lamp-license-plate~68146207aa.html
+7,68140268AA,SWITCH Liftgate,,,,,,,,available,42.15,35.18,/parts/mopar-switch-liftgate~68140268aa.html
+8,68204726AD,PANEL Rear Fascia Valance,,,,,,68204726AF,"[X8T], [XAC]",available,1550,1047.51,/parts/mopar-panel-rear-fascia-valance~68204726ad.html
+9,6510352AA,SCREW Hex Flange Head M4X1.46X14.00,,,,12,1,,,available,5.05,3.44,/parts/mopar-screw-hex-flange-head~6510352aa.html
+10,68141070AA,BRACKET Camera,,,,,,,,available,16.3,12.64,/parts/mopar-bracket-camera~68141070aa.html
+11,56038978AI,CAMERA Rear View,,,,,,56038978AL,,available,327,220.5,/parts/mopar-camera-rear-view~56038978ai.html
+12,6507357AA,NUT Wing M6x1,,,,8,1,,,available,13.75,9.55,/parts/mopar-nut-wing~6507357aa.html

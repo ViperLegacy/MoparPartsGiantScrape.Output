@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5030030AJ,PANEL Roof,,,,,,,,discontinued,,,/parts/mopar-roof-roof~5030030aj.html
+2,6101718,SCREW AND WASHER Oval Head M6x1x25,,,,2,1,,,available,9.2,6.41,/parts/mopar-screw-oval-head~6101718.html
+3,6503992,SCREW AND WASHER Hex Head M6x1x30,,,,3,1,,,available,8.9,6.17,/parts/mopar-screw-hex-head~6503992.html
+4,6102126AA,NUT AND WASHER Hex M6x1.0,,,,2,1,,,available,10.65,7.4,/parts/mopar-nut-hex~6102126aa.html
+5,5030031AF,BAR Sport,,,,,,5030031AG,,available,1880,1271.25,/parts/mopar-bar-assy-sport~5030031af.html
+,5030165AD,EXTENSION B Pillar,Left,,,,,,,available,48.2,41.47,/parts/mopar-extension-b-pillar~5030165ad.html
+,5030632AA,SEAL Header Foam,,,,2,1,,"Front, Roof",discontinued,,,/parts/mopar-seal-header-foam~5030632aa.html
+,5030634AB,SEAL Header Foam,,,,2,1,,"Rear, Roof D Section",available,137,88.2,/parts/mopar-seal-header-foam~5030634ab.html
+,5030636AA,SEAL Header Foam,,,,2,1,,"Front, Roof Rail",available,91.05,60.02,/parts/mopar-seal-header-foam~5030636aa.html
+,5030162AE,WEATHERSTRIP Header Outer Header Weatherstrip,,,,,,,,discontinued,,,/parts/mopar-w-strip-header~5030162ae.html

@@ -1,0 +1,50 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68139711AB,SHIELD Splash,Left,,,,,,,available,423,282.1,/parts/mopar-shield-splash~68139711ab.html
+4,68142981AA,PANEL Radiator Closure,,,,,,,,available,45.4,37.69,/parts/mopar-panel-radiator-closure~68142981aa.html
+7,68141093AA,AIR DUCT Brake Cooling,Left,,,,,,,available,72.35,59.46,/parts/mopar-air-duct-brake-cooling~68141093aa.html
+8,68268011AA,DUCT AIR CCM Brake Cooling,,,,,,,Left [BRM],available,153,100.14,/parts/mopar-duct-air~68268011aa.html
+10,68171669AB,DUCT AIR,Left,,,,,,,available,61.3,42.81,/parts/mopar-duct-air~68171669ab.html
+12,68096346AA,ABSORBER Front Energy,,,,,,,,available,429,343.42,/parts/mopar-absorber-front-energy~68096346aa.html
+17,68199656AA,BRACKET Fascia Support,,,,,,,,available,241,195.75,/parts/mopar-bracket-fascia-support~68199656aa.html
+18,68141085AB,GRILLE Radiator,,,,,,,,available,170,133.88,/parts/mopar-grille-radiator~68141085ab.html
+22,1WC63DX8AA,BEZEL Air Inlet,Left,,,,,,,available,81.95,66.66,/parts/mopar-bezel-air-inlet~1wc63dx8aa.html
+22,68191402AA,BEZEL Air Inlet,,,,,,,Right [MBK],available,881,739.86,/parts/mopar-bezel-air-inlet~68191402aa.html
+22,68191403AA,BEZEL Air Inlet,,,,,,,Left [MBK],available,855,718.2,/parts/mopar-bezel-air-inlet~68191403aa.html
+24,68194268AB,LAMP Side Marker,Right,,,,,,,available,47.8,33.38,/parts/mopar-lamp-side-marker~68194268ab.html
+26,68195684AC,FASCIA Front Primed,,,,,,68110835AD,,discontinued,,,/parts/mopar-fascia-front~68195684ac.html
+30,5029222AC,FRAME License Plate,,,,,,5029222AD,,available,133,89.04,/parts/mopar-frame-license-plate~5029222ac.html
+31,68210708AB,PANEL Underbody Front Splitter,,,,,,,Right [MBS],available,2430,1600.5,/parts/mopar-panel-underbody-front~68210708ab.html
+31,68262540AA,PANEL Underbody Front Splitter,,,,,,,Right [MEZ],available,2195,1441,/parts/mopar-splitter-underbody-front~68262540aa.html
+31,68262541AA,PANEL Underbody Front Splitter,,,,,,,Left [MEZ],available,2365,1556.5,/parts/mopar-splitter-underbody-front~68262541aa.html
+33,68252740AB,PANEL Dive Plane,,,29,,,68252740AC,Right Upper [MEV],unavailable,952,649.8,/parts/mopar-panel~68252740ab.html
+33,68284581AA,PANEL Dive Plane,,,29,,,68284581AB,Left LowerLeft [MDV],available,1015,685.91,/parts/mopar-panel~68284581aa.html
+33,68284580AA,PANEL Dive Plane,,,29,,,68284580AB,Right LowerRight [MDV],discontinued,,,/parts/mopar-panel~68284580aa.html
+34,68287941AB,PANEL Splitter,,,,,,68287941AC,"[MET], Includes Beam Brackets And Struts",available,2260,1525.5,/parts/mopar-panel-splitter~68287941ab.html
+36,68287940AB,PANEL ASSEMBLY Splitter,,,,,,68287940AC,,available,17740,12023.2,/parts/mopar-panel-splitter~68287940ab.html
+37,68322462AA,CABLE Front Splitter,,,,,,,,discontinued,,,/parts/mopar-cable-front-splitter~68322462aa.html
+42,68322467AA,RUB STRIP FRONT SPLITTER,,,,,,,Left [MXE] OR [MET],discontinued,,,/parts/mopar-rub-strip-front-splitter~68322467aa.html
+42,68322468AA,RUB STRIP FRONT SPLITTER,,,,,,,Center [MXE] OR [MET],discontinued,,,/parts/mopar-rub-strip-front-splitter~68322468aa.html
+,6101635,BOLT M10x1.50x35 Absorber Attaching,,,,6,1,,,discontinued,,,/parts/mopar-bolt~6101635.html
+,68322465AA,BRACKET Front Splitter,Left,,,,,,,discontinued,,,/parts/mopar-bracket-front-splitter~68322465aa.html
+,68322460AA,CABLE HARDWARE KIT Front Splitter Attaching Parts,,,,,,,,discontinued,,,/parts/mopar-hardware-front-splitter~68322460aa.html
+,68078584AA,CLIP Spring Grille Attaching,,,,6,1,68078584AB,,available,6.65,4.6,/parts/mopar-clip-spring~68078584aa.html
+,6102437AA,NUT AND WASHER Hex Nut-Coned Washer M10 x 1.5 Absorber Attaching,,,,4,1,,,available,4,2.74,/parts/mopar-nut-hex-nut-coned-washer~6102437aa.html
+,6102244AA,NUT Lamp Attaching,,,,4,1,,,available,3.9,2.68,/parts/mopar-nut~6102244aa.html
+,6100842,NUT Push Absorber Attaching,,,,4,1,,,available,3.65,2.5,/parts/mopar-nut-push~6100842.html
+,6105241AA,NUT U M6x1.00 Fascia Attaching,,,,4,1,,,available,5.05,3.44,/parts/mopar-nut-u~6105241aa.html
+,6105241AA,NUT U M6x1.00 Shield Attaching,,,,4,1,,,available,5.05,3.44,/parts/mopar-nut-u~6105241aa.html
+,6508904AA,PIN Push M6.3x20.40 Fascia Attaching,,,,2,1,,,available,8.1,5.65,/parts/mopar-pin-push~6508904aa.html
+,6510611AA,PUSH NUT Bezel Attaching,,,,8,1,,,available,2.3,1.34,/parts/mopar-nut~6510611aa.html
+,6510611AA,PUSH NUT Grille Attaching,,,,9,1,,,available,2.3,1.34,/parts/mopar-nut~6510611aa.html
+,6510193AA,PUSH PIN Duct Attaching,,,,4,1,,,available,3.5,2.39,/parts/mopar-push-pin~6510193aa.html
+,5029208AA,REINFORCEMENT Front Bumper Absorber Attaching,,,,4,1,,,available,15.75,11.59,/parts/mopar-beam-front-bumper~5029208aa.html
+,6035201,RIVET Splitter And Dive Plane Attaching,,,29,8,1,,[MBS],available,12.2,8.45,/parts/mopar-rivet~6035201.html
+,6511050AA,SCREW AND WASHER Hex Head M6x1x20 Splitter Panel Attaching,,,,6,1,,,available,2.3,1.34,/parts/mopar-screw-hex-head~6511050aa.html
+,6511152AA,SCREW AND WASHER Pan Head Panel Attaching,,,,6,1,,,available,5.6,3.84,/parts/mopar-screw-pan-head~6511152aa.html
+,6034355,SCREW Hex Flange Head .25-14x.875 Shield Attaching,,,,14,1,,,available,5.85,4.02,/parts/mopar-screw-hex-flange-head~6034355.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Duct Attaching,,,,28,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Fascia Attaching,,,,28,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Fascia to Panel,,,,28,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+,6508387AA,SCREW Pan Head M6X1.00X22.00 Grille Attaching,,,,28,1,6508611AA,,available,4.65,3.2,/parts/mopar-screw-pan-head~6508387aa.html
+,68322463AA,STRUT Front Splitter,,,,,,,,discontinued,,,/parts/mopar-strut-front-splitter~68322463aa.html
+,68322461AA,STRUT HARDWARE KIT Front Splitter Attaching Parts,,,,,,,,discontinued,,,/parts/mopar-hardware-front-splitter~68322461aa.html

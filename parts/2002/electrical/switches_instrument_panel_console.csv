@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848135,KNOB Head Lamp Switch,,,,,,,,discontinued,,,/parts/mopar-knob-head-lamp-switch~4848135.html
+2,4763135,SWITCH Headlamp,,,,,,,,discontinued,,,/parts/mopar-switch-headlamp~4763135.html
+3,4848437,CLOCKSPRING,,,,,,4848437AA,,discontinued,,,/parts/mopar-clkspring~4848437.html
+4,56021346,SWITCH Ignition,,,,,,56021346AB,,available,315,212.63,/parts/mopar-manual-transmission-w-buzzer-halo~56021346.html
+6,4728424,SWITCH Multifunction,,,,,,,,discontinued,,,/parts/mopar-switch-multifunction~4728424.html
+7,4848934AA,SWITCH Passenger Airbag Disarm,,,,,,,,discontinued,,,/parts/mopar-switch-passenger-airbag-disarm~4848934aa.html
+8,4671334,SWITCH Stop Lamp,,,,,,68003916AA,,available,51.8,36,/parts/mopar-switch-stop-lamp~4671334.html
+9,53007944AB,SWITCH Clutch Starter Interlock,,,,,,,,available,170,114.75,/parts/mopar-switch-clutch-starter-interlock~53007944ab.html
+10,5245736,SWITCH Electric Back Light,,,,,,,,discontinued,,,
+,6503845,SCREW Ignition Switch,,,,5,1,,,available,5.25,2.48,/parts/mopar-screw-ignition-switch~6503845.html

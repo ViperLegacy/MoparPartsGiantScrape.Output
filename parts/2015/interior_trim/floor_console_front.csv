@@ -1,0 +1,52 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5NH74DX9AA,BASE Floor Console,,,,,,5NH74DX9AB,"[-X9], [CUF]",available,1955,1322.1,/parts/mopar-base-floor-console~5nh74dx9aa.html
+1,5NH75CV5AA,BASE Floor Console,,,,,,5NH75CV5AB,"[-V5], [CMH], [AZA]",available,1100,743.54,/parts/mopar-base-floor-console~5nh75cv5aa.html
+1,5NH75DX9AA,BASE Floor Console,,,,,,5NH75DX9AB,"[-X9], [CMH]",available,847,579.12,/parts/mopar-base-floor-console~5nh75dx9aa.html
+1,5NH75LR9AA,BASE Floor Console,,,,,,5NH75LR9AB,"[-X6], [CMH]",available,1120,758.23,/parts/mopar-base-floor-console~5nh75lr9aa.html
+1,5NH75LV5AA,BASE Floor Console,,,,,,5NH75LV5AB,"[-V5], [CMH]",available,1100,743.54,/parts/mopar-base-floor-console~5nh75lv5aa.html
+1,5NH76DX9AA,BASE Floor Console,,,,,,5NH76DX9AB,"[-X9], [CM5]",available,1100,743.54,/parts/mopar-base-floor-console~5nh76dx9aa.html
+1,5NH76LR9AA,BASE Floor Console,,,,,,5NH76LR9AB,"[-X6], [CM5]",available,1100,743.54,/parts/mopar-base-floor-console~5nh76lr9aa.html
+2,5LV74DX9AB,PANEL Instrument Lower Right,,,,,,5LV74DX9AC,"Right [-X9], [JAC]",available,520,355.68,/parts/mopar-bezel-instrument-lower~5lv74dx9ab.html
+2,5LV74LR9AB,PANEL Instrument Lower Right,,,,,,5LV74LR9AC,"Right [-X6], [JAC]",available,477,322.61,/parts/mopar-bezel-instrument-lower~5lv74lr9ab.html
+2,5LV74LV5AB,PANEL Instrument Lower Right,,,,,,5LV74LV5AC,"Right [-VX], [JAC]",available,520,355.68,/parts/mopar-bezel-instrument-lower~5lv74lv5ab.html
+2,5SJ72DX9AA,PANEL Instrument Lower Right,,,,,,5SJ72DX9AB,,available,749,511.86,/parts/mopar-bezel-instrument-lower~5sj72dx9aa.html
+3,1WU69DX9AA,PANEL Instrument Lower Left,,,,,,,"Left [-KX], [JAB]Left [-RX], [JAB]Left [-VX], [JAB]Left [-X6], [JAB]Left [-X9], [JAB]...View More",available,485,324.47,/parts/mopar-bezel-instrument-lower~1wu69dx9aa.html
+4,1WT421V5AC,PANEL Bulkhead Trim,,,,,,1WT421V5AD,"[-V5], [CMH]",available,2260,1531.15,/parts/mopar-console-bulkhead-trim~1wt421v5ac.html
+4,1WT42DX9AC,PANEL Bulkhead Trim,,,,,,1WT42YSAAD,"[-X9], [CMH]",available,2260,1531.15,/parts/mopar-console-bulkhead-trim~1wt42dx9ac.html
+4,1WT42LK5AC,PANEL Bulkhead Trim,,,,,,,"[-KX], [CMH]",available,1260,852.02,/parts/mopar-console-bulkhead-trim~1wt42lk5ac.html
+4,1WT42LR9AC,PANEL Bulkhead Trim,,,,,,1WT42LR9AD,"[-X6], [CMH]",available,2210,1497.25,/parts/mopar-console-bulkhead-trim~1wt42lr9ac.html
+4,1WT42LV5AC,PANEL Bulkhead Trim,,,,,,1WT42LV5AD,"[-VX], [CMH]",available,2210,1497.25,/parts/mopar-console-bulkhead-trim~1wt42lv5ac.html
+4,1WT42XR4AC,PANEL Bulkhead Trim,,,,,,,"[-RX], [CMH]",available,1260,852.02,/parts/mopar-console-bulkhead-trim~1wt42xr4ac.html
+4,5LH981R9AE,PANEL Bulkhead Trim,,,,,,,"[-R9], [CM5]",available,2485,1683.7,/parts/mopar-console-bulkhead-trim~5lh981r9ae.html
+4,5LH981VVAE,PANEL Bulkhead Trim,,,,,,,"[-VV], [CM5]",available,2840,1921,/parts/mopar-console-bulkhead-trim~5lh981vvae.html
+4,5LH98YSAAE,PANEL Bulkhead Trim,,,,,,,"[-X9], [CM5]",available,2970,2011.4,/parts/mopar-console-bulkhead-trim~5lh98ysaae.html
+5,6105041AA,BOLT Hex Flange Head M6X1.00X40.00,,,,2,1,,,available,4.3,2.97,/parts/mopar-bolt-hex-flange-head~6105041aa.html
+6,5038653AA,BOOT Gearshift,,,,,,,,discontinued,,,/parts/mopar-boot-gearshift~5038653aa.html
+7,1WT151V5AC,BEZEL Console Shifter,,,,,,1WT151V5AD,"[-V5], [JAA]",available,1550,1021.9,/parts/mopar-bezel-console-shifter~1wt151v5ac.html
+7,1WT15DX9AC,BEZEL Console Shifter,,,,,,,"[-X9], [JAA]",available,1725,1138.5,/parts/mopar-bezel-console-shifter~1wt15dx9ac.html
+7,1WT16AAAAA,BEZEL Console Shifter,,,,,,,"[-X9], [JAA]",available,1125,760.49,/parts/mopar-bezel-console-shifter~1wt16aaaaa.html
+7,1WT17LK5AC,BEZEL Console Shifter,,,,,,,"[-KX], [JAB]",available,1360,922.08,/parts/mopar-housing-console-shifter~1wt17lk5ac.html
+7,1WT17LR9AC,BEZEL Console Shifter,,,,,,,"[-X6], [JAB]",available,1360,897.6,/parts/mopar-housing-console-shifter~1wt17lr9ac.html
+7,1WT17LV5AC,BEZEL Console Shifter,,,,,,,"[-VX], [JAB]",available,1415,933.9,/parts/mopar-housing-console-shifter~1wt17lv5ac.html
+7,1WT17XR4AC,BEZEL Console Shifter,,,,,,,"[-RX], [JAB]",available,1375,906.4,/parts/mopar-housing-console-shifter~1wt17xr4ac.html
+7,1WT181V5AA,BEZEL Console Shifter,,,,,,1WT181V5AB,"[-V5], [JAB], [AZA]",available,915,603.9,/parts/mopar-bezel-console-shifter~1wt181v5aa.html
+7,1WT181X9AA,BEZEL Console Shifter,,,,,,1WT18YSAAB,"[-X9], [JAB] Or [JAC], [XSQ]",available,964,635.8,/parts/mopar-bezel-console-shifter~1wt181x9aa.html
+7,1WT182R8AA,BEZEL Console Shifter,,,,,,1WT181R9AA,"[-X6], [JAB] Or [JAC], [XSQ][JAB] OR [JAC], [XSQ], [ASV]",available,914,602.8,/parts/mopar-bezel-console-shifter~1wt182r8aa.html
+7,1WT182R9AA,BEZEL Console Shifter,,,,,,1WT181R9AA,"[-X6], [JAB] Or [JAC], [XSQ]",available,914,602.8,/parts/mopar-bezel-console-shifter~1wt182r9aa.html
+7,1WT18LV5AA,BEZEL Console Shifter,,,,,,1WT181V5AB,"[-VX], [JAB] Or [JAC], [XSQ]",available,915,603.9,/parts/mopar-bezel-console-shifter~1wt18lv5aa.html
+7,1YS01HL1AC,BEZEL Console Shifter,,,,,,1YS01HL1AD,"[-VX], [JAC]",available,1575,1038.4,/parts/mopar-bezel-console-shifter~1ys01hl1ac.html
+7,1YS01LA8AC,BEZEL Console Shifter,,,,,,1YS01LA8AD,"[-X6], [JAC]",available,1330,876.7,/parts/mopar-bezel-console-shifter~1ys01la8ac.html
+7,1YS01YSAAC,BEZEL Console Shifter,,,,,,1YS01YSAAD,"[-X9], [JAC]",available,1215,800.8,/parts/mopar-bezel-console-shifter~1ys01ysaac.html
+8,5LZ06AAAAA,HANDLE Grab,,,,,,,,available,1605,1053.8,/parts/mopar-handle-grab~5lz06aaaaa.html
+9,1YD181V5AB,COVER Instrument Panel,,,,,,1YD181V5AC,[-V5],available,420,280.98,/parts/mopar-bezel-instrument-panel~1yd181v5ab.html
+9,1YD181X6AB,COVER Instrument Panel,,,,,,1YD181X6AC,[-X6],available,420,280.98,/parts/mopar-bezel-instrument-panel~1yd181x6ab.html
+9,1YD18DX9AB,COVER Instrument Panel,,,,,,,[-X9],available,257,168.75,/parts/mopar-bezel-instrument-panel~1yd18dx9ab.html
+9,1YD18LV5AB,COVER Instrument Panel,,,,,,,[-VX],available,429,286.56,/parts/mopar-bezel-instrument-panel~1yd18lv5ab.html
+9,1YD18YSAAB,COVER Instrument Panel,,,,,,1YD18YSAAC,"[-X9][-X9], [ASV]",available,220,148.9,/parts/mopar-bezel-instrument-panel~1yd18ysaab.html
+10,1YD17LR9AC,COVER Instrument Panel,,,,,,1YD17LR9AD,"Left [-X6], [ASV]",available,185,125.21,/parts/mopar-bezel-instrument-panel~1yd17lr9ac.html
+11,6101945,SCREW Hex Flange Head M4.2X1.70X15.00,,,,2,1,,,available,2.95,1.98,/parts/mopar-screw-hex-flange-head~6101945.html
+12,68165468AB,BRACKET Grab Handle,,,,,,,,available,77.75,63.11,/parts/mopar-handle-grab-handle~68165468ab.html
+13,68174055AB,BRACKET Grab Handle,,,,,,,,available,26.95,23.53,/parts/mopar-bracket-grab-handle~68174055ab.html
+14,68186730AB,BRACKET Floor Console,,,,,,,,available,77.7,54.29,/parts/mopar-bracket-floor-console~68186730ab.html
+15,68202665AA,BIN Storage,,,,,,,,available,111,74.34,/parts/mopar-bin-storage~68202665aa.html
+16,4641780,STRAP Tie,,,,,,,,available,0.45,0.29,/parts/mopar-strap-tie~4641780.html

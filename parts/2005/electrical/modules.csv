@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865582AB,MODULE Air Bag Control,,,,,,68290974AA,,available,256,172.13,/parts/mopar-module-air-bag-control~4865582ab.html
+3,4815551AC,MODULE Radio Antenna,,,,,,,,available,34.46,27.08,/parts/mopar-module-radio-antenna~4815551ac.html
+5,4686669AC,MODULE Keyless Entry Receiver,,,,,,,,available,118,77.68,/parts/mopar-module-keyless-entry-receiver~4686669ac.html
+6,4602260AA,TRANSMITTER Keyless Entry,,,,8,1,4602260AD,,available,220,124.78,/parts/mopar-transmtr-keyless-entry~4602260aa.html
+7,4815227AF,MODULE Tire Pressure Monitoring,,,,,,,,discontinued,,,/parts/mopar-module-tire-pressure-monitoring~4815227af.html
+8,5029670AB,MODULE Body Controller,,,,,,,,discontinued,,,/parts/mopar-module-body-controller~5029670ab.html
+9,4865944AA,MODULE HID Bulb Powerpack,,,,,,4865944AB,,available,290,236.38,/parts/mopar-headlamp-hid-bulb-powerpack~4865944aa.html
+,6102254AA,BOLT AND WASHER Hex Head M6x-1.00x55,,,,4,1,,,available,1.93,1.52,/parts/mopar-bolt-hex-head~6102254aa.html

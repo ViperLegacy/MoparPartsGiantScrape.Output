@@ -1,0 +1,24 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5030567AE,HOOD,,,,,,5030567AF,,available,5095,3435.2,/parts/mopar-hood~5030567ae.html
+2,4865639AD,HINGE Hood,Left,,,,,,,discontinued,,,/parts/mopar-hinge-hood~4865639ad.html
+5,4865827AC,LATCH Hood,,,,,,,,available,77.75,63.11,/parts/mopar-latch-hood~4865827ac.html
+6,6507213AA,BALL STUD,,,,,,,,available,11.05,8.91,/parts/mopar-ball-stud~6507213aa.html
+8,4865815AA,RELEASE Hood Latch,,,,,,,,discontinued,,,/parts/mopar-cable-hood-latch~4865815aa.html
+9,34201358,NUT AND WASHER Hex Nut-Sealing Washer M6 x 1.00,,,,3,1,,,available,13.9,9.67,/parts/mopar-nut-hex-nut-sealing-washer~34201358.html
+10,34201358,NUT AND WASHER Hex Nut-Sealing Washer M6 x 1.00,,,,4,1,,,available,13.9,9.67,/parts/mopar-nut-hex-nut-sealing-washer~34201358.html
+11,4865820AF,PROP Gas,,,,2,1,,,available,31.4,25.16,/parts/mopar-prop-gas-gas~4865820af.html
+12,5008628AA,BUMPER,,,,2,1,,,available,11.7,10.15,/parts/mopar-stop-bmpr~5008628aa.html
+14,5030958AA,SCREEN AIR INLET HOOD,,,,,,,,discontinued,,,/parts/mopar-screen-air-inlet~5030958aa.html
+15,5030959AA,SCREEN AIR INLET HOOD,,,,,,,,discontinued,,,/parts/mopar-screen-air-inlet~5030959aa.html
+16,5030956AA,SCREEN AIR INLET HOOD,,,,,,,,discontinued,,,/parts/mopar-screen-air-inlet~5030956aa.html
+17,5030957AA,SCREEN AIR INLET HOOD,,,,,,,,discontinued,,,/parts/mopar-screen-air-inlet~5030957aa.html
+18,5030954AA,SCREEN AIR INLET HOOD,,,,,,,,discontinued,,,/parts/mopar-screen-air-inlet~5030954aa.html
+19,5030955AA,SCREEN AIR INLET HOOD,,,,,,,,discontinued,,,/parts/mopar-screen-air-inlet~5030955aa.html
+20,5030575AA,DEFLECTOR Air,,,,,,,,discontinued,,,/parts/mopar-deflector-air~5030575aa.html
+21,4658673,PIN PUSH .150x.410,,,,42,1,,,available,8.55,5.94,/parts/mopar-pin~4658673.html
+23,6505417AA,PUSH PIN,,,,3,1,,,available,12.75,8.91,/parts/mopar-pin~6505417aa.html
+24,6104635AB,SCREW Tapping Round Head M5.0X2.24X20.00,,,,2,1,6104635AA,,available,3.5,2.39,/parts/mopar-screw-tapping-round-head~6104635ab.html
+,5030575AA,DEFLECTOR Air,,,,,,,,discontinued,,,/parts/mopar-deflector-air~5030575aa.html
+,6506293AA,PIN Push,,,,8,1,,,available,8.8,6.12,/parts/mopar-push-pin~6506293aa.html
+,6031321,PIN Retainer,,,,3,1,,,discontinued,,,/parts/mopar-pin-retainer~6031321.html
+,5030574AC,SILENCER Hood,,,,,,,,available,213,168.75,/parts/mopar-silencer-hood~5030574ac.html

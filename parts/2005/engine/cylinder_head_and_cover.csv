@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,5037156AD,COVER Cylinder Head,Right,,,,,,,discontinued,,,/parts/mopar-cover-cylinder-head~5037156ad.html
+3,6035666,SCREW Hex Flange Head .25-20x1.00,,,,13,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+4,6036519AA,STUD Double Ended,,,,13,1,,,discontinued,,,/parts/mopar-stud-double-ended~6036519aa.html
+5,4648832AB,CAP Oil Filler,,,,,,5037665AC,,available,16.3,12.64,/parts/mopar-cap-oil-filler~4648832ab.html
+6,5037157AB,GASKET Valve Cover,,,,,,,,discontinued,,,/parts/mopar-gasket-cylinder-head-cover~5037157ab.html
+7,5037064AE,HEAD Cylinder,,,,2,1,,,discontinued,,,/parts/mopar-head-cylinder~5037064ae.html
+8,6035471,BOLT Cylinder Head,,,,24,1,,,available,19.9,13.86,/parts/mopar-screw-cylinder-head~6035471.html
+9,6035666,SCREW Hex Flange Head .25-20x1.00,,,,16,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+10,4763749AB,GASKET Cylinder Head,,,,2,1,5013101AA,,discontinued,,,/parts/mopar-gasket-cylinder-head~4763749ab.html
+,5086534AA,"GASKET PACKAGE Engine Upper Includes,Cylinder Head Gasket, Valve Cover Gasket, Intake and Exhaust Manifold Gasket, Throttle Body Gasket and Thermostat Gasket.",,,,,,,,discontinued,,,/parts/mopar-gskt-pkg-engine-upper~5086534aa.html
+,33003521,LOCK Valve Spring Retainer,,,,40,1,,,available,3.45,2.33,/parts/mopar-retainer-valve-spring-retainer~33003521.html
+,4483745,RETAINER Valve Spring,,,,20,1,5037754AA,,available,6.85,2.56,/parts/mopar-retainer-valve-spring~4483745.html
+,53009887,SEAL Valve Guide,,,,10,8,,Lower,available,15.65,10.83,/parts/mopar-seal-valve-guide~53009887.html

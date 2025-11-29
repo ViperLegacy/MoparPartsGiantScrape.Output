@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865434AB,PAN Trunk,,,29,,,,,available,9620,1890.17,/parts/mopar-pan-trunk~4865434ab.html
+3,4848591,EXHAUSTER Bodyside Aperture,,,,4,1,,,discontinued,,,/parts/mopar-exhauster-bodyside-aperature~4848591.html
+5,6502688,SCREW AND WASHER Hex Head M10x1.5x70,,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-head~6502688.html
+6,4642900,ISOLATOR Rear Floor Pan To Frame,,,,4,1,,,discontinued,,,/parts/mopar-isolator-rear-floor-pan-to-frame~4642900.html
+7,4848189,SPACER Floor Pan Isolator,,,29,2,1,,,available,5.98,4.7,/parts/mopar-spacer-floor-pan-isolator~4848189.html
+8,4848868AA,SHIM Floor Pan Isolator,,,27,,,,One Inch,discontinued,,,/parts/mopar-shim-floor-pan-isolator~4848868aa.html
+9,6503675,SCREW AND WASHER Hex Head M10x1.5x40,,,,2,1,,,available,11.35,8.91,/parts/mopar-screw-hex-head~6503675.html
+11,55013666,FOOTMAN LOOP Hold Down,,,,2,1,,,available,120,80.38,/parts/mopar-dr-check-hold-down~55013666.html
+12,6034646,RIVET .197 Grip-.187-.375,,,,7,1,,,discontinued,,,/parts/mopar-retainer~6034646.html
+13,4708256,PLATE Footman Loop,,,,2,1,,,discontinued,,,/parts/mopar-plate-footman-loop~4708256.html
+14,4763477,CUSHION Trunk Pan,,,,2,1,,,discontinued,,,/parts/mopar-support-trunk-pan~4763477.html
+15,4848865AA,PATCH Floor Pan Rear Corner,Left,,,,,,,discontinued,,,/parts/mopar-shield-floor-pan-rear-corner~4848865aa.html
+18,4848582AB,PANEL Fuel Tank Close Out,,,,,,,,discontinued,,,/parts/mopar-panel-fuel-tank-close-out~4848582ab.html
+,4848818AB,COVER Trunk Exhauster,,,,2,1,,,discontinued,,,/parts/mopar-exhauster-trunk-exhauster~4848818ab.html
+,4848103,GASKET Fuel Pump Cover Plate,,,,,,,,discontinued,,,/parts/mopar-gasket-fuel-pump-cover-plate~4848103.html
+,4848419,PLUG Floor Pan,,,,4,1,,,discontinued,,,/parts/mopar-plug-floor-pan~4848419.html
+,4708168,STRAP Cargo Tie Down,,,,,,,,discontinued,,,/parts/mopar-strap-cargo-tie-down~4708168.html

@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763667,"ISOLATOR, Exhaust Pipe",,,,2,1,,,discontinued,,,/parts/mopar-isolator-exhaust-support~4763667.html
+2,4763629,"SUPPORT, Isolator, Exhaust Pipe",,,,2,1,,,discontinued,,,/parts/mopar-support-exhaust-isolator~4763629.html
+3,4709038,"ISOLATOR, Exhaust",,,,5,1,,,discontinued,,,/parts/mopar-isolator-exhaust~4709038.html
+4,4708458,"ISOLATOR, Support",,,,5,1,,,discontinued,,,/parts/mopar-support-exhaust-isolator~4708458.html
+5,6033047,BOLT,,,,14,1,,,discontinued,,,/parts/mopar-bolt-shoulder~6033047.html
+6,5245788,"MUFFLER, w/Pipe",,,,,,,,discontinued,,,/parts/mopar-muffler-exhaust~5245788.html
+7,6501483,"NUT, Hanger",,,,2,1,,,discontinued,,,/parts/mopar-nut-hex-flange~6501483.html
+8,5245034,"ROD, Hanger, Rear Muffler",,,,,,,,unavailable,,,/parts/mopar-hanger-muffler~5245034.html
+9,4763593,"Pipe, Exhaust, Intermediate",,,27,,,,Lt.,discontinued,,,/parts/mopar-pipe~4763593.html
+9,4855300,"Pipe, Exhaust, Intermediate",,,29,,,,Rt.,discontinued,,,
+9,4855301,"Pipe, Exhaust, Intermediate",,,29,,,,Lt.,discontinued,,,
+10,5245815,"INSULATION, Thermal, Sill Inner, Right",,,,,,,"INSULATION, Thermal, Sill Inner, Left",discontinued,,,/parts/mopar-insulatio-thermal-sill-inner~5245815.html
+11,6100316,"BOLT, Pipe to Manifold",,,,4,,,,discontinued,,,
+12,4709094,"CLAMP, Exhaust Pipe",,,,2,,,,discontinued,,,
+13,4695220,"CLAMP, Exhaust Pipe",,,,2,,,,discontinued,,,
+15,4855441,"CONVERTER ASSEMBLY, Right",,,,,,,"CONVERTER ASSEMBLY, Left",discontinued,,,/parts/mopar-converter-catalytic~4855441.html
+16,4763586,"SEAL, Ring, Exhaust Pipe to Manifold",,,,2,1,,,discontinued,,,/parts/mopar-gasket-exhaust~4763586.html
+17,4427610,"NUT, Flange",,,,2,,,,discontinued,,,
+18,4709106,"BAR, Muffler Hanger",,,,,,,,available,66.68,52.4,/parts/mopar-hanger-muffler~4709106.html
+19,6101542,"SCREW, Hanger Bar, (M8x1.25x20.00)",,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-head~6101542.html
+20,4848163,"SPACER, Exhaust Hanger",,,,2,,,,discontinued,,,

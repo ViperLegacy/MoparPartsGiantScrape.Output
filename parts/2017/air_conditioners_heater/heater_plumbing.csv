@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5030734AC,HOSE Coolant Bottle Supply,,,,,,,,discontinued,,,/parts/mopar-hose-coolant-bottle-supply~5030734ac.html
+2,5012745AA,CLAMP Heater,,,,,,,,discontinued,,,/parts/mopar-clamp-heater~5012745aa.html
+3,5030628AH,HOSE Heater Return,,,,,,,,available,1160,753.5,/parts/mopar-hose-heater-return~5030628ah.html
+4,5181474AA,CLIP Heater Hose,,,,2,1,,,available,2.7,1.57,/parts/mopar-clip-heater-hose~5181474aa.html
+5,5030627AH,HOSE Heater Supply,,,,,,,,available,136,98.45,/parts/mopar-hose-heater-supply~5030627ah.html

@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848584,COMPRESSOR Air Conditioning,,,,,,,,discontinued,,,
+2,6034244,SCREW AND WASHER Hex Head .312-18x3.50,,,,4,1,,,available,18.75,14.51,/parts/mopar-screw-hex-head~6034244.html
+3,4882801,MANIFOLD KIT A/C Compressor,,,,,,,,discontinued,,,/parts/mopar-manifold-a-c-compressor~4882801.html
+5,4897330AA,PULLEY HUB KIT A/C Compressor,,,,,,,,discontinued,,,/parts/mopar-pully-kit-a-c-compressor~4897330aa.html
+,5264452,CLUTCH OVERHAUL KIT A/C Compressor,,,,,,,,discontinued,,,
+,4882802,COIL Stator A/C Compressor Clutch,,,,,,,,available,36.67,28.82,/parts/mopar-coil-stator~4882802.html
+,4728854,SEAL Manifold To Compressor,,,,,,,,available,15.5,12.18,/parts/mopar-seal-manifold-to-compressor~4728854.html

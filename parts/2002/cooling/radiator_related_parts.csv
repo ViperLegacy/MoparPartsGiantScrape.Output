@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,32002366,CLAMP Hose 55mm Black,,,,2,1,55037660AA,,available,13.65,9.49,/parts/mopar-clamp-hose~32002366.html
+2,4763584,HOSE Radiator Outlet,,,,,,,,discontinued,,,
+3,4763585,HOSE Radiator Inlet,,,,,,,,available,81.95,66.66,/parts/mopar-hose-coolant-reserve-tank~4763585.html
+4,52006750,CLAMP Radiator,,,,2,1,55111033AA,,available,9.1,6.35,/parts/mopar-clamp-radiator~52006750.html
+6,4855123AB,RADIATOR Engine Cooling,,,,,,,,discontinued,,,
+8,6101444,NUT AND WASHER Hex M6x1.0,,,,4,1,34201358,,available,13.9,9.67,/parts/mopar-nut-a-c-suct-hose-clamp~6101444.html
+10,4854720AA,FAN MODULE Radiator Cooling,,,,,,,,discontinued,,,/parts/mopar-module-radiator-cooling~4854720aa.html
+11,4709352AC,SHROUD Fan,,,,,,,,discontinued,,,/parts/mopar-bracket-fan~4709352ac.html
+12,6101444,NUT AND WASHER Hex M6x1.0,,,,4,1,34201358,,available,13.9,9.67,/parts/mopar-nut-a-c-suct-hose-clamp~6101444.html
+13,53041078,THERMOSTAT 195 Degrees,,,,,,53041078AC,,discontinued,,,/parts/mopar-thrmostat~53041078.html
+16,55035944AB,NIPPLE Heater Inlet,,,,2,1,,,discontinued,,,/parts/mopar-nipple-heater-inlet~55035944ab.html
+17,4848199,RETAINER Radiator Closure,,,,2,1,,,discontinued,,,/parts/mopar-retainer-radiator-closure~4848199.html
+18,4763564,SHIM,,,,,,,,discontinued,,,/parts/mopar-shim~4763564.html
+19,4763565,SHIM,,,,,,,,discontinued,,,/parts/mopar-shim~4763565.html
+,4709357,BRACKET Bulkhead,Left,,,,,,,discontinued,,,/parts/mopar-bracket-bulkhead~4709357.html
+,4596198,CAP Radiator,,,,,,,,available,37.85,26.45,/parts/mopar-cap-radiator~4596198.html
+,4763839AC,GASKET Thermostat,,,,,,,,available,21.75,16.43,/parts/mopar-gasket-thermostat~4763839ac.html
+,4763779AE,HOUSING Thermostat,,,,,,,,discontinued,,,

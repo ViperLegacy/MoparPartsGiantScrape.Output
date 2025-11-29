@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865647AA,SHIELD Splash,,,,,,,Left Rear Lower,discontinued,,,
+3,4865649AA,SHIELD Splash,,,,,,,Left Rear Upper,discontinued,,,
+5,6507528AA,NUT Snap In M4.8x1.6,,,,28,1,,,available,1.6,0.79,/parts/mopar-nut-snap-in~6507528aa.html
+6,6035625,SCREW,,,,28,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html

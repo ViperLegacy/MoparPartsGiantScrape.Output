@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5264889AA,CANISTER Vapor,,,,,,,,discontinued,,,/parts/mopar-canister-vapor~5264889aa.html
+2,5264878AA,BRACKET Leak Detection Pump,,,,,,,,available,15.49,12.17,/parts/mopar-bracket-leak-detection-pump~5264878aa.html
+,6100575,BOLT AND CONED WASHER Hex Head M8x25x17,,,,2,1,,,available,8.65,6,/parts/mopar-screw-hex-head~6100575.html
+,6101801,SCREW Tapping Annular M8x1.25x15,,,,2,1,,,discontinued,,,/parts/mopar-screw-tapping-annular~6101801.html

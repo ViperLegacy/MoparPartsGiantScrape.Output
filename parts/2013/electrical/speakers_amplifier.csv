@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,68174053AA,BRACKET Speaker,,,,2,1,,,available,8.75,7.57,/parts/mopar-bracket-speaker~68174053aa.html
+2,6101736,NUT AND  WASHER Hex M6x1,,,,6,1,,,available,9.35,6.52,/parts/mopar-nut-hex~6101736.html
+3,5035290AA,"SPEAKER 3.5""",,,,2,,,,discontinued,,,
+4,6102398AA,NUT AND WASHER Hex M5x0.80,,,,3,1,,,available,11.3,7.86,/parts/mopar-nut-hex~6102398aa.html
+5,5091252AE,AMPLIFIER,,,,,,68224519AF,,available,1300,870.1,/parts/mopar-amplifier~5091252ae.html
+6,5035253AA,"SPEAKER 6""X9""",,,,2,1,5035253AB,[RC5],available,161,102.08,/parts/mopar-speaker~5035253aa.html
+6,5035253AA,"SPEAKER 6""X9""",,,,,,5035253AB,[RC9],available,161,102.08,/parts/mopar-speaker~5035253aa.html
+7,6102398AA,NUT AND WASHER Hex M5x0.80,,,,16,1,,,available,11.3,7.86,/parts/mopar-nut-hex~6102398aa.html
+8,6509822AA,NUT Spring,,,,2,1,,,available,5.5,3.73,/parts/mopar-nut-spring~6509822aa.html
+9,6505628AA,SCREW AND WASHER Tapping Hex Head M4.2x1.41x20,,,,2,1,,,available,11.3,7.86,/parts/mopar-screw-tapping-hex-head~6505628aa.html
+10,5035290AA,"SPEAKER 3.5""",,,,,,,,discontinued,,,
+11,6509674AA,BOLT Hex Flange Head M5X0.8X55.00,,,,3,1,,,available,2.25,1.51,/parts/mopar-screw-hex-flange-head~6509674aa.html
+12,5035254AA,SPEAKER Sub Woofer,,,,,,,,available,179,116.18,/parts/mopar-speaker-h-sub-woofer~5035254aa.html
+13,68043031AC,"SPEAKER 1""",,,,,,,,available,42.15,27.67,/parts/mopar-speaker-tweeter~68043031ac.html
+14,6102192AA,BOLT Hex Flange Head M4.2X1.70X16.00,,,,2,1,,,available,2.95,1.98,/parts/mopar-screw-hex-flange-head~6102192aa.html
+15,5035308AA,"SPEAKER 3.5""",,,,,,5035308AC,,available,125,77.83,/parts/mopar-speaker~5035308aa.html

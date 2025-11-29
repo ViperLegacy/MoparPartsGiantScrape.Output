@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865495AG,PANEL Dash,,,,,,,,discontinued,,,/parts/mopar-panel-dash~4865495ag.html
+2,5029188AA,BRACKET Dash,,,,,,,,available,46.15,40.79,/parts/mopar-bracket-dash~5029188aa.html
+3,6101326,BOLT AND CONED WASHER Hex Head M8X1.25X80.00,,,,4,1,,,available,3.4,2.27,/parts/mopar-bolt-hex-head~6101326.html
+5,35022111,SPACER Fender 1.0,,,,,,,,discontinued,,,/parts/mopar-shim-fender~35022111.html
+6,35022112,SPACER Fender 1.5,,,,,,,,discontinued,,,/parts/mopar-shim-fender~35022112.html
+7,6100583,SCREW AND WASHER Hex Head M8x1.25x25,,,,4,1,,,available,,14.51,/parts/mopar-screw-hex-head~6100583.html
+8,6101809,NUT AND WASHER Hex M8x1.25,,,,4,1,,,available,7.95,5.53,/parts/mopar-nut-hex~6101809.html
+12,6101799,BOLT AND WASHER Hex Head M8x1.25x20,,,,3,1,,,available,4.55,3.09,/parts/mopar-bolt-hex-head~6101799.html
+13,5029319AA,SHIELD Heat,Left,,,,,,,available,93.15,78.86,/parts/mopar-shield-heat~5029319aa.html
+14,6031694,SCREW AND WASHER Hex Head .164-18x1.0,,,,8,1,,,discontinued,,,/parts/mopar-screw-hex-head~6031694.html
+,5029235AA,SEAL,,,,2,1,5029235AB,,available,10.1,7.05,/parts/mopar-seal~5029235aa.html

@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4848811,TUBE Fuel Filler,,,29,,,,,discontinued,,,
+2,4763008AB,TUBE Fuel Filler Vent,,,27,,,4763008AC,,available,43.75,30.58,/parts/mopar-tube-fuel-filler-vent~4763008ab.html
+3,6502089,CLAMP HOSE CLAMP,,,,,,,,available,7.5,5.18,/parts/mopar-clamp-hose-clamp~6502089.html
+4,4848132,CAP Fuel Filler,,,,,,,Fuel Filler Tube,discontinued,,,/parts/mopar-cap-fuel-filler~4848132.html
+6,6502090,CLAMP Hose,,,,2,1,,,available,3.55,2.79,/parts/mopar-clamp-hose~6502090.html
+,4763476,SHIELD Fuel Filler Door,,,,,,,,available,8.75,7.57,/parts/mopar-shield-fuel-filler-door~4763476.html

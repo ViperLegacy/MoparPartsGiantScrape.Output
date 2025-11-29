@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5035305AA,COVER Power Distribution Center,,,,,,,,available,73.45,59.46,/parts/mopar-cover-power-distribution-center~5035305aa.html
+3,6102224AA,SCREW AND CONED WASHER Hex Head M5x0.80x20,,,,3,1,,,discontinued,,,/parts/mopar-screw-hex-head~6102224aa.html
+4,5035181AB,BRACKET Power Distribution Center,,,,,,,,available,41,19.34,/parts/mopar-bracket-power-distribution-center~5035181ab.html
+5,68209523AA,BREAKER Circuit,,,,,,,,discontinued,,,/parts/mopar-breaker-circuit~68209523aa.html
+6,68207358AA,RELAY Micro,,,,,,68053218AA,G8HE1C7TRDC12,available,30.95,21.61,/parts/mopar-relay-micro~68207358aa.html
+7,68209527AA,RELAY,,,,,,,,discontinued,,,/parts/mopar-relay~68209527aa.html
+8,6102075AA,FUSE CARTRIDGE 20 Amp,,,,,,6102075AB,,available,9.45,6.52,/parts/mopar-fuse~6102075aa.html
+9,68083434AA,FUSE CARTRIDGE 25 Amp,,,,,,68083434AB,,available,3.7,2.5,/parts/mopar-fuse~68083434aa.html
+10,4868007AA,FUSE CARTRIDGE 30 Amp,,,,,,4868007AB,,available,8.05,5.48,/parts/mopar-fuse~4868007aa.html
+11,4868008AA,FUSE CARTRIDGE 40 Amp,,,,,,4868008AB,,available,7.8,5.3,/parts/mopar-fuse~4868008aa.html
+12,ATM10,"FUSE Mini 10 AMP, Red",,,,,,,,available,3.7,2.5,/parts/mopar-fuse-mini~atm10.html
+13,ATM15,"FUSE Mini 15 AMP, Light Blue",,,,,,,,available,3.55,2.39,/parts/mopar-fuse-mini~atm15.html
+14,ATM20,"FUSE Mini 20 AMP, Yellow",,,,,,,,available,3.7,2.5,/parts/mopar-fuse-mini~atm20.html
+15,ATM25,"FUSE Mini 25 Amp, Natural",,,,,,,,available,3.7,2.5,/parts/mopar-fuse-mini~atm25.html
+,68209525AA,PULLER Fuse,,,,,,,,available,2.3,1.34,/parts/mopar-puller-fuse~68209525aa.html
+,68207353AA,SHUNT J Case Jumper,,,,,,,,discontinued,,,
+,68207643AA,STUD Bolt B +,,,,,,,,available,1.9,0.63,/parts/mopar-stud-bolt~68207643aa.html

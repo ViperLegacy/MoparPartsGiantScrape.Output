@@ -1,0 +1,25 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290117AE,ARM Upper Control Rear,,,,2,1,,,discontinued,,,/parts/mopar-arm-upper-control~5290117ae.html
+2,6502046,BOLT Suspension Upper Arm,,,,4,1,,,available,7.7,6.35,/parts/mopar-bolt-suspension-upper-arm~6502046.html
+3,6508274AA,NUT AND WASHER Hex M12x1.75,,,,4,1,,,available,8.2,5.71,/parts/mopar-nut-hex~6508274aa.html
+4,5181788AC,SHOCK ABSORBER Suspension,,,,2,1,5181790AD,[SDE],available,801,355.63,/parts/mopar-absorber-suspension~5181788ac.html
+4,68228269AA,SHOCK ABSORBER Suspension,,,,2,1,68228270AC,[SDV],available,2965,1947,/parts/mopar-absorber-suspension~68228269aa.html
+4,68228270AB,SPRING AND SHOCK ASSEMBLY Rear Suspension,,,,2,1,68228270AC,,available,2965,1947,/parts/mopar-shock-rear-suspension~68228270ab.html
+5,5181790AD,SPRING AND SHOCK ASSEMBLY Rear Suspension,,,,2,1,,,available,801,522.78,/parts/mopar-shock-rear-suspension~5181790ad.html
+5,5181967AA,SPRING Rear Coil,,,,2,1,5181673AF,,available,2880,1943.6,/parts/mopar-spring-rear-coil~5181967aa.html
+6,6102081AA,SCREW Hex Flange Head M14x2.00x140.00,,,,2,1,,,available,39.45,27.55,/parts/mopar-screw-hex-flange-head~6102081aa.html
+7,6502698,NUT Hex Flange Lock M14x2.00,,,,2,1,,,available,8.95,6.17,/parts/mopar-nut-hex-flange-lock~6502698.html
+8,6506919AA,BOLT Hex Flange Head M14x2.00x130.00,,,,2,1,6513389AA,,available,16.9,11.65,/parts/mopar-bolt-hex-flange-head~6506919aa.html
+9,6510186AA,SCREW AND WASHER Hex Head M11X1.50X86.00,,,,2,1,,,available,32.95,22.3,/parts/mopar-washer-hex-head~6510186aa.html
+10,5181795AB,DRAG LINK Steering,,,,2,1,,,available,275,220.5,/parts/mopar-draglink-steering~5181795ab.html
+11,6036525AA,BOLT Control Arm Cam,,,,4,1,,,available,73.45,59.46,/parts/mopar-bolt-control-arm-cam~6036525aa.html
+12,6036467AA,NUT Hex Lock .50-20,,,,4,1,,,discontinued,,,/parts/mopar-nut-hex-lock~6036467aa.html
+13,6036469AA,WASHER Control Arm,,,,4,1,,,available,12.05,10.14,/parts/mopar-washer-control-arm~6036469aa.html
+14,5290119AD,ARM Lower Control Rear,Left,,,,,,,available,895,731.5,/parts/mopar-arm-lower-control~5290119ad.html
+15,6035670,NUT Hex,,,,,,,,discontinued,,,/parts/mopar-nut-hex~6035670.html
+16,5290331AB,CAP,,,,2,1,,,available,,3.93,/parts/mopar-plug~5290331ab.html
+17,6508488AA,WASHER Flat 32MM,,,,2,1,,,available,11.8,8.1,/parts/mopar-washer-flat~6508488aa.html
+18,6508487AA,NUT Hex Flange Locking M11X1.50,,,,2,1,,,available,8.6,5.88,/parts/mopar-nut-hex-flange-locking~6508487aa.html
+19,120123,PIN Cotter,,,,,,,,available,8.1,5.65,/parts/mopar-pin-cotter~120123.html
+20,6502556,NUT Hex M10-1.5,,,,2,1,,[SDE] OR [SDY],available,11.3,7.86,/parts/mopar-nut-hex~6502556.html
+21,5181786AD,SHOCK ABSORBER Suspension,,,,2,1,5181673AF,,available,2880,1943.6,/parts/mopar-absorber-suspension~5181786ad.html

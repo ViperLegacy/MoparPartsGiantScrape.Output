@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5066185AA,SWITCH Multifunction,,,,,,,,available,150,111.84,/parts/mopar-switch-multifunction~5066185aa.html
+3,5019710AA,SWITCH Intermittent Wiper,,,,,,,,discontinued,,,/parts/mopar-switch-intermittent-wiper~5019710aa.html
+4,4685719AC,SWITCH Ignition,,,,,,4685719AI,,available,94.4,63.51,/parts/mopar-switch-ignition~4685719ac.html
+5,4671714AC,FLASHER,,,,,,,,available,83.05,57.84,/parts/mopar-flasher~4671714ac.html
+,4794302AA,FOAM Multifunction Switch,,,,2,1,,,available,11.15,5.76,/parts/mopar-foam-multifunction-switch~4794302aa.html

@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763952,BOOSTER Power Brake,,,,,,,,discontinued,,,
+3,4723391,VALVE Brake Booster Check,,,,,,,,available,49.05,34.08,/parts/mopar-valve-brake-booster-check~4723391.html
+4,6101445,NUT AND WASHER Hex Nut-Coned Washer M8 x 1.25,,,,2,1,6102440AA,,available,11.3,7.86,/parts/mopar-nut-hex~6101445.html
+5,4294158,BOOT Brake Booster Push Rod,,,,,,,,discontinued,,,/parts/mopar-boot-brake-booster-push-ro~4294158.html
+6,4723642,SEAL Brake Booster To Dash,,,,,,,,discontinued,,,/parts/mopar-gasket-brake-booster-to-dash~4723642.html
+7,4723395,GASKET Brake Master Cylinder,,,,,,,,discontinued,,,/parts/mopar-gasket-master-cylinder-to-booster~4723395.html
+8,6502524,NUT Hex Lock M8x1.25,,,,,,,,available,4.4,1.51,/parts/mopar-nut-hex-lock~6502524.html
+9,4848345,HOSE Vacuum Supply 11/32 rough stock,,,,,,,,discontinued,,,/parts/mopar-hose-vacuum-supply~4848345.html
+,4723640,GROMMET Brake Booster Check Valve,,,,,,4883813AA,,discontinued,,,/parts/mopar-bushing-brake-booster-check-valve~4723640.html

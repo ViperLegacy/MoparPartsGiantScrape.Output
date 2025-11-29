@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4709156,"PLENUM, Inlet, w/Seal, Blower Motor",,,27,,,,,discontinued,,,
+1,4763858,"PLENUM, Inlet, w/Seal, Blower Motor",,,29,,,,,discontinued,,,
+4,4848021,"MOTOR, w/Scroll, Blower",,,29,,,,,discontinued,,,/parts/mopar-wheel~4848021.html
+5,4874453,NUT,,,,,,,"RESISTER, Motor",discontinued,,,/parts/mopar-resistor-blower-motor~4874453.html

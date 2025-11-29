@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,QD06DX9AG,CARPET Front Floor,,,,,,,Right w/5-Point Restraint (Black),discontinued,,,
+1,QD06WUCAH,CARPET Front Floor,,,,,,,Right w/o 5-Point Restraint (Cognac),discontinued,,,
+1,QD07DX9AC,CARPET Front Floor,,,,,,,Left w/o 5-Point Restraint (Black),discontinued,,,
+1,QD07DX9AE,CARPET Front Floor,,,,,,,Left w/o 5-Point Restraint (Black),available,187.02,146.97,/parts/mopar-carpet-front-floor~qd07dx9ae.html
+1,QD07DX9AF,CARPET Front Floor,,,,,,,Left w/5-Point Restraint (Black),discontinued,,,
+1,QD07WUCAG,CARPET Front Floor,,,,,,,Left Cognac,discontinued,,,/parts/mopar-carpet-front-floor~qd07wucag.html
+2,LC11DX9AB,CARPET Cargo Side Trim,,,,,,,,discontinued,,,
+3,SZ28DX9AA,CARPET Luggage Compartment,,,,,,,Lower w/Radio and Competion Group,discontinued,,,/parts/mopar-carpet-luggage-compartment~sz28dx9aa.html
+5,LC07BX7AD,PANEL Cargo Door Header Trim,,,,,,,,discontinued,,,/parts/mopar-panel-cargo-door-header-trim~lc07bx7ad.html
+6,QK43BX7AB,PANEL Cargo Door Header Trim,Left,,,,,,,discontinued,,,/parts/mopar-panel-cargo-door-header-trim~qk43bx7ab.html
+7,6031869,NUT Push .19,,,,10,1,,,discontinued,,,/parts/mopar-grommet-push~6031869.html
+9,4709275,PAD Bulkhead Spacer,,,,2,1,,,discontinued,,,/parts/mopar-pad-bulkhead-spacer~4709275.html
+10,6505390AA,SCREW Oval Head,,,,4,1,,,discontinued,,,/parts/mopar-screw-oval-head~6505390aa.html
+11,6031869,NUT Push .19,,,,3,1,,,discontinued,,,/parts/mopar-grommet-push~6031869.html
+,6505392AA,WASHER Rubber Mount,,,,2,1,,,discontinued,,,/parts/mopar-washer-rubber-mount~6505392aa.html

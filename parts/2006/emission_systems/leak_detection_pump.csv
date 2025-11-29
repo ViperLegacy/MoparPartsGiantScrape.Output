@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4891543AA,PUMP Leak Detection,,,,,,4891543AB,,available,464,381.26,/parts/mopar-pump-leak-detection~4891543aa.html
+2,5085164AA,FILTER Leak Detection Pump,,,,,,,,available,10.4,7.22,/parts/mopar-filter-leak-detection-pump~5085164aa.html
+3,5290153AA,TUBE Leak Detection Pump Vacuum Supply,,,,,,,,discontinued,,,/parts/mopar-harness-leak-detection-pump-vacuum~5290153aa.html
+4,5290141AA,BRACKET Leak Detection Pump,,,,,,,,available,215,181.61,/parts/mopar-bracket-leak-detection-pump~5290141aa.html
+5,5290115AA,BOLT Leak Detection Pump Bracket Mtg.,,,,,,,,available,0.6,0.41,/parts/mopar-bolt-leak-detection-pump-bracket~5290115aa.html
+,4669177,GROMMET,,,,2,1,,,available,9.7,6.7,/parts/mopar-grommet~4669177.html

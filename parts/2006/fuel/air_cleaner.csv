@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037292AA,COVER Air Cleaner,,,,,,,,discontinued,,,/parts/mopar-cover-air-cleaner~5037292aa.html
+2,5066221AB,SCREW Air Cleaner Cover,,,,5,1,,,discontinued,,,/parts/mopar-screw-air-cleaner-cover~5066221ab.html
+4,5029171AB,SEAL Air Cleaner,,,,,,,,available,10.65,8.62,/parts/mopar-seal-air-cleaner~5029171ab.html
+5,5037331AA,CLAMP Air Cleaner Duct,,,,2,1,,,discontinued,,,/parts/mopar-clamp-air-cleaner-duct~5037331aa.html
+6,5037295AB,TUBE Clean Air,,,,,,,,discontinued,,,/parts/mopar-tube-clean-air~5037295ab.html
+7,5037297AB,DUCT Air Cleaner to Throttle Body,,,,,,,,discontinued,,,/parts/mopar-duct-air-cleaner-to-throttle-bod~5037297ab.html
+8,4606487AB,SENSOR Charge Air Temp,,,,,,,,available,99.05,66.66,/parts/mopar-sensor-charge-air-temp~4606487ab.html
+9,5037294AB,ELEMENT Air Cleaner,,,,2,1,,,available,107,87.59,/parts/mopar-element-air-cleaner~5037294ab.html
+10,5037293AA,BODY Air Cleaner,,,,,,,,discontinued,,,/parts/mopar-body-air-cleaner~5037293aa.html
+11,4708180,SCREW Splash Shield,,,,2,1,,,available,7.7,6.35,/parts/mopar-retainer-splash-shield~4708180.html
+,6502018,CLAMP Hose M28.9 x 1.60,,,,2,1,,,available,18.35,12.82,/parts/mopar-clamp-hose~6502018.html
+,5037342AB,HOSE Clean Air Tube to A.I.S. Motor,,,,,,,,discontinued,,,/parts/mopar-hose-clean-air-tube-to-a-i-s-mo~5037342ab.html
+,6503823,WINGNUT M6-1.00,,,,,,,,discontinued,,,/parts/mopar-nut-wing~6503823.html

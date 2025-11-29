@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037112AD,THROTTLE BODY,,,,,,,,discontinued,,,/parts/mopar-t-body~5037112ad.html
+3,4686360AC,SENSOR Throttle Position,,,,,,,,discontinued,,,/parts/mopar-sensor-throttle-position~4686360ac.html
+4,5245352AB,MOTOR KIT A.I.S.,,,,,,5245352AC,,available,143,95.09,/parts/mopar-motor-a-i-s~5245352ab.html
+5,5290098AE,HARNESS Engine to Purge Solenoid,,,,,,,,discontinued,,,/parts/mopar-harness-engine-to-purge-solenoid~5290098ae.html
+7,6035666,SCREW Hex Flange Head .25-20x1.00,,,,4,1,154777,,available,14.2,9.9,/parts/mopar-bolt~6035666.html
+8,5037285AE,BRACKET Accelerator Cable,,,,,,,,discontinued,,,/parts/mopar-bracket-accelerator-cable~5037285ae.html
+9,6508214AA,SCREW Pan Head M8,,,,2,1,6508056AA,,available,6.45,4.49,/parts/mopar-screw-pan-head~6508214aa.html
+,5037191AC,GASKET Throttle Body To Intake,,,,,,,,discontinued,,,/parts/mopar-gasket-throttle-body-to-intake~5037191ac.html

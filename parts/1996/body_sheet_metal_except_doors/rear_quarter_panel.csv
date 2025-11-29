@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4643259,"PANEL ASSEMBLY, Rear Quarter",,,,,,,"1992-93, (Up to 4-20-93), Left",discontinued,,,
+1,4709214,"PANEL ASSEMBLY, Rear Quarter",,,,,,,"(After 4-20-93), Right",discontinued,,,
+1,4709215,"PANEL ASSEMBLY, Rear Quarter",,,,,,,"(After 4-20-93), Left",discontinued,,,
+1,4763340,"PANEL ASSEMBLY, Rear Quarter",,,29,,,,Right (1996),discontinued,,,
+1,4763341,"PANEL ASSEMBLY, Rear Quarter",,,29,,,,Left (1996),discontinued,,,
+1,4848232,"PANEL ASSEMBLY, Rear Quarter",,,27,,,,Right (1996),discontinued,,,
+1,4848233,"PANEL ASSEMBLY, Rear Quarter",,,27,,,,Left (1996),discontinued,,,
+2,4643893,SHIM,,,,,,,,discontinued,,,/parts/mopar-shim-quarter-panel~4643893.html
+3,6034844,RIVET,,,,10,1,68258407AA,,available,5.7,3.96,/parts/mopar-rivet-blind~6034844.html
+4,6034645,RIVET,,,,,,,,available,12.7,8.8,/parts/mopar-retainer~6034645.html
+5,4848202,"SEAL, Quarter Panel Lower",,,,2,1,,,discontinued,,,/parts/mopar-seal-panel~4848202.html
+7,6034578,RIVET,,,,18,1,,,discontinued,,,/parts/mopar-retainer~6034578.html
+8,4708021,"LABEL, 'WARNING EXHAUST'",,,,2,1,,,discontinued,,,/parts/mopar-label-exhaust-warning~4708021.html
+9,6101455,"SCREW and WASHER, Quarter Panel Mounting, M6x1.00x20.00",,,,6,1,,,available,7.6,5.3,/parts/mopar-screw-hex-head~6101455.html

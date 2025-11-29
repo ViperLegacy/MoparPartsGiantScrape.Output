@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,WN73CVRAC,DECAL Viper,,,27,,,,Rear Fascia [KEG],discontinued,,,/parts/mopar-decal-viper~wn73cvrac.html
+1,WN73DAPAC,DECAL Viper,,,27,,,,Rear Fascia [KEK],discontinued,,,/parts/mopar-decal-viper~wn73dapac.html
+1,WN73SBBAC,DECAL Viper,,,,,,,Rear Fascia [KEB],available,66.95,56.5,/parts/mopar-d-viper~wn73sbbac.html
+1,WN73VADAC,DECAL Viper,,,27,,,,Rear Fascia [KEA],available,34.65,23.88,/parts/mopar-d-viper~wn73vadac.html
+1,WN73WRRAC,DECAL Viper,,,,,,,Rear Fascia [KER],available,72.3,58.22,/parts/mopar-d-viper~wn73wrrac.html
+1,WN73WYTAC,DECAL Viper,,,,,,,Rear Fascia [KEE],available,49.7,43.4,/parts/mopar-decal-viper~wn73wytac.html
+2,WN80CVRAC,DECAL Dodge,,,27,,,,Driver Side [KSG],discontinued,,,/parts/mopar-decal~wn80cvrac.html
+2,WN80DAPAC,DECAL Dodge,,,27,,,,Driver Side [KSK],discontinued,,,/parts/mopar-decal~wn80dapac.html
+2,WN80SBBAC,DECAL Dodge,,,,,,,Driver Side [KSB],discontinued,,,/parts/mopar-d~wn80sbbac.html
+2,WN80VADAC,DECAL Dodge,,,27,,,,Driver Side [KSA],discontinued,,,/parts/mopar-d~wn80vadac.html
+2,WN80WRRAC,DECAL Dodge,,,,,,,Driver Side [KSR],available,50.85,42.76,/parts/mopar-d~wn80wrrac.html
+2,WN80WYTAC,DECAL Dodge,,,,,,,Driver Side [KSE],available,37,26.99,/parts/mopar-decal~wn80wytac.html
+3,WN81PX3AC,DECAL Viper SRT-10,,,,2,1,,[KDX],discontinued,,,/parts/mopar-decal-viper~wn81px3ac.html
+3,WN81SBBAC,DECAL Viper SRT-10,,,27,2,1,,[KDB],discontinued,,,/parts/mopar-decal-viper~wn81sbbac.html
+3,WN81WRRAC,DECAL Viper SRT-10,,,,2,1,,[KDR],available,56.7,49.22,/parts/mopar-d-viper~wn81wrrac.html

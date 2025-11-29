@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+2,4643463,SHIM Hood Latch,,,,,,,,available,12.14,9.54,/parts/mopar-shim-hood-latch~4643463.html
+3,6035625,SCREW,,,,2,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+4,6504791,"SCREW TAPPING, BUTTON HEAD M6 X 1.00 X 18.00",,,,2,1,,,discontinued,,,/parts/mopar-screw-tapping-button-head~6504791.html
+5,4865797AB,PANEL Quarter,,,,,,,Left [P.A.R.],discontinued,,,/parts/mopar-panel-quarter~4865797ab.html
+6,4865906AB,HOUSING Fuel Filler,,,,,,,,discontinued,,,/parts/mopar-housing-fuel-filler~4865906ab.html
+7,6036491AA,NUT Spring U Type For .164-18 Screw,,,,4,1,,,discontinued,,,/parts/mopar-nut-spring-u-type~6036491aa.html
+10,6503698,SCREW AND WASHER Truss Head M6-1.00x30.00,,,,10,1,,,discontinued,,,/parts/mopar-screw-truss-head~6503698.html
+12,6506962AA,NUT U M6x1.00,,,,4,1,,,discontinued,,,/parts/mopar-nut-u~6506962aa.html
+13,6503698,SCREW AND WASHER Truss Head M6-1.00x30.00,,,,4,1,,,discontinued,,,/parts/mopar-screw-truss-head~6503698.html
+14,4865907AA,BRACKET Quarter Panel,,,,4,1,,,discontinued,,,/parts/mopar-bracket-quarter-panel~4865907aa.html
+15,6035625,SCREW,,,,4,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+17,5029325AA,INSULATION Foil Backed Seal,,,,2,1,,Quarter Panel To Exhaust,discontinued,,,/parts/mopar-isolator-foil-backed-seal~5029325aa.html
+19,6035625,SCREW,,,,4,1,,,available,18,12.52,/parts/mopar-screw-tapping~6035625.html
+20,5029238AA,BUMPER Fuel Door,,,,2,1,,,discontinued,,,/parts/mopar-bumper-rubber~5029238aa.html
+21,4865738AA,DOOR Fuel Fill,,,,,,,,discontinued,,,
+22,5029261AA,BRACKET Quarter Panel,Left,,,,,,,discontinued,,,/parts/mopar-bracket-quarter-panel~5029261aa.html
+26,5029405AA,SEAL Quarter Panel,Left,,,,,,,discontinued,,,/parts/mopar-seal-quarter-panel~5029405aa.html
+,4865768AA,BRACKET Quarter Inner,,,,2,1,,,discontinued,,,/parts/mopar-bracket-quarter-inner~4865768aa.html
+,5029175AB,SEAL Quarter Panel,,,,,,5029175AD,Left B-Pillar To Frame,available,22,17.42,/parts/mopar-seal-quarter-panel~5029175ab.html
+,5029212AA,SEAL Quarter Panel,,,,,,5029212AB,Right B-Pillar Upper,available,9,6,/parts/mopar-seal-quarter-panel~5029212aa.html
+,5029213AA,SEAL Quarter Panel,,,,,,,Left B-Pillar Upper,discontinued,,,/parts/mopar-seal-quarter-panel~5029213aa.html
+,5029488AA,SHIM Quarter Panel,,,,,,,2.5mm,available,3.35,2.33,/parts/mopar-shim-quarter-panel~5029488aa.html

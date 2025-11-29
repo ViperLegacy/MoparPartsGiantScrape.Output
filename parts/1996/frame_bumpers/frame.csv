@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4763546,"CROSSMEMBER, Shock Tower",,1996,,,,,,discontinued,,,/parts/mopar-c-member-frame-frt~4763546.html
+1,4773168,"CROSSMEMBER, Shock Tower",,,,,,,"CROSSMEMBER, Rear, K Type",discontinued,,,/parts/mopar-crossmember-rear-spring-k-type~4773168.html
+1-7,4855232,1992-95,,,,,,,"1996, w/o Rails",discontinued,,,
+2,6101051,"SCREW, Crossmember to Shock Tower",,,,5,,,,discontinued,,,
+3,4720019,"RAIL, Frame Rear, Right",,,,,,,"RAIL, Frame Rear, Left",discontinued,,,/parts/mopar-rail-assy-frame-rear~4720019.html
+4,4720021,"SILL, Side",,,,,,,"Left, 1992",discontinued,,,
+4,4797140,"SILL, Side",,,,,,,"Right, 1993-96",available,131.16,103.07,/parts/mopar-sill-sill~4797140.html
+4,4797141,"SILL, Side",,,,,,,"Left, 1993-96",discontinued,,,/parts/mopar-r-sill~4797141.html
+5,4708053,"FRAME, Front",,,,,,,"STRUT, Support to Upper Rail , Left (SHIM, Support to Upper Rail)",discontinued,,,/parts/mopar-reinfmnt-support-to-upper-rail~4708053.html
+5,4708129,"FRAME, Front",,,,,,,"Front (BRACKET, Towing EXPORT)",discontinued,,,/parts/mopar-bracket-towing~4708129.html
+5,4708184,"FRAME, Front",,,,,,,"BRACKET, Support, Fascia EXPORT, Right (BRACKET, Towing EXPORT)",discontinued,,,
+5,4708185,"FRAME, Front",,,,,,,"BRACKET, Support, Fascia EXPORT, Left (BRACKET, Towing EXPORT)",discontinued,,,
+5,4708188,"FRAME, Front",,,,,,,"Rear, Right (BRACKET, Towing EXPORT)",discontinued,,,/parts/mopar-bracket-towing~4708188.html
+5,4708189,"FRAME, Front",,,,,,,"Rear, Left (BRACKET, Towing EXPORT)",discontinued,,,
+5,4709331,"FRAME, Front",,,,,,,"RETAINER, Support EXPORT (SHIM, Support to Upper Rail)",discontinued,,,/parts/mopar-retainer-fascia~4709331.html
+5,4720047,"FRAME, Front",,1992-1993,,,,,,discontinued,,,
+5,4763564,"FRAME, Front",,,,,,,"Thin (SHIM, Support to Upper Rail)",discontinued,,,/parts/mopar-shim~4763564.html
+5,4763565,"FRAME, Front",,,,,,,"Thick (SHIM, Support to Upper Rail)",discontinued,,,/parts/mopar-shim~4763565.html
+5,4798313,"FRAME, Front",,1994-95,,,,,,discontinued,,,
+5,4848653,"FRAME, Front",,,29,2,1,,"BRACKET, Sportbar Support (BRACKET, Towing EXPORT)",discontinued,,,/parts/mopar-bracket-sportbar~4848653.html
+5,4848656,"FRAME, Front",,,29,2,1,,"PLATE, Sportbar Support Bracket Stud (SHIM, Support to Upper Rail)",available,7.93,6.24,/parts/mopar-plate-sport-bar-support-bracket~4848656.html
+5,4886314AA,"FRAME, Front",,1996,,,,,,discontinued,,,
+6,4796078,"RAIL, Front Crossmember",,1994-96,,,,,,available,280.21,220.2,/parts/mopar-front-crossmember-rail~4796078.html
+7,4797851,"CROSSMEMBER, Rear",,,,,,,,available,136.61,107.35,/parts/mopar-frame-rear-xmbr-asm~4797851.html
+8,4763524AB,"CROSSMEMBER, Differential Pinion Mtg.",,,,,,,,discontinued,,,/parts/mopar-c-member-differential~4763524ab.html
+10,6502528,NUT,,,,2,,,,discontinued,,,

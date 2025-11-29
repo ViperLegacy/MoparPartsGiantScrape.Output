@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,L003157K,BULB 3157K,,,,,,68604812AA,,available,15.2,10.6,/parts/mopar-bulb~l003157k.html
+2,L0009145,BULB Fog Lamp 50 Watt,,,,2,1,,,available,36.5,24.8,/parts/mopar-bulb~l0009145.html
+3,L004157NAK,BULB 4157 NAK,,,,,,68604854AA,,available,7.55,5.07,/parts/mopar-bulb~l004157nak.html
+4,153624,BULB W3W,,,,,,,,available,9.95,6.93,/parts/mopar-bulb~153624.html
+5,4865941AA,BULB Headlamp,,,,,,4865941AC,,available,428,283.21,/parts/mopar-bulb-headlamp~4865941aa.html
+6,L09005XSLL,BULB Headlamp,,,,,,,,available,45.15,31.34,/parts/mopar-bulb-headlamp~l09005xsll.html
+7,L0000168,BULB 168,,,,2,1,,,available,10.5,7.34,/parts/mopar-bulb~l0000168.html
+8,L0000194,BULB 194,,,,,,,,available,9.35,6.52,/parts/mopar-bulb~l0000194.html
+9,L003057K,BULB 3057K,,,,,,68604811AA,,available,7.2,4.83,/parts/mopar-bulb~l003057k.html
+10,L0003457ST,BULB 3457AK,,,,,,,Sylvania Lighting,discontinued,,,/parts/mopar-bulb~l0003457st.html

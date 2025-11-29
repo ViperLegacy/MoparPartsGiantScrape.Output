@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037869AB,HOSE PCV,,,,,,5037869AC,,available,12.25,9.44,/parts/mopar-hose-pcv~5037869ab.html
+2,5038299AA,VALVE PCV,,,,,,,,discontinued,,,/parts/mopar-valve-pcv~5038299aa.html
+3,4387304,NIPPLE Crankcase Vent,,,,,,,,discontinued,,,/parts/mopar-connector-crankcase-vent~4387304.html
+4,5037866AB,HARNESS CCV To Air Cleaner,,,,,,,,available,18.45,13.86,/parts/mopar-harness-ccv-to-air-cleaner~5037866ab.html

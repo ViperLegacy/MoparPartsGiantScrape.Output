@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5037306AC,HARNESS PCV,,,,,,5037306AD,,discontinued,,,/parts/mopar-harness-pcv~5037306ac.html
+2,5037308AC,HARNESS CCV To Air Cleaner,,,,,,5037308AD,,available,22.45,15.67,/parts/mopar-harness-ccv-to-air-cleaner~5037308ac.html
+3,2946079,GROMMET Crankcase Vent,,,,,,,,available,12.15,8.33,/parts/mopar-grommet-crankcase-vent~2946079.html
+,6033369,CLAMP Hose,,,,3,1,,,available,2.1,1.46,/parts/mopar-clamp-hose~6033369.html
+,5037336AA,FILTER Crankcase Vent,,,,,,,,discontinued,,,/parts/mopar-filter-crankcase-vent~5037336aa.html

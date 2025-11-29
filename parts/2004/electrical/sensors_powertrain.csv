@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4686360AC,SENSOR Throttle Position,,,,,,,,discontinued,,,/parts/mopar-sensor-throttle-position~4686360ac.html
+2,4727451AA,SENSOR Crankshaft,,,,,,,,unavailable,81.35,56.85,/parts/mopar-sensor-crankshaft-position~4727451aa.html
+3,5245084,SENSOR Camshaft,,,,,,,,discontinued,,,/parts/mopar-sensor-camshaft~5245084.html
+4,4686684AA,SENSOR MAP,,,,,,4686684AB,,available,184,124.08,/parts/mopar-sensor-map~4686684aa.html
+5,56041699AA,SENSOR Oxygen,,,,2,1,,,available,219,146.25,/parts/mopar-sensor-oxygen~56041699aa.html
+6,56041706AA,SENSOR Oxygen,,,,2,1,,,available,231,153,/parts/mopar-sensor-oxygen~56041706aa.html
+7,6016152,CLIP,,,,2,1,,,discontinued,,,/parts/mopar-retainer~6016152.html
+9,4848214,SENSOR Vehicle Speed,,,,,,,,discontinued,,,/parts/mopar-sensor-vehicle-speed~4848214.html
+10,4606487AB,SENSOR Charge Air Temp,,,,,,,,available,99.05,66.66,/parts/mopar-sensor-charge-air-temp~4606487ab.html
+,5073039AA,STRAP Tie,,,,2,1,4641780,,available,0.45,0.29,/parts/mopar-tiestrap-tie~5073039aa.html

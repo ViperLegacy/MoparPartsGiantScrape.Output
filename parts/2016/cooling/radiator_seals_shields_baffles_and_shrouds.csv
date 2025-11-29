@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290670AB,SEAL Radiator Upper,,,,,,,,available,54,47.74,/parts/mopar-seal-radiator-upper~5290670ab.html
+2,5290671AA,SEAL Radiator Side Air,,,,2,1,,,available,15.25,12.64,/parts/mopar-seal-radiator-side-air~5290671aa.html
+3,68202600AA,PUSH PIN,,,,,,,,available,4.85,3.96,/parts/mopar-push-pin~68202600aa.html
+4,68145383AB,BAFFLE Air,,,,,,,,available,147,98.61,/parts/mopar-baffle-air~68145383ab.html
+5,6508904AA,PIN Push M6.3x20.40,,,,4,1,,,available,8.1,5.65,/parts/mopar-pin-push~6508904aa.html

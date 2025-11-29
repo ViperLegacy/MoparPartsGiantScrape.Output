@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4671789AC,CLOCKSPRING,,,,,,,,discontinued,,,/parts/mopar-clkspring~4671789ac.html
+2,4685719AC,SWITCH Ignition,,,,,,4685719AI,,available,94.4,63.51,/parts/mopar-switch-ignition~4685719ac.html
+4,5066185AA,SWITCH Multifunction,,,,,,,,available,150,111.84,/parts/mopar-switch-multifunction~5066185aa.html
+9,5019710AA,SWITCH Intermittent Wiper,,,,,,,,discontinued,,,/parts/mopar-switch-intermittent-wiper~5019710aa.html
+10,4865875AA,SWITCH Passenger Airbag Disarm,,,,,,,,discontinued,,,/parts/mopar-switch-passenger-airbag-disarm~4865875aa.html
+12,5083344AA,SWITCH PACKAGE Stop Lamp,,,,,,5083344AB,,available,39,29.99,/parts/mopar-sw-pkg-stop-lamp~5083344aa.html
+14,53007944AB,SWITCH Clutch Starter Interlock,,,,,,,,available,170,114.75,/parts/mopar-switch-clutch-starter-interlock~53007944ab.html
+,5029206AB,BRACKET Stop Lamp Switch,,,,,,,,discontinued,,,/parts/mopar-bracket-stop-lamp-switch~5029206ab.html
+,4671714AA,FLASHER,,,,,,4671714AC,,available,83.05,57.84,/parts/mopar-flasher~4671714aa.html
+,4794302AA,FOAM Multifunction Switch,,,,,,,,available,11.15,5.76,/parts/mopar-foam-multifunction-switch~4794302aa.html
+,6503395,SCREW AND WASHER Self Tapping M4x.7x14,,,,2,1,,,available,2.2,1.51,/parts/mopar-screw-self-tapping~6503395.html
+,6036075AA,SCREW Pan Head,,,,,,,,available,3.1,2.16,/parts/mopar-screw-pan-head~6036075aa.html
+,6035021,SCREW Pan Head Tapping .125-40x.437,,,,,,,,available,3.3,2.27,/parts/mopar-screw-pan-head-tapping~6035021.html
+,6032452,SCREW Self Piercing .164-15x.625,,,,3,1,,,discontinued,,,/parts/mopar-screw-self-piercing~6032452.html
+,4565022,SWITCH AND LAMP Glove Box,,,,,,,,available,33.8,23.42,/parts/mopar-switch-glove-box~4565022.html
+,56042387,SWITCH Console,,,,,,,,available,26.95,18.64,/parts/mopar-switch-adjustable-pedals~56042387.html
+,4685729AB,SWITCH Remote Radio,Left,,,,,,,available,64.8,45.14,/parts/mopar-switch-radio-control~4685729ab.html

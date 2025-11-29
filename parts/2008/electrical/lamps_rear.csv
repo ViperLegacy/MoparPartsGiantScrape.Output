@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,4865486AH,LAMP Tail Stop Turn,Right,,27,,,4865486AJ,,available,406,324.47,/parts/mopar-lamp-tail-stop-turn~4865486ah.html
+1,4865487AH,LAMP Tail Stop Turn,Left,,27,,,4865487AJ,,available,406,328.25,/parts/mopar-lamp-tail-stop-turn~4865487ah.html
+1,4865488AF,LAMP Tail Stop Turn,,,27,,,,Right Export,available,213,168.75,/parts/mopar-lamp-back-up-and-turn-signal~4865488af.html
+1,4865489AF,LAMP Tail Stop Turn,,,27,,,,Left Export,available,213,168.75,/parts/mopar-lamp-back-up-and-turn-signal~4865489af.html
+1,5030320AB,LAMP Tail Stop Turn,Right,,29,,,,,available,335,275.23,/parts/mopar-lamp-tail-stop-turn~5030320ab.html
+2,4865489AF,LAMP Back-Up and Turn Signal,Left,,,,,,,available,213,168.75,/parts/mopar-lamp-back-up-and-turn-signal~4865489af.html
+5,5030506AA,WIRING Taillamp,,,27,,,,,available,66.95,56.5,/parts/mopar-wiring-taillamp~5030506aa.html
+7,4642929AB,LAMP License Plate,,,,2,1,,,discontinued,,,/parts/mopar-lamp-license-plate~4642929ab.html
+11,4865655AE,LAMP High Mounted Stop,,,,,,,,discontinued,,,/parts/mopar-lamp-high-mounted-stop~4865655ae.html
+,5030220AA,LAMP Rear Fog,,,,2,1,,,discontinued,,,/parts/mopar-lamp-rear-fog~5030220aa.html
+,5030323AA,LAMP Side Marker,Left,,,,,,,available,41.05,33.96,/parts/mopar-lamp-side-marker~5030323aa.html
+,6101447,NUT AND WASHER M6x1.00,,,,4,1,,,available,8.55,5.94,/parts/mopar-nut~6101447.html
+,6034537,NUT U Type .190-16,,,27,12,1,,,available,7.55,5.24,/parts/mopar-nut-u-type~6034537.html
+,6502589,NUT Wing M6,,,,6,1,,,discontinued,,,/parts/mopar-nut-wing~6502589.html
+,5030317AB,PANEL Taillamp Mounting,Left,,,,,,,available,71.25,57.71,/parts/mopar-panel-taillamp-mounting~5030317ab.html
+,4399599,SEAL Socket,,,,,,,,available,4.05,1.4,/parts/mopar-seal-socket~4399599.html
+,4523097,SOCKET Turn Signal Lamp,,,,,,,,available,11.25,7.81,/parts/mopar-socket-turn-signal-lamp~4523097.html
+,5030242AA,SPACER Tail Lamp,,,,2,1,,,available,1.35,0.93,/parts/mopar-spacer-tail-lamp~5030242aa.html
+,5003368AA,VENT,,,,2,1,,,available,3.75,1.4,/parts/mopar-tube~5003368aa.html
+,4073371,"WASHER Flat, Round ID.220, OD.75, THK.10",,,27,2,1,,,available,0.85,0.58,/parts/mopar-washer-flat-round~4073371.html
+,5030501AB,WIRING High Mounted Stop Lamp,,,,,,,,available,72.6,50.74,/parts/mopar-wiring-high-mounted-stop-lamp~5030501ab.html

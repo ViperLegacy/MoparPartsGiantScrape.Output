@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
+1,5290211AD,PIPE Exhaust,,,,,,,,available,271.04,212.99,/parts/mopar-pipe-exhaust~5290211ad.html
+2,5290211AD,PIPE Exhaust,,,,,,,,available,271.04,212.99,/parts/mopar-pipe-exhaust~5290211ad.html
+3,5290179AG,SPOUT Exhaust,Left,,,,,,,available,558,328.52,/parts/mopar-spout-exhaust~5290179ag.html
+4,4763667AD,ISOLATOR Exhaust,,,,2,1,,,available,47.55,40.25,/parts/mopar-isolator-exhaust-support~4763667ad.html
+6,5290154AB,SUPPORT Exhaust Isolator,,,,4,1,,,available,7.7,6.35,/parts/mopar-support-exhaust-isolator~5290154ab.html
+7,5290387AC,RESONATOR Exhaust,,,,2,1,,,available,625,266.43,/parts/mopar-resonator-exhaust~5290387ac.html
+8,4848935AA,CLAMP Exhaust,,,,2,1,,,available,34,23.77,/parts/mopar-clamp-exhaust~4848935aa.html
+9,5290265AA,ISOLATOR Exhaust,,,,2,1,,,available,46.45,38.97,/parts/mopar-isolator-exhaust-support~5290265aa.html
+11,5264999AD,CONVERTER Catalytic,,,,,,68269195AA,,available,3425,2309.4,/parts/mopar-converter-catalytic~5264999ad.html
+12,5290111AB,CLAMP Exhaust Manifold,,,,2,1,,,available,56.15,37.69,/parts/mopar-clamp-exhaust-manifold~5290111ab.html
+13,56041706AA,SENSOR Oxygen,,,,2,1,,,available,231,153,/parts/mopar-sensor-oxygen~56041706aa.html
+14,5264998AE,CONVERTER Catalytic,,,,,,68269194AA,,available,4345,2930.9,/parts/mopar-converter-catalytic~5264998ae.html
+,5037245AC,SHIELD Exhaust Manifold,,,,2,1,,,available,329,150.11,/parts/mopar-shield-heat~5037245ac.html
