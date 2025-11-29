@@ -1,0 +1,21 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4642589,"BOLT, Side Post Battery",,,,,,,discontinued,,,/parts/mopar-bolt-hex-head~4642589.html
+2,4642591,"COVER, Battery Side Post, Negative",,,,,,,discontinued,,,/parts/mopar-cover-battery-terminal~4642591.html
+3,4642924,"COVER, Battery Side Post, Positive",,,,,,,discontinued,,,/parts/mopar-cover-battery-terminal~4642924.html
+4,4490878,"RETAINER, Battery Tray",,,,,,,discontinued,,,/parts/mopar-retainer-battery-hold-down~4490878.html
+4,4709105,"RETAINER, Battery Tray",,,,,,,discontinued,,,
+4,4763635,"RETAINER, Battery Tray",,1995-96,,,,,discontinued,,,
+5,6500584,"SCREW, w/Washer",,,,,,,available,10.35,7.16,/parts/mopar-bolt-hex-head~6500584.html
+6,4708262,"WIRING, Uni-Body",,,,,,,discontinued,,,/parts/mopar-wiring-unibody-wrg-assy~4708262.html
+7,4642610,"WIRING, Battery Negative",,,,,,,discontinued,,,/parts/mopar-wiring-battery-negative~4642610.html
+8,4642603,"WIRING, Battery Positive",,,,,,,discontinued,,,/parts/mopar-wiring-battery-positive~4642603.html
+8,4763057,"WIRING, Battery Positive",,,29,,,,discontinued,,,/parts/mopar-cable-bat-battery-positive~4763057.html
+9,VU01205,"COVER, Battery",,,,,,,available,86.6,58.28,/parts/mopar-terminal-battery-terminal~vu01205.html
+9,VU01207,"COVER, Battery",,,,,,,discontinued,,,/parts/mopar-terminal-battery-terminal~vu01207.html
+9,4643653,"COVER, Battery",,,,,,,discontinued,,,/parts/mopar-cover~4643653.html
+11,VU01205,"TRAY, Battery",,,,,,,available,86.6,58.28,/parts/mopar-terminal-battery-terminal~vu01205.html
+11,VU01207,"TRAY, Battery",,,,,,,discontinued,,,/parts/mopar-terminal-battery-terminal~vu01207.html
+11,4643305,"TRAY, Battery",,1993-95,,,,,discontinued,,,/parts/mopar-tray-battery~4643305.html
+11,4798272,"TRAY, Battery",,,,,,,discontinued,,,
+11,BA078730EX,"TRAY, Battery",,,,,,,discontinued,,,
+,6101308,CLIP,,,,,,,available,6.2,4.19,/parts/mopar-nut-u~6101308.html

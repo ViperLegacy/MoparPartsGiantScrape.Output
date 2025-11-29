@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,53009508,"PULLEY, Idler",,,,,,,available,28.25,19.75,/parts/mopar-pulley-idler~53009508.html
+2,33002201,"SCREW, Idler Attaching",,,,,,,discontinued,,,/parts/mopar-bushing-idler-pulley~33002201.html
+2,34202884,"SCREW, Idler Attaching",,,,,,,available,11.27,8.86,/parts/mopar-washer-flat~34202884.html
+2,6034519,"SCREW, Idler Attaching",,,,,,,discontinued,,,/parts/mopar-sc-wa-hex-hdr-pt~6034519.html
+3,4626444,"TENSIONER, Belt",,,,,,,discontinued,,,/parts/mopar-belt-belt~4626444.html
+4,6502135,"NUT, Tensioner Att.",,,,,,,available,11.3,7.86,/parts/mopar-nut-hex-flange~6502135.html
+5,53005607,"PULLEY, Water Pump",,,,,,,discontinued,,,
+6,6034530,SCREW,,,,4,1,,available,5.33,4.19,/parts/mopar-screw-hex-head~6034530.html
+7,4763863,"BELT, Drive",,,29,,,,discontinued,,,
+7,4763934,"BELT, Drive",,,29,,,,discontinued,,,/parts/mopar-label-belt-routing~4763934.html
+7,5245316,"BELT, Drive",,,,,,,discontinued,,,
+7,5245620,"BELT, Drive",,,27,,,,discontinued,,,/parts/mopar-label-belt-routing-ac-non-a-c~5245620.html
+7,53010282,"BELT, Drive",,,,,,,discontinued,,,
+7,Q4070732,"BELT, Drive",,,,,,,discontinued,,,
+7,Q4070775,"BELT, Drive",,,,,,,discontinued,,,/parts/mopar-belt-accessory-drive~q4070775.html
+7,53006496,"PULLEY, Drive",,,,,,,discontinued,,,
+8,6034530,SCREW,,,,6,1,,available,5.33,4.19,/parts/mopar-screw-hex-head~6034530.html

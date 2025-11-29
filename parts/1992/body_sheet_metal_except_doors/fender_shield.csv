@@ -1,0 +1,32 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4642756,"SPLASH SHIELD, Inner Front",,,,,,,discontinued,,,
+1,4642757,"SPLASH SHIELD, Inner Front",,,,,,,available,297.63,233.89,/parts/mopar-shield-shield-inner-front~4642757.html
+1,4709363,"SPLASH SHIELD, Inner Front",,,,,,,available,163.62,128.58,/parts/mopar-splash-sh-shield-inner-frt-rt~4709363.html
+1,4763824,"SPLASH SHIELD, Inner Front",,,,,,,discontinued,,,
+1,4763825,"SPLASH SHIELD, Inner Front",,,,,,,discontinued,,,
+2,4708180,SCREW,,,,12,1,,available,7.7,6.35,/parts/mopar-retainer-splash-shield~4708180.html
+3,4643504,"SPLASH SHIELD, Front Extension , Right",,,,,,,discontinued,,,
+3,4643505,"SPLASH SHIELD, Front Extension , Right",,,,,,,discontinued,,,
+4,4708084,"WEATHERSTRIP ASSEMBLY, Front Splash to Shield",,,,,,,discontinued,,,
+4,4709030,"WEATHERSTRIP ASSEMBLY, Front Splash to Shield",,1993-96,,,,,discontinued,,,
+6,4643200,"SPLASH SHIELD, Rear Upper",,,,,,,discontinued,,,/parts/mopar-shield-splash-rear-upper-rt~4643200.html
+6,4643201,"SPLASH SHIELD, Rear Upper",,,,,,,discontinued,,,/parts/mopar-shield-splash-rear-upper-lt~4643201.html
+6,4763348,"SPLASH SHIELD, Rear Upper",,,,,,,discontinued,,,
+6,4763349,"SPLASH SHIELD, Rear Upper",,,,,,,discontinued,,,
+7,4709037,"SPLASH SHIELD, Rear Lower",,,27,,,,discontinued,,,/parts/mopar-shield-splash~4709037.html
+7,4642760,"SPLASH SHIELD, Rear Lower",,,,,,,discontinued,,,/parts/mopar-shield-splash-rr-lwr-rt~4642760.html
+7,4642761,"SPLASH SHIELD, Rear Lower",,,,,,,discontinued,,,
+7,4763092,"SPLASH SHIELD, Rear Lower",,,27,,,,discontinued,,,/parts/mopar-shield-splash~4763092.html
+7,4763093,"SPLASH SHIELD, Rear Lower",,,29,,,,discontinued,,,
+9,181063,"SCREW and WASHER, (.250-20x.750)",,,,8,1,,discontinued,,,/parts/mopar-screw~181063.html
+11,4709356,"BRACKET, Bulkhead To Frame",Right,,,,,,discontinued,,,/parts/mopar-bracket-bulkhead~4709356.html
+11,4709357,"BRACKET, Bulkhead To Frame",Left,,,,,,discontinued,,,/parts/mopar-bracket-bulkhead~4709357.html
+12,4708085,"WEATHERSTRIP ASSEMBLY, Front Splash to Hood Extension",,,,,,,discontinued,,,
+12,4709031,"WEATHERSTRIP ASSEMBLY, Front Splash to Hood Extension",,1993-96,,,,,discontinued,,,
+13,6034578,RIVET,,,,2,1,,discontinued,,,/parts/mopar-retainer~6034578.html
+14,55254651,"DEADENER, Attached to Trunk Pan and Frame",,,,2,,,discontinued,,,
+15,4708057,"PLUG, 3"" Round",,,,2,1,,available,47.85,33.38,/parts/mopar-plug-trunk-seal~4708057.html
+17,6035135,"SCREW, .250-14x.875",,,,4,1,,discontinued,,,/parts/mopar-screw~6035135.html
+,4708235,"FLAP, Splash Shield, Front",,,,,,,available,,,/parts/mopar-shield-wheelhouse~4708235.html
+,6500911,"RIVET, Flap to Front Splash Shield",,,,5,1,,available,12.8,8.85,/parts/mopar-rivet~6500911.html
+,6100877,"WASHER, M6x24.00Dia.",,,,3,1,,discontinued,,,/parts/mopar-washer-flat~6100877.html

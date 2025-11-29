@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4642153,"PUMP, w/Pulley, Reservoir and Cap",,,,,,,available,726.76,571.12,/parts/mopar-pump-power-steering~4642153.html
+1,04883077,"PUMP, w/Pulley, Reservoir and Cap",,,,,,,discontinued,,,
+1,4643341,"PUMP, w/Pulley, Reservoir and Cap",,1992-95,,,,,discontinued,,,
+2,5245300,"BRACKET, Pump Mounting",,1992-95,,,,,discontinued,,,
+2,5245799,"BRACKET, Pump Mounting",,,,,,,discontinued,,,/parts/mopar-bracket-power-steering-pump~5245799.html
+3,6034514,"SCREW, w/Washer Pump To Bracket",,,,3,,,discontinued,,,
+4,6034519,"SCREW, w/Washer Bracket To Engine",,,,3,1,,discontinued,,,/parts/mopar-sc-wa-hex-hdr-pt~6034519.html
+5,4796473,"CAP, Reservoir",,,,,,,discontinued,,,/parts/mopar-cap-power-steering-reservoir~4796473.html
+6,4642602,"HOSE, Power Steering High Pressure",,1992-95,,,,,discontinued,,,
+6,4848104,"HOSE, Power Steering High Pressure",,,,,,,available,,,/parts/mopar-line-p-s-pressure~4848104.html
+7,4642601,"HOSE, Power Steering Return",,,,,,,discontinued,,,/parts/mopar-line-power-steering-return~4642601.html
+8,2448770,"CLAMP, Return Hose",,,,2,1,53041045,available,14.1,9.73,/parts/mopar-clamp-hose~2448770.html
+9,53011017,"PULLEY, Power Steering Pump",,,,,,,discontinued,,,/parts/mopar-pulley-power-steering-pump~53011017.html
+9,53008619,"PULLEY, Power Steering Pump",,1992-95,,,,,discontinued,,,/parts/mopar-pulley-p-steering-pump~53008619.html
+,4848417,COOLER,,,27,,,,discontinued,,,/parts/mopar-cooler-power-steering~4848417.html
+,4848617,COOLER,,,29,,,,discontinued,,,/parts/mopar-cooler-power-steering~4848617.html
+,83503495,"RESERVOIR PACKAGE, w/Clips and O-Rings",,,,,,,discontinued,,,/parts/mopar-reservoir-power-steering-pump~83503495.html

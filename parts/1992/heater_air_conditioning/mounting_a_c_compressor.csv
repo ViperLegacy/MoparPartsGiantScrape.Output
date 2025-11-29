@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,5245306,"BRACKET, Compressor Mtg.",,,,,,,discontinued,,,
+2,6034246,"SCREW, Compressor Mtg.",,,,,,,available,12.7,8.8,/parts/mopar-screw-hex-head~6034246.html
+2,6034244,"SCREW, Compressor Mtg.",,,,3,1,,available,18.75,14.51,/parts/mopar-screw-hex-head~6034244.html
+2,6034497,"SCREW, Compressor Mtg.",,,,,,,discontinued,,,/parts/mopar-bolt-hex-head~6034497.html
+2,6034517,"SCREW, Compressor Mtg.",,,,2,1,,discontinued,,,/parts/mopar-sc-wa-hex-hdr-pt~6034517.html

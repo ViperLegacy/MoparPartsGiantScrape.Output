@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4642306,"SHAFT, Rear Axle",,1992-94,,2,,,discontinued,,,
+1,4763673,"SHAFT, Rear Axle",,,,2,,,discontinued,,,
+1,4763676,"SHAFT, Rear Axle",,,,2,,,discontinued,,,
+2,4428723,"CLAMP, Axle Shaft To Differential",,,,4,1,,available,14.1,9.67,/parts/mopar-clamp-u-joint~4428723.html
+3,6502581,"SCREW, Axle Shaft Clamp",,,,8,1,,available,12.1,8.39,/parts/mopar-screw-hex-flange-head~6502581.html
+4,4723672,"U-JOINT PACKAGE, Inner",,,,2,,,discontinued,,,
+5,4723675,BOLT AND STRAP PACKAGE,,,,,,,discontinued,,,

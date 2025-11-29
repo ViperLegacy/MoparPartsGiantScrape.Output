@@ -1,0 +1,41 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4626498,"RAIL, Top Shift",,,,,,,discontinued,,,/parts/mopar-rail-top~4626498.html
+2,4626499,"FORK, 3rd - 4th Shift",,,,,,,discontinued,,,
+3,4626502,"PAD, 3rd - 4th Shift Fork",,,,2,1,,available,6.45,4.37,/parts/mopar-pad-shift-fork~4626502.html
+4,4626505,"FORK, 1st - 2nd Shift",,,,,,,discontinued,,,/parts/mopar-fork-first-and-second~4626505.html
+5,4626502,"PAD, 1st - 2nd Shift Fork",,,,2,1,,available,6.45,4.37,/parts/mopar-pad-shift-fork~4626502.html
+6,4626492,"RAIL, Shift",,,,,,,discontinued,,,
+7,4626553,"FORK, Reverse",,,,,,,discontinued,,,/parts/mopar-fork-transmission~4626553.html
+8,4626496,"PAD, Reverse Fork",,,,2,1,,available,7.8,5.3,/parts/mopar-fork-shift-fork~4626496.html
+9,4626540,"FORK, 5th and 6th Shift",,,,,,,discontinued,,,/parts/mopar-fork-5th-and-6th-shift~4626540.html
+10,4626493,"Pad, 5th and 6th Shift Fork",,,,,,,available,3.95,2.68,/parts/mopar-pin-roll~4626493.html
+10,4626494,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626495,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626496,"Pad, 5th and 6th Shift Fork",,,,2,1,,available,7.8,5.3,/parts/mopar-fork-shift-fork~4626496.html
+10,4626497,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626503,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,/parts/mopar-link-shift~4626503.html
+10,4626506,"Pad, 5th and 6th Shift Fork",,,,,,,available,94.7,63.73,/parts/mopar-housing-gearshift-selector~4626506.html
+10,4626507,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,/parts/mopar-plate-interlock~4626507.html
+10,4626508,"Pad, 5th and 6th Shift Fork",,,,2,1,,available,4.55,3.58,/parts/mopar-fork-shift-lever-guide~4626508.html
+10,4626512,"Pad, 5th and 6th Shift Fork",,,,,,,available,6.2,4.19,/parts/mopar-bushing-shift-rail~4626512.html
+10,4626521,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,/parts/mopar-plate-transmission-shifter~4626521.html
+10,4626522,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626523,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,/parts/mopar-spring-detent-offset~4626523.html
+10,4626526,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,/parts/mopar-ball-check~4626526.html
+10,4626527,"Pad, 5th and 6th Shift Fork",,,,2,1,,available,5.4,3.67,/parts/mopar-bolt-shift-guide-plate~4626527.html
+10,4626528,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626542,"Pad, 5th and 6th Shift Fork",,,,,,,available,7.2,4.89,/parts/mopar-retainer-shift-fork~4626542.html
+10,4626561,"Pad, 5th and 6th Shift Fork",,,,,,,available,5.5,3.79,/parts/mopar-ring-shift-fork~4626561.html
+10,4626569,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,/parts/mopar-plate-transmission-shifter~4626569.html
+10,4626571,"Pad, 5th and 6th Shift Fork",,,,,,,available,6.75,4.66,/parts/mopar-bolt-shifter-cover~4626571.html
+10,4626571,"Pad, 5th and 6th Shift Fork",,,,4,1,,available,6.75,4.66,/parts/mopar-bolt-shifter-cover~4626571.html
+10,4626577,"Pad, 5th and 6th Shift Fork",,,,,,68211557AA,available,64.8,55.28,/parts/mopar-housing-gearshift~4626577.html
+10,4626578,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626579,"Pad, 5th and 6th Shift Fork",,,,,,,available,75.3,52.43,/parts/mopar-lever-offset~4626579.html
+10,4626582,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626583,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626584,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626585,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626586,"Pad, 5th and 6th Shift Fork",,,,,,,available,4.1,2.8,/parts/mopar-retainer-reverse-inhibitor~4626586.html
+10,4626587,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,
+10,4626588,"Pad, 5th and 6th Shift Fork",,,,,,,discontinued,,,/parts/mopar-lever-gearshift~4626588.html

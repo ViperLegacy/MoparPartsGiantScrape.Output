@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4763776,"PUMP, Water",,,29,,,,discontinued,,,
+1,4763790,"PUMP, Water",,,29,,,,discontinued,,,
+1,5245357,"PUMP, Water",,1992-93,27,,,,discontinued,,,
+1,5245465,"PUMP, Water",,1994-96,27,,,5245465AB,discontinued,,,/parts/mopar-pump-water~5245465.html
+2,53008291,"HUB, Water Pump",,,,,,,discontinued,,,/parts/mopar-pulley-water-pump-pulley~53008291.html
+3,53005607,"PULLEY, Pump",,,,,,,discontinued,,,
+4,6034530,"SCREW, Pulley Att.",,,,4,1,,available,5.33,4.19,/parts/mopar-screw-hex-head~6034530.html
+5,6034518,"SCREW, Pump Att.",,,,3,1,,discontinued,,,/parts/mopar-sc-wa-hdr-pt~6034518.html
+6,5245473,"O-RING, Pump to Front Cover",,,,,,,discontinued,,,/parts/mopar-pump-water-pump-to-front-cover~5245473.html

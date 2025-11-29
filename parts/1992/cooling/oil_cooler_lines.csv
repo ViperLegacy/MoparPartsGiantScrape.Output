@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4643827,"LINE, Oil Cooler Inlet",,1992-95,,,,,available,23.87,18.76,/parts/mopar-line-assy-o-c-inlet~4643827.html
+1,4709497,"LINE, Oil Cooler Inlet",,,,,,,discontinued,,,/parts/mopar-o-c-inlet~4709497.html
+2,4709141,"LINE, Oil Cooler Outlet",,1992-95,,,,,available,28.81,22.64,/parts/mopar-line-assy-assy-o-c-outlet~4709141.html
+2,4709496,"LINE, Oil Cooler Outlet",,,,,,,discontinued,,,/parts/mopar-line-o-c-outlet~4709496.html
+3,4643826,"COOLER, Oil",,,,,,,discontinued,,,
+4,6101283,U-NUT,,,,2,1,,discontinued,,,/parts/mopar-nut~6101283.html
+5,6100296,SCREW,,,,2,1,,available,8.65,6,/parts/mopar-bolt-hex-head~6100296.html

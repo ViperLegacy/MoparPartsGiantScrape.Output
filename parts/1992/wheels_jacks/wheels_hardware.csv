@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,LB46PAK,"WHEEL, Road",,,,,,,discontinued,,,/parts/mopar-wheel-front-road-rt~lb46pak.html
+1,4642188,"WHEEL, Road",,,,,,,discontinued,,,
+1,4642189,"WHEEL, Road",,,,,,,discontinued,,,
+1,4642816,"WHEEL, Road",,,,,,,discontinued,,,/parts/mopar-wheel-rear-road-right~4642816.html
+1,4642817,"WHEEL, Road",,,,,,,discontinued,,,/parts/mopar-wheel-rear-road-left~4642817.html
+1,LB47PAK,"WHEEL, Road",,,,,,,discontinued,,,/parts/mopar-wheel-front-road-lt~lb47pak.html
+1,LB48PAK,"WHEEL, Road",,,,,,,discontinued,,,
+1,LB49PAK,"WHEEL, Road",,,,,,,discontinued,,,
+1,MC25PAK,"WHEEL, Road",,,,2,1,,discontinued,,,/parts/mopar-wheel-aluminum~mc25pak.html
+1,MC25SW1,"WHEEL, Road",,,,2,,,discontinued,,,
+1,MC25SY4,"WHEEL, Road",,,,2,,,discontinued,,,
+1,MC25SZ2,"WHEEL, Road",,,,2,,,discontinued,,,
+1,MC36PAK,"WHEEL, Road",,,,2,1,,discontinued,,,/parts/mopar-wheel-aluminum~mc36pak.html
+1,MC36SW1,"WHEEL, Road",,,,2,,,discontinued,,,
+1,MC36SY4,"WHEEL, Road",,,,2,,,discontinued,,,
+1,MC36SZ2,"WHEEL, Road",,,,2,,,discontinued,,,
+2,6034958,"NUT, Wheel",,,,24,1,,available,18.75,14.51,/parts/mopar-nut-hex~6034958.html
+3,4708167,"TOOL, Wheel Cap Removal",,,,,,,discontinued,,,/parts/mopar-wrench-wheel-cap-removal~4708167.html
+4,2073355,"STEM, Rubber Valve",,,,,,,available,4.9,3.38,/parts/mopar-stem-wheel-valve~2073355.html

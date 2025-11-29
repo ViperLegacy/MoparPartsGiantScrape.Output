@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,6101445,NUT,,,,2,1,6102440AA,available,11.3,7.86,/parts/mopar-nut-hex~6101445.html
+2,4643130,"ARM, Wiper",Left,,,,,,discontinued,,,/parts/mopar-arm-windshield-wiper~4643130.html
+2,4643131,"ARM, Wiper",Right,,,,,,discontinued,,,/parts/mopar-arm-windshield-wiper~4643131.html
+3,4643065,"MOTOR, Wiper",Right,,,,,,discontinued,,,/parts/mopar-motor-windshield-wiper~4643065.html
+3,4708171,"MOTOR, Wiper",Left,,,,,,discontinued,,,/parts/mopar-motor-windshield-wiper~4708171.html
+4,6100568,"SCREW, Motor",,,,6,1,,available,9.3,6.47,/parts/mopar-screw-implement-attaching~6100568.html
+5,4389109,"CAP, Reservoir",,,,,,,discontinued,,,/parts/mopar-cap-w-washer-reservoir~4389109.html
+6,6100044,NUT,,,,3,1,,discontinued,,,/parts/mopar-nut-hex~6100044.html
+7,4643159,"RESERVOIR ASSY, Washer",,,,,,,discontinued,,,
+8,4708071,"PUMP, Washer, w/Seal",,,,,,,discontinued,,,/parts/mopar-pump-w-s-washer-black~4708071.html
+9,4439003,"HOSE, Washer",,,,,,,discontinued,,,
+10,4643877,"CONNECTOR, In-Line",,,,,,,discontinued,,,/parts/mopar-connector-washer-hose~4643877.html
+12,4708009,"SEAL, Motor",,,,2,1,,discontinued,,,/parts/mopar-seal-wiper-motor~4708009.html
+13,WBF00016AA,"BLADE, Wiper (15 3/4"") 400mm",,,,,,WBF00016AB,available,32.75,15.17,/parts/mopar-blade-front-wiper~wbf00016aa.html
+13,WB000016AE,"BLADE, Wiper (15 3/4"") 400mm",,,,,,1BP00671AA,available,10.35,7.22,/parts/mopar-blade-wiper~wb000016ae.html
+13,4642532,"BLADE, Wiper (15 3/4"") 400mm",,,,2,1,,discontinued,,,/parts/mopar-blade-wiper~4642532.html
+14,3431975,"FILTER, Washer Pump",,,,,,,discontinued,,,/parts/mopar-filter-washer-pump~3431975.html
+15,4848291,"CONTROLLER, Windshield Wiper w/o Bracket",,,,,,,discontinued,,,/parts/mopar-switch-wiper~4848291.html

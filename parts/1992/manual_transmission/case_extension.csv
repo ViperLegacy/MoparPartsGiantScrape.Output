@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4626460,CASE,,,,,,,discontinued,,,/parts/mopar-case-transmission~4626460.html
+2,4626591,"PLUG, Drain",,,,,,,available,4.9,3.32,/parts/mopar-plug-transmission-drain~4626591.html
+3,4626511,"ADAPTER, Front",,,,,,,discontinued,,,/parts/mopar-adapter-transmission~4626511.html
+4,4626546,"HOUSING, Rear",,,,,,,discontinued,,,
+5,4626461,"STUD, Extension",,,,2,1,,available,9.95,6.93,/parts/mopar-stud~4626461.html
+6,4626513,"NUT, Rear Housing",,,,2,1,,available,4.7,3.2,/parts/mopar-dowel-pin-transmission-case~4626513.html
+6,4626514,"NUT, Rear Housing",,,,2,1,,available,6.5,4.49,/parts/mopar-dowel-pin-transmission-case~4626514.html
+6,4626515,"NUT, Rear Housing",,,,,,,discontinued,,,/parts/mopar-seal-input-shaft~4626515.html
+6,4626520,"NUT, Rear Housing",,,,7,1,,discontinued,,,/parts/mopar-bolt-transmission-case~4626520.html
+6,4626520,"NUT, Rear Housing",,,,,,,discontinued,,,/parts/mopar-bolt-transmission-case~4626520.html
+6,4626567,"NUT, Rear Housing",,,,2,,,discontinued,,,
+6,4626568,"NUT, Rear Housing",,,,2,1,,available,15.7,10.89,/parts/mopar-nut-transmission-case~4626568.html
+6,4626570,"NUT, Rear Housing",,,,,,,available,7,4.83,/parts/mopar-retainer-vent-tube~4626570.html
+6,4626573,"NUT, Rear Housing",,,,,,,available,28.2,19.81,/parts/mopar-vent-transmission~4626573.html
+6,4626591,"NUT, Rear Housing",,,,,,,available,4.9,3.32,/parts/mopar-plug-transmission-drain~4626591.html
+6,4626592,"NUT, Rear Housing",,,,,,,available,32.2,22.31,/parts/mopar-vent-transmission-pipe~4626592.html
+6,4626595,"NUT, Rear Housing",,,,,,,discontinued,,,
+6,4626596,"NUT, Rear Housing",,,,,,,discontinued,,,
+7,4531216,"SEAL, Rear",,,,,,4531216AB,available,52.3,36.35,/parts/mopar-seal-extension-yoke~4531216.html

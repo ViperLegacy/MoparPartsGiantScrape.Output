@@ -1,0 +1,48 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,2806273,"CAP, Oil Pump Pressure Relief Valve",,,27,,,,available,56.2,27.55,/parts/mopar-cap-oil-pressure-relief-valve~2806273.html
+1,4848784,"CAP, Oil Pump Pressure Relief Valve",,,29,,,,discontinued,,,/parts/mopar-cap-oil-cooler-rel-press~4848784.html
+2,4323326,"SPRING, Oil Pressure Relief Valve",,,27,,,,discontinued,,,/parts/mopar-spring-oil-pressure-relief-valve~4323326.html
+2,4848785,"SPRING, Oil Pressure Relief Valve",,,29,,,,discontinued,,,/parts/mopar-spring-oil-pressure-relief-valve~4848785.html
+3,2843208AB,"PLUNGER, Oil Pressure Relief Valve",,,27,,,,discontinued,,,/parts/mopar-plunger-oil-pressure-relief-valve~2843208ab.html
+3,4848786,"PLUNGER, Oil Pressure Relief Valve",,,29,,,,discontinued,,,/parts/mopar-plunger-oil-cooler-pressure~4848786.html
+4,04886500AA,"COVER ASSEMBLY, Crankcase",,,,,,,discontinued,,,
+5,5245525,"ROTOR SET, Oil Pump",,,,,,,discontinued,,,/parts/mopar-rotor-oil-pump~5245525.html
+6,5245128,"COVER, Oil Pump",,,,,,,discontinued,,,/parts/mopar-cover-engine-oil-pump~5245128.html
+7,6034475,"SCREW, Torx, (1/4-20x.75)",,,,4,1,,discontinued,,,/parts/mopar-bolt~6034475.html
+8,4763791AB,"INDICATOR, Oil Level",,,29,,,,discontinued,,,/parts/mopar-indicator-engine-oil-level~4763791ab.html
+8,5245080,"INDICATOR, Oil Level",,1992-95,,,,,discontinued,,,
+8,5245899,"INDICATOR, Oil Level",,,27,,,,discontinued,,,/parts/mopar-indicator-engine-oil-level~5245899.html
+9,5245085,"TUBE, Oil Level Indicator",,1992-95,,,,,discontinued,,,
+9,5245898,"TUBE, Oil Level Indicator",,,,,,,discontinued,,,/parts/mopar-tube-oil-level-indicator~5245898.html
+10,5245221,"STRAINER ASSEMBLY, Oil Pump",,,,,,,discontinued,,,
+10,5245712,"STRAINER ASSEMBLY, Oil Pump",,,,,,,discontinued,,,/parts/mopar-oil-pick-up-tube-asm~5245712.html
+11,6034583,"SCREW, w/Washer, (1/4-20x.89)",,,,,,,available,5.35,3.61,/parts/mopar-screw-hex-head~6034583.html
+12,181088,"SCREW, w/Washer, (.312-18x1.00)",,,,,,,discontinued,,,/parts/mopar-bolt-hex-head~181088.html
+13,6032920,"O-RING, Pick-Up Tube",,,,,,,available,10.85,7.51,/parts/mopar-seal-oil-pick-up-tube~6032920.html
+14,5281090,"FILTER, Oil",,,,,,5281090AB,available,10.4,7.22,/parts/mopar-filter-engine-oil~5281090.html
+14,5281090BA,"FILTER, Oil",,,,,,5281090BB,available,10.4,7.22,/parts/mopar-filter-engine-oil~5281090ba.html
+14,FE00292,"FILTER, Oil",,,,,,,discontinued,,,/parts/mopar-filter-engine-oil~fe00292.html
+15,53007563,"CONNECTOR, Oil Filter",,,,,,53007563AB,available,17,11.77,/parts/mopar-connector-oil-filter~53007563.html
+16,6034582,"SCREW, Torx, w/Washer, (5/16-18x1.25)",,,,3,1,,available,14,11,/parts/mopar-screw-header-pt~6034582.html
+17,04886501AA,"ADAPTER, Oil Filter, w/Thermostat",,,27,,,,discontinued,,,
+17,4886503AA,"ADAPTER, Oil Filter, w/Thermostat",,,29,,,4886503AC,available,423,357.58,/parts/mopar-adapter-oil-filter~4886503aa.html
+17,5245577,"ADAPTER, Oil Filter, w/Thermostat",,,,,,,discontinued,,,
+18,5245329,"THERMOSTAT, Oil Cooler",,,,,,,discontinued,,,
+18,5245593,"THERMOSTAT, Oil Cooler",,1993-96,,,,,discontinued,,,/parts/mopar-thrmostat-oil-control~5245593.html
+19,5245581,"GASKET, Oil Filter Adapter",,,,,,,available,13.92,10.94,/parts/mopar-gasket-oil-filter-adaptor~5245581.html
+20,5245139,"CONNECTOR, Oil Cooler Line, (3/4 NPTF TO 10 AN)",,,,2,1,,available,13.19,10.36,/parts/mopar-connector-3-4-nptf-to-10-a~5245139.html
+21,4763737,"GASKET, Oil Pan",,,29,,,,discontinued,,,
+21,5245691,"GASKET, Oil Pan",,,27,,,,discontinued,,,
+22,4763744,"PAN ASSEMBLY, Oil",,,29,,,,discontinued,,,/parts/mopar-pan-engine-oil~4763744.html
+22,5245576,"PAN ASSEMBLY, Oil",,,27,,,,discontinued,,,
+23,154777,"SCREW, w/Washer",,,,29,1,,available,14.2,7.13,/parts/mopar-bolt~154777.html
+23,6034631,"SCREW, w/Washer",,,,2,1,,discontinued,,,/parts/mopar-sc-wa-hex-hdr-pt~6034631.html
+24,5245533,"PLUG, Drain",,,,,,,discontinued,,,
+25,4848705,WINDAGE TRAY,,,29,,,,discontinued,,,
+25,5245388,WINDAGE TRAY,,,,,,,discontinued,,,
+25,5245644,WINDAGE TRAY,,,,,,,discontinued,,,
+25,5245711,WINDAGE TRAY,,,27,,,,discontinued,,,
+26,5245389,"BRACKET, Windage Tray, 1992-93, Up To, Serial #104",,,,6,,,discontinued,,,
+27,6034583,"SCREW, w/Washer, Windage Tray",,,,11,1,,available,5.35,3.61,/parts/mopar-screw-hex-head~6034583.html
+27,6034583,"SCREW, w/Washer, Windage Tray",,,,7,1,,available,5.35,3.61,/parts/mopar-screw-hex-head~6034583.html
+30,5245324,Rear Main Seal,,,,,,,discontinued,,,/parts/mopar-seal-rear-main-crankshaft~5245324.html

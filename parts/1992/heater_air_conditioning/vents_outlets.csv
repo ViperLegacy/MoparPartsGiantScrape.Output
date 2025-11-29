@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,status,msrp,sale_price,detail_url
+1,4462469,"LOUVER, Air Outlet",,,,3,,,discontinued,,,
+2,4643122,"DUCT, Heater, Left",,,,,,,discontinued,,,/parts/mopar-duct-air-outlet~4643122.html
+3,6032723,SCREW,,,,2,1,,available,9.15,6.35,/parts/mopar-screw-self-tapping~6032723.html
+4,4643123,"ADAPTER, Defroster Duct",,,,,,,discontinued,,,
+4,4643708,"ADAPTER, Defroster Duct",,,,,,,discontinued,,,/parts/mopar-grille-defroster~4643708.html
+4,4848764,"ADAPTER, Defroster Duct",,,,,,,discontinued,,,/parts/mopar-adapter-defroster-duct~4848764.html
+5,4642735,"VENT, Right Duct",,,27,,,,discontinued,,,
+5,4763113,"VENT, Right Duct",,,29,,,,discontinued,,,/parts/mopar-vent-a-c-duct-right~4763113.html
+6,4708321,"VENT, Center Duct",,,27,,,,discontinued,,,/parts/mopar-outlet-duct-center~4708321.html
+6,4709089,"VENT, Center Duct",,,27,,,,discontinued,,,
+6,4709091,"VENT, Center Duct",,,,,,,discontinued,,,/parts/mopar-seal-center-outlet~4709091.html
+6,4763854,"VENT, Center Duct",,,29,,,,discontinued,,,
+6,4763954,"VENT, Center Duct",,,29,,,,discontinued,,,/parts/mopar-pin~4763954.html
+7,4642733,"VENT, Left Duct",,,27,,,,discontinued,,,
+7,4643709,"VENT, Left Duct",,,,,,,discontinued,,,
+7,4763111,"VENT, Left Duct",,,29,,,,discontinued,,,/parts/mopar-vent-a-c-duct-left~4763111.html
