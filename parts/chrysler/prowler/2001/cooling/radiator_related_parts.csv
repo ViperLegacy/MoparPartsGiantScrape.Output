@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4401950,ISOLATOR Radiator,,2001-2002,Base,6 Cyl 3.5L,2,1,,,Lower,discontinued,,,1.8 x 1.8 x 1.1 inches,0.40 Pounds,/parts/mopar-isolator-radiator~4401950.html
+1,52006642AB,ISOLATOR Radiator,,2001-2002,Base,6 Cyl 3.5L,2,1,,,Upper,discontinued,,,2.9 x 1.6 x 2.0 inches,1.40 Pounds,/parts/mopar-isolator-radiator~52006642ab.html
+4,4809147AA,CLAMP Radiator,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,21.9,15.26,2.6 x 2.1 x 0.9 inches,0.50 Pounds,/parts/mopar-clamp-hose~4809147aa.html
+5,4786468,HOSE Radiator Outlet,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,21.0 x 2.1 x 2.1 inches,1.30 Pounds,/parts/mopar-hose-radiator-outlet~4786468.html
+6,4865018AA,HOSE Radiator Inlet,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.4 x 4.1 x 4.0 inches,1.00 Pounds,/parts/mopar-hose-radiator-inlet~4865018aa.html
+7,4267020AB,RADIATOR Engine Cooling,,2001-2002,Base,6 Cyl 3.5L,,,4267020AD,,Mopar Coolant 3 Year Formula 1 Gallon,discontinued,,,15.5 x 12.4 x 8.5 inches,12.10 Pounds,/parts/mopar-coolant-coolant~4267020ab.html
+7,4786481AB,RADIATOR Engine Cooling,,2001-2002,,6 Cyl 3.5L,,,,,,discontinued,,,,,
+9,4792361,HOUSING Thermostat,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,78.85,61.96,7.3 x 4.2 x 4.0 inches,1.20 Pounds,/parts/mopar-housing-thermostat~4792361.html
+10,4792239,SEAL Thermostat,,,,,,,,,,discontinued,,,,,
+11,4792699AA,THERMOSTAT,,2001-2002,Base,6 Cyl 3.5L,,,68027789AA,,,available,44.5,31.05,2.1 x 2.1 x 2.2 inches,0.60 Pounds,/parts/mopar-thrmostat~4792699aa.html
+12,6102012,BOLT,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.4 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-bolt~6102012.html
+13,4786497,FAN MODULE Radiator Cooling,,,,,,,,,,discontinued,,,,,
+14,5264886AA,CONDENSER Air Conditioning,,,,,,,,,,discontinued,,,,,
+,6503543,BOLT AND CONED WASHER Hex Head M8x1.25x25,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,4.65,3.15,1.4 x 0.8 x 0.9 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6503543.html
+,4707091,CLIP Wiring,,2001-2002,Base,6 Cyl 3.5L,,,68368422AA,,,available,2.85,1.92,1.2 x 0.7 x 0.3 inches,1.40 Pounds,/parts/mopar-clip-wiring~4707091.html
+,4865239AB,CROSSMEMBER Radiator,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,426.05,334.81,31.4 x 13.9 x 4.2 inches,3.20 Pounds,/parts/mopar-c-member-radiator~4865239ab.html
+,52028399,LABEL Coolant Warning,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5.55,4.36,,0.50 Pounds,/parts/mopar-label-coolant-warning~52028399.html
+,6100515,NUT Hex Flange Lock M5 Isolator to Radiator,,2001-2002,Base,6 Cyl 3.5L,4,1,,6501140,,available,7.55,5.24,0.4 x 0.4 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6100515.html
+,4815819AB,SEAL Condenser,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,42.05,7.3,17.7 x 14.7 x 2.1 inches,1.20 Pounds,/parts/mopar-seal-condenser~4815819ab.html
+,4786775,SEAL Radiator,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,15.59,12.25,21.6 x 15.8 x 5.3 inches,1.90 Pounds,/parts/mopar-seal-radiator~4786775.html
+,4546552,U-NUT Module,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,3.3,2.59,1.0 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-module~4546552.html

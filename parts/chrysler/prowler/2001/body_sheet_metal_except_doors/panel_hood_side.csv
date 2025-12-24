@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4874316,PANEL Hood,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,42.0 x 26.5 x 3.9 inches,9.00 Pounds,/parts/mopar-panel-hood~4874316.html
+1,4874317,PANEL Hood,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1090.13,856.67,42.4 x 22.6 x 3.9 inches,8.80 Pounds,/parts/mopar-panel-hood~4874317.html
+4,6504851AA,SCREW AND WASHER Hex Head M6x1x25,,,,,6,,,,,discontinued,,,,,
+5,4815897,CLIP,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,2.6 x 1.1 x 0.4 inches,0.60 Pounds,/parts/mopar-clip~4815897.html
+6,6035201,RIVET,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,12.2,8.45,2.8 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-rivet~6035201.html
+8,4815738,SPACER,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-spacer~4815738.html
+,6101956,NUT U M6x1.00,,2001-2002,Base,6 Cyl 3.5L,8,1,6510185AA,,,available,1.85,1.28,0.7 x 0.8 x 1.2 inches,0.40 Pounds,/parts/mopar-nut-u~6101956.html
+,6502842,PIN Push M6.35x12.60,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,available,6.33,4.98,1.5 x 1.5 x 0.9 inches,2.40 Pounds,/parts/mopar-retainer-push~6502842.html
+,4865188AA,SILENCER Engine Side,Right,,,,,,,,,discontinued,,,,,
+,4865189AA,SILENCER Engine Side,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,2.80 Pounds,/parts/mopar-silencer-engineside~4865189aa.html

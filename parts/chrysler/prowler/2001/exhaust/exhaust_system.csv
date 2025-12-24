@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4815992AE,CONVERTER Catalytic,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,33.0 x 18.6 x 5.4 inches,10.00 Pounds,/parts/mopar-converter-catalytic~4815992ae.html
+1,4815993AE,CONVERTER Catalytic,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,33.7 x 13.7 x 5.2 inches,9.20 Pounds,/parts/mopar-converter-catalytic~4815993ae.html
+2,4581013AC,CLAMP Exhaust Manifold,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,74.9,52.88,4.1 x 3.9 x 1.1 inches,0.90 Pounds,/parts/mopar-clamp-exhaust-manifold~4581013ac.html
+2,E0036364,CLAMP Exhaust Manifold,,2001-2002,Base,6 Cyl 3.5L,,,,,Mopar V-Line Alternative Part,discontinued,,,,1.00 Pounds,/parts/mopar-clamp-exhaust~e0036364.html
+3,4606133AC,SENSOR Oxygen,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.2 x 1.0 x 1.2 inches,0.60 Pounds,/parts/mopar-sensor-oxygen~4606133ac.html
+5,4815661,BRACKET Exhaust,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.6 x 3.8 x 1.8 inches,0.60 Pounds,/parts/mopar-bracket-exhaust~4815661.html
+6,4695220AB,CLAMP Exhaust,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,28.6,19.98,1.5 x 2.9 x 3.8 inches,1.30 Pounds,/parts/mopar-clamp-exhaust~4695220ab.html
+7,4815053AF,RESONATOR Exhaust,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,19.80 Pounds,/parts/mopar-resonator-exhaust~4815053af.html
+8,4786486AI,PIPE Exhaust,,2001-2002,Base,6 Cyl 3.5L,,,,,Rear Right,discontinued,,,54.7 x 11.4 x 9.1 inches,11.00 Pounds,/parts/mopar-pipe-exhaust~4786486ai.html
+8,4786487AI,PIPE Exhaust,,2001-2002,Base,6 Cyl 3.5L,,,,,Rear Left,discontinued,,,59.6 x 15.2 x 14.9 inches,9.40 Pounds,/parts/mopar-pipe-exhaust~4786487ai.html
+9,4682564,INSULATOR Exhaust,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,16.8,11.59,3.4 x 2.3 x 1.0 inches,0.60 Pounds,/parts/mopar-isolator-exhaust-support~4682564.html
+10,6035731,RIVET,,2001-2002,Base,6 Cyl 3.5L,8,1,,,,available,5,3.93,2.7 x 0.5 x 0.5 inches,0.60 Pounds,/parts/mopar-rivet~6035731.html
+11,4786482,BRACKET Exhaust,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,4.52,3.55,3.9 x 1.9 x 0.7 inches,0.60 Pounds,/parts/mopar-bracket-exhaust~4786482.html
+12,4786494AB,BRACKET Exhaust,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.8 x 1.4 x 1.9 inches,0.70 Pounds,/parts/mopar-bracket-exhaust~4786494ab.html

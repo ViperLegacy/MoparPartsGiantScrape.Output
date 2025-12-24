@@ -1,0 +1,45 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4815158,LATCH Front Door,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,unavailable,,,7.0 x 4.1 x 4.3 inches,1.50 Pounds,/parts/mopar-latch-frt-door~4815158.html
+1,4815159,LATCH Front Door,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,223,149.63,7.0 x 4.1 x 4.2 inches,1.50 Pounds,/parts/mopar-latch-frt-door~4815159.html
+4,4815512,REINFORCEMENT Front Door Latch,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,6.43,5.06,3.0 x 2.8 x 0.2 inches,0.50 Pounds,/parts/mopar-reinfmnt-front-door-latch~4815512.html
+11,5011666AA,HANDLE Front Door Exterior,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,85.4,14.83,7.8 x 4.0 x 3.7 inches,0.80 Pounds,/parts/mopar-handle-front-door-exterior~5011666aa.html
+11,5011667AA,HANDLE Front Door Exterior,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.8 x 4.0 x 3.8 inches,1.00 Pounds,/parts/mopar-handle-front-door-exterior~5011667aa.html
+12,TT06DX9AA,BEZEL Remote Control,Right,2001-2002,Base,6 Cyl 3.5L,,,,TT06LD5AA,,discontinued,,,7.4 x 3.1 x 1.1 inches,0.50 Pounds,/parts/mopar-bezel-remote-control~tt06dx9aa.html
+12,TT07DX9AA,BEZEL Remote Control,Left,2001-2002,Base,6 Cyl 3.5L,,,,TT07LD5AA,,available,99.95,75.78,6.3 x 3.1 x 1.1 inches,0.50 Pounds,/parts/mopar-bezel-remote-control~tt07dx9aa.html
+14,4815164AB,LINK Door Latch Outside Handle to Latch,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.6 x 2.1 x 0.5 inches,0.40 Pounds,/parts/mopar-link-door-latch~4815164ab.html
+14,4815165AB,LINK Door Latch Outside Handle to Latch,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.9 x 1.3 x 0.6 inches,0.40 Pounds,/parts/mopar-link-door-latch~4815165ab.html
+15,4815166AB,LINK Door Latch Outside Lock to Latch,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.3 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-link-door-latch~4815166ab.html
+15,4815167AB,LINK Door Latch Outside Lock to Latch,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.5,3.54,3.4 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-link-door-latch~4815167ab.html
+16,4780320,BRACKET Outside Door Handle,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.1 x 1.7 x 1.6 inches,0.50 Pounds,/parts/mopar-bracket-outside-door-handle~4780320.html
+18,4815377,STRIKER Door Latch,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,2.77,2.17,1.0 x 1.1 x 1.1 inches,0.70 Pounds,/parts/mopar-striker-door-latch~4815377.html
+20,4815380,SPACER Door Latch Striker,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.7 x 1.6 x 0.1 inches,0.50 Pounds,/parts/mopar-spacer-door-latch-striker~4815380.html
+21,6504309,SCREW,,2001,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,1.6 x 0.7 x 0.6 inches,0.60 Pounds,/parts/mopar-screw~6504309.html
+22,4865245AA,STRIKER Door Interlock,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.8 x 5.0 x 1.4 inches,0.40 Pounds,/parts/mopar-striker-door-interlock~4865245aa.html
+24,4786239,GLASS Front Door,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,43.3 x 37.2 x 4.2 inches,8.20 Pounds,/parts/mopar-glass-frt-door~4786239.html
+24,4786238,GLASS Front Door,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,74.5 x 37.2 x 28.3 inches,8.50 Pounds,/parts/mopar-glass-frt-door~4786238.html
+25,5003204AB,REGULATOR Front Door Window,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,20.7 x 19.7 x 4.5 inches,3.20 Pounds,/parts/mopar-regulator-front-door-window~5003204ab.html
+25,5003205AB,REGULATOR Front Door Window,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,20.4 x 21.2 x 5.1 inches,3.30 Pounds,/parts/mopar-regulator-front-door-window~5003205ab.html
+27,4815632,SWITCH Central Locking,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.5 x 4.0 x 1.1 inches,0.50 Pounds,/parts/mopar-switch-central-locking~4815632.html
+27,4815633,SWITCH Central Locking,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,38.94,30.6,3.1 x 3.1 x 3.1 inches,0.80 Pounds,/parts/mopar-switch-central-locking~4815633.html
+28,4658445,CLIP Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,11.6,8.04,0.3 x 0.4 x 0.8 inches,0.50 Pounds,/parts/mopar-clip-latch-link~4658445.html
+,56020390AB,BEZEL Power Window/Door Lock Switch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.8 x 3.0 x 5.1 inches,0.50 Pounds,/parts/mopar-bezel-power-window-door-lock-swit~56020390ab.html
+,2862585,CLIP Door Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-clip-door-latch~2862585.html
+,4658676,CLIP Latch Link,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Inside Handle - Red,available,8.35,5.83,1.1 x 0.9 x 0.7 inches,0.40 Pounds,/parts/mopar-clip-latch-link~4658676.html
+,4658677,CLIP Latch Link,,2001-2002,Base,6 Cyl 3.5L,,,,4589017AA,Left Inside Handle - Green,available,17.1,11.94,1.2 x 1.0 x 0.6 inches,0.40 Pounds,/parts/mopar-clip-latch-link~4658677.html
+,4658674,CLIP Latch Link,,2001-2002,Base,6 Cyl 3.5L,,,,,"Right Inside Lock - Red
+Right Outside Handle - Red",available,12.75,8.85,1.0 x 0.4 x 0.7 inches,0.40 Pounds,/parts/mopar-clip-latch-link~4658674.html
+,4658675,CLIP Latch Link,,2001-2002,Base,6 Cyl 3.5L,,,,,"Left Inside Lock - Green
+Left Outside Handle - Green",available,5.75,4.02,1.2 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-clip-latch-link~4658675.html
+,4865227AA,COLLAR Link Rod Anti-Rattle,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,1.0 x 0.4 x 0.1 inches,0.80 Pounds,/parts/mopar-silencer-link-rod-anti-rattle~4865227aa.html
+,4643798,"HOUSING Door Latch Remote Inside, w/Handle",Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.6 x 2.2 x 1.9 inches,0.50 Pounds,/parts/mopar-housing-door-latch-remote~4643798.html
+,4643799,"HOUSING Door Latch Remote Inside, w/Handle",Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,47.89,37.64,6.4 x 4.2 x 2.9 inches,1.10 Pounds,/parts/mopar-housing-door-latch-remote~4643799.html
+,4815160,LINK Door Latch Inside Handle to Latch,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,20.9 x 1.6 x 0.9 inches,0.50 Pounds,/parts/mopar-link-door-latch~4815160.html
+,4815161,LINK Door Latch Inside Handle to Latch,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,21.1 x 1.6 x 0.9 inches,0.50 Pounds,/parts/mopar-link-door-latch~4815161.html
+,4815162,LINK Door Latch Inside Lock to Latch,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,20.0 x 1.0 x 0.5 inches,0.50 Pounds,/parts/mopar-link-door-latch~4815162.html
+,4815163,LINK Door Latch Inside Lock to Latch,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.52,1.98,20.3 x 1.4 x 0.8 inches,0.50 Pounds,/parts/mopar-link-door-latch~4815163.html
+,5003206AB,MOTOR Window Regulator,Right,2001-2002,Base,6 Cyl 3.5L,,,,5003206AA,,discontinued,,,8.5 x 3.6 x 3.9 inches,2.30 Pounds,/parts/mopar-motor-window-regulator~5003206ab.html
+,5003207AB,MOTOR Window Regulator,Left,2001-2002,Base,6 Cyl 3.5L,,,,5003207AA,,discontinued,,,6.6 x 6.4 x 3.4 inches,2.30 Pounds,/parts/mopar-motor-window-regulator~5003207ab.html
+,55256000,PLATE Front Door Striker,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.1 x 1.3 x 0.6 inches,0.50 Pounds,/parts/mopar-plate-front-door-striker~55256000.html
+,6035706,SCREW,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,10.45,8.21,2.0 x 0.7 x 0.6 inches,0.50 Pounds,/parts/mopar-screw~6035706.html
+,6032615,SCREW Inside Handle Attaching,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,discontinued,,,0.8 x 0.4 x 0.4 inches,0.80 Pounds,/parts/mopar-screw~6032615.html
+,4865324AA,SHIM Door Striker,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,1.73,1.36,,0.70 Pounds,/parts/mopar-shim-door-striker~4865324aa.html

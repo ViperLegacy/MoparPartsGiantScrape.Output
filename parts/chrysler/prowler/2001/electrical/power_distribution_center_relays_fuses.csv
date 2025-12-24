@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+3,4608650AB,RELAY Mini,,2001-2002,Base,6 Cyl 3.5L,,,4671168,,,available,35.5,24.7,0.9 x 1.2 x 1.6 inches,0.50 Pounds,/parts/mopar-relay-mini~4608650ab.html
+4,MAX20,"FUSE Maxi 20 AMP, Yellow",,2001-2002,Base,6 Cyl 3.5L,2,1,,68123081AA,,available,7.95,5.42,1.6 x 1.5 x 0.6 inches,0.50 Pounds,/parts/mopar-fuse-maxi~max20.html
+5,MAX30,"FUSE Maxi 30 Amp, Green",,2001-2002,Base,6 Cyl 3.5L,,,,68124781AA,,available,6.2,4.25,1.7 x 1.5 x 0.6 inches,0.50 Pounds,/parts/mopar-fuse-maxi~max30.html
+6,MAX40,"FUSE Maxi 40 AMP, Orange",,2001-2002,Base,6 Cyl 3.5L,4,1,,68123082AA,,available,10.1,6.99,1.7 x 1.4 x 0.6 inches,0.40 Pounds,/parts/mopar-fuse-maxi~max40.html
+7,ATM15,"FUSE Mini 15 AMP, Light Blue",,2001-2002,Base,6 Cyl 3.5L,,,,"6101487, 68124784AA, 68110975AA",,available,3.55,2.39,0.4 x 0.8 x 0.9 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm15.html
+8,ATM20,"FUSE Mini 20 AMP, Yellow",,2001-2002,Base,6 Cyl 3.5L,,,,"6101488, 68124785AA",,available,3.7,2.5,0.5 x 0.7 x 0.8 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm20.html

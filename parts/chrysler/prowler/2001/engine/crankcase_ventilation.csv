@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4792649AA,VALVE PCV,,2001-2002,Base,6 Cyl 3.5L,,,5175350AA,,,available,24.15,16.66,3.2 x 2.1 x 1.0 inches,0.40 Pounds,/parts/mopar-valve-pcv~4792649aa.html
+2,4663961,HOSE Cylinder Head To Intake Manifold PCV,,2001,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.0 x 4.8 x 0.9 inches,0.60 Pounds,/parts/mopar-tube-cylinder-head-to-intake-man~4663961.html
+3,4792098,COVER Cylinder Head,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Right,available,45.68,35.89,18.2 x 18.2 x 10.3 inches,10.90 Pounds,/parts/mopar-cover-cylinder-head~4792098.html
+3,4792099,COVER Cylinder Head,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Left,available,178.69,140.42,16.3 x 8.8 x 4.3 inches,6.00 Pounds,/parts/mopar-cvr-pkg-cylinder-head~4792099.html

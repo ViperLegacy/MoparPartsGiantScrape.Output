@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4627822AA,BRACKET A/C Compressor,,,,,,,,,,available,166,110.81,8.4 x 6.7 x 2.3 inches,5.00 Pounds,/parts/mopar-bracket-a-c-compressor~4627822aa.html
+1,68109486AA,DOWEL,,,,,2,1,,,,available,21.45,14.8,4.5 x 2.9 x 0.4 inches,0.50 Pounds,/parts/mopar-screw~68109486aa.html
+2,68226982AA,BRACKET A/C Compressor,,,,,,,,,,available,229,151.88,7.2 x 7.3 x 4.8 inches,2.70 Pounds,/parts/mopar-bracket-a-c-compressor~68226982aa.html
+2,5096986AA,SCREW Hex Flange Head M8x1.25x35,,,,,4,1,,6104199AA,,available,5.05,3.5,1.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~5096986aa.html
+3,6106052AA,BOLT Hex Flange Head M8x1.25x20.00,,,,,2,1,,,,available,2.95,1.98,3.2 x 3.0 x 0.7 inches,0.40 Pounds,/parts/mopar-bolt-hex-flange-head~6106052aa.html
+4,6104207AA,BOLT Hex Head M8X1.25X90,,,,,3,1,,,,available,15.15,10.43,4.3 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-bolt~6104207aa.html
+5,68133334AA,SCREW,,,,,2,1,,,,available,40.9,28.54,5.3 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw~68133334aa.html

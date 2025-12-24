@@ -1,0 +1,65 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4567151,SHIM Transfer Shaft 3.53 - 3.55mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.47,1.94,1.5 x 1.4 x 0.1 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567151.html
+37,4539863,BEARING CUP Transfer Gear,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,19.64,15.43,4.2 x 4.1 x 1.1 inches,1.40 Pounds,/parts/mopar-brg-pkg-transfer-gear~4539863.html
+38,4539862,BEARING CONE Transfer Gear,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,127.34,100.07,2.8 x 2.6 x 1.3 inches,0.80 Pounds,/parts/mopar-brg-pkg-transfer-gear~4539862.html
+39,6502447,NUT Transfer Shaft M33 x 1.50,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,19.25,15.13,2.2 x 2.2 x 0.8 inches,0.70 Pounds,/parts/mopar-nut-transfer-shaft~6502447.html
+40,4659834,SPROCKET Transfer Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,30.51,23.97,5.3 x 4.9 x 3.2 inches,6.90 Pounds,/parts/mopar-sprocket-transfer-shaft~4659834.html
+41,4539901,WASHER Sprocket,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,2.0 x 2.1 x 0.1 inches,0.50 Pounds,/parts/mopar-washer-sprocket~4539901.html
+42,6502448,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.2 x 5.2 x 5.1 inches,1.10 Pounds,/parts/mopar-ring~6502448.html
+43,4659190,CHAIN Transmission Drive,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,150,47,13.5 x 4.1 x 2.0 inches,2.60 Pounds,/parts/mopar-chain-transmission-drive~4659190.html
+44,4728303,SEAL PACKAGE Transfer Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.7 x 5.6 x 0.6 inches,0.60 Pounds,/parts/mopar-seal-pkg-transfer-shaft~4728303.html
+45,4567293,BEARING CUP Transfer Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.5,9.83,3.7 x 3.6 x 1.6 inches,1.00 Pounds,/parts/mopar-brg-pkg-transfer-shaft~4567293.html
+46,4567292,BEARING CONE Transfer Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,21.14,16.61,3.7 x 3.7 x 1.6 inches,1.30 Pounds,/parts/mopar-brg-pkg-transfer-shaft~4567292.html
+47,4539677,SHIM Transfer Shaft 0.681 - 0.707mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4539677.html
+64,4567617,GEAR Differential Ring,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,176.69,138.85,11.6 x 10.5 x 9.1 inches,16.20 Pounds,/parts/mopar-gear-set-differential-ring~4567617.html
+,4539678,SHIM Transfer Shaft 0.708 - 0.734mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4539678.html
+,4539679,SHIM Transfer Shaft 0.735 - 0.761mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4539679.html
+,4539680,SHIM Transfer Shaft 0.762 - 0.788mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4539680.html
+,4539681,SHIM Transfer Shaft 0.789 - 0.815mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4539681.html
+,4539682,SHIM Transfer Shaft 0.816 - 0.842mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4539682.html
+,4539683,SHIM Transfer Shaft 0.843 - 0.869mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.70 Pounds,/parts/mopar-shim-transfer-shaft~4539683.html
+,4539684,SHIM Transfer Shaft 0.870 - 0.896mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4539684.html
+,4539685,SHIM Transfer Shaft 0.897 - 0.923mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4539685.html
+,4539686,SHIM Transfer Shaft 0.924 - 0.950mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4539686.html
+,4539687,SHIM Transfer Shaft 0.951 - 0.977mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4539687.html
+,4539688,SHIM Transfer Shaft 0.978 - 1.004mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4539688.html
+,4539689,SHIM Transfer Shaft 1.005 - 1.031mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.3 x 2.3 x 0.2 inches,0.70 Pounds,/parts/mopar-shim-transfer-shaft~4539689.html
+,4539690,SHIM Transfer Shaft 1.032 - 1.058mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4539690.html
+,4539691,SHIM Transfer Shaft 1.059 - 1.085mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4539691.html
+,4539692,SHIM Transfer Shaft 1.086 - 1.112,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4539692.html
+,4539693,SHIM Transfer Shaft 1.113 - 1.139mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4539693.html
+,4567153,SHIM Transfer Shaft 3.59 - 3.61mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.03,1.6,1.6 x 1.6 x 0.2 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567153.html
+,4567154,SHIM Transfer Shaft 3.62 - 3.64mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.2,1.73,1.7 x 1.6 x 0.2 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567154.html
+,4567155,SHIM Transfer Shaft 3.65 - 3.67mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 1.6 x 0.2 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567155.html
+,4567156,SHIM Transfer Shaft 3.68 - 3.70mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567156.html
+,4567157,SHIM Transfer Shaft 3.71 - 3.73mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.7 x 1.7 x 0.2 inches,0.90 Pounds,/parts/mopar-shim-transfer-shaft~4567157.html
+,4567158,SHIM Transfer Shaft 3.74 - 3.76mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 1.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567158.html
+,4567159,SHIM Transfer Shaft 3.77 - 3.79mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 5.2 x 0.4 inches,0.80 Pounds,/parts/mopar-shim-transfer-shaft~4567159.html
+,4567160,SHIM Transfer Shaft 3.80 - 3.82mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.1,1.65,2.1 x 2.0 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567160.html
+,4567161,SHIM Transfer Shaft 3.83 - 3.85mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.1,1.65,2.1 x 2.1 x 0.1 inches,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4567161.html
+,4567162,SHIM Transfer Shaft 3.86 - 3.88 mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.27,1.78,1.6 x 1.6 x 0.6 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567162.html
+,4567163,SHIM Transfer Shaft 3.89 - 3.91mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.1,1.65,,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567163.html
+,4567164,SHIM Transfer Shaft 3.92 - 3.94mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.03,1.6,1.6 x 1.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567164.html
+,4567165,SHIM Transfer Shaft 3.95 - 3.97mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.2,1.73,1.2 x 1.2 x 0.2 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567165.html
+,4567166,SHIM Transfer Shaft 3.98 - 4.00mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 1.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567166.html
+,4567167,SHIM Transfer Shaft 4.01 - 4.03mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4567167.html
+,4567168,SHIM Transfer Shaft 4.04 - 4.06mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4567168.html
+,4567169,SHIM Transfer Shaft 4.07 - 4.09mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.4,1.89,,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567169.html
+,4567170,SHIM Transfer Shaft 4.10 - 4.12mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 1.6 x 0.2 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567170.html
+,4567171,SHIM Transfer Shaft 4.13 - 4.15mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.9 x 1.9 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567171.html
+,4567172,SHIM Transfer Shaft 4.16 - 4.18mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.33,1.83,2.1 x 2.0 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567172.html
+,4567173,SHIM Transfer Shaft 4.19 - 4.21mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-shim-transfer-shaft~4567173.html
+,4567174,SHIM Transfer Shaft 4.22 - 4.24mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.5 x 1.7 x 0.1 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567174.html
+,4567175,SHIM Transfer Shaft 4.25 - 4.27mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.1,1.65,1.6 x 1.7 x 0.4 inches,0.60 Pounds,/parts/mopar-shim-transfer-shaft~4567175.html
+,4567176,SHIM Transfer Shaft 4.28 - 4.30mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.2,1.73,1.0 x 1.0 x 1.1 inches,0.70 Pounds,/parts/mopar-shim-transfer-shaft~4567176.html
+,4567177,SHIM Transfer Shaft 4.31 - 4.33mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.13,1.68,1.6 x 1.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567177.html
+,4567178,SHIM Transfer Shaft 4.34 - 4.36mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.1 x 2.1 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567178.html
+,4567179,SHIM Transfer Shaft 4.37 - 4.39mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.8 x 2.9 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567179.html
+,4567180,SHIM Transfer Shaft 4.40 - 4.42 mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 1.6 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567180.html
+,4567183,SHIM Transfer Shaft 4.49 - 4.51mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.1 x 1.1 x 1.0 inches,0.70 Pounds,/parts/mopar-shim-transfer-shaft~4567183.html
+,4567184,SHIM Transfer Shaft 4.52 - 4.54mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.03,1.6,1.6 x 1.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567184.html
+,4567185,SHIM Transfer Shaft 4.55 - 4.57mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.7 x 1.7 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-transfer-shaft~4567185.html
+,4567186,SHIM Transfer Shaft 4.58 - 4.60mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.6 x 2.6 x 0.8 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567186.html
+,4567187,SHIM Transfer Shaft 4.61 - 4.63mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.7 x 1.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567187.html
+,4567188,SHIM Transfer Shaft 4.64 - 4.66mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.3 x 5.2 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567188.html
+,4567189,SHIM Transfer Shaft 4.67 - 4.69mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.3 x 3.0 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-transfer-shaft~4567189.html

@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5029123AB,TUBE Fuel Filler,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.0 x 6.4 x 3.4 inches,1.10 Pounds,/parts/mopar-tube-fuel-filler~5029123ab.html
+2,6502450,CLAMP HOSE CLAMP,,2001-2002,Base,6 Cyl 3.5L,,,6502089,,,available,7.5,5.18,2.4 x 2.1 x 0.6 inches,0.50 Pounds,/parts/mopar-clamp-hose-clamp~6502450.html
+3,4682674AC,CAP Fuel Filler,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.9 x 2.8 x 1.7 inches,0.60 Pounds,/parts/mopar-cap-fuel-filler~4682674ac.html
+4,4865237AA,DOOR Fuel Fill,,2001-2002,Base,6 Cyl 3.5L,,,,4897789AA,,available,254,39.82,7.2 x 5.2 x 2.0 inches,1.00 Pounds,/parts/mopar-door-fuel-fuel-fill~4865237aa.html
+5,153832,SCREW .190-16x1.00,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,4.07,3.2,1.0 x 0.3 x 0.3 inches,0.80 Pounds,/parts/mopar-screw~153832.html
+7,4865372AA,HOSE Fuel Filler Tube,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,30,18.86,16.7 x 1.6 x 1.6 inches,1.00 Pounds,/parts/mopar-hose-fuel-filler-tube~4865372aa.html
+8,4682676,TETHER Fuel Filler Cap,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,17,11.77,7.6 x 0.5 x 0.4 inches,0.40 Pounds,/parts/mopar-tether-fuel-filler-cap~4682676.html
+,4815924,FILLER Fuel Filler Tube Mounting,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,70.35,55.28,0.3 x 0.3 x 0.3 inches,0.60 Pounds,/parts/mopar-filler-fuel-filler-tube-mounting~4815924.html

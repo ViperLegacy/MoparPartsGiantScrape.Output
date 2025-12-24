@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786078,DOOR Front,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,50.5 x 38.9 x 7.4 inches,36.50 Pounds,/parts/mopar-door-frt~4786078.html
+1,4786079,DOOR Front,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,52.5 x 39.8 x 7.4 inches,34.10 Pounds,/parts/mopar-door-frt~4786079.html
+2,4786768AC,SHIELD Water,Right,2001-2002,Base,6 Cyl 3.5L,,,,4786768AB,,discontinued,,,15.6 x 10.3 x 1.8 inches,1.30 Pounds,/parts/mopar-shield-water~4786768ac.html
+2,4786769AC,SHIELD Water,Left,2001-2002,Base,6 Cyl 3.5L,,,,4786769AB,,discontinued,,,38.0 x 18.8 x 2.4 inches,2.20 Pounds,/parts/mopar-shield-water~4786769ac.html
+3,4815375,HINGE Door,Right,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.4 x 4.8 x 3.3 inches,1.40 Pounds,/parts/mopar-hinge-door~4815375.html
+3,4815376,HINGE Door,Left,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.3 x 4.8 x 3.3 inches,1.40 Pounds,/parts/mopar-hinge-door~4815376.html
+7,4786239,GLASS Front Door,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,43.3 x 37.2 x 4.2 inches,8.20 Pounds,/parts/mopar-glass-frt-door~4786239.html
+7,4786238,GLASS Front Door,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,74.5 x 37.2 x 28.3 inches,8.50 Pounds,/parts/mopar-glass-frt-door~4786238.html
+8,4815350AB,RETAINER Door Glass to Liftplate,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,16.14,12.68,3.1 x 3.1 x 0.5 inches,0.50 Pounds,/parts/mopar-retainer-door-glass~4815350ab.html
+8,4815351AB,RETAINER Door Glass to Liftplate,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,15.47,12.16,3.1 x 2.7 x 0.4 inches,0.40 Pounds,/parts/mopar-retainer-door-glass~4815351ab.html
+9,4415943,RETAINER Glass to Liftplate,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,,,/parts/mopar-retainer-glass-to-liftplate~4415943.html
+10,4815349AB,RETAINER Door Glass,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.7 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-retainer-door-glass~4815349ab.html
+11,35026818,RETAINER Glass to Liftplate,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,2.0 x 1.6 x 0.3 inches,0.60 Pounds,/parts/mopar-retainer-glass-to-liftplate~35026818.html
+13,6504791,"SCREW TAPPING, BUTTON HEAD M6 X 1.00 X 18.00",,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.8 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-tapping-button-head~6504791.html
+14,6504513,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.7 x 0.7 x 0.4 inches,0.50 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6504513.html
+15,4658734,STABILIZER Door Glass Belt,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.4 x 1.2 x 0.6 inches,0.50 Pounds,/parts/mopar-stable-door-glass-belt~4658734.html
+,4815094AC,CHECK Front Door,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.5 x 5.0 x 3.2 inches,0.70 Pounds,/parts/mopar-dr-check-frt-door~4815094ac.html
+,4815095AC,CHECK Front Door,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.3 x 4.8 x 3.3 inches,1.20 Pounds,/parts/mopar-dr-check-frt-door~4815095ac.html
+,6101970,SCREW AND WASHER Hex Head M6x1x25 Check Assembly Attaching,,2001,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw-hex-head~6101970.html
+,6502731,SCREW M6X1.00X17.00,,,,,2,,,,,discontinued,,,,,
+,6504294,SCREW Tap Hex Flange Head M8X1.25XM6X1.25X52.40 Hinge to Body Attaching,,2001-2002,Base,6 Cyl 3.5L,8,1,,,,discontinued,,,2.3 x 0.8 x 0.8 inches,0.80 Pounds,/parts/mopar-screw-tap-hex-flange-head~6504294.html
+,6501988,WASHER,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5,3.93,,0.60 Pounds,/parts/mopar-washer~6501988.html

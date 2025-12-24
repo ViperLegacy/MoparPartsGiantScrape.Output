@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4815380,SPACER Door Latch Striker,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.7 x 1.6 x 0.1 inches,0.50 Pounds,/parts/mopar-spacer-door-latch-striker~4815380.html
+2,4815377,STRIKER Door Latch,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,2.77,2.17,1.0 x 1.1 x 1.1 inches,0.70 Pounds,/parts/mopar-striker-door-latch~4815377.html
+3,6504309,SCREW,,2001,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,1.6 x 0.7 x 0.6 inches,0.60 Pounds,/parts/mopar-screw~6504309.html
+4,4865245AA,STRIKER Door Interlock,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.8 x 5.0 x 1.4 inches,0.40 Pounds,/parts/mopar-striker-door-interlock~4865245aa.html
+,4815251,RETAINER Tapping Plate,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,9.5 x 5.3 x 0.5 inches,0.40 Pounds,/parts/mopar-retainer-tapping-plate~4815251.html

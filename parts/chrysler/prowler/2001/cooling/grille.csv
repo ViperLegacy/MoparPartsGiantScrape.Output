@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,6033014,NUT,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,9.2,6.41,0.6 x 0.5 x 0.3 inches,0.90 Pounds,/parts/mopar-nut~6033014.html
+3,6035296,NUT Plastic Snap-In For .190-16 Screw,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.8 x 0.4 x 0.8 inches,0.50 Pounds,/parts/mopar-nut-plastic-snap-in~6035296.html
+4,6029501,NUT Snap In .164,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-nut-snap-in~6029501.html
+5,PJ26VXT,PANEL FRONT GRILLE,,,,,,,,,[XT],discontinued,,,,,
+5,PJ26YBW,PANEL FRONT GRILLE,,,,,,,,,[BW],discontinued,,,,,
+5,PJ26YSA,PANEL FRONT GRILLE,,,,,,,,,[SA],discontinued,,,,,
+5,PJ26YVF,PANEL FRONT GRILLE,,,,,,,,,[VF],discontinued,,,,,
+5,PJ26YYJ,PANEL FRONT GRILLE,,,,,,,,,[YJ],discontinued,,,,,
+6,4815466,BRACKET Grille,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,14.2 x 7.7 x 0.2 inches,1.20 Pounds,/parts/mopar-bracket-grille~4815466.html
+7,4815630AB,ROD FRONT GRILLE,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.2 x 2.1 x 0.8 inches,0.50 Pounds,/parts/mopar-rod-frt-grille~4815630ab.html
+7,4815631AB,ROD FRONT GRILLE,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,40.5,19.1,4.3 x 2.0 x 0.6 inches,0.80 Pounds,/parts/mopar-rod-frt-grille~4815631ab.html
+8,5003071AA,PANEL Front Facsia,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,36.8 x 34.6 x 19.0 inches,9.40 Pounds,/parts/mopar-panel-front-facsia~5003071aa.html
+9,4786175,BRACKET Fascia,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,19.6 x 14.8 x 3.2 inches,2.30 Pounds,/parts/mopar-bracket-fascia~4786175.html
+10,4815597,BRACKET Fascia,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,102,55.83,7.4 x 9.7 x 3.1 inches,1.70 Pounds,/parts/mopar-bracket-fascia~4815597.html
+12,4103165,BUMPER Hood,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,17.55,12.23,2.2 x 1.5 x 1.3 inches,0.50 Pounds,/parts/mopar-bumper-hood-adjuster~4103165.html
+,6035201,RIVET,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,12.2,8.45,2.8 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-rivet~6035201.html

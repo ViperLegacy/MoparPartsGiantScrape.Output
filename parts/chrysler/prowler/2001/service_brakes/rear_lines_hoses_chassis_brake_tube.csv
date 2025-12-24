@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865881AA,TUBE Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,117.6 x 23.1 x 14.7 inches,3.10 Pounds,/parts/mopar-line-brake~4865881aa.html
+2,154780,SCREW Tapping .25-20x1.25,,2001-2002,Base,6 Cyl 3.5L,2,1,,,Mounting Brake Hose to Rear Frame Rail,discontinued,,,,0.40 Pounds,/parts/mopar-screw-tapping~154780.html
+2,154780,SCREW Tapping .25-20x1.25,,2001-2002,Base,6 Cyl 3.5L,4,1,,,Mounting Brake Tube Clip to Right Rear Frame Rail,discontinued,,,,0.40 Pounds,/parts/mopar-screw-tapping~154780.html
+3,4815698,HOSE Brake,,,,,2,,,,,discontinued,,,,,
+4,6035098,BOLT Hex Head .437-20x.937,,2001-2002,Base,6 Cyl 3.5L,2,1,68465997AA,,,discontinued,,,1.2 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6035098.html
+5,6035727,WASHER,,2001-2002,Base,6 Cyl 3.5L,4,1,,6034942,,available,8.9,6.17,1.3 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-gasket-brake-hose~6035727.html
+6,1141472,TEE Brake Tube,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.2 x 1.4 x 1.0 inches,0.50 Pounds,/parts/mopar-connector-brake-tube~1141472.html
+7,4865880AA,TUBE Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.1 x 10.4 x 2.1 inches,3.20 Pounds,/parts/mopar-line-brake~4865880aa.html
+8,6101445,NUT AND WASHER Hex Nut-Coned Washer M8 x 1.25,,2001-2002,Base,6 Cyl 3.5L,,,6102440AA,,,available,11.3,7.86,1.3 x 1.3 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex~6101445.html
+9,4815246,CLIP Fuel Bundle,,2001-2002,Base,6 Cyl 3.5L,7,1,,,,available,2.82,2.21,,0.50 Pounds,/parts/mopar-clip-fuel-bundle~4815246.html
+10,5017603AA,TUBE Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,121.5 x 20.0 x 20.8 inches,3.10 Pounds,/parts/mopar-tube-brake~5017603aa.html
+11,4683653,CLIP Tube,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,6.2,2.21,1.4 x 1.1 x 0.6 inches,0.40 Pounds,/parts/mopar-retainer-tube~4683653.html

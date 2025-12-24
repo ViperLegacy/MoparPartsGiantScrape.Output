@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4373728,PLUG,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,12.5,8.74,1.3 x 1.3 x 0.8 inches,0.50 Pounds,/parts/mopar-plug~4373728.html
+2,4780194,PLUG,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,10.25,7.11,1.8 x 1.8 x 0.8 inches,0.50 Pounds,/parts/mopar-plug~4780194.html
+3,4815490,PLUG,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,discontinued,,,4.1 x 4.1 x 0.8 inches,1.80 Pounds,/parts/mopar-plug~4815490.html
+4,4716823,PLUG Liftgate,,2001-2002,Base,6 Cyl 3.5L,18,1,,,,discontinued,,,1.3 x 0.8 x 0.2 inches,0.50 Pounds,/parts/mopar-plug-liftgate~4716823.html
+5,4278178,TAPE Hole Cover 50x50x1 mm,,2001-2002,Base,6 Cyl 3.5L,3,1,55364097AB,,,available,8.45,5.88,2.8 x 2.4 x 0.2 inches,0.80 Pounds,/parts/mopar-tapestrip-hole-cover~4278178.html
+,4815491,PLUG Body,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,discontinued,,,,,/parts/mopar-plug-body~4815491.html
+,4865196AA,PLUG Floor Pan Rubber,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,31.25,4.91,1.0 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-plug-floor-pan~4865196aa.html
+,4865209AA,PLUG Protective,,2001-2002,Base,6 Cyl 3.5L,,,,,Radiator & Headlamp Support Assy.,available,9.34,7.34,0.7 x 0.3 x 0.3 inches,0.90 Pounds,/parts/mopar-plug-protective~4865209aa.html
+,4865209AA,PLUG Protective,,2001-2002,Base,6 Cyl 3.5L,4,1,,,"Cowl Side I/Pnl Beam Attaching
+Door Striker",available,9.34,7.34,0.7 x 0.3 x 0.3 inches,0.90 Pounds,/parts/mopar-plug-protective~4865209aa.html
+,4865210AA,PLUG Protective,,2001-2002,Base,6 Cyl 3.5L,6,1,,,Windshield Frame Hood & Upper Deck Hinge,available,10.59,8.32,5.3 x 2.1 x 1.1 inches,0.90 Pounds,/parts/mopar-plug-protective~4865210aa.html
+,4865210AA,PLUG Protective,,2001-2002,Base,6 Cyl 3.5L,2,1,,,"Cowl Plenum & A-Pillar
+Door Innerlock Striker
+Seat Belt Retractor Attaching
+Speaker Box Attaching...View More",available,10.59,8.32,5.3 x 2.1 x 1.1 inches,0.90 Pounds,/parts/mopar-plug-protective~4865210aa.html

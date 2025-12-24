@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4687594,SWITCH Door Ajar,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 1.0 x 1.1 inches,0.40 Pounds,/parts/mopar-switch-door-ajar~4687594.html
+2,56020390AB,BEZEL Power Window/Door Lock Switch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.8 x 3.0 x 5.1 inches,0.50 Pounds,/parts/mopar-bezel-power-window-door-lock-swit~56020390ab.html
+3,56020394,SWITCH 2 Gang,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.7 x 3.1 x 6.1 inches,0.60 Pounds,/parts/mopar-switch-2-gang~56020394.html
+4,4687594,SWITCH Door Ajar,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.1 x 1.0 x 1.1 inches,0.40 Pounds,/parts/mopar-switch-door-ajar~4687594.html
+5,4815610AB,SWITCH Mirror,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.2 x 2.1 x 2.3 inches,0.50 Pounds,/parts/mopar-switch-mirror~4815610ab.html
+6,4865219AD,SWITCH AND BEZEL Window Lock and Door Lock,,2001-2002,Base,6 Cyl 3.5L,,,,"4865219AB, 4865219AC",,discontinued,,,5.1 x 3.2 x 2.1 inches,0.70 Pounds,/parts/mopar-switch-window-lock-and-door-lock~4865219ad.html
+7,4815632,SWITCH Central Locking,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.5 x 4.0 x 1.1 inches,0.50 Pounds,/parts/mopar-switch-central-locking~4815632.html
+7,4815633,SWITCH Central Locking,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,38.94,30.6,3.1 x 3.1 x 3.1 inches,0.80 Pounds,/parts/mopar-switch-central-locking~4815633.html

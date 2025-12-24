@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,LP641SA,PANEL Instrument Upper,,2001-2002,Base,6 Cyl 3.5L,,,,,Charcoal,discontinued,,,48.6 x 19.0 x 11.9 inches,12.60 Pounds,/parts/mopar-panel-instrument-upper~lp641sa.html
+1,LP641VF,PANEL Instrument Upper,,2001-2002,Base,6 Cyl 3.5L,,,,,Pepper Red,discontinued,,,26.3 x 12.7 x 0.9 inches,12.60 Pounds,/parts/mopar-panel-instrument-upper~lp641vf.html
+1,LP641XT,PANEL Instrument Upper,,2001-2002,Base,6 Cyl 3.5L,,,,,Tundra,discontinued,,,30.9 x 19.2 x 12.6 inches,12.90 Pounds,/parts/mopar-panel-instrument-upper~lp641xt.html
+2,5010142AC,MASK AND LENS Instrument Cluster,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,80.35,63.14,23.8 x 9.6 x 6.2 inches,2.20 Pounds,/parts/mopar-mask-instrument-cluster~5010142ac.html
+3,4883189AA,HOUSING Cluster,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,29.6 x 6.9 x 6.5 inches,2.00 Pounds,/parts/mopar-housing-cluster~4883189aa.html
+4,4883176,GAUGE Volt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.7 x 3.3 x 3.3 inches,0.60 Pounds,/parts/mopar-gage-volt~4883176.html
+5,4883177,GAUGE Oil Level,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.3 x 5.0 x 3.2 inches,0.60 Pounds,/parts/mopar-gage-oil-level~4883177.html
+6,4883178,GAUGE Temperature,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.2 x 12.2 x 4.0 inches,2.40 Pounds,/parts/mopar-gage-temperature~4883178.html
+7,4883179,GAUGE Fuel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.5 x 3.3 x 3.4 inches,0.60 Pounds,/parts/mopar-gage-fuel~4883179.html
+8,5010144AA,GAUGE Speedometer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.8 x 5.7 x 5.0 inches,1.00 Pounds,/parts/mopar-speedo-speedometer~5010144aa.html
+9,4688626,GAUGE Tachometer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 3.2 x 3.1 inches,1.00 Pounds,/parts/mopar-tach-tachometer~4688626.html
+10,L0000074,BULB 74,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.5,3.09,1.3 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-bulb~l0000074.html
+11,5010273AC,BOARD Circuit,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,14.8 x 6.3 x 4.2 inches,1.20 Pounds,/parts/mopar-board-circuit~5010273ac.html
+12,4883182,BOARD Volt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.5 x 3.3 x 3.4 inches,0.50 Pounds,/parts/mopar-board-volt~4883182.html
+13,4883184AC,BOARD Fuel/Temperature,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.6 x 5.2 x 3.5 inches,0.70 Pounds,/parts/mopar-board-fuel-temperature~4883184ac.html
+14,4883183,BOARD Oil,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.5 x 3.3 x 3.4 inches,0.50 Pounds,/parts/mopar-board-oil~4883183.html
+15,4883188AA,COVER Cluster,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,19.3 x 10.4 x 0.1 inches,0.60 Pounds,/parts/mopar-cover-cluster~4883188aa.html
+16,L00PC194,LAMP Bulb And Socket,,2001-2002,Base,6 Cyl 3.5L,6,1,,4437590,,available,6.95,4.72,4.6 x 1.8 x 0.9 inches,0.50 Pounds,/parts/mopar-lamp-bulb-and-socket~l00pc194.html
+17,5269529,BULB PC121,,2001,Base,6 Cyl 3.5L,12,1,,,,discontinued,,,1.1 x 1.0 x 0.7 inches,0.40 Pounds,/parts/mopar-bulb~5269529.html
+18,4608419,SOCKET,,2001,Base,6 Cyl 3.5L,,,,,(Red),discontinued,,,1.2 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-bulb-assy~4608419.html
+18,5010271AA,SOCKET,,2001-2002,Base,6 Cyl 3.5L,,,,,(Amber),available,4.55,3.58,3.8 x 3.6 x 3.7 inches,0.40 Pounds,/parts/mopar-socket~5010271aa.html

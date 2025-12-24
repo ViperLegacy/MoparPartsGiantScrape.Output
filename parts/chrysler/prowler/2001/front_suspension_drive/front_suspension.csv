@@ -1,0 +1,42 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,6502697,NUT Hex Flange Lock M12x1.75,,2001-2002,Base,6 Cyl 3.5L,4,1,6512602AA,,,available,3.55,2.39,0.8 x 1.3 x 1.3 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502697.html
+2,6504800,SCREW,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,36.86,28.96,1.1 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-bolt-hex-head~6504800.html
+3,4865321AA,ARM Control,,2001-2002,Base,6 Cyl 3.5L,,,,,Upper Left,discontinued,,,11.2 x 8.2 x 2.0 inches,3.90 Pounds,/parts/mopar-arm-control~4865321aa.html
+3,4865320AA,ARM Control,,2001-2002,Base,6 Cyl 3.5L,,,,,Upper Right,discontinued,,,21.3 x 16.4 x 4.2 inches,4.30 Pounds,/parts/mopar-arm-control~4865320aa.html
+7,4865322AA,ARM Control,,2001-2002,Base,6 Cyl 3.5L,,,,,Lower Right,discontinued,,,25.8 x 24.5 x 6.1 inches,12.60 Pounds,/parts/mopar-arm-control~4865322aa.html
+7,4865323AA,ARM Control,,2001-2002,Base,6 Cyl 3.5L,,,,,Lower Left,discontinued,,,24.8 x 25.3 x 6.3 inches,9.70 Pounds,/parts/mopar-arm-control~4865323aa.html
+9,6101994,SCREW,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,15.4,10.6,4.9 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-screw-hex-head~6101994.html
+10,6504751,NUT AND RETAINER Hex Flange Locking M14 x 2.00,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.0 x 1.2 x 0.5 inches,0.50 Pounds,/parts/mopar-bar-hex-flange-locking~6504751.html
+11,6504751,NUT AND RETAINER Hex Flange Locking M14 x 2.00,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,3.0 x 1.2 x 0.5 inches,0.50 Pounds,/parts/mopar-bar-hex-flange-locking~6504751.html
+12,6502698,NUT Hex Flange Lock,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,11.95,8.21,0.9 x 1.4 x 1.4 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-lock~6502698.html
+13,4786578,PUSH ROD FRONT SUSPENSION,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,2.80 Pounds,/parts/mopar-rod-frt-suspension~4786578.html
+14,6101993,SCREW,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.9 x 1.1 x 1.0 inches,0.60 Pounds,/parts/mopar-bolt-hex-head~6101993.html
+15,4865284AA,ROCKER ARM Front suspension,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,14.6 x 11.4 x 9.5 inches,4.30 Pounds,/parts/mopar-bracket-frt-suspension~4865284aa.html
+15,4865285AA,ROCKER ARM Front suspension,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.0 x 6.3 x 4.1 inches,4.20 Pounds,/parts/mopar-bracket-frt-suspension~4865285aa.html
+16,4897344AA,BUSHING PKG FRONT SHOCK UPPER CONTROL ARM,,2001-2002,Base,6 Cyl 3.5L,2,1,,5003062AA,,discontinued,,,3.7 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-bushing~4897344aa.html
+17,4815307,BUSHING Rocker,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.6 x 6.4 x 4.3 inches,0.90 Pounds,/parts/mopar-bushing-rocker-arm-to-pushrod~4815307.html
+18,4865031AA,CAP Ball Joint,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.2 x 5.1 x 1.1 inches,0.40 Pounds,/parts/mopar-cap-ball-joint~4865031aa.html
+19,6101994,SCREW,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,15.4,10.6,4.9 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-screw-hex-head~6101994.html
+20,6504843AA,NUT AND RETAINER M8x1.25,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.0 x 1.0 x 1.1 inches,0.60 Pounds,/parts/mopar-nut-ret-m8x1-25~6504843aa.html
+21,6504989AA,SCREW AND WASHER Hex Head M14-2x95,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,24.45,17.07,4.3 x 1.2 x 1.2 inches,0.70 Pounds,/parts/mopar-bolt-hex-head~6504989aa.html
+22,6101993,SCREW,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.9 x 1.1 x 1.0 inches,0.60 Pounds,/parts/mopar-bolt-hex-head~6101993.html
+23,4626762AB,CLAMP Stabilizer Bar,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,4.07,3.2,3.2 x 1.1 x 1.0 inches,0.70 Pounds,/parts/mopar-bracket-stabilizer-bar~4626762ab.html
+24,6101980,SCREW AND WASHER Hex Head M8x1.25x45,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,2.1 x 0.8 x 0.8 inches,0.70 Pounds,/parts/mopar-screw-hex-head~6101980.html
+25,4626368,CUSHION Sway Eliminator,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,8.35,6.13,1.9 x 1.9 x 1.3 inches,0.90 Pounds,/parts/mopar-bushing-sway-eliminator~4626368.html
+26,6505593AA,NUT Hex Flange,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.0 x 1.0 x 0.6 inches,0.60 Pounds,/parts/mopar-nut-hex-flange~6505593aa.html
+27,6504668,NUT,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,10.7,7.46,3.0 x 1.1 x 1.1 inches,0.90 Pounds,/parts/mopar-nut~6504668.html
+28,6504378,SCREW,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,5.33,4.19,7.2 x 0.9 x 0.9 inches,0.60 Pounds,/parts/mopar-screw~6504378.html
+29,6504271,NUT M10x1.50,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.2 x 1.2 x 0.6 inches,0.70 Pounds,/parts/mopar-nut~6504271.html
+30,4865282AA,KNUCKLE Front,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1101.45,865.57,10.6 x 10.7 x 5.9 inches,5.70 Pounds,/parts/mopar-knuckle-frt~4865282aa.html
+30,4865283AA,KNUCKLE Front,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.9 x 10.9 x 7.2 inches,6.40 Pounds,/parts/mopar-knuckle-frt~4865283aa.html
+31,6504989AA,SCREW AND WASHER Hex Head M14-2x95,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,24.45,17.07,4.3 x 1.2 x 1.2 inches,0.70 Pounds,/parts/mopar-bolt-hex-head~6504989aa.html
+32,6504751,NUT AND RETAINER Hex Flange Locking M14 x 2.00,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.0 x 1.2 x 0.5 inches,0.50 Pounds,/parts/mopar-bar-hex-flange-locking~6504751.html
+33,4786590AB,BAR Front Sway,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.5 x 3.7 x 0.8 inches,12.50 Pounds,/parts/mopar-bar-front-sway~4786590ab.html
+34,4786592AB,LINK Sway Eliminator,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,14.3 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-link-sway-eliminator~4786592ab.html
+35,6505291AA,NUT AND WASHER Hex M12x1.75,,2001-2002,Base,6 Cyl 3.5L,2,1,6508274AA,,,available,8.2,5.71,0.9 x 1.3 x 1.3 inches,0.50 Pounds,/parts/mopar-nut-hex~6505291aa.html
+36,5290906AB,SHOCK ABSORBER Suspension,,,,,2,,,,,discontinued,,,,,
+37,5264894AA,SPRING,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,13.7 x 3.8 x 3.7 inches,5.50 Pounds,/parts/mopar-spring~5264894aa.html
+,4786580,BUSHING,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.8 x 1.9 x 1.8 inches,0.70 Pounds,/parts/mopar-bushing~4786580.html
+,4815306,BUSHING Pivot,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,13.05,10.26,1.5 x 1.7 x 1.6 inches,0.50 Pounds,/parts/mopar-bushing-pivot~4815306.html
+,6030099,FITTING Ball Joint Zirc,,2001-2002,Base,6 Cyl 3.5L,,,83507064AB,,,discontinued,,,0.6 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-fitting-ball-joint~6030099.html
+,4695673,SEAL,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.1 x 2.1 x 1.4 inches,0.50 Pounds,/parts/mopar-seal~4695673.html

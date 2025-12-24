@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68155464AA,COMPRESSOR Air Conditioning,,,02,,,,68155464AC,,,available,1425,1045.32,12.8 x 8.7 x 6.9 inches,14.40 Pounds,/parts/mopar-compresso-air-conditioning~68155464aa.html
+2,68224150AA,LUBRICANT Compressor,,,,,,,68224150AB,,,available,130,86.63,5.4 x 2.8 x 2.8 inches,1.00 Pounds,/parts/mopar-lubricant-compressor~68224150aa.html
+3,82300101AB,REFRIGERANT R134A 1 Pound,,,,,,,68763438AA,,,available,43.45,30.35,17.7 x 10.2 x 10.5 inches,1.40 Pounds,/parts/mopar-refrigant-r134a~82300101ab.html

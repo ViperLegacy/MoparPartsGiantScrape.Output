@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865430AA,WIRING Body,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,49.0 x 19.4 x 11.1 inches,36.60 Pounds,/parts/mopar-wiring-body~4865430aa.html
+2,4865294AB,WIRING Door,Right,2001-2002,Base,6 Cyl 3.5L,,,,4865294AA,,discontinued,,,11.4 x 9.3 x 3.1 inches,1.20 Pounds,/parts/mopar-wiring-door~4865294ab.html
+2,4865295AB,WIRING Door,Left,2001-2002,Base,6 Cyl 3.5L,,,,4865295AA,,discontinued,,,17.5 x 5.4 x 2.4 inches,3.00 Pounds,/parts/mopar-wiring-door~4865295ab.html
+3,4815678AD,WIRING Deck Lid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.1 x 6.9 x 0.8 inches,0.60 Pounds,/parts/mopar-wiring-deck-lid~4815678ad.html
+,4815592AB,WIRING A/C,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.9 x 1.6 x 1.5 inches,0.70 Pounds,/parts/mopar-wiring-a-c~4815592ab.html
+,4815286,WIRING Back-Up Lamp Jumper,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,18.34,14.41,,0.60 Pounds,/parts/mopar-wiring-back-up-lamp-jumper~4815286.html
+,4865426AA,WIRING Dome Lamp,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.5 x 1.6 x 1.6 inches,0.60 Pounds,/parts/mopar-wiring-dome-lamp~4865426aa.html
+,4688844,WIRING Electric Back Light,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.4 x 5.1 x 0.5 inches,0.40 Pounds,/parts/mopar-wiring-electric-back-light~4688844.html
+,4801134AA,WIRING Ground Jumper,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.7 x 9.6 x 0.8 inches,0.50 Pounds,/parts/mopar-wiring-ground-jumper~4801134aa.html
+,4815282,WIRING Headlamp,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.1 x 3.1 x 1.2 inches,0.60 Pounds,/parts/mopar-wiring-headlamp~4815282.html
+,56008888,WIRING Remote Radio Switch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,88.3,69.39,12.7 x 4.4 x 1.4 inches,0.90 Pounds,/parts/mopar-wiring-remote-radio-switch~56008888.html
+,4815287,WIRING Taillamp,,,,,,,,,,discontinued,,,,,
+,4815283,WIRING Turn Signal Lamp,,2001,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.1 x 4.2 x 2.0 inches,0.60 Pounds,/parts/mopar-wiring-turn-signal-lamp~4815283.html
+,4801244AA,WIRING Underbody,,,,,,,,,,discontinued,,,,,

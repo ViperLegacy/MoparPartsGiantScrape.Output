@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4364781,BOOT AND SEAL Disc Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,14.14,11.11,3.4 x 3.4 x 0.5 inches,0.50 Pounds,/parts/mopar-boot-pkg-disc-brake~4364781.html
+2,4728121,PISTON PACKAGE Disc Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,82.3,21.48,2.6 x 2.7 x 2.4 inches,1.20 Pounds,/parts/mopar-piston-disc-brake~4728121.html
+3,4897654AA,CALIPER Disc Brake,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.3 x 7.6 x 9.1 inches,7.20 Pounds,/parts/mopar-caliper-disc-brake~4897654aa.html
+3,4897655AA,CALIPER Disc Brake,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.1 x 7.2 x 5.1 inches,1.20 Pounds,/parts/mopar-caliper-disc-brake~4897655aa.html
+4,3780788,SCREW Bleeder,,2001-2002,Base,6 Cyl 3.5L,,,5015248AB,,,available,30.3,20.97,1.2 x 0.5 x 0.4 inches,0.50 Pounds,/parts/mopar-screw-bleeder~3780788.html
+6,4423573,SLEEVE Disc Brake Caliper,,2001-2002,Base,6 Cyl 3.5L,,,5018238AB,,,available,18.55,12.82,2.5 x 0.8 x 0.7 inches,1.20 Pounds,/parts/mopar-sleeve-disc-brake-caliper~4423573.html
+7,6502527,BOLT Hex Flange Head M8-1.25x68.50,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,8.3,5.71,3.3 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-bolt-hex-flange-head~6502527.html
+8,4383471,BUSHING Disc Brake Caliper,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,13.35,10.41,2.5 x 1.0 x 1.0 inches,0.80 Pounds,/parts/mopar-bushing-disc-brake-caliper~4383471.html
+9,4897664AA,PAD KIT Front Disc Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.3 x 4.7 x 4.1 inches,4.00 Pounds,/parts/mopar-pad-kit-frt-disc-brake~4897664aa.html
+10,4815797,ROTOR Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,127.21,99.97,11.9 x 12.5 x 2.3 inches,10.20 Pounds,/parts/mopar-rotor-brake~4815797.html
+11,6502311,BOLT Hex Head M12x1.50x46.88,,2001-2002,Base,6 Cyl 3.5L,5,1,,,,available,16.1,11.18,2.3 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-stud-hub~6502311.html
+12,4641517,HUB AND BEARING Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,Right or Left with Seal,discontinued,,,,8.80 Pounds,/parts/mopar-bearing-brake~4641517.html
+12,V2501517AA,HUB AND BEARING Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,Mopar V-Line Alternative Part,available,131,87.13,6.9 x 7.0 x 4.9 inches,8.90 Pounds,/parts/mopar-bearing-brake~v2501517aa.html
+13,4786750,ADAPTER Disc Brake Caliper,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,277.36,217.96,10.5 x 10.6 x 5.8 inches,1.60 Pounds,/parts/mopar-adapter-disc-brake-caliper~4786750.html
+14,4865282AA,KNUCKLE Front,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1101.45,865.57,10.6 x 10.7 x 5.9 inches,5.70 Pounds,/parts/mopar-knuckle-frt~4865282aa.html
+14,4865283AA,KNUCKLE Front,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.9 x 10.9 x 7.2 inches,6.40 Pounds,/parts/mopar-knuckle-frt~4865283aa.html
+15,6101702,BOLT M10x1.50x70,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5.5,4.19,1.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6101702.html
+,4815594,BOLT,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 2.2 x 4.0 inches,1.50 Pounds,/parts/mopar-bolt~4815594.html

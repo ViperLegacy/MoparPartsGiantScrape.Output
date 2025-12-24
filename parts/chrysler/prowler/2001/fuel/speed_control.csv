@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865149AA,CABLE Speed Control,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,14.4 x 14.3 x 0.5 inches,1.90 Pounds,/parts/mopar-cable-speed-control~4865149aa.html
+2,153651,SCREW AND WASHER .190-16x.500,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.7 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw~153651.html
+3,53008013,RESERVOIR Speed Control Vacuum,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.0 x 3.9 x 4.0 inches,1.20 Pounds,/parts/mopar-reservoir-speed-control-vacuum~53008013.html
+4,6100041,U-NUT .190-16,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,,0.40 Pounds,/parts/mopar-nut-fndr-att~6100041.html
+5,4669977,SERVO Speed Control,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.3 x 4.8 x 4.9 inches,1.20 Pounds,/parts/mopar-servo-speed-control~4669977.html
+6,4786963,BRACKET Speed Control Servo,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.2 x 3.7 x 2.4 inches,0.70 Pounds,/parts/mopar-bracket-speed-control-servo~4786963.html
+7,4865154AA,HARNESS Secondary Runner Valve,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.3 x 3.1 x 1.0 inches,0.60 Pounds,/parts/mopar-harness-secondary-runner-valve~4865154aa.html
+8,6031147,NUT Hex M6x1.00,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1.55,1.05,,0.40 Pounds,/parts/mopar-nut-hex~6031147.html
+,3580172,CAP Vacuum,,2001-2002,Base,6 Cyl 3.5L,,,4663032,,,available,16.05,11.13,1.0 x 0.7 x 0.3 inches,0.40 Pounds,/parts/mopar-cap-vacuum~3580172.html
+,4592020,CLIP Cable,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.7 x 1.3 x 0.3 inches,0.40 Pounds,/parts/mopar-clip-cable~4592020.html
+,6502493,NUT Hex Flange Serration M6x1,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.6 x 0.6 x 0.2 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-serration~6502493.html
+,6100840,NUT Spring,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.25,5.01,0.7 x 0.6 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-spring~6100840.html
+,4591046,PLATE Speed Control Servo,,2001-2002,Base,6 Cyl 3.5L,,,,4573702,,discontinued,,,3.2 x 1.5 x 0.8 inches,0.40 Pounds,/parts/mopar-plate-speed-control-servo~4591046.html

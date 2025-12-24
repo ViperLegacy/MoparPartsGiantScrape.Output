@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,QD28DX9AB,BUMPER Rear,,2001,Base,6 Cyl 3.5L,,,,,"Right Up to 01-06-2001, Plymouth Logo",discontinued,,,31.7 x 2.8 x 2.5 inches,12.10 Pounds,/parts/mopar-bumper-rear~qd28dx9ab.html
+1,QD29DX9AB,BUMPER Rear,,2001,,6 Cyl 3.5L,,,,,"Left Up to 01-06-2001, Plymouth Logo",discontinued,,,,,
+1,UW30DX9AA,BUMPER Rear,,2001-2002,Base,6 Cyl 3.5L,,,,,"Right After 01-06-2001, Chrysler Logo",discontinued,,,32.6 x 9.5 x 9.3 inches,11.20 Pounds,/parts/mopar-bumper-rear~uw30dx9aa.html
+1,UW31DX9AA,BUMPER Rear,,2001-2002,Base,6 Cyl 3.5L,,,,,"Left After 01-06-2001, Chrysler Logo",discontinued,,,31.9 x 9.7 x 9.2 inches,11.60 Pounds,/parts/mopar-bumper-rear~uw31dx9aa.html
+2,6101695,NUT Hex Flange Lock M8x1.25,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5.05,3.44,0.9 x 0.9 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6101695.html
+3,4815492,TAPPING PLATE REAR BUMPER O/B ATT,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.5 x 0.9 x 0.5 inches,0.60 Pounds,/parts/mopar-plate-rear-bumper-o-b-att~4815492.html
+4,6101982,SCREW,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,23.6,16.48,0.4 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6101982.html
+5,6101983,SCREW,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,unavailable,24.6,17.18,3.8 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6101983.html
+7,4815523AC,SPRING,,2001-2002,Base,6 Cyl 3.5L,2,1,,4815523AB,,discontinued,,,3.6 x 2.1 x 2.1 inches,0.60 Pounds,/parts/mopar-spring~4815523ac.html
+8,4815664,SPRING,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.1 x 3.5 x 1.5 inches,0.90 Pounds,/parts/mopar-spring~4815664.html
+8,4815665,SPRING,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.9 x 3.1 x 1.5 inches,0.90 Pounds,/parts/mopar-spring~4815665.html
+9,6035731,RIVET,,2001-2002,Base,6 Cyl 3.5L,8,1,,,,available,5,3.93,2.7 x 0.5 x 0.5 inches,0.60 Pounds,/parts/mopar-rivet~6035731.html
+10,4815522AC,SPRING,,2001,Base,6 Cyl 3.5L,,,4815522AD,,,available,21.7,15.15,4.0 x 1.4 x 0.8 inches,0.50 Pounds,/parts/mopar-spring~4815522ac.html
+,4815770AB,LICENSE PLATE Package,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.4 x 5.0 x 0.8 inches,0.60 Pounds,/parts/mopar-plate-package~4815770ab.html
+,6035201,RIVET,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,12.2,8.45,2.8 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-rivet~6035201.html

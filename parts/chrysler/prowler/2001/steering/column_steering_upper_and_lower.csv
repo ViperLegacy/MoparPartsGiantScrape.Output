@@ -1,0 +1,26 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786598,SHAFT Intermediate,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,21.9 x 1.7 x 1.7 inches,3.90 Pounds,/parts/mopar-shaft-intermediate~4786598.html
+2,6503985,PIN Spring M8.4x30x1.60,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.2 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-pin-spring~6503985.html
+5,6503210,SCREW Hex Flange Head M10x1.5x35.,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.55,3.09,1.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~6503210.html
+6,6503806,SCREW Tamper Resistant,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,0.60 Pounds,/parts/mopar-screw-tamper-resistant~6503806.html
+7,4897113AA,COLUMN Steering Tilt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,49.5 x 8.2 x 7.4 inches,3.60 Pounds,/parts/mopar-column-steering~4897113aa.html
+19,52078854AB,PLATE Steering Column,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,14.77,11.61,6.6 x 6.2 x 2.8 inches,1.10 Pounds,/parts/mopar-plate-steering-column~52078854ab.html
+20,4815693,SHROUD Steering Column,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.1 x 6.1 x 4.1 inches,1.40 Pounds,/parts/mopar-shroud-steering-column~4815693.html
+21,6101467,NUT Hex Flange M8x1.25,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,8.15,5.65,0.9 x 1.0 x 0.6 inches,0.60 Pounds,/parts/mopar-nut-hex-flange-lock~6101467.html
+22,6503014,NUT AND  WASHER Hex M6x1,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,5.55,2.04,1.2 x 1.2 x 0.5 inches,0.40 Pounds,/parts/mopar-nut-hex~6503014.html
+23,4470105,SCREW Filister Head #8-16x.25,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,,/parts/mopar-screw-filister-head~4470105.html
+24,6035142,SCREW .164-32x1.00,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.1 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-screw~6035142.html
+25,55115711AB,SHROUD Lock Housing,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.2 x 6.5 x 3.6 inches,1.20 Pounds,/parts/mopar-shroud-lock-housing~55115711ab.html
+26,4470103,LEVER Tilt Column Release,,2001-2002,Base,6 Cyl 3.5L,,,,55351006AB,,discontinued,,,5.3 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-lever-tilt-column-release~4470103.html
+28,4815812,SWITCH Ignition,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,250,167.63,4.2 x 4.3 x 5.5 inches,1.20 Pounds,/parts/mopar-switch-ignition~4815812.html
+29,6503845,SCREW Ignition Switch,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5.25,2.48,1.0 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-screw-ignition-switch~6503845.html
+,4147318,BEARING Steering Column Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,23.4,12.25,1.9 x 1.9 x 0.6 inches,0.50 Pounds,/parts/mopar-bearing-steering-column-shaft~4147318.html
+,4147318,BEARING Steering Column Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,23.4,12.25,1.9 x 1.9 x 0.6 inches,0.50 Pounds,/parts/mopar-bearing-steering-column-shaft~4147318.html
+,4680401,BRACKET,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,11.37,8.93,1.4 x 1.7 x 1.1 inches,0.60 Pounds,/parts/mopar-bracket~4680401.html
+,5274178,CLIP Seat,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.85,3.81,1.7 x 1.0 x 0.8 inches,1.40 Pounds,/parts/mopar-retainer-seat~5274178.html
+,52079094AC,SEAL Steering Column Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,52079094AB,,discontinued,,,2.2 x 2.2 x 1.7 inches,0.60 Pounds,/parts/mopar-seal-steering-column-shaft~52079094ac.html
+,4470696,SILENCER Steering Column Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-insulator-steering-column-shaft~4470696.html
+,6032364,SNAP RING Steering Column .687,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-snap-ring-steering-column~6032364.html
+,4600185,SPACER Steering Column,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.6 x 1.3 x 0.5 inches,0.50 Pounds,/parts/mopar-spacer-steering-column~4600185.html
+,4326811,SPRING Steering Lock Plate,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.0 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-spring-steering-lock-plate~4326811.html
+,4326926AB,SPRING Tilt Assist,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.33,5.76,3.0 x 0.7 x 0.6 inches,0.40 Pounds,/parts/mopar-spring-tilt-assist~4326926ab.html

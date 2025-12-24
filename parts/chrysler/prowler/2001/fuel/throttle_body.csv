@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4606083,SENSOR Throttle Position,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.0 x 1.7 x 1.2 inches,0.50 Pounds,/parts/mopar-sensor-throttle-position~4606083.html
+2,4865278AC,THROTTLE BODY,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,407,208.15,12.5 x 9.4 x 4.4 inches,3.00 Pounds,/parts/mopar-t-body~4865278ac.html
+3,4861035AC,MOTOR A.I.S.,,2001-2002,Base,6 Cyl 3.5L,,,4861035AE,,,discontinued,,,3.7 x 2.6 x 1.8 inches,0.70 Pounds,/parts/mopar-motor-a-i-s~4861035ac.html
+4,4792265,GASKET Throttle Body,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.2 x 3.8 x 0.7 inches,0.40 Pounds,/parts/mopar-gasket-throttle-body~4792265.html
+5,4778462,SCREW Throttle Position Sensor,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.3 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-throttle-position-sensor~4778462.html
+6,5003467AA,SCREW A.I.S. Motor,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.8 x 0.3 x 0.3 inches,0.70 Pounds,/parts/mopar-screw-a-i-s-motor~5003467aa.html
+,6502640,BOLT Hex Flange Head M6x1.0x17,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-bolt-hex-flange-head~6502640.html

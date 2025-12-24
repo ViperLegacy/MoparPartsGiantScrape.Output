@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786504AB,TUBE Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,93.9 x 22.4 x 19.8 inches,1.90 Pounds,/parts/mopar-line-brake~4786504ab.html
+2,4683653,CLIP Tube,,2001-2002,Base,6 Cyl 3.5L,,,,,Mounting Brake Tube to Engine Crossmember,available,6.2,2.21,1.4 x 1.1 x 0.6 inches,0.40 Pounds,/parts/mopar-retainer-tube~4683653.html
+2,4683653,CLIP Tube,,2001-2002,Base,6 Cyl 3.5L,7,1,,,Mounting Brake Tube to Front Frame Rail,available,6.2,2.21,1.4 x 1.1 x 0.6 inches,0.40 Pounds,/parts/mopar-retainer-tube~4683653.html
+3,154780,SCREW Tapping .25-20x1.25,,2001-2002,Base,6 Cyl 3.5L,2,1,,,Mounting Front Brake Hose to Front Frame Rail,discontinued,,,,0.40 Pounds,/parts/mopar-screw-tapping~154780.html
+3,154780,SCREW Tapping .25-20x1.25,,2001-2002,Base,6 Cyl 3.5L,,,,,Mounting Brake Tube Clip to Engine Crossmember,discontinued,,,,0.40 Pounds,/parts/mopar-screw-tapping~154780.html
+3,154780,SCREW Tapping .25-20x1.25,,2001-2002,Base,6 Cyl 3.5L,7,1,,,Mounting Brake Tube Clip to Front Frame Rail,discontinued,,,,0.40 Pounds,/parts/mopar-screw-tapping~154780.html
+4,6035727,WASHER,,2001-2002,Base,6 Cyl 3.5L,4,1,,6034942,,available,8.9,6.17,1.3 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-gasket-brake-hose~6035727.html
+5,6035098,BOLT Hex Head .437-20x.937,,2001-2002,Base,6 Cyl 3.5L,2,1,68465997AA,,,discontinued,,,1.2 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6035098.html
+6,4786512AB,HOSE Brake,Right,2001-2002,,6 Cyl 3.5L,,,,,,discontinued,,,,,
+6,4786513AB,HOSE Brake,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,23.3 x 1.6 x 1.1 inches,0.80 Pounds,/parts/mopar-line-brake~4786513ab.html
+7,154780,SCREW Tapping .25-20x1.25,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.40 Pounds,/parts/mopar-screw-tapping~154780.html
+8,4815246,CLIP Fuel Bundle,,2001-2002,Base,6 Cyl 3.5L,7,1,,,,available,2.82,2.21,,0.50 Pounds,/parts/mopar-clip-fuel-bundle~4815246.html
+9,4815559,TUBE Brake,,,,,,,,,,discontinued,,,,,

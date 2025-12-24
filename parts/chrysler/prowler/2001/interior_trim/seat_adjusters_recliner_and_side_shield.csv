@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4897356AA,CLIP Headrest,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-clip-headrest~4897356aa.html
+2,6101448,NUT AND WASHER Hex Nut-Coned Washer M10 x 1.5,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,11.3,7.86,1.2 x 1.2 x 0.8 inches,0.40 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6101448.html
+3,4897357AA,ADJUSTER Manual Seat,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,24.5 x 24.8 x 14.6 inches,28.90 Pounds,/parts/mopar-adjuster-manual-seat~4897357aa.html
+4,4897361AA,HANDLE Recliner,Left,2001-2002,Base,6 Cyl 3.5L,,,4477473,,,available,17.15,15.38,,0.50 Pounds,/parts/mopar-recliner-recliner~4897361aa.html
+4,5003150AA,HANDLE Recliner,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.1 x 2.1 x 1.4 inches,0.50 Pounds,/parts/mopar-recliner-recliner~5003150aa.html
+5,4897360AA,RECLINER Front Seat Back,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,27.16,21.34,11.1 x 3.1 x 3.1 inches,1.40 Pounds,/parts/mopar-recliner-front-seat-back~4897360aa.html
+6,6101085,SCREW/WASHER,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,,,/parts/mopar-screw~6101085.html

@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4815930,"ISOLATOR Frame To Body Upper, Front",,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,6.13,4.82,2.4 x 1.9 x 2.2 inches,1.00 Pounds,/parts/mopar-isolator-frame-to-body~4815930.html
+2,4815931,ISOLATOR Frame To Body Lower Body,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,2.8 x 2.9 x 1.3 inches,0.80 Pounds,/parts/mopar-isolator-frame-to-body~4815931.html
+3,6502698,NUT Hex Flange Lock,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,11.95,8.21,0.9 x 1.4 x 1.4 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-lock~6502698.html
+4,6504408,BOLT,,2001-2002,Base,6 Cyl 3.5L,,,,6507691AA,,available,23.3,17.55,5.1 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-bolt~6504408.html
+5,6506677AA,WASHER Flat,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.7,5.04,2.4 x 2.4 x 0.2 inches,0.60 Pounds,/parts/mopar-washer-flat~6506677aa.html
+7,4865086AA,BRACKET Headlamp,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.2 x 4.1 x 3.4 inches,1.80 Pounds,/parts/mopar-bracket-headlamp~4865086aa.html
+7,4865087AA,BRACKET Headlamp,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.4 x 3.2 x 0.4 inches,1.40 Pounds,/parts/mopar-bracket-headlamp~4865087aa.html
+8,52038805,RETAINER Shock Absorber,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,23.15,4.61,1.9 x 0.2 x 0.2 inches,0.50 Pounds,/parts/mopar-cover-shock-absorber~52038805.html
+9,4815666,ISOLATOR Headlamp Support to Frame,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,2.0 x 2.0 x 1.3 inches,0.50 Pounds,/parts/mopar-isolator-headlamp-support-to-frame~4815666.html
+10,4815667,SPACER Headlamp Support Isolator,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.9 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-spacer-headlamp-support-isolator~4815667.html
+11,6502696,NUT Hex Flange Lock M14x1.50,,2001-2002,Base,6 Cyl 3.5L,,,,6506264AA,,available,9.6,6.52,0.7 x 1.0 x 1.0 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502696.html

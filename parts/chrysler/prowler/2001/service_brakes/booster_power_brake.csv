@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865624AA,HOSE Brake Booster Vacuum,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.4 x 2.4 x 1.6 inches,0.50 Pounds,/parts/mopar-line-brake-booster-vacuum~4865624aa.html
+2,2448761,CLAMP Hose,,2001-2002,Base,6 Cyl 3.5L,2,1,33000784,,,available,5.15,3.5,1.7 x 1.3 x 0.6 inches,0.40 Pounds,/parts/mopar-clamp-hose~2448761.html
+3,4723391,VALVE Brake Booster Check,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,49.05,34.08,5.2 x 4.8 x 1.2 inches,0.40 Pounds,/parts/mopar-valve-brake-booster-check~4723391.html
+4,4883813AA,GROMMET Brake Booster Check Valve,,2001-2002,Base,6 Cyl 3.5L,,,,4723640,,discontinued,,,2.0 x 2.1 x 0.5 inches,0.40 Pounds,/parts/mopar-grommet-brake-booster-check-valve~4883813aa.html
+5,4723642,SEAL Brake Booster To Dash,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.0 x 4.9 x 0.1 inches,0.50 Pounds,/parts/mopar-gasket-brake-booster-to-dash~4723642.html
+6,4882873,BOOSTER Power Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,16.8 x 12.4 x 12.8 inches,11.20 Pounds,/parts/mopar-booster-power-brake~4882873.html
+,3580172,CAP Vacuum,,2001-2002,Base,6 Cyl 3.5L,,,4663032,,,available,16.05,11.13,1.0 x 0.7 x 0.3 inches,0.40 Pounds,/parts/mopar-cap-vacuum~3580172.html
+,4723395,GASKET Brake Master Cylinder,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.3 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-gasket-master-cylinder-to-booster~4723395.html
+,6101467,NUT Hex Flange M8x1.25,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,8.15,5.65,0.9 x 1.0 x 0.6 inches,0.60 Pounds,/parts/mopar-nut-hex-flange-lock~6101467.html

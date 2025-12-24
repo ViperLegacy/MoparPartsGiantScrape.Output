@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,04761839AB,BLOCK Short,,2001-2002,,6 Cyl 3.5L,,,,,Mopar Automatic Transmission Fluid Quart,discontinued,,,,,
+2,4761845AC,BLOCK Short,,2001-2002,Base,6 Cyl 3.5L,,,,,Mopar 10W30 Engine Oil Gallon,discontinued,,,,,/parts/mopar-oil-10w30~4761845ac.html
+2,4897435AC,BLOCK Short,,2001-2002,,6 Cyl 3.5L,,,,,"Contains: Crank, Rods, Pistons, Rings, Pick Up Tube, Oil Pan",discontinued,,,,,
+3,4448856,DOWEL Block To Cylinder Head,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.5 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-dowel-pin~4448856.html
+4,4663870,RETAINER Crankshaft Rear Oil Seal,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-retainer-crankshaft-rear-oil-seal~4663870.html
+5,6102001,BOLT AND  WASHER M6x12,,2001-2002,Base,6 Cyl 3.5L,10,1,,6100276,,discontinued,,,1.0 x 0.4 x 0.4 inches,0.90 Pounds,/parts/mopar-bolt-hex-head~6102001.html
+6,4663625,SEAL Rear Main Crankshaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,42.24,32.69,4.8 x 4.7 x 0.5 inches,0.50 Pounds,/parts/mopar-seal-rear-main-crankshaft~4663625.html
+7,6505643AA,DOWEL Block To Clutch Housing,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,3.2,2.16,0.8 x 0.6 x 0.7 inches,0.60 Pounds,/parts/mopar-dowel-pin-block-to-clutch-housing~6505643aa.html
+8,4663941,PLUG Core 1.00 Diameter,,2001-2002,Base,6 Cyl 3.5L,2,1,4663941AB,,,available,7.05,4.78,0.6 x 1.2 x 1.3 inches,0.40 Pounds,/parts/mopar-plug-core~4663941.html
+11,4556018AB,PLUG Cylinder Block Oil Hole,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,10.75,7.46,0.7 x 0.7 x 0.2 inches,0.70 Pounds,/parts/mopar-plug-core~4556018ab.html
+12,6504102,BOLT Hex Flange Head,,2001-2002,Base,6 Cyl 3.5L,8,1,,,,discontinued,,,4.5 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-bolt-hex-flange-head~6504102.html
+,4897732AA,GASKET PACKAGE Engine,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,90.07,70.78,19.2 x 15.6 x 1.9 inches,1.60 Pounds,/parts/mopar-gskt-kit-engine-lower~4897732aa.html
+,4556020,PLUG Core 1.25 Diameter,,2001-2002,Base,6 Cyl 3.5L,4,1,4556020AB,,,available,7.05,4.78,0.5 x 1.4 x 1.4 inches,0.40 Pounds,/parts/mopar-plug-core~4556020.html
+,4663942,PLUG Core 1.50 Diameter,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,1.3 x 1.2 x 0.7 inches,0.50 Pounds,/parts/mopar-plug-core~4663942.html

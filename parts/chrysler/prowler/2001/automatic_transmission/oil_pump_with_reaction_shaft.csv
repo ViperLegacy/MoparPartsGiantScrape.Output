@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,5013050AA,PUMP Transmission Oil,,2001,Base,6 Cyl 3.5L,,,,,,available,175,118.44,8.7 x 8.7 x 10.0 inches,13.20 Pounds,/parts/mopar-pump-transmission-oil~5013050aa.html
+2,R5013050AA,PUMP Transmission Oil,,2001,Base,6 Cyl 3.5L,,,,,"Transmission Oil, PUMP",available,226,121.82,12.1 x 12.1 x 8.8 inches,12.30 Pounds,/parts/mopar-pump-transmission-oil~r5013050aa.html
+3,4471874,SEAL Ring Reaction Support 2 1/16 O.D.,,2001-2002,Base,6 Cyl 3.5L,4,1,,"J8126790, 4659408",,available,21.7,15.15,2.4 x 2.4 x 0.3 inches,0.40 Pounds,/parts/mopar-seal-ring-reaction-support~4471874.html
+4,6500211,BOLT Hex Head M8x1.25x19,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,6.7,4.6,1.5 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6500211.html
+5,4446616,BALL Check,,2001-2002,Base,6 Cyl 3.5L,2,1,,147482,,discontinued,,,0.7 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-ball-check~4446616.html
+6,4659126,GASKET Transmission  Oil Pump,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.1 x 12.5 x 13.7 inches,0.60 Pounds,/parts/mopar-gasket-transmission-oil-pump~4659126.html
+7,6506408AA,SCREW AND WASHER Hex Flange Head M8x1.25x25,,2001-2002,Base,6 Cyl 3.5L,5,1,,,,available,5.15,3.55,1.5 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-screw-hex-flange-head~6506408aa.html
+8,4659945,SEAL Oil Pump,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.7,8.85,0.7 x 4.2 x 4.8 inches,0.40 Pounds,/parts/mopar-seal-oil-pump~4659945.html
+9,2466796,BUSHING Front Pump,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-bushing-front-pump~2466796.html
+10,4412475,SEAL Impeller Hub 57.25mm OD,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,37.05,25.69,0.7 x 2.7 x 2.7 inches,0.50 Pounds,/parts/mopar-seal-impeller~4412475.html
+,4883272,SEAL AND GASKET PACKAGE Transmission Oil Pump,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.5 x 10.1 x 0.8 inches,0.80 Pounds,/parts/mopar-seal-pkg-transmission-oil-pump~4883272.html

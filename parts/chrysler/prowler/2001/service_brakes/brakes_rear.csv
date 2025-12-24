@@ -1,0 +1,29 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4897665AA,PAD KIT Rear Disc Brake,,,,,,,,,,discontinued,,,,,
+2,4762551,PISTON PACKAGE Disc Brake,,2001,Base,6 Cyl 3.5L,,,5066699AB,,,available,87.65,58.95,3.5 x 2.6 x 3.8 inches,0.50 Pounds,/parts/mopar-piston-disc-brake~4762551.html
+3,5011072AA,CALIPER Disc Brake,Right,2001-2002,Base,6 Cyl 3.5L,,,,5011070AA,,available,147,99.18,6.3 x 3.3 x 6.6 inches,6.40 Pounds,/parts/mopar-caliper-disc-brake~5011072aa.html
+3,5011073AA,CALIPER Disc Brake,Left,2001-2002,Base,6 Cyl 3.5L,,,,5011071AA,,available,129,111.64,7.1 x 6.4 x 6.3 inches,2.80 Pounds,/parts/mopar-caliper-disc-brake~5011073aa.html
+4,4383471,BUSHING Disc Brake Caliper,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,13.35,10.41,2.5 x 1.0 x 1.0 inches,0.80 Pounds,/parts/mopar-bushing-disc-brake-caliper~4383471.html
+5,3780788,SCREW Bleeder,,2001-2002,Base,6 Cyl 3.5L,,,5015248AB,,,available,30.3,20.97,1.2 x 0.5 x 0.4 inches,0.50 Pounds,/parts/mopar-screw-bleeder~3780788.html
+7,4423573,SLEEVE Disc Brake Caliper,,2001-2002,Base,6 Cyl 3.5L,,,5018238AB,,,available,18.55,12.82,2.5 x 0.8 x 0.7 inches,1.20 Pounds,/parts/mopar-sleeve-disc-brake-caliper~4423573.html
+8,4886493AA,SHOE AND LINING KIT Parking Brake,,,,,,,,,,discontinued,,,,,
+9,4383543,CLIP Brake Shoe Hold Down,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.3,6.92,1.4 x 0.6 x 0.2 inches,0.40 Pounds,/parts/mopar-retainer-brake-shoe-hold-down~4383543.html
+10,4509504,SOCKET Brake Adjusting Screw,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,23.8,16.51,1.2 x 0.6 x 0.6 inches,0.70 Pounds,/parts/mopar-adjuster-brake-adjusting-screw~4509504.html
+11,4383539,NUT Parking Brake Adjusting,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,27.3,18.97,0.8 x 0.8 x 0.3 inches,0.70 Pounds,/parts/mopar-nut-parking-brake-adjusting~4383539.html
+12,4886496AA,SPRING Park Brake Shoe Return,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-spring-park-brake-shoe-return~4886496aa.html
+13,4509503,SCREW Parking Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,26.3,18.29,1.5 x 0.4 x 0.4 inches,0.60 Pounds,/parts/mopar-screw-parking-brake~4509503.html
+14,4865288AA,KNUCKLE Rear,Right,2001-2002,Base,6 Cyl 3.5L,,,,4786618AC,,discontinued,,,14.4 x 8.1 x 6.2 inches,6.60 Pounds,/parts/mopar-knuckle-rr~4865288aa.html
+14,4865289AA,KNUCKLE Rear,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,14.4 x 8.1 x 6.1 inches,6.70 Pounds,/parts/mopar-knuckle-rr~4865289aa.html
+15,6101662,SCREW AND WASHER Hex Head M12x1.75x70,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,discontinued,,,3.3 x 1.2 x 1.2 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6101662.html
+16,4593450AA,HUB AND BEARING Brake,,2001-2002,Base,6 Cyl 3.5L,,,,4593003AB,with Seal,discontinued,,,7.0 x 7.1 x 6.1 inches,8.90 Pounds,/parts/mopar-hub-brake~4593450aa.html
+16,V2503450AA,HUB AND BEARING Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,Mopar V-Line Alternative Part,available,145,90.38,7.1 x 7.0 x 5.9 inches,8.50 Pounds,/parts/mopar-hub-brake~v2503450aa.html
+17,6503007,STUD Hub,,2001,Base,6 Cyl 3.5L,5,1,,,,available,18.75,14.51,2.0 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-stud-hub~6503007.html
+18,4815750,ROTOR Brake,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.5 x 12.6 x 2.0 inches,7.40 Pounds,/parts/mopar-rotor-brake~4815750.html
+19,6502541,NUT Hex Flange Lock M27x2,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.8 x 1.9 x 0.7 inches,0.60 Pounds,/parts/mopar-nut-hex-flange-lock~6502541.html
+,4886490AA,ADAPTER Parking Brake,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.4 x 8.2 x 5.0 inches,6.30 Pounds,/parts/mopar-adapter-parking-brake~4886490aa.html
+,4886491AA,ADAPTER Parking Brake,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,11.1 x 9.6 x 5.2 inches,0.50 Pounds,/parts/mopar-adapter-parking-brake~4886491aa.html
+,6502527,BOLT Hex Flange Head M8-1.25x68.50,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,8.3,5.71,3.3 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-bolt-hex-flange-head~6502527.html
+,4897342AA,BOOT Parking Brake Lever,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,20.07,15.77,3.2 x 3.1 x 2.0 inches,0.70 Pounds,/parts/mopar-boot-parking-brake-lever~4897342aa.html
+,4897343AA,LEVER KIT Rear Wheel Brake Adjust Pivot,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.9 x 2.9 x 1.9 inches,0.90 Pounds,/parts/mopar-boot-rear-wheel-brake-adjust-piv~4897343aa.html
+,4762536,PIN Brake Shoe Hold Down,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.4 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-pin-brake-shoe-hold-down~4762536.html
+,4886497AA,SPRING Adjusting Shoe,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1.58,1.24,4.6 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-spring-adjusting-shoe~4886497aa.html

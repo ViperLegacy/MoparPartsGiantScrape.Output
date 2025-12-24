@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786151,PANEL Deck Opening,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,94.5 x 15.2 x 14.4 inches,12.00 Pounds,/parts/mopar-panel-deck-opening~4786151.html
+2,4815468,PANEL Decklid Opening,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Lower Outer Rear,available,55.68,43.75,11.7 x 4.6 x 5.4 inches,0.60 Pounds,/parts/mopar-panel-decklid-opening~4815468.html
+2,4815469,PANEL Decklid Opening,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Lower Outer Rear,discontinued,,,20.3 x 6.4 x 5.2 inches,1.40 Pounds,/parts/mopar-panel-decklid-opening~4815469.html
+3,4815470,PANEL Decklid Opening,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Lower Outer Front,available,161.02,126.53,0.3 x 0.3 x 0.3 inches,0.60 Pounds,/parts/mopar-panel-decklid-opening~4815470.html
+3,4815471,PANEL Decklid Opening,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Lower Outer Front,discontinued,,,18.9 x 5.7 x 4.1 inches,0.50 Pounds,/parts/mopar-panel-decklid-opening~4815471.html
+4,4874340,PANEL Deck Opening,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,43.7 x 6.1 x 5.7 inches,2.00 Pounds,/parts/mopar-panel-deck-opening~4874340.html
+5,4815255AC,PANEL Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,987.11,775.72,,50.00 Pounds,/parts/mopar-decklid-decklid~4815255ac.html
+,SN15VXLAA,CARPET Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,54.0 x 32.6 x 1.8 inches,2.20 Pounds,/parts/mopar-carpet-decklid~sn15vxlaa.html
+,4865192AA,SHIM Rear Quarter and Valance Attach 1.5 mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.9 x 0.9 x 0.1 inches,0.90 Pounds,/parts/mopar-shim-rear-quarter-and-valance-at~4865192aa.html
+,4865193AA,SHIM Rear Quarter and Valance Attach 2.5 mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.9 x 0.9 x 0.1 inches,0.90 Pounds,/parts/mopar-shim-rear-quarter-and-valance-at~4865193aa.html
+,4865194AA,SHIM Rear Quarter and Valance Attach 3.5 mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.9 x 0.9 x 0.1 inches,0.90 Pounds,/parts/mopar-shim-rear-quarter-and-valance-at~4865194aa.html

@@ -1,0 +1,24 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5264912AA,FRAME Underbody,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,156.6 x 64.4 x 24.2 inches,657.60 Pounds,/parts/mopar-frame-underbody~5264912aa.html
+2,4815352,REINFORCEMENT Radiator Brace,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.5 x 2.0 x 2.1 inches,0.50 Pounds,/parts/mopar-reinfmnt-radiator-brace~4815352.html
+3,4865186AB,BRACKET Trans. Crossmember to Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,16.8 x 5.1 x 4.1 inches,3.30 Pounds,/parts/mopar-bracket~4865186ab.html
+6,4865184AA,ISOLATOR Crossmember Trans. Crossmember to  Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.6 x 10.4 x 6.1 inches,2.90 Pounds,/parts/mopar-isolator-crossmember~4865184aa.html
+7,4865185AA,ISOLATOR Crossmember Trans. Crossmember to  Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.9 x 4.8 x 3.7 inches,0.60 Pounds,/parts/mopar-isolator-crossmember~4865185aa.html
+10,4865211AA,SNUBBER Transmission Crossmember,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.2 x 1.7 x 1.6 inches,0.60 Pounds,/parts/mopar-isolator-trans-crossmember~4865211aa.html
+11,4865083AA,PLATE Crossmember,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.4 x 1.6 x 0.4 inches,0.50 Pounds,/parts/mopar-plate-crossmember~4865083aa.html
+12,4865179AA,PLATE Crossmember,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.98,5.49,8.3 x 5.1 x 4.2 inches,0.80 Pounds,/parts/mopar-plate-crossmember~4865179aa.html
+13,4865180AA,PLATE Crossmember,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-plate-crossmember~4865180aa.html
+14,4865088AB,BRACE Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,26.3 x 3.2 x 1.0 inches,3.00 Pounds,/parts/mopar-bracket-frame~4865088ab.html
+15,4865089AB,BRACE Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,29.6 x 4.2 x 3.0 inches,4.00 Pounds,/parts/mopar-bracket-frame~4865089ab.html
+17,4865090AA,BRACE Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,14.3 x 4.1 x 3.1 inches,1.40 Pounds,/parts/mopar-bracket-frame~4865090aa.html
+18,4865091AA,BRACE Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,17.2 x 2.6 x 3.6 inches,0.60 Pounds,/parts/mopar-bracket-frame~4865091aa.html
+22,4786823,CROSSMEMBER Control Arm Rear,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,29.1 x 4.2 x 3.1 inches,3.20 Pounds,/parts/mopar-c-member-control-arm~4786823.html
+,6505014AA,NUT & WASHER Hex M10X1.5 Front Brace Attaching,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,discontinued,,,1.1 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-nut-hex~6505014aa.html
+,6505014AA,NUT & WASHER Hex M10X1.5 Trans. Crossmember to Frame,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.1 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-nut-hex~6505014aa.html
+,6101695,NUT Hex Flange Lock M8x1.25 Rear Lower Control Arm Attaching,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5.05,3.44,0.9 x 0.9 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6101695.html
+,6502698,NUT Hex Flange Lock Trans. Crossmember to Isolator,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,11.95,8.21,0.9 x 1.4 x 1.4 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-lock~6502698.html
+,4716182,PAD Jack,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.7 x 2.7 x 1.8 inches,1.00 Pounds,/parts/mopar-pad-jack~4716182.html
+,4716183,PAD Jack,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-pad-jack~4716183.html
+,6502954,SCREW AND WASHER Hex Head M10x1.5x53 Trans. Crossmember to Frame,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5.7,3.96,3.2 x 1.0 x 0.3 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6502954.html
+,6502929,SCREW AND WASHER Hex Head M8x1.25x110 Rear Lower Control Arm Attaching,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,12.7,8.68,5.2 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-screw-hex-head-locking~6502929.html
+,6102081AA,SCREW Hex Flange Head M14x2.00x140.00 Trans. Crossmember to Isolator,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,39.45,27.55,6.1 x 1.1 x 1.0 inches,0.70 Pounds,/parts/mopar-screw-hex-flange-head~6102081aa.html

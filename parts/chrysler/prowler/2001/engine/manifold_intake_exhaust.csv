@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5013871AB,PLENUM Intake Manifold,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,29.3 x 26.5 x 8.6 inches,12.30 Pounds,/parts/mopar-plenum-intake-manifold~5013871ab.html
+2,4663851,GASKET Intake Plenum,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,44.55,30.93,0.7 x 3.3 x 14.8 inches,0.50 Pounds,/parts/mopar-gasket-intake-plenum~4663851.html
+3,6101953,BOLT,,2001-2002,Base,6 Cyl 3.5L,7,1,,,,available,3.1,2.1,3.6 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-bolt~6101953.html
+4,6101745,SCREW AND WASHER Hex Head M8x1.25x55,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,discontinued,,,2.3 x 0.6 x 0.6 inches,0.80 Pounds,/parts/mopar-bolt-hex-head~6101745.html
+5,6101746,SCREW AND WASHER Hex Head M8x1.25x65,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,5.95,2.1,2.7 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6101746.html
+6,5017188AA,MANIFOLD Intake,,2001-2002,Base,6 Cyl 3.5L,,,,"4792184AC, 4792184",,discontinued,,,29.6 x 7.1 x 7.4 inches,8.90 Pounds,/parts/mopar-manifold-intake~5017188aa.html
+7,4663852,GASKET Intake Manifold,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,19.8 x 6.2 x 0.5 inches,0.50 Pounds,/parts/mopar-gasket-intake-manifold~4663852.html
+8,4792456AA,MANIFOLD Exhaust,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,15.8 x 10.6 x 4.7 inches,7.70 Pounds,/parts/mopar-manifold-exhaust~4792456aa.html
+8,4792457AA,MANIFOLD Exhaust,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,16.3 x 10.7 x 6.3 inches,2.20 Pounds,/parts/mopar-manifold-exhaust~4792457aa.html
+9,6503279,BOLT Hex Flange Head M8x1.25x55,,2001-2002,Base,6 Cyl 3.5L,20,1,,6101383,,available,9.2,6.23,2.9 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-bolt-hex-flange-head~6503279.html
+10,4663860,SHIELD Exhaust Manifold,,2001-2002,Base,6 Cyl 3.5L,,,,,Lower Right,discontinued,,,15.4 x 8.0 x 2.5 inches,1.30 Pounds,/parts/mopar-shield-exhaust-manifold~4663860.html
+10,4663861,SHIELD Exhaust Manifold,,2001-2002,Base,6 Cyl 3.5L,,,,,Upper Right,available,15.14,11.89,14.3 x 8.0 x 1.9 inches,1.20 Pounds,/parts/mopar-shield-exhaust-manifold~4663861.html
+10,4663959,SHIELD Exhaust Manifold,,2001-2002,Base,6 Cyl 3.5L,,,,,Upper Left,discontinued,,,14.6 x 8.5 x 2.1 inches,1.10 Pounds,/parts/mopar-shield-exhaust-manifold~4663959.html
+10,4663859,SHIELD Exhaust Manifold,,2001-2002,Base,6 Cyl 3.5L,,,,,Lower Left,discontinued,,,14.6 x 8.3 x 2.3 inches,1.20 Pounds,/parts/mopar-shield-exhaust-manifold~4663859.html
+11,6500274,LOCK NUT M6x1.0x6,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.1 x 0.9 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-m6x1-0x6~6500274.html
+12,4792110,STRUT Intake Manifold,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1.82,1.43,3.1 x 1.6 x 1.0 inches,0.60 Pounds,/parts/mopar-bracket-intake-manifold~4792110.html
+12,4792111,STRUT Intake Manifold,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.5 x 1.4 x 0.8 inches,0.50 Pounds,/parts/mopar-bracket-intake-manifold~4792111.html
+14,4865032AA,NAMEPLATE 3.5L 24 Valve,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.0 x 1.6 x 0.1 inches,0.40 Pounds,/parts/mopar-decal-3-5l-24-valve~4865032aa.html
+,3580172,CAP Vacuum,,2001-2002,Base,6 Cyl 3.5L,,,4663032,,,available,16.05,11.13,1.0 x 0.7 x 0.3 inches,0.40 Pounds,/parts/mopar-cap-vacuum~3580172.html

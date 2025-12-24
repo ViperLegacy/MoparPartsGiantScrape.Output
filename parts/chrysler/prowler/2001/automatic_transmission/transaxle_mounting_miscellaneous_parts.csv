@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,6504449,NUT Hex M10-1.5,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,11.19,8.79,2.8 x 1.6 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-hex~6504449.html
+2,4865186AB,BRACKET,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,16.8 x 5.1 x 4.1 inches,3.30 Pounds,/parts/mopar-bracket~4865186ab.html
+4,4786647,SUPPORT Transmission,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.1 x 4.1 x 3.4 inches,2.00 Pounds,/parts/mopar-insulator-transmission~4786647.html
+5,6506019AA,BOLT AND WASHER Hex Head M10x1.5x30,,2001-2002,Base,6 Cyl 3.5L,2,1,,5143443AA,,available,4.65,3.2,1.6 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6506019aa.html
+6,6502954,SCREW AND WASHER Hex Head M10x1.5x53,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5.7,3.96,3.2 x 1.0 x 0.3 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6502954.html
+7,6505014AA,NUT & WASHER Hex M10X1.5,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,discontinued,,,1.1 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-nut-hex~6505014aa.html
+8,6504681,BOLT,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.0 x 1.1 x 1.1 inches,0.70 Pounds,/parts/mopar-bolt~6504681.html
+9,6502697,NUT Hex Flange Lock M12x1.75,,2001-2002,Base,6 Cyl 3.5L,4,1,6512602AA,,,available,3.55,2.39,0.8 x 1.3 x 1.3 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502697.html
+10,4865185AA,ISOLATOR Crossmember,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.9 x 4.8 x 3.7 inches,0.60 Pounds,/parts/mopar-isolator-crossmember~4865185aa.html
+11,4865184AA,ISOLATOR Crossmember,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.6 x 10.4 x 6.1 inches,2.90 Pounds,/parts/mopar-isolator-crossmember~4865184aa.html
+12,6102081AA,SCREW Hex Flange Head M14x2.00x140.00,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,39.45,27.55,6.1 x 1.1 x 1.0 inches,0.70 Pounds,/parts/mopar-screw-hex-flange-head~6102081aa.html
+13,6502698,NUT Hex Flange Lock,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,11.95,8.21,0.9 x 1.4 x 1.4 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-lock~6502698.html
+14,4865179AA,PLATE Crossmember,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.98,5.49,8.3 x 5.1 x 4.2 inches,0.80 Pounds,/parts/mopar-plate-crossmember~4865179aa.html
+14,4865180AA,PLATE Crossmember,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-plate-crossmember~4865180aa.html
+15,4865211AA,SNUBBER Transmission Crossmember,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.2 x 1.7 x 1.6 inches,0.60 Pounds,/parts/mopar-isolator-trans-crossmember~4865211aa.html
+16,4786956AB,INDICATOR Transmission Fluid Level,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,23.2 x 6.4 x 1.3 inches,0.60 Pounds,/parts/mopar-indicator-transmission-fluid-level~4786956ab.html
+17,4786961,TUBE Transmission Oil Filler,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.08,1.64,14.1 x 8.2 x 8.3 inches,0.80 Pounds,/parts/mopar-tube-trans-oil-filler~4786961.html
+18,5003905AA,O RING Filler Tube,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,9.35,6.47,0.3 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-o-ring-engine-oil-indicator-tube~5003905aa.html

@@ -1,0 +1,25 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786774,HANDLE Hood Safety,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,15.7 x 7.1 x 1.3 inches,0.50 Pounds,/parts/mopar-handle-hood-safety~4786774.html
+2,J4007599,RIVET Flange Head .187x.414,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.9 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-retainer-flange-head~j4007599.html
+3,6100556,BOLT AND CONED WASHER Hex Head M6x16x14,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.8 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6100556.html
+4,4756314,STRIKER Hood Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,1.10 Pounds,/parts/mopar-striker-hood-latch~4756314.html
+5,6100583,BOLT AND CONED WASHER Hex Head M8x25x20 Hood Latch Attaching (m8x1.25x25.00),,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,,14.51,1.2 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6100583.html
+6,4865266AA,CLIP,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.8 x 0.4 x 0.4 inches,0.90 Pounds,/parts/mopar-clip~4865266aa.html
+7,34201872,NUT Snap In M4.2 x 1.41,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,6.92,5.44,0.7 x 0.6 x 0.4 inches,0.50 Pounds,/parts/mopar-nut-snap-in~34201872.html
+8,4786415,RELEASE Hood Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,20.8 x 15.8 x 3.2 inches,0.70 Pounds,/parts/mopar-latch-hood-latch~4786415.html
+9,6035202,SCREW,,2001,Base,6 Cyl 3.5L,2,1,,,,available,0.7,0.47,0.8 x 0.4 x 0.3 inches,0.40 Pounds,/parts/mopar-screw~6035202.html
+10,4786775,SEAL Radiator,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,15.59,12.25,21.6 x 15.8 x 5.3 inches,1.90 Pounds,/parts/mopar-seal-radiator~4786775.html
+11,6101723,SCREW AND WASHER Hex Head M8x1.25x50,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,6.2,4.19,2.3 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6101723.html
+12,6502734,SCREW M6x1x20,,,,,4,,,,,discontinued,,,,,
+13,4865340AA,END BLOCKER Hood To Cowl,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,21,3.3,10.6 x 2.7 x 2.3 inches,1.20 Pounds,/parts/mopar-stop-bmpr-hood-to-cowl~4865340aa.html
+14,4786147AC,HINGE Hood,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,272,141.47,12.7 x 3.6 x 3.5 inches,1.30 Pounds,/parts/mopar-hinge-hood~4786147ac.html
+14,4786146AC,HINGE Hood,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.6 x 2.9 x 3.4 inches,1.70 Pounds,/parts/mopar-hinge-hood~4786146ac.html
+15,4874314,PANEL Hood,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,63.4 x 78.8 x 8.4 inches,41.50 Pounds,/parts/mopar-hood-hood~4874314.html
+18,4865187AA,SILENCER Hood,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,55.1 x 31.2 x 9.2 inches,5.30 Pounds,/parts/mopar-silencer-hood~4865187aa.html
+20,4865310AA,PROP Hood,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,65.05,45.32,14.6 x 6.3 x 1.3 inches,0.70 Pounds,/parts/mopar-prop-gas-hood~4865310aa.html
+21,4865010AB,BRACKET Strut To Body Hinge Pillar,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 3.2 x 2.0 inches,1.10 Pounds,/parts/mopar-bracket-strut-to-body-hinge-pillar~4865010ab.html
+21,4865011AB,BRACKET Strut To Body Hinge Pillar,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.4 x 3.1 x 3.3 inches,1.10 Pounds,/parts/mopar-bracket-strut-to-body-hinge-pillar~4865011ab.html
+22,4708439,LATCH Hood,,2001-2002,Base,6 Cyl 3.5L,,,4708439AB,,,discontinued,,,4.2 x 3.0 x 1.1 inches,0.60 Pounds,/parts/mopar-latch-hood~4708439.html
+,4865362AA,BUMPER HOOD SIDE PNL TO FRT QTR PNL,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,,,/parts/mopar-bumper-hood-side-pnl-to-frt-qtr-pn~4865362aa.html
+,6502842,PIN Push M6.35x12.60,,2001-2002,Base,6 Cyl 3.5L,13,1,,,,available,6.33,4.98,1.5 x 1.5 x 0.9 inches,2.40 Pounds,/parts/mopar-retainer-push~6502842.html
+,6101451,SCREW AND WASHER Hex Head M6x1x25,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,unavailable,8.9,6.17,1.4 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-bolt-hex-head~6101451.html

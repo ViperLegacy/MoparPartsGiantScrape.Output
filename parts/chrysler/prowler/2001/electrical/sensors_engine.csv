@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4606133AC,SENSOR Oxygen,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.2 x 1.0 x 1.2 inches,0.60 Pounds,/parts/mopar-sensor-oxygen~4606133ac.html
+2,4606133AC,SENSOR Oxygen,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,4.2 x 1.0 x 1.2 inches,0.60 Pounds,/parts/mopar-sensor-oxygen~4606133ac.html
+3,5269870AB,SENSOR Coolant Temperature,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,86.7,63.55,0.9 x 1.0 x 2.5 inches,0.40 Pounds,/parts/mopar-sensor-coolant-temperature~5269870ab.html
+4,5293985AA,SENSOR MAP,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.3 x 1.9 x 1.5 inches,0.50 Pounds,/parts/mopar-sensor-map~5293985aa.html
+7,4606083,SENSOR Throttle Position,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.0 x 1.7 x 1.2 inches,0.50 Pounds,/parts/mopar-sensor-throttle-position~4606083.html
+8,4686364AA,SENSOR Detonation,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.9 x 4.2 x 1.0 inches,0.60 Pounds,/parts/mopar-sensor-detonation~4686364aa.html
+9,4609086,SENSOR Camshaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.8 x 2.5 x 2.5 inches,0.80 Pounds,/parts/mopar-sensor-camshaft~4609086.html
+10,4707015,SENSOR Oil Pressure,,2001-2002,Base,6 Cyl 3.5L,,,4707015AB,,,available,107,71.1,3.5 x 1.4 x 1.4 inches,1.00 Pounds,/parts/mopar-sensor-oil-pressure~4707015.html
+11,4609153AC,SENSOR Crankshaft,,2001-2002,Base,6 Cyl 3.5L,,,4609153AF,,,discontinued,,,2.8 x 2.0 x 1.8 inches,0.50 Pounds,/parts/mopar-sensor-crankshaft~4609153ac.html

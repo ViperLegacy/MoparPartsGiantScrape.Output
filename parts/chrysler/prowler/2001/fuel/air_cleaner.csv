@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,6035165,SCREW Tapping .19-16x.75,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,0.40 Pounds,/parts/mopar-screw-tapping~6035165.html
+3,4815527,BRACKET Air Cleaner,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.6 x 3.7 x 1.7 inches,0.60 Pounds,/parts/mopar-bracket-air-cleaner~4815527.html
+5,4612225,AIR CLEANER,,2001-2002,Base,6 Cyl 3.5L,,,,4815957,,discontinued,,,14.6 x 11.2 x 7.8 inches,2.50 Pounds,/parts/mopar-air-clnr~4612225.html
+6,4815894,BRACKET Air Cleaner,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.6 x 5.3 x 1.4 inches,0.90 Pounds,/parts/mopar-bracket-air-cleaner~4815894.html
+7,4815963AB,DUCT Fresh Air,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,11.2 x 7.1 x 3.0 inches,1.20 Pounds,/parts/mopar-duct-fresh-air~4815963ab.html
+8,4865127AB,SEAL Air Duct,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.5 x 3.1 x 1.2 inches,0.60 Pounds,/parts/mopar-seal-air-duct~4865127ab.html
+,4213583,FILTER Air,,2001-2002,Base,6 Cyl 3.5L,,,4213583AB,,,available,10.4,7.22,6.7 x 12.6 x 13.1 inches,2.80 Pounds,/parts/mopar-filter-air~4213583.html
+,4268295,GROMMET Air Cleaner Bracket,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,10.1,6.99,1.0 x 1.5 x 1.5 inches,0.40 Pounds,/parts/mopar-grommet-air-cleaner-bracket~4268295.html

@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,MB10LAZAD,PANEL Door Trim,,,,,,,,,Right Agate,discontinued,,,,,
+1,MB11LAZAD,PANEL Door Trim,,,,,,,,,Left Agate,discontinued,,,,,
+2,SV10LAZAA,CUP Door Pull,,2001-2002,Base,6 Cyl 3.5L,2,1,HE36LAZAB,,,available,53.05,37.05,5.1 x 2.3 x 1.7 inches,0.50 Pounds,/parts/mopar-cup-door-pull~sv10lazaa.html
+3,6032615,SCREW,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.8 x 0.4 x 0.4 inches,0.80 Pounds,/parts/mopar-screw~6032615.html
+4,6029501,NUT Snap In .164,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-nut-snap-in~6029501.html
+6,6032615,SCREW,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.8 x 0.4 x 0.4 inches,0.80 Pounds,/parts/mopar-screw~6032615.html
+7,6032615,SCREW [.164-18x1.750 Tapping with Washer],,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.8 x 0.4 x 0.4 inches,0.80 Pounds,/parts/mopar-screw~6032615.html
+8,4786768AC,SHIELD Water,Right,2001-2002,Base,6 Cyl 3.5L,,,,4786768AB,,discontinued,,,15.6 x 10.3 x 1.8 inches,1.30 Pounds,/parts/mopar-shield-water~4786768ac.html
+8,4786769AC,SHIELD Water,Left,2001-2002,Base,6 Cyl 3.5L,,,,4786769AB,,discontinued,,,38.0 x 18.8 x 2.4 inches,2.20 Pounds,/parts/mopar-shield-water~4786769ac.html
+9,6035296,NUT Plastic Snap-In For .190-16 Screw,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.8 x 0.4 x 0.8 inches,0.50 Pounds,/parts/mopar-nut-plastic-snap-in~6035296.html
+,TT06DX9AA,BEZEL Remote Control,,2001-2002,Base,6 Cyl 3.5L,,,,TT06LD5AA,Right Inside Door Handle,discontinued,,,7.4 x 3.1 x 1.1 inches,0.50 Pounds,/parts/mopar-bezel-remote-control~tt06dx9aa.html
+,TT07DX9AA,BEZEL Remote Control,,2001-2002,Base,6 Cyl 3.5L,,,,TT07LD5AA,Left Inside Door Handle,available,99.95,75.78,6.3 x 3.1 x 1.1 inches,0.50 Pounds,/parts/mopar-bezel-remote-control~tt07dx9aa.html
+,6503709,PIN Door Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,3.65,2.5,1.1 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-pin-door-panel~6503709.html

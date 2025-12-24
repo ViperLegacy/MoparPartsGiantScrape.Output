@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,6101956,NUT U M6x1.00,,2001-2002,Base,6 Cyl 3.5L,8,1,6510185AA,,,available,1.85,1.28,0.7 x 0.8 x 1.2 inches,0.40 Pounds,/parts/mopar-nut-u~6101956.html
+3,6504352,SCREW,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,7.35,5.5,0.9 x 0.5 x 0.4 inches,0.40 Pounds,/parts/mopar-screw~6504352.html
+5,4815689,BRACKET Quarter Panel to Hood,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.8 x 1.8 x 0.2 inches,0.60 Pounds,/parts/mopar-bracket-quarter-panel-to-hood~4815689.html
+6,4815690,BRACKET Quarter Panel to Hood,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.0 x 3.4 x 1.7 inches,0.90 Pounds,/parts/mopar-bracket-quarter-panel-to-hood~4815690.html
+6,4815691,BRACKET Quarter Panel to Hood,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.0 x 3.5 x 1.6 inches,0.50 Pounds,/parts/mopar-bracket-quarter-panel-to-hood~4815691.html
+8,4865342AA,COVER Sill,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5.87,4.61,16.3 x 7.2 x 1.5 inches,0.50 Pounds,/parts/mopar-cover-sill~4865342aa.html
+8,4865343AA,COVER Sill,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-cover-sill~4865343aa.html
+9,4865014AC,PANEL Quarter Front Quarter and Side Sill,,2001-2002,Base,6 Cyl 3.5L,,,,,Right With Rivet/Nut For Hood Adjuster,discontinued,,,63.6 x 20.4 x 4.5 inches,7.50 Pounds,/parts/mopar-panel-quarter~4865014ac.html
+9,4865015AC,PANEL Quarter Front Quarter and Side Sill,,2001-2002,Base,6 Cyl 3.5L,,,,,Left With Rivet/Nut For Hood Adjuster,available,972,598.91,61.8 x 20.8 x 4.4 inches,10.00 Pounds,/parts/mopar-panel-quarter~4865015ac.html
+,4865254AA,SILENCER Front Quarter to Rear Quarter,,,,,,,,,,discontinued,,,,,
+,4815522AD,SPRING,,2001-2002,Base,6 Cyl 3.5L,,,,"4815522AB, 4815522AC",,available,21.7,3.41,2.6 x 1.4 x 0.8 inches,0.60 Pounds,/parts/mopar-spring~4815522ad.html

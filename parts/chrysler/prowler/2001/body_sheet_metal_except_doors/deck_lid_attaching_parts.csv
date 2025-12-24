@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865110AA,BEZEL KIT Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Folding Top Latch,available,26.12,20.53,2.8 x 2.9 x 1.8 inches,0.60 Pounds,/parts/mopar-bezel-decklid~4865110aa.html
+1,4865111AA,BEZEL KIT Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Folding Top Latch,available,24.07,18.92,2.1 x 2.1 x 2.0 inches,0.70 Pounds,/parts/mopar-bezel-decklid~4865111aa.html
+2,6100044,NUT AND WASHER Hex M5x0.80,,2001,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.4 x 0.4 x 0.3 inches,0.50 Pounds,/parts/mopar-nut-hex~6100044.html
+3,4897904AB,LATCH  KIT Number Four Bow w/Dowel Pins That Attach Convertable Top To Deck Lid,Right,2001-2002,Base,6 Cyl 3.5L,,,,4897904AA,,discontinued,,,3.6 x 3.6 x 1.6 inches,0.70 Pounds,/parts/mopar-latch-number-four-bow~4897904ab.html
+3,4897905AB,LATCH  KIT Number Four Bow w/Dowel Pins That Attach Convertable Top To Deck Lid,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,,32.68,3.6 x 3.7 x 1.6 inches,0.70 Pounds,/parts/mopar-latch-number-four-bow~4897905ab.html
+4,6100988,SCREW AND WASHER Hex Head M6x1x10,,,,,4,,,,,discontinued,,,,,
+5,6100264,BOLT AND CONED WASHER Hex Head M6x14x12.5,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,4.7,3.2,0.7 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6100264.html
+6,4815749,BRACKET Deck Lid Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,9.14,7.18,5.6 x 4.5 x 1.8 inches,0.80 Pounds,/parts/mopar-bracket-deck-lid-latch~4815749.html
+7,4786806AB,HANDLE AND CABLE Folding Top,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,20.0 x 5.5 x 1.9 inches,0.40 Pounds,/parts/mopar-handle-folding-top~4786806ab.html
+8,4865101AA,LATCH Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,1.00 Pounds,/parts/mopar-latch-decklid~4865101aa.html
+9,4786108,HINGE Deck Lid,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,10.2 x 6.1 x 6.1 inches,17.30 Pounds,/parts/mopar-hinge-deck-lid~4786108.html
+10,4815724,GAS PROP DECKLID,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,17.2 x 4.7 x 1.0 inches,0.80 Pounds,/parts/mopar-prop-gas-decklid~4815724.html
+11,4786209AB,WEATHERSTRIP Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,22.9 x 22.7 x 1.6 inches,1.90 Pounds,/parts/mopar-w-strip-decklid~4786209ab.html
+12,6100303,SCREW AND WASHER Hex Head M8x1.25x20,,,,,4,,,,,discontinued,,,,,
+13,6101462,SCREW AND WASHER Hex Head M8x1.25x30,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5.4,3.73,1.5 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6101462.html
+16,4815100,BRACKET Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.1 x 5.7 x 2.5 inches,1.60 Pounds,/parts/mopar-bracket-floor-pan~4815100.html
+17,4416513,BUMPER Liftgate,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.6 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-bumper-liftgate~4416513.html
+18,5253384,PIN Folding Top Header Serviced With Item One (Bezel Kit),,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,,/parts/mopar-none-folding-top-header~5253384.html
+19,4815654,BRACKET Deck Lid Prop,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Lower,available,11.32,8.89,4.7 x 3.2 x 1.3 inches,0.60 Pounds,/parts/mopar-bracket-deck-lid-prop~4815654.html
+19,4815655,BRACKET Deck Lid Prop,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Lower,available,11.32,8.89,5.0 x 3.3 x 1.2 inches,0.60 Pounds,/parts/mopar-bracket-deck-lid-prop~4815655.html
+20,4865303AA,SPRING Deck Lid Pop-up,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.0 x 1.0 x 1.1 inches,0.70 Pounds,/parts/mopar-spring-deck-lid-pop-up~4865303aa.html
+,SN15VXLAA,CARPET Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,54.0 x 32.6 x 1.8 inches,2.20 Pounds,/parts/mopar-carpet-decklid~sn15vxlaa.html
+,4865195AA,ISOLATOR,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,4.48,3.52,8.3 x 4.7 x 0.3 inches,0.40 Pounds,/parts/mopar-isolator~4865195aa.html
+,4865209AA,PLUG Protective,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,9.34,7.34,0.7 x 0.3 x 0.3 inches,0.90 Pounds,/parts/mopar-plug-protective~4865209aa.html
+,4815982,REINFORCEMENT Body Rear Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Body Side Outer Rear To Deck Lid Stabilizer Catch,available,4.12,3.24,4.9 x 1.6 x 0.2 inches,0.60 Pounds,/parts/mopar-reinfmnt-body-rear-panel~4815982.html
+,4815983,REINFORCEMENT Body Rear Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Body Side Outer Rear To Deck Lid Stabilizer Catch,discontinued,,,4.8 x 1.6 x 0.4 inches,0.60 Pounds,/parts/mopar-reinfmnt-body-rear-panel~4815983.html

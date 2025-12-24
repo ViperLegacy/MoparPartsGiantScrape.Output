@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,MB34LAZAB,SEAT BELT Front Outer Extender not offered,,2001-2002,Base,6 Cyl 3.5L,,,,MB34LAZ,Right Agate,discontinued,,,9.1 x 7.1 x 3.5 inches,2.00 Pounds,/parts/mopar-seat-belt-front-outer~mb34lazab.html
+1,MB35LAZAB,SEAT BELT Front Outer Extender not offered,,2001-2002,Base,6 Cyl 3.5L,,,,MB35LAZ,Left Agate,discontinued,,,12.5 x 9.5 x 3.7 inches,1.90 Pounds,/parts/mopar-seat-belt-front-outer~mb35lazab.html
+2,6034457,SCREW Pan Head .437-20x1.375,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,20,14.51,1.7 x 0.8 x 0.4 inches,0.50 Pounds,/parts/mopar-bolt-pan-head~6034457.html
+3,SE091AZAA,SEAT BELT Front Center,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,11.6 x 3.0 x 3.2 inches,0.60 Pounds,/parts/mopar-seat-belt-frt-ctr~se091azaa.html
+4,MB371AZ,SEAT BELT Front Inner,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.8 x 2.3 x 2.6 inches,1.00 Pounds,/parts/mopar-seat-belt-front-inner~mb371az.html
+,PF46DX9AB,COVER QUARTER OUTER BELT TRIM,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Flat Black,discontinued,,,6.6 x 4.1 x 3.1 inches,0.60 Pounds,/parts/mopar-cover-quarter-outer-belt-trim~pf46dx9ab.html
+,PF47DX9AB,COVER QUARTER OUTER BELT TRIM,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Flat Black,discontinued,,,6.2 x 4.1 x 2.7 inches,0.50 Pounds,/parts/mopar-cover-quarter-outer-belt-trim~pf47dx9ab.html
+,RZ761AZAA,GUIDE Seat Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Agate,discontinued,,,3.8 x 3.6 x 2.6 inches,0.40 Pounds,/parts/mopar-retainer-seat-belt~rz761azaa.html
+,RZ771AZAA,GUIDE Seat Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Agate,discontinued,,,4.5 x 4.6 x 1.6 inches,0.40 Pounds,/parts/mopar-retainer-seat-belt~rz771azaa.html
+,6029501,NUT Snap In .164,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-nut-snap-in~6029501.html
+,34201872,NUT Snap In M4.2 x 1.41,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,6.92,5.44,0.7 x 0.6 x 0.4 inches,0.50 Pounds,/parts/mopar-nut-snap-in~34201872.html
+,4815397AC,SEAL Quarter Belt Trim,,2001,Base,6 Cyl 3.5L,,,TC43DX9AB,,Left Agate,available,111,95.94,8.1 x 4.4 x 2.0 inches,0.50 Pounds,/parts/mopar-seal-quarter-belt-trim~4815397ac.html
+,4815396AC,SEAL Quarter Belt Trim,,2001,Base,6 Cyl 3.5L,,,TC42DX9AB,,Right Agate,discontinued,,,8.3 x 5.3 x 2.0 inches,0.50 Pounds,/parts/mopar-seal-quarter-belt-trim~4815396ac.html

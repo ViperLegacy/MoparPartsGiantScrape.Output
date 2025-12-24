@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865355AC,TANK Fuel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,29.9 x 24.0 x 13.7 inches,15.60 Pounds,/parts/mopar-tank-fuel~4865355ac.html
+2,4786639,STRAP Fuel Tank,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,23.5 x 9.5 x 2.1 inches,5.50 Pounds,/parts/mopar-strap-fuel-tank~4786639.html
+3,4865373AB,TUBE Fuel Separator,,,,,,,,,,discontinued,,,,,
+4,6101839,SCREW AND WASHER Hex Head M8x1.25x40,,2001-2002,Base,6 Cyl 3.5L,2,1,,6504179,,available,16.2,11.3,1.7 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6101839.html
+6,4865360AA,FILTER Fuel,,,,,,,,,,discontinued,,,,,
+7,4581239,O RING Fuel Pump and Level Unit,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.3 x 4.8 x 5.7 inches,0.40 Pounds,/parts/mopar-o-ring-fuel-pump-and-level-unit~4581239.html
+8,4695226,NUT Fuel Pump Level Unit,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,13.75,9.49,1.2 x 6.5 x 6.2 inches,0.60 Pounds,/parts/mopar-nut-fuel-pump-level-unit~4695226.html
+,4786717,COVER Fuel Tank Access,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,11.1 x 10.1 x 1.1 inches,1.30 Pounds,/parts/mopar-cover-fuel-tank-access~4786717.html
+,4897416AB,FILTER KIT Fuel,,2001-2002,Base,6 Cyl 3.5L,,,,"4897416AA, 4778226",,discontinued,,,7.1 x 5.2 x 1.5 inches,0.60 Pounds,/parts/mopar-filter-ki-fuel~4897416ab.html
+,6504976AA,NUT AND WASHER Hex M10x1.5,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.5 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-nut-hex~6504976aa.html
+,5016846AB,REGULATOR KIT Fuel Pressure,,2001-2002,Base,6 Cyl 3.5L,,,5016846AE,,,available,249,119.82,6.4 x 6.6 x 3.7 inches,0.90 Pounds,/parts/mopar-regulator-fuel-pressure~5016846ab.html
+,5093967AA,VALVE KIT Fuel Control,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.3 x 4.2 x 3.6 inches,1.00 Pounds,/parts/mopar-valve-pkg-fuel-control~5093967aa.html
+,5093967AA,VALVE KIT Fuel Control,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.3 x 4.2 x 3.6 inches,1.00 Pounds,/parts/mopar-valve-pkg-fuel-control~5093967aa.html

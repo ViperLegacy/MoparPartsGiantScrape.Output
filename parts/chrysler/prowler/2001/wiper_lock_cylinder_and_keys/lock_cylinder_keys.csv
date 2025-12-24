@@ -1,0 +1,31 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5066339AA,KEY Blank,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.7 x 4.2 x 0.2 inches,0.40 Pounds,/parts/mopar-key-blank~5066339aa.html
+2,5066343AA,KEY Valet,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.2 x 0.3 x 1.3 inches,0.50 Pounds,/parts/mopar-key-valet~5066343aa.html
+3,5003845AA,CYLINDER Ignition Lock,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,285,191.76,3.6 x 2.9 x 2.6 inches,1.20 Pounds,/parts/mopar-none-ignition-lock~5003845aa.html
+4,5010879AA,TUMBLER Ignition Number 1 Sidebar,,2001-2002,Base,6 Cyl 3.5L,,,5010879AB,,,available,3.85,2.62,4.8 x 4.1 x 0.1 inches,0.50 Pounds,/parts/mopar-tumbler-ignition-number-1~5010879aa.html
+8,5010883AB,SPRING Ignition Tumbler Sidebar,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,3.85,2.62,4.7 x 1.4 x 1.4 inches,0.40 Pounds,/parts/mopar-spring-tumbler~5010883ab.html
+9,4778124,LOCK CYLINDER,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 2.1 x 1.0 inches,0.60 Pounds,/parts/mopar-cyl-lock~4778124.html
+10,4778117,TUMBLER Door and Deck Number 1 Wide,,2001-2002,Base,6 Cyl 3.5L,,,4778117AB,,,available,4.8,3.32,3.2 x 3.2 x 1.1 inches,0.90 Pounds,/parts/mopar-tumbler-door-and-deck-number-1~4778117.html
+14,4778121,SPRING Door and Deck Tumbler,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,3.45,2.39,0.7 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-spring-tumbler~4778121.html
+15,4480116,RETAINER Lock Cylinder,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-clip-lock-cylinder~4480116.html
+16,6026125,CLIP Retainer,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,18.75,14.51,0.8 x 0.6 x 0.3 inches,0.50 Pounds,/parts/mopar-retainer-retainer~6026125.html
+17,4717288,LEVER Front Door Cylinder,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,16.25,11.3,1.5 x 1.0 x 0.5 inches,0.50 Pounds,/parts/mopar-lever-door-lock-cylinder~4717288.html
+18,4658444,CLIP Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Purple,unavailable,9.6,6.7,0.9 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-clip-latch-link~4658444.html
+18,4658445,CLIP Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Orange,available,11.6,8.04,0.3 x 0.4 x 0.8 inches,0.50 Pounds,/parts/mopar-clip-latch-link~4658445.html
+19,4378793,SPRING Cylinder Return,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.15,2.8,5.7 x 4.1 x 0.2 inches,0.40 Pounds,/parts/mopar-spring-cylinder-return~4378793.html
+20,4778150,"SHUTTER Door, Deck and Liftgate Bright",,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.6 x 4.2 x 0.3 inches,0.40 Pounds,/parts/mopar-shutter-door-deck-and-liftgate~4778150.html
+21,4778149,CAP Door Lock Cylinder Bright,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,14.7,10.25,1.2 x 1.2 x 0.3 inches,0.50 Pounds,/parts/mopar-cyl-lock-door-lock-cylinder~4778149.html
+22,4746315,CYLINDER Glove Box Lock,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,66.5,46.48,5.8 x 4.1 x 0.8 inches,0.40 Pounds,/parts/mopar-cyl-lock-glove-box-lock~4746315.html
+23,5257132,TUMBLER Ignition Number 1,,2001-2002,Base,6 Cyl 3.5L,,,5257132AB,,,available,4.95,3.44,,0.50 Pounds,/parts/mopar-tumbler-ignition-number-1~5257132.html
+27,4746873,SPRING Lock Cylinder Tumbler,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.7,3.26,,0.40 Pounds,/parts/mopar-spring-lock-cylinder-tumbler~4746873.html
+28,4686481AC,TRANSMITTER Keyless Entry,,2001-2002,Base,6 Cyl 3.5L,2,1,4686481AF,,,available,142,95.37,3.1 x 1.7 x 0.8 inches,0.50 Pounds,/parts/mopar-tramsmtr-keyless-entry~4686481ac.html
+29,4686473AB,MODULE Keyless Entry Receiver,,2001-2002,Base,6 Cyl 3.5L,,,,4686473AA,,discontinued,,,3.8 x 3.5 x 2.6 inches,0.60 Pounds,/parts/mopar-module-keyless-entry-receiver~4686473ab.html
+,4778118,TUMBLER Door and Deck Number 2 Wide,,2001-2002,Base,6 Cyl 3.5L,,,4778118AB,,,available,5.4,3.73,0.6 x 0.3 x 0.1 inches,0.40 Pounds,/parts/mopar-tumbler-door-and-deck-number-2~4778118.html
+,4778119,TUMBLER Door and Deck Number 3 Wide,,2001-2002,Base,6 Cyl 3.5L,,,4778119AB,,,available,5.4,3.73,0.7 x 0.3 x 0.1 inches,1.00 Pounds,/parts/mopar-tumbler-door-and-deck-number-3~4778119.html
+,4778120,TUMBLER Door and Deck Number 4 Wide,,2001-2002,Base,6 Cyl 3.5L,,,4778120AB,,,available,5.4,3.73,0.7 x 0.3 x 0.1 inches,0.50 Pounds,/parts/mopar-tumbler-door-and-deck-number-4~4778120.html
+,5257133,TUMBLER Ignition Number 2,,2001-2002,Base,6 Cyl 3.5L,,,5257133AB,,,available,3.95,2.74,0.6 x 0.4 x 0.8 inches,0.50 Pounds,/parts/mopar-tumbler-ignition-number-2~5257133.html
+,5010880AA,TUMBLER Ignition Number 2 Sidebar,,2001-2002,Base,6 Cyl 3.5L,,,5010880AB,,,available,3.85,2.62,,0.50 Pounds,/parts/mopar-tumbler-ignition-number-2~5010880aa.html
+,5257134,TUMBLER Ignition Number 3,,2001-2002,Base,6 Cyl 3.5L,,,5257134AB,,,available,4.95,3.44,0.6 x 0.4 x 0.8 inches,0.50 Pounds,/parts/mopar-tumbler-ignition-number-3~5257134.html
+,5010881AA,TUMBLER Ignition Number 3 Sidebar,,2001-2002,Base,6 Cyl 3.5L,,,5010881AB,,,available,3.85,2.62,,0.50 Pounds,/parts/mopar-tumbler-ignition-number-3~5010881aa.html
+,5257135,TUMBLER Ignition Number 4,,2001-2002,Base,6 Cyl 3.5L,,,5257135AB,,,available,4.95,3.44,,0.50 Pounds,/parts/mopar-tumbler-ignition-number-4~5257135.html
+,5010882AA,TUMBLER Ignition Number 4 Sidebar,,2001-2002,Base,6 Cyl 3.5L,,,5010882AB,,,available,3.85,2.62,,0.50 Pounds,/parts/mopar-tumbler-ignition-number-4~5010882aa.html

@@ -1,0 +1,24 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4573460,ROCKER ARM Intake,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,90.25,44.32,1.8 x 2.6 x 3.7 inches,0.80 Pounds,/parts/mopar-arm-intake~4573460.html
+2,4573459,ROCKER ARM Intake,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,90.25,44.32,1.9 x 2.6 x 3.8 inches,0.80 Pounds,/parts/mopar-arm-intake~4573459.html
+3,4315823,SHAFT Rocker Arm,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,66,45.16,15.2 x 0.6 x 0.6 inches,1.60 Pounds,/parts/mopar-shaft-rocker-arm~4315823.html
+4,4663998,SHAFT Rocker Arm,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,15.3 x 0.7 x 0.7 inches,1.60 Pounds,/parts/mopar-shaft-rocker-arm~4663998.html
+5,4663071,PEDESTAL Rocker Shaft,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.3 x 0.3 x 0.3 inches,0.60 Pounds,/parts/mopar-support-rocker-shaft~4663071.html
+6,4663996,ROCKER ARM Exhaust,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,113,74.42,2.6 x 3.4 x 3.7 inches,1.00 Pounds,/parts/mopar-arm-exhaust~4663996.html
+7,4663072,PEDESTAL Rocker Shaft,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,3.8 x 2.6 x 1.9 inches,0.70 Pounds,/parts/mopar-support-rocker-shaft~4663072.html
+8,6503279,BOLT Hex Flange Head M8x1.25x55,,2001-2002,Base,6 Cyl 3.5L,20,1,,6101383,,available,9.2,6.23,2.9 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-bolt-hex-flange-head~6503279.html
+9,4663073,PEDESTAL Rocker Shaft,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,37.85,26.45,3.6 x 2.0 x 1.7 inches,0.60 Pounds,/parts/mopar-support-rocker-shaft~4663073.html
+10,4536513,LOCK Valve Spring Retainer,,,,,48,,,,,discontinued,,,,,
+11,4556547,RETAINER Valve Spring,,2001-2002,Base,6 Cyl 3.5L,24,1,,,,available,8.2,5.65,1.1 x 1.1 x 0.3 inches,0.40 Pounds,/parts/mopar-retainer-valve-spring~4556547.html
+12,4792215,SPRING Intake Valve,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,available,11.3,8.52,1.8 x 1.1 x 1.1 inches,0.50 Pounds,/parts/mopar-spring-intake-valve~4792215.html
+13,4792216AB,SPRING Exhaust Valve,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,available,1.6,1.11,2.0 x 1.0 x 1.0 inches,1.80 Pounds,/parts/mopar-spring-exhaust-valve~4792216ab.html
+14,4663002,SEAL Valve Guide,,2001-2002,Base,6 Cyl 3.5L,24,1,4892292AA,,,available,19.15,13.22,1.0 x 1.2 x 1.3 inches,0.40 Pounds,/parts/mopar-seal-valve-guide~4663002.html
+15,4663836,VALVE Intake Standard,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,available,38.35,26.24,5.1 x 2.1 x 1.6 inches,0.60 Pounds,/parts/mopar-valve-intake~4663836.html
+16,4663347,VALVE Exhaust Standard,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,discontinued,,,5.4 x 1.3 x 1.4 inches,0.50 Pounds,/parts/mopar-valve-exhaust~4663347.html
+17,6502847,SCREW AND WASHER Hex Head M8x1.25x25,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,5.75,4.26,1.3 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-bolt-hex-head~6502847.html
+18,4536492,SEAL Camshaft Thrust,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,2.6 x 2.6 x 0.1 inches,1.20 Pounds,/parts/mopar-seal-thrust-plate~4536492.html
+19,4556518,PLATE Camshaft Thrust,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,,/parts/mopar-plate-camshaft-thrust~4556518.html
+20,4792318,SEAL Camshaft,,2001-2002,Base,6 Cyl 3.5L,2,1,4792318AB,,,available,32.55,22.54,0.6 x 2.1 x 2.3 inches,0.40 Pounds,/parts/mopar-seal-camshaft~4792318.html
+21,4663887,CAMSHAFT,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,available,481.73,378.56,25.5 x 6.2 x 5.2 inches,7.50 Pounds,/parts/mopar-camshaft~4663887.html
+21,4663886,CAMSHAFT,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,23.1 x 5.2 x 2.1 inches,5.90 Pounds,/parts/mopar-camshaft~4663886.html
+,4573379,DOWEL Rocker,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,8.15,5.59,0.5 x 0.5 x 1.1 inches,0.40 Pounds,/parts/mopar-dowel-pin-rocker~4573379.html

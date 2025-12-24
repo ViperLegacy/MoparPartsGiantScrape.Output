@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786214AC,WEATHERSTRIP Front Door,,2001-2002,Base,6 Cyl 3.5L,2,1,,4786214AB,,discontinued,,,12.4 x 8.4 x 1.0 inches,0.80 Pounds,/parts/mopar-w-strip-frt-door~4786214ac.html
+2,4815136AB,WEATHERSTRIP Front Door,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Body Mounting,discontinued,,,10.1 x 8.8 x 1.3 inches,0.80 Pounds,/parts/mopar-w-strip-frt-door~4815136ab.html
+2,4815137AB,WEATHERSTRIP Front Door,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Body Mounting,discontinued,,,26.8 x 1.3 x 0.8 inches,0.70 Pounds,/parts/mopar-w-strip-frt-door~4815137ab.html
+5,6029501,NUT Snap In .164,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-nut-snap-in~6029501.html
+6,4865214AA,SHIELD Splash,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,17.1 x 6.0 x 0.7 inches,0.60 Pounds,/parts/mopar-shield-splash~4865214aa.html
+8,4815397AC,SEAL Quarter Belt Trim,Left,2001,Base,6 Cyl 3.5L,,,TC43DX9AB,,,available,111,95.94,8.1 x 4.4 x 2.0 inches,0.50 Pounds,/parts/mopar-seal-quarter-belt-trim~4815397ac.html
+8,4815396AC,SEAL Quarter Belt Trim,Right,2001,Base,6 Cyl 3.5L,,,TC42DX9AB,,,discontinued,,,8.3 x 5.3 x 2.0 inches,0.50 Pounds,/parts/mopar-seal-quarter-belt-trim~4815396ac.html
+,4865214AA,SHIELD Splash,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,17.1 x 6.0 x 0.7 inches,0.60 Pounds,/parts/mopar-shield-splash~4865214aa.html
+,4865190AA,STONE GUARD Splash Shield,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Rear Fender,discontinued,,,18.3 x 5.8 x 2.9 inches,0.80 Pounds,/parts/mopar-shield-splash-shield~4865190aa.html
+,4865191AA,STONE GUARD Splash Shield,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Rear Fender,discontinued,,,22.9 x 6.1 x 3.6 inches,0.80 Pounds,/parts/mopar-shield-splash-shield~4865191aa.html

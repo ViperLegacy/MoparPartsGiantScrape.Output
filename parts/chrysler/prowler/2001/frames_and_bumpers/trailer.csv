@@ -1,0 +1,42 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,82204870,TRAILER Cargo Complete,,,,,,,,,Black,discontinued,,,,,
+1,82204876,TRAILER Cargo Complete,,,,,,,,,Red,discontinued,,,,,
+1,82205887,TRAILER Cargo Complete,,,27,,,,,,Orange,discontinued,,,,,
+1,82205888,TRAILER Cargo Complete,,,27,,,,,,Silver,discontinued,,,,,
+1,82206372,TRAILER Cargo Complete,,,,,,,,,Silver with Black Lid,discontinued,,,,,
+1,82207178,TRAILER Cargo Complete,,,,,,,,,Midnight Blue,discontinued,,,,,
+2,5003352AA,LID Trailer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-lid-trailer~5003352aa.html
+3,SN15VXLAA,CARPET Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,54.0 x 32.6 x 1.8 inches,2.20 Pounds,/parts/mopar-carpet-decklid~sn15vxlaa.html
+4,5010035AA,SEAL Weatherstrip,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,17.0 x 12.1 x 0.1 inches,2.10 Pounds,/parts/mopar-seal-weatherstrip~5010035aa.html
+5,4815377,STRIKER Door Latch,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,2.77,2.17,1.0 x 1.1 x 1.1 inches,0.70 Pounds,/parts/mopar-striker-door-latch~4815377.html
+6,4897364AB,"LAMP Tail Stop Turn Contains Items 6,7,8,9,10,11",Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.3 x 10.4 x 5.7 inches,3.20 Pounds,/parts/mopar-lamp-tail-stop-turn~4897364ab.html
+6,4897365AB,"LAMP Tail Stop Turn Contains Items 6,7,8,9,10,11",Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.7 x 10.3 x 6.0 inches,1.50 Pounds,/parts/mopar-lamp-tail-stop-turn~4897365ab.html
+13,5003688AA,MOUNTING KIT Light,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.5 x 9.4 x 2.0 inches,0.70 Pounds,/parts/mopar-ring-light~5003688aa.html
+13,5003689AA,MOUNTING KIT Light,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,17.0 x 9.4 x 2.3 inches,0.90 Pounds,/parts/mopar-ring-light~5003689aa.html
+14,4676903,SOCKET AND WIRING License Lamp,,,,,,,,,,discontinued,,,,,
+15,55075488,KEY Valet,,2001,Base,6 Cyl 3.5L,,,,,,available,25.6,20.11,,1.50 Pounds,/parts/mopar-key-valet~55075488.html
+16,4778147,CYLINDER Deck Lid Lock,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.6 x 4.2 x 0.8 inches,0.70 Pounds,/parts/mopar-cyl-lock-deck-lid-lock~4778147.html
+17,4848692,GASKET Key Cylinder Isolator,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.14,9.54,4.8 x 5.7 x 0.3 inches,0.40 Pounds,/parts/mopar-gasket-key-cylinder-isolator~4848692.html
+18,4643273,PLATE Decklid Cylinder,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-reinfmnt-decklid-cylinder~4643273.html
+19,5003362AA,PANEL Valance Rear Trailer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,44.7 x 8.7 x 4.8 inches,5.10 Pounds,/parts/mopar-panel-valance-rear-trailer~5003362aa.html
+20,5003358AA,FENDER Trailer,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,198.02,155.61,44.2 x 20.5 x 19.7 inches,12.70 Pounds,/parts/mopar-fender-trailer~5003358aa.html
+20,5003359AA,FENDER Trailer,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,45.1 x 19.9 x 19.9 inches,12.10 Pounds,/parts/mopar-fender-trailer~5003359aa.html
+21,5003357AA,BODY Trailer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,80.3 x 80.6 x 48.5 inches,283.70 Pounds,/parts/mopar-fender-trailer~5003357aa.html
+22,4786876,LAMP Side Marker,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.5 x 3.4 x 1.8 inches,0.50 Pounds,/parts/mopar-lamp-side-marker~4786876.html
+22,4786877,LAMP Side Marker,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.6 x 3.5 x 1.8 inches,0.50 Pounds,/parts/mopar-lamp-side-marker~4786877.html
+23,5003697AA,GASKET Side Marker Lamp,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.1 x 2.0 x 0.5 inches,0.50 Pounds,/parts/mopar-seal-side-marker-lamp~5003697aa.html
+24,5003363AA,PANEL Valance Front Trailer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,42.6 x 8.7 x 5.0 inches,9.60 Pounds,/parts/mopar-panel-valance-front-trailer~5003363aa.html
+25,82202607,WHEEL KIT Trailer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,16.9 x 17.4 x 4.5 inches,29.20 Pounds,/parts/mopar-wheel-trailer~82202607.html
+26,82204708,WHEEL KIT Cast Aluminum Chrome Plated,,,,,,,,,,discontinued,,,,,
+27,5003700AA,FRAME Trailer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-frame-trailer~5003700aa.html
+28,5205565,BEARING CONE Input Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,18.75,14.51,2.3 x 1.0 x 2.4 inches,0.40 Pounds,/parts/mopar-bearing-input-shaft~5205565.html
+29,5205564,BEARING CUP Input Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.4 x 2.3 x 1.3 inches,0.50 Pounds,/parts/mopar-bearing-input-shaft~5205564.html
+30,5010867AA,HINGE Trailer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,16.8 x 12.6 x 2.9 inches,3.30 Pounds,/parts/mopar-hinge-trailer~5010867aa.html
+31,5003695AA,BRACKET,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,20.7 x 4.0 x 1.2 inches,1.90 Pounds,/parts/mopar-bracket~5003695aa.html
+32,5003691AA,PROP Gas,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,19.4 x 4.1 x 1.2 inches,1.00 Pounds,/parts/mopar-cyliner-gas~5003691aa.html
+33,RQ17VXLAB,CARPET Cargo Floor,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,58.2 x 36.5 x 0.6 inches,3.40 Pounds,/parts/mopar-carpet-cargo-floor~rq17vxlab.html
+35,4642974,LATCH Decklid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.3 x 6.6 x 3.5 inches,1.30 Pounds,/parts/mopar-latch-decklid~4642974.html
+,L0000168,BULB 168,,2001-2002,Base,6 Cyl 3.5L,,,,"MS820080, 9425542",,available,10.5,7.34,0.4 x 1.9 x 3.0 inches,0.40 Pounds,/parts/mopar-bulb~l0000168.html
+,82203789,COVER KIT Front End,,,,,,,,,,discontinued,,,,,
+,4897353AA,COVER Lamp,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.6 x 7.2 x 5.2 inches,0.80 Pounds,/parts/mopar-cover-lamp~4897353aa.html
+,4815287,WIRING Taillamp,,,,,,,,,,discontinued,,,,,

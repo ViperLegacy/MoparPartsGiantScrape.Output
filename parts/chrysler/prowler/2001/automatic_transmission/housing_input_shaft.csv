@@ -1,0 +1,26 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786656AB,HOUSING Flywheel,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1305,679.05,17.4 x 17.3 x 16.9 inches,34.60 Pounds,/parts/mopar-housing-flywheel~4786656ab.html
+2,4815703,FLANGE Driveshaft Yoke,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,24,18.86,12.0 x 11.8 x 3.6 inches,1.60 Pounds,/parts/mopar-flange-driveshaft-yoke~4815703.html
+3,2070316,BEARING Drive Pinion,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,63.9,44.62,1.2 x 2.6 x 2.6 inches,0.90 Pounds,/parts/mopar-bearing-drive-pinion~2070316.html
+7,6028041,NUT Pinion Yoke,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-nut-yoke~6028041.html
+8,2070117,WASHER Pinion Yoke,,2001-2002,Base,6 Cyl 3.5L,,,,,,unavailable,2.25,1.57,1.6 x 1.6 x 0.2 inches,0.50 Pounds,/parts/mopar-washer-pinion-yoke~2070117.html
+9,4865095AA,VENT,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.5 x 3.3 x 0.9 inches,0.40 Pounds,/parts/mopar-vent~4865095aa.html
+12,52067595,SEAL Drive Pinion,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,40.2,27.96,0.9 x 3.3 x 3.4 inches,0.50 Pounds,/parts/mopar-seal-drive-pinion~52067595.html
+13,3507575,SPACER Drive Pinion Bearing,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,14.8,10.25,0.8 x 1.7 x 1.8 inches,0.50 Pounds,/parts/mopar-spacer-drive-pinion-bearing~3507575.html
+14,4815203AB,PLATE Torque Converter Drive,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.5 x 12.6 x 5.7 inches,3.40 Pounds,/parts/mopar-flexplate-torque-converter-drive~4815203ab.html
+15,6035374,PLUG Pipe,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-plug-pipe~6035374.html
+16,6503465,BOLT Drive Plate and Flywheel,,2001-2002,Base,6 Cyl 3.5L,8,1,,,,available,8.25,5.65,0.9 x 0.9 x 1.3 inches,0.50 Pounds,/parts/mopar-bolt-hex-head-lock~6503465.html
+17,4471933,PLATE Drive Plate Backing,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.3 x 3.3 x 0.5 inches,0.50 Pounds,/parts/mopar-plate-flexplate-or-flywheel-backi~4471933.html
+19,6101962,BOLT Hex Flange Head,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,3.7 x 0.8 x 0.7 inches,0.60 Pounds,/parts/mopar-bolt-hex-flange-head~6101962.html
+20,6102018,BOLT Hex Flange Head M12x1.75x65,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,16.05,11.18,2.8 x 1.0 x 0.9 inches,0.60 Pounds,/parts/mopar-bolt-hex-flange-head~6102018.html
+21,6101763,BOLT AND WASHER Hex Head M10x1.5,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.7 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-bolt-hex-head~6101763.html
+22,6101512,SCREW AND WASHER Hex Head M10x1.5x45,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,2.2 x 2.1 x 0.9 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6101512.html
+23,6504383,BOLT Hex Head M10x1.50 x 13.20,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,0.9 x 1.0 x 1.0 inches,0.40 Pounds,/parts/mopar-bolt-hex-head~6504383.html
+24,6502696,NUT Hex Flange Lock M14x1.50,,2001-2002,Base,6 Cyl 3.5L,,,,6506264AA,,available,9.6,6.52,0.7 x 1.0 x 1.0 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502696.html
+25,6502697,NUT Hex Flange Lock M12x1.75,,2001-2002,Base,6 Cyl 3.5L,4,1,6512602AA,,,available,3.55,2.39,0.8 x 1.3 x 1.3 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502697.html
+,2070318,BEARING Drive Pinion,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,34.41,27.04,3.6 x 1.5 x 3.6 inches,1.30 Pounds,/parts/mopar-bearing-drive-pinion~2070318.html
+,4531202,CONNECTOR Oil Cooler Hose,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.5 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-connector-oil-cooler-hose~4531202.html
+,2070317,CUP Pinion Bearing,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,84.15,41.49,1.4 x 2.8 x 3.0 inches,0.70 Pounds,/parts/mopar-cup-drive-pinion~2070317.html
+,2070319,CUP Pinion Bearing,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,18.87,14.83,4.2 x 4.3 x 1.1 inches,0.90 Pounds,/parts/mopar-cup-drive-pinion-bearing~2070319.html
+,5240849,DOWEL Block To Clutch Housing,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,9.45,7.22,0.7 x 0.8 x 0.9 inches,0.50 Pounds,/parts/mopar-dowel-pin~5240849.html
+,4663625,SEAL Rear Main Crankshaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,42.24,32.69,4.8 x 4.7 x 0.5 inches,0.50 Pounds,/parts/mopar-seal-rear-main-crankshaft~4663625.html

@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,QW67DX9AE,FRAME Windshield,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,1351.84,1062.33,78.8 x 18.7 x 4.2 inches,5.10 Pounds,/parts/mopar-frame-windshield~qw67dx9ae.html
+2,6101723,SCREW AND WASHER Hex Head M8x1.25x50,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,6.2,4.19,2.3 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6101723.html
+3,9412281,PIN Spring .250 x 1.00,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,1.0 x 0.2 x 0.3 inches,0.60 Pounds,/parts/mopar-spring-spring~9412281.html
+4,4865197AA,SHIM Windshield,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,8.5 x 5.3 x 0.1 inches,0.60 Pounds,/parts/mopar-shim-windshield~4865197aa.html
+5,4786210AB,WEATHERSTRIP Windshield to Cowl,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,34.3 x 18.6 x 8.2 inches,6.20 Pounds,/parts/mopar-w-strip-windshield-to-cowl~4786210ab.html
+6,4786212,RETAINER Weatherstrip,,2001-2002,Base,6 Cyl 3.5L,,,,,Right A-Pillar,discontinued,,,17.6 x 1.5 x 1.0 inches,0.60 Pounds,/parts/mopar-retainer-weatherstrip~4786212.html
+6,4786213,RETAINER Weatherstrip,,2001-2002,Base,6 Cyl 3.5L,,,,,Left A-Pillar,discontinued,,,18.9 x 2.1 x 1.0 inches,0.70 Pounds,/parts/mopar-retainer-weatherstrip~4786213.html
+8,4815742,SEAL Windshield,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-seal-windshield~4815742.html
+,4815882AB,BEZEL Windshield Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Folding Top Latch,discontinued,,,6.4 x 3.3 x 1.8 inches,0.50 Pounds,/parts/mopar-bezel-windshield-frame~4815882ab.html
+,4815883AB,BEZEL Windshield Frame,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Folding Top Latch,discontinued,,,6.6 x 3.3 x 1.8 inches,0.50 Pounds,/parts/mopar-bezel-windshield-frame~4815883ab.html
+,4815881,BUSHING,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,9.27,7.28,1.5 x 0.2 x 0.2 inches,0.50 Pounds,/parts/mopar-bushing~4815881.html
+,4410254,GUIDE Convertible Roof Pin,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,49.26,38.71,1.0 x 1.0 x 0.8 inches,0.70 Pounds,/parts/mopar-insert-convertible-roof-pin~4410254.html
+,4815628,REINFORCEMENT Windshield,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.3,9.67,10.1 x 7.2 x 2.1 inches,0.60 Pounds,/parts/mopar-reinfmnt-windshield~4815628.html
+,4815629,REINFORCEMENT Windshield,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.3 x 0.3 x 0.3 inches,0.60 Pounds,/parts/mopar-reinfmnt-windshield~4815629.html

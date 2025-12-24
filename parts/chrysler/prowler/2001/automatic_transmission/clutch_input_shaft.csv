@@ -1,0 +1,65 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,4883013AB,PLATE PACKAGE Underdrive Reaction 5.72/5.82,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,45.4,31.57,16.0 x 10.4 x 0.7 inches,1.10 Pounds,/parts/mopar-plate-underdrive-reaction~4883013ab.html
+5,4659934,SNAP RING Underdrive Clutch Tapered,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,16.2,11.18,11.3 x 10.3 x 0.4 inches,0.60 Pounds,/parts/mopar-ring-underdrive-clutch~4659934.html
+7,4567262,THRUST BEARING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,17,11.77,2.1 x 2.1 x 0.5 inches,0.50 Pounds,/parts/mopar-bearing~4567262.html
+8,4864936,HUB AND SHAFT PACKAGE Underdrive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.2 x 5.1 x 7.0 inches,2.40 Pounds,/parts/mopar-shaft-pkg-underdrive-clutch~4864936.html
+9,4659883,THRUST WASHER U/Drive Clutch,,2001,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.8 x 2.7 x 0.4 inches,0.70 Pounds,/parts/mopar-washer-u-drive-clutch~4659883.html
+10,4505621,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.1,5.53,11.3 x 10.2 x 0.4 inches,0.40 Pounds,/parts/mopar-ring~4505621.html
+11,4531678,DISC Clutch,,2001-2002,Base,6 Cyl 3.5L,4,1,4531678AB,,,available,14.45,9.9,9.6 x 10.1 x 0.3 inches,0.50 Pounds,/parts/mopar-disc-clutch~4531678.html
+12,4659053,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,11.35,7.81,10.1 x 10.3 x 0.4 inches,0.60 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4659053.html
+13,4531910AC,PISTON Reverse and Overdrive,,2001,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-piston-reverse-and-overdrive~4531910ac.html
+14,4505622,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.8,5.3,7.9 x 7.0 x 0.1 inches,0.40 Pounds,/parts/mopar-ring~4505622.html
+15,4531678,DISC Clutch,,2001-2002,Base,6 Cyl 3.5L,4,1,4531678AB,,,available,14.45,9.9,9.6 x 10.1 x 0.3 inches,0.50 Pounds,/parts/mopar-disc-clutch~4531678.html
+16,4659053,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,11.35,7.81,10.1 x 10.3 x 0.4 inches,0.60 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4659053.html
+17,4377194,PLATE Transmission Clutch Reaction,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,36.25,25.11,0.6 x 10.4 x 10.3 inches,1.00 Pounds,/parts/mopar-plate-transmission-clutch-reactio~4377194.html
+18,4377195,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,9.15,6.29,5.9 x 5.9 x 0.1 inches,0.40 Pounds,/parts/mopar-ring-reverse-clutch~4377195.html
+22,5018923AA,PLATE AND WASHER PACKAGE Thrust,,2001-2002,Base,6 Cyl 3.5L,,,5018923AB,,,available,21.7,15.03,0.6 x 3.0 x 2.9 inches,0.50 Pounds,/parts/mopar-plate-thrust~5018923aa.html
+23,4659993,HUB AND SHAFT Overdrive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4659993AC,,,available,113,74.87,5.2 x 4.9 x 4.9 inches,1.80 Pounds,/parts/mopar-hub-overdrive-clutch~4659993.html
+24,3836241,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,2.58-2.65mm Thk.,discontinued,,,,0.60 Pounds,/parts/mopar-plate-transmission-o-drive~3836241.html
+24,4431664,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4431665AB,,1.37-1.44mm Thk.,available,15.55,10.72,3.1 x 3.0 x 0.1 inches,1.00 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431664.html
+24,4431666,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4431666AB,,1.81-1.88mm Thk.,available,15.55,10.72,3.7 x 3.6 x 0.4 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431666.html
+24,4431668,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4431668AB,,2.25-2.32mm Thk,available,17.3,12.06,2.8 x 2.8 x 0.1 inches,1.30 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431668.html
+24,4446671,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,2.91-2.98mm Thk,discontinued,,,,0.60 Pounds,/parts/mopar-plate-transmission-o-drive~4446671.html
+24,4446672,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,3.13-3.20mm Thk,discontinued,,,,0.60 Pounds,/parts/mopar-plate-transmission-o-drive~4446672.html
+24,3836237,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,3836237AB,,1.70-1.77mm Thk.,available,15.55,10.72,3.0 x 3.1 x 0.1 inches,1.00 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~3836237.html
+24,3836238,PLATE Transmission O/Drive Clutch,,2001-2002,,6 Cyl 3.5L,,,,,1.92-1.99mm Thk.,discontinued,,,,,
+24,3836239,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,2.14-2.21mm Thk.,discontinued,,,,0.50 Pounds,/parts/mopar-plate-transmission-o-drive~3836239.html
+24,3836240,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,2.36-2.43mm Thk.,discontinued,,,,0.60 Pounds,/parts/mopar-plate-transmission-o-drive~3836240.html
+24,4431662,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4431662AB,,0.93-1.00mm Thk.,discontinued,,,3.1 x 3.0 x 0.1 inches,0.80 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431662.html
+24,4431663,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,1.15-1.22mm Thk.,discontinued,,,3.1 x 3.0 x 0.1 inches,2.00 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431663.html
+24,4431665,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4431665AB,,1.59-1.66mm Thk.,available,15.55,10.72,3.0 x 3.0 x 0.1 inches,0.80 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431665.html
+24,4431667,PLATE Transmission O/Drive Clutch,,2001-2002,,6 Cyl 3.5L,,,,,2.03-2.10MM Thk,discontinued,,,,,
+24,4431669,PLATE Transmission O/Drive Clutch,,2001-2002,,6 Cyl 3.5L,,,,,2.47-2.54mm Thk,discontinued,,,,,
+24,4446601,PLATE Transmission O/Drive Clutch,,2001-2002,,6 Cyl 3.5L,,,,,3.35-3.42mm Thk,discontinued,,,,,
+24,4446670,PLATE Transmission O/Drive Clutch,,2001-2002,,6 Cyl 3.5L,,,,,2.69-2.76mm Thk,discontinued,,,,,
+25,4659980,SNAP RING Underdrive Clutch Flat,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.25,5.65,5.2 x 5.1 x 0.1 inches,0.50 Pounds,/parts/mopar-ring-underdrive-clutch~4659980.html
+26,4531678,DISC Clutch,,2001-2002,Base,6 Cyl 3.5L,4,1,4531678AB,,,available,14.45,9.9,9.6 x 10.1 x 0.3 inches,0.50 Pounds,/parts/mopar-disc-clutch~4531678.html
+27,4659053,PLATE Transmission O/Drive Clutch,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,11.35,7.81,10.1 x 10.3 x 0.4 inches,0.60 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4659053.html
+28,6501715,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,10.35,7.16,2.7 x 2.6 x 0.3 inches,0.50 Pounds,/parts/mopar-snap-ring~6501715.html
+29,4431612,RETAINER AND SEAL Transmission U/Drive Spring,,2001-2002,Base,6 Cyl 3.5L,,,4431612AC,,,available,49.4,34.25,2.1 x 10.1 x 9.1 inches,0.90 Pounds,/parts/mopar-retainer-transmission-u-drive-spring~4431612.html
+30,4377177,SPRING Drive Lower Case,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,28.5,19.75,2.8 x 2.5 x 2.2 inches,1.20 Pounds,/parts/mopar-spring-drive-lower-case~4377177.html
+31,4431610,PISTON Underdrive,,2001-2002,Base,6 Cyl 3.5L,,,4431611,,,available,63.3,44.1,3.4 x 6.6 x 6.5 inches,1.20 Pounds,/parts/mopar-piston-underdrive~4431610.html
+32,6501812,SNAP RING,,,,,,,,,,discontinued,,,,,
+33,4659871,SEAL Piston Outer 140mm OD,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,17.95,12.41,3.5 x 3.2 x 0.7 inches,0.40 Pounds,/parts/mopar-seal-piston-outer~4659871.html
+34,4659935,RETAINER Transmission Input Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4659935AB,,,available,101,68.12,6.2 x 6.8 x 7.0 inches,2.50 Pounds,/parts/mopar-retainer-transmission-input-clutch~4659935.html
+35,4446543,SEAL Input Shaft,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,8,5.48,18.7 x 1.4 x 1.4 inches,0.50 Pounds,/parts/mopar-seal-input-shaft~4446543.html
+36,4412209,THRUST BEARING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,15.7,10.83,2.0 x 1.9 x 0.5 inches,0.40 Pounds,/parts/mopar-bearing~4412209.html
+37,4626452,INPUT SHAFT PACKAGE Transaxle,,2001,Base,6 Cyl 3.5L,,,4626452AB,,,available,219,146.25,15.6 x 5.3 x 1.6 inches,1.70 Pounds,/parts/mopar-shaft-pkg-transaxle~4626452.html
+38,5017518AA,HUB PACKAGE Input Clutch,,2001-2002,Base,6 Cyl 3.5L,,,5017518AB,,,available,222,148.5,6.2 x 7.0 x 7.1 inches,6.30 Pounds,/parts/mopar-hub-input-clutch~5017518aa.html
+39,6502271,O RING Transmission Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,30.55,19.9,2.9 x 1.8 x 1.1 inches,0.60 Pounds,/parts/mopar-o-ring-transmission-clutch~6502271.html
+40,6502269,O RING Transmission Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,22.1,15.26,2.8 x 2.9 x 0.3 inches,0.40 Pounds,/parts/mopar-o-ring-transmission-clutch~6502269.html
+41,4659391AB,SEAL Under Drive,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,14.45,9.9,2.5 x 2.5 x 0.4 inches,0.40 Pounds,/parts/mopar-seal-under-drive~4659391ab.html
+42,6501702,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.25,5.65,,0.50 Pounds,/parts/mopar-ring~6501702.html
+43,4412203,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.75,5.36,9.6 x 10.4 x 0.3 inches,0.50 Pounds,/parts/mopar-ring~4412203.html
+44,4412202,SPRING Overdrive Piston,,2001-2002,Base,6 Cyl 3.5L,,,4412202AB,,,available,32.05,22.19,5.2 x 5.2 x 0.4 inches,0.60 Pounds,/parts/mopar-spring-overdrive-piston~4412202.html
+45,6033158,O RING Reverse & O/Drive Clutch Piston Transmission,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,24.45,16.89,3.2 x 3.2 x 0.1 inches,0.40 Pounds,/parts/mopar-o-ring-reverse-o-drive-clutch-pi~6033158.html
+46,4531910AB,PISTON Reverse and Overdrive,,2001,Base,6 Cyl 3.5L,,,5017518AB,,,available,222,148.5,6.3 x 7.2 x 7.2 inches,5.90 Pounds,/parts/mopar-piston-reverse-and-overdrive~4531910ab.html
+48,4659056,SEAL Reverse Servo Piston,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,18.3,12.64,3.8 x 3.6 x 1.7 inches,0.40 Pounds,/parts/mopar-seal-reverse-servo-piston~4659056.html
+,4531903,FILTER Reverse And O/D Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,11.9,8.21,0.5 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-filter-reverse-and-o-d-clutch~4531903.html
+,4883014AB,PLATE PACKAGE Underdrive Reaction 6.21/6.31,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,62.5,43.51,17.5 x 10.5 x 0.7 inches,1.00 Pounds,/parts/mopar-plate-underdrive-reaction~4883014ab.html
+,4883015AB,PLATE PACKAGE Underdrive Reaction 6.70/6.80,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,54.7,38.1,,1.10 Pounds,/parts/mopar-plate-underdrive-reaction~4883015ab.html
+,4883240AB,SEAL AND GASKET PACKAGE Transmission Front Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,60.1,42.33,11.4 x 10.5 x 0.4 inches,0.90 Pounds,/parts/mopar-seal-pkg-transmission-front-clutch~4883240ab.html
+,4412871,SNAP RING Reverse Clutch 1.77-1.83mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.25,5.65,10.1 x 8.3 x 0.4 inches,1.20 Pounds,/parts/mopar-ring-reverse-clutch~4412871.html
+,4412872,SNAP RING Reverse Clutch 2.02-2.07mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,31.6,21.96,5.9 x 5.9 x 0.1 inches,0.50 Pounds,/parts/mopar-ring-reverse-clutch~4412872.html
+,4412873,SNAP RING Reverse Clutch 2.27-2.32mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.5,5.83,5.9 x 6.1 x 0.1 inches,0.50 Pounds,/parts/mopar-ring-reverse-clutch~4412873.html
+,4659980,SNAP RING Underdrive Clutch Flat,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.25,5.65,5.2 x 5.1 x 0.1 inches,0.50 Pounds,/parts/mopar-ring-underdrive-clutch~4659980.html

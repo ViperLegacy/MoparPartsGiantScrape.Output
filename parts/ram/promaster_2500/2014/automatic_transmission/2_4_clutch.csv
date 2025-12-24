@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4412209,THRUST BEARING,,,,,,,,,,available,15.7,10.83,2.0 x 1.9 x 0.5 inches,0.40 Pounds,/parts/mopar-bearing~4412209.html
+2,3836238AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[1.92/1.99 mm],available,22.5,15.55,3.9 x 3.9 x 0.4 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~3836238ab.html
+2,3836239AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[2.14/2.21 mm],available,24.45,16.89,3.3 x 3.3 x 0.4 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~3836239ab.html
+2,3836240AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[2.36/2.43 mm],available,34.05,23.59,3.2 x 3.1 x 0.1 inches,0.60 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~3836240ab.html
+2,3836241AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[2.58/2.65 mm],available,14.8,10.14,3.3 x 3.3 x 0.3 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~3836241ab.html
+2,4431665AB,PLATE Transmission O/Drive Clutch,,,,,,,,"4431664AB, 4431664, 4431665",[1.59/1.66 mm],available,15.55,10.72,3.3 x 3.1 x 0.4 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431665ab.html
+2,4431666AB,PLATE Transmission O/Drive Clutch,,,,,,,,4431666,[1.81/1.88 mm],available,15.55,10.72,3.7 x 3.7 x 0.4 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431666ab.html
+2,4431667AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[2.03/2.10 mm],available,24.45,16.89,3.3 x 3.3 x 0.3 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431667ab.html
+2,4431668AB,PLATE Transmission O/Drive Clutch,,,,,,,,4431668,[2.25/2.32 mm],available,17.3,12.06,3.4 x 3.3 x 0.4 inches,0.50 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431668ab.html
+2,4431669AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[2.47/2.54 mm],available,14.45,9.9,3.8 x 3.9 x 0.4 inches,0.60 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4431669ab.html
+2,4446670AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[2.69/2.76 mm],available,15.05,10.43,4.7 x 2.3 x 0.8 inches,0.60 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4446670ab.html
+2,4446671AB,PLATE Transmission O/Drive Clutch,,,,,,,,,[2.91/2.98 mm],available,14.45,9.9,3.2 x 3.3 x 0.4 inches,0.60 Pounds,/parts/mopar-plate-transmission-o-drive-clutch~4446671ab.html
+3,4659618AB,HUB AND GEAR Second And Fourth Clutch,,,,,,,,,,available,49.5,34.54,6.6 x 6.4 x 3.5 inches,2.30 Pounds,/parts/mopar-hub-second-and-fourth-clutch~4659618ab.html
+4,4412216AC,THRUST WASHER Second and Fourth Clutch,,,,,,,,4412216AB,,available,15.05,10.37,2.4 x 2.4 x 0.4 inches,0.40 Pounds,/parts/mopar-washer-second-and-fourth-clutch~4412216ac.html
+5,4505591,SNAP RING,,,,,,,4505591AB,,,available,12.95,8.85,7.0 x 7.3 x 0.1 inches,0.50 Pounds,/parts/mopar-ring~4505591.html
+6,68020279AA,RETAINER PACKAGE 2nd & 4th Clutch Piston,,,,,,,,,,available,32.25,22.48,3.5 x 12.6 x 12.3 inches,1.50 Pounds,/parts/mopar-retnr-pkg-2nd-4th-clutch-piston~68020279aa.html
+7,4412248,SPRING 2nd And 4th Clutch Piston,,,,,,,,,,available,34.5,23.88,6.9 x 6.8 x 0.4 inches,0.50 Pounds,/parts/mopar-spring-2nd-and-4th-clutch-piston~4412248.html
+8,68004330AA,CLUTCH PACKAGE Auto Transmission,,,,,,,,,,available,48.2,33.49,13.1 x 12.6 x 1.7 inches,1.80 Pounds,/parts/mopar-clutch-pk-auto-transmission~68004330aa.html

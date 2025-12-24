@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4663818,COVER Timing Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,17.4 x 13.0 x 3.0 inches,4.40 Pounds,/parts/mopar-cover-timing-belt~4663818.html
+2,4573937,SEAL Timing Belt Cover,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.2 x 2.5 x 0.6 inches,0.40 Pounds,/parts/mopar-seal-timing-belt-cover~4573937.html
+3,4573919,SEAL Timing Belt Cover,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-seal-timing-belt-cover~4573919.html
+4,4663817,COVER Timing Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,90.65,68.52,,5.40 Pounds,/parts/mopar-cover-timing-belt~4663817.html
+5,4556018AB,PLUG Cylinder Block Oil Hole,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,10.75,7.46,0.7 x 0.7 x 0.2 inches,0.70 Pounds,/parts/mopar-plug-core~4556018ab.html
+6,4483443,GASKET Timing Cover,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.5 x 1.9 x 2.0 inches,0.40 Pounds,/parts/mopar-gasket-timing-case-cover~4483443.html
+7,4659430AB,GASKET Water Pump,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,15.75,11.01,1.1 x 4.3 x 4.3 inches,0.40 Pounds,/parts/mopar-seal-water-pump-to-front-cover~4659430ab.html
+8,4792335,COVER Timing Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,3.50 Pounds,/parts/mopar-cover-timing-belt~4792335.html
+9,4556535,COVER Timing Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,11.7 x 11.5 x 2.7 inches,1.40 Pounds,/parts/mopar-cover-timing-belt~4556535.html
+10,6102001,BOLT AND  WASHER M6x12,,2001-2002,Base,6 Cyl 3.5L,10,1,,6100276,,discontinued,,,1.0 x 0.4 x 0.4 inches,0.90 Pounds,/parts/mopar-bolt-hex-head~6102001.html
+11,6502916,SCREW Hex Head M12x1.5x215,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,21.05,14.5,8.9 x 0.8 x 0.8 inches,0.90 Pounds,/parts/mopar-screw-hex-head-lock~6502916.html
+13,6503435,WASHER Plain M13x31.00x5.71,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,8.15,5.59,1.2 x 1.3 x 0.2 inches,0.50 Pounds,/parts/mopar-washer-flat~6503435.html
+14,4792025,GEAR Camshaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.5 x 8.2 x 4.2 inches,2.10 Pounds,/parts/mopar-sprocket-camshaft~4792025.html
+15,4792224,SPROCKET Camshaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,63.68,50.04,6.2 x 6.4 x 3.3 inches,2.30 Pounds,/parts/mopar-sprocket-camshaft~4792224.html
+16,4556546,COVER Crankshaft Sprocket,,2001-2002,Base,6 Cyl 3.5L,,,4556546AC,,,discontinued,,,7.9 x 6.2 x 0.3 inches,0.50 Pounds,/parts/mopar-cover-crankshaft-sprocket~4556546.html
+17,4573347,TENSIONER Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,224,148.9,5.7 x 3.9 x 3.1 inches,1.40 Pounds,/parts/mopar-tensioner-belt~4573347.html
+18,6100297,BOLT AND CONED WASHER Hex Head M8x35x17,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,8.3,5.77,1.6 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6100297.html
+19,4663515,TENSIONER Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.8 x 4.9 x 3.1 inches,1.30 Pounds,/parts/mopar-tensioner-belt~4663515.html
+19,TBK10295,TENSIONER Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,"Mopar Alternative Part (Timing Belt Kit- Includes belt, roller(s), and/or an idler)",discontinued,,,12.2 x 6.8 x 3.0 inches,1.80 Pounds,/parts/mopar-belt-timing-kit~tbk10295.html
+20,4792353,BELT Timing,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,127,90.01,3.0 x 9.7 x 12.1 inches,0.90 Pounds,/parts/mopar-belt-timing~4792353.html
+21,4536479,GEAR Timing Belt,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.1 x 3.1 x 2.7 inches,1.40 Pounds,/parts/mopar-sprocket-crankshaft~4536479.html
+22,4448557,DOWEL Crankshaft Sprocket,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.75,6,0.4 x 0.4 x 0.5 inches,0.40 Pounds,/parts/mopar-dowel-pin~4448557.html
+23,4792317,SEAL Front Main Crankshaft,,2001-2002,Base,6 Cyl 3.5L,,,4792317AB,,,available,26.25,18.35,0.6 x 1.8 x 1.9 inches,0.50 Pounds,/parts/mopar-seal-front-main-crankshaft~4792317.html
+24,4663844,PUMP Engine Oil,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.2 x 12.5 x 5.3 inches,7.00 Pounds,/parts/mopar-pump-engine-oil~4663844.html
+25,4792123,GASKET Oil Pump,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,22.75,17.88,15.8 x 10.2 x 0.5 inches,1.20 Pounds,/parts/mopar-gasket-oil-pump~4792123.html
+,6502917,SCREW Hex Head M12x1.5x258,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,20.55,14.27,10.4 x 0.8 x 0.8 inches,1.20 Pounds,/parts/mopar-bolt-hex-head-lock~6502917.html

@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,ATM10,"FUSE Mini 10 AMP, Red",,2001-2002,Base,6 Cyl 3.5L,,,,"68124782AA, 68110976AA, 6101486",,available,3.7,2.5,0.5 x 0.7 x 0.8 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm10.html
+3,ATM15,"FUSE Mini 15 AMP, Light Blue",,2001-2002,Base,6 Cyl 3.5L,,,,"6101487, 68124784AA, 68110975AA",,available,3.55,2.39,0.4 x 0.8 x 0.9 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm15.html
+4,ATM20,"FUSE Mini 20 AMP, Yellow",,2001-2002,Base,6 Cyl 3.5L,,,,"6101488, 68124785AA",,available,3.7,2.5,0.5 x 0.7 x 0.8 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm20.html
+,56007348,FLASHER,,2001-2002,Base,6 Cyl 3.5L,,,68499015AA,,,available,245,162,2.0 x 1.5 x 1.5 inches,0.50 Pounds,/parts/mopar-flasher~56007348.html
+,4688898,LABEL Fuse Block,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,3.47,2.72,,0.90 Pounds,/parts/mopar-label-fuse-block~4688898.html
+,4450129,PULLER Fuse,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 0.6 x 0.5 inches,0.50 Pounds,/parts/mopar-puller-fuse~4450129.html

@@ -1,0 +1,37 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68169276AB,CONDENSER Air Conditioning,,,,,,,57008243AB,,,available,533,350.9,38.4 x 18.7 x 4.1 inches,7.40 Pounds,/parts/mopar-condenser-air-conditioning~68169276ab.html
+2,68161106AB,LINE A/C Liquid,,,02,,,,68161106AD,,,available,331,220.5,32.4 x 17.4 x 4.0 inches,1.30 Pounds,/parts/mopar-line-a-c-liquid~68161106ab.html
+2,68226767AA,LINE A/C Liquid,,,02,,,,68226767AC,,[HDG],available,200,133.88,35.5 x 23.3 x 11.1 inches,1.30 Pounds,/parts/mopar-line-a-c-liquid~68226767aa.html
+2,68228086AA,LINE A/C Liquid,,,02,,,,68228086AD,,[HDG],available,189,126,33.6 x 9.3 x 6.4 inches,1.40 Pounds,/parts/mopar-line-a-c-liquid~68228086aa.html
+3,5183358AA,O RING A/C Line,,,,,,,,68040260AA,,available,24.55,16.95,0.1 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-o-ring-a-c-line~5183358aa.html
+3,68232799AA,O RING A/C Yellow,,,,,2,1,,,,available,22.95,15.84,0.8 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-o-ring-a-c~68232799aa.html
+4,68127833AA,VALVE A/C pressure Transducer,,,,,,,68127833AB,,,available,89.75,60.3,2.4 x 1.3 x 1.3 inches,0.50 Pounds,/parts/mopar-valve-a-c-pressure-transducer~68127833aa.html
+4,5003862AA,VALVE CORE A/C Line,,,,,,,,,,available,6.95,4.72,0.8 x 0.5 x 0.4 inches,0.60 Pounds,/parts/mopar-valve-a-c-line~5003862aa.html
+5,68232805AA,FITTING,,,,,,,,,,available,13.95,9.67,1.3 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-fitting~68232805aa.html
+5,68141376AB,VALVE A/C pressure Transducer,,,,,,,68308727AA,,,available,133,89.16,2.2 x 1.3 x 1.3 inches,3.40 Pounds,/parts/mopar-transduce-a-c-pressure-transducer~68141376ab.html
+6,5183358AA,O RING A/C Line,,,,,,,,68040260AA,,available,24.55,16.95,0.1 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-o-ring-a-c-line~5183358aa.html
+7,68046312AA,VALVE CORE A/C Line,,,13,,,,,,,discontinued,,,1.2 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-valve-a-c-line~68046312aa.html
+8,5161786AA,CAP A/C Charge Valve,,,,,,,,,,available,4.8,3.26,0.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-cap-a-c-charge-valve~5161786aa.html
+9,68152002AA,"SEAL Slim Line 3/8""",,,,,,,,,,available,31.6,22.08,0.1 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-seal-slim-line~68152002aa.html
+10,68157075AB,LINE A/C Discharge,,,,,,,68157075AC,,,available,153,101.14,22.8 x 6.2 x 2.7 inches,0.80 Pounds,/parts/mopar-line-a-c-discharge~68157075ab.html
+10,68232799AA,O RING A/C Yellow,,,,,,,,,,available,22.95,15.84,0.8 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-o-ring-a-c~68232799aa.html
+11,68232802AA,O RING A/C Green,,,,,,,,,,available,20.55,14.27,0.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-o-ring-a-c~68232802aa.html
+11,68232795AA,O RING A/C Yellow,,,,,,,,,,available,23.75,14.51,0.8 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-o-ring-a-c~68232795aa.html
+12,68227136AA,LINE A/C Suction,,,,,,,68227136AD,,[HDG],available,367,244.19,36.7 x 24.2 x 10.7 inches,4.10 Pounds,/parts/mopar-line-a-c-suction~68227136aa.html
+12,68232796AA,O RING A/C Green,,,,,2,1,,,,available,21.5,14.85,0.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-o-ring-a-c~68232796aa.html
+13,68100682AA,"SEAL Slim Line 3/4""",,,,,,,,5161784AA,,available,31.95,22.19,0.4 x 1.2 x 1.3 inches,0.40 Pounds,/parts/mopar-seal-slim-line~68100682aa.html
+13,68100681AA,"SEAL Slim Line 3/8""",,,,,,,,,,available,31.95,22.19,0.3 x 0.9 x 1.0 inches,0.40 Pounds,/parts/mopar-seal-slim-line~68100681aa.html
+14,68226766AA,LINE A/C Suction,,,,,,,,,[HDG],available,384,254.22,41.8 x 29.3 x 13.8 inches,2.30 Pounds,/parts/mopar-line-a-c-suction~68226766aa.html
+14,5003862AA,VALVE CORE A/C Line,,,,,,,,,,available,6.95,4.72,0.8 x 0.5 x 0.4 inches,0.60 Pounds,/parts/mopar-valve-a-c-line~5003862aa.html
+15,5161786AA,CAP A/C Charge Valve,,,,,,,,,,available,4.8,3.26,0.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-cap-a-c-charge-valve~5161786aa.html
+15,68100682AA,"SEAL Slim Line 3/4""",,,,,2,1,,5161784AA,,available,31.95,22.19,0.4 x 1.2 x 1.3 inches,0.40 Pounds,/parts/mopar-seal-slim-line~68100682aa.html
+16,68157074AB,LINE A/C Discharge,,,,,,,68157074AE,,,available,108,72.39,23.1 x 6.1 x 3.5 inches,0.80 Pounds,/parts/mopar-line-a-c-discharge~68157074ab.html
+16,5003862AA,VALVE CORE A/C Line,,,,,,,,,,available,6.95,4.72,0.8 x 0.5 x 0.4 inches,0.60 Pounds,/parts/mopar-valve-a-c-line~5003862aa.html
+17,5161786AA,CAP A/C Charge Valve,,,,,,,,,,available,4.8,3.26,0.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-cap-a-c-charge-valve~5161786aa.html
+17,68100681AA,"SEAL Slim Line 3/8""",,,,,,,,,,available,31.95,22.19,0.3 x 0.9 x 1.0 inches,0.40 Pounds,/parts/mopar-seal-slim-line~68100681aa.html
+18,68232795AA,O RING A/C Yellow,,,,,,,,,,available,23.75,14.51,0.8 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-o-ring-a-c~68232795aa.html
+19,68232796AA,O RING A/C Green,,,,,,,,,,available,21.5,14.85,0.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-o-ring-a-c~68232796aa.html
+20,68195715AB,LINE A/C Suction,,,,,,,,,,available,121,80.54,36.7 x 10.1 x 10.2 inches,4.30 Pounds,/parts/mopar-line-a-c-suction~68195715ab.html
+21,68100682AA,"SEAL Slim Line 3/4""",,,,,,,,5161784AA,,available,31.95,22.19,0.4 x 1.2 x 1.3 inches,0.40 Pounds,/parts/mopar-seal-slim-line~68100682aa.html
+22,6106156AA,SCREW M6x1x25,,,,,,,,68137303AA,,available,3.5,2.39,1.3 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw~6106156aa.html
+,68141376AB,VALVE A/C pressure Transducer,,,,,,,68308727AA,,,available,133,89.16,2.2 x 1.3 x 1.3 inches,3.40 Pounds,/parts/mopar-transduce-a-c-pressure-transducer~68141376ab.html

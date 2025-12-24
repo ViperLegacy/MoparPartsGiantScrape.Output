@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,52014855AA,HOSE Heater Return,,,,,,,57008244AA,,,available,45.7,31.75,11.0 x 9.8 x 2.8 inches,0.80 Pounds,/parts/mopar-hose-heater-return~52014855aa.html
+1,52014853AA,HOSE Heater Supply,,,,,,,52014853AC,,,available,189,127.13,27.8 x 12.2 x 6.2 inches,2.10 Pounds,/parts/mopar-hose-heater-supply~52014853aa.html
+2,52014856AB,HOSE Heater Return,,,,,,,52014856AE,,,available,230,155.25,30.5 x 16.8 x 12.2 inches,5.10 Pounds,/parts/mopar-hose-heater-return~52014856ab.html
+2,52014852AA,HOSE Heater Supply,,,,,,,57008246AA,,,available,29.25,20.27,15.1 x 9.8 x 1.7 inches,0.80 Pounds,/parts/mopar-hose-heater-supply~52014852aa.html
+3,6106990AA,CLAMP Hose,,,,,,,,6106935AA,,available,4.3,2.97,1.8 x 1.6 x 0.8 inches,0.60 Pounds,/parts/mopar-clamp-hose~6106990aa.html
+3,68217625AA,CLIP Tube,,,,,,,68217625AB,,,available,7.85,5.48,8.4 x 6.8 x 2.5 inches,0.40 Pounds,/parts/mopar-clip-tube~68217625aa.html
+4,6106288AA,SCREW,,,,,,,,68119317AA,,available,4.65,3.2,0.6 x 0.4 x 0.4 inches,0.70 Pounds,/parts/mopar-bolt-hex-head~6106288aa.html
+5,6106140AA,CLAMP Hose M21.50,,,,,,,6106291AA,,,available,4,2.74,1.3 x 1.2 x 0.5 inches,0.50 Pounds,/parts/mopar-clamp-hose~6106140aa.html
+6,6106139AA,CLAMP Hose,,,,,,,,"68093333AA, 68101874AA, 68094410AA",,available,4.9,3.38,1.1 x 0.9 x 0.6 inches,0.40 Pounds,/parts/mopar-clamp-hose~6106139aa.html
+7,6107085AA,NUT Hex M6,,,,,2,1,,68113350AA,,available,8.25,5.71,4.4 x 3.2 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex~6107085aa.html
+8,6107093AA,WASHER Flat M8,,,,,,,,68113285AA,,available,6.1,4.19,4.2 x 2.8 x 0.4 inches,0.40 Pounds,/parts/mopar-washer-flat~6107093aa.html
+9,6107092AA,WASHER Flat M6,,,,,2,1,,,,available,2.9,1.98,0.8 x 0.8 x 0.1 inches,0.40 Pounds,/parts/mopar-washer-flat~6107092aa.html
+10,6107086AA,NUT Hex M8x1.25,,,,,,,,,,available,2.15,1.46,0.7 x 0.7 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex~6107086aa.html
+11,6107085AA,NUT Hex M6,,,,,2,1,,68113350AA,,available,8.25,5.71,4.4 x 3.2 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex~6107085aa.html
+12,6106936AA,SCREW Hex Head M6x18,,,,,2,1,68111560AA,,,available,4.9,3.32,5.6 x 5.6 x 0.4 inches,0.40 Pounds,/parts/mopar-screw-kuka-pt-reducd-bdy~6106936aa.html
+13,68073491AA,CLIP Tube,,,,,4,1,,,,available,3.2,2.21,0.6 x 0.7 x 0.5 inches,0.50 Pounds,/parts/mopar-clip-tube~68073491aa.html
+,68230490AA,CLAMP Hose,,,,,2,1,68101439AA,,,available,10.25,7.11,6.1 x 4.1 x 1.2 inches,0.40 Pounds,/parts/mopar-clamp-hose~68230490aa.html
+,68235556AA,CLAMP Hose,,,,,4,1,,,,available,5.9,4.08,5.6 x 2.8 x 1.6 inches,0.50 Pounds,/parts/mopar-clamp-hose~68235556aa.html
+,6106140AA,CLAMP Hose M21.50,,,,,,,6106291AA,,,available,4,2.74,1.3 x 1.2 x 0.5 inches,0.50 Pounds,/parts/mopar-clamp-hose~6106140aa.html
+,68245456AA,CONNECTOR 3 Way,,,,,,,,,,available,10.25,7.11,,,/parts/mopar-connector-3-way~68245456aa.html
+,68245455AA,CONNECTOR Heater Hose,,,,,,,,,,available,36.7,25.46,2.1 x 1.5 x 0.8 inches,0.40 Pounds,/parts/mopar-connector-heater-hose~68245455aa.html

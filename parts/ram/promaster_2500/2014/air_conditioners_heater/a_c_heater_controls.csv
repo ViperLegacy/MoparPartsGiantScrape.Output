@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5149265AB,SENSOR Ambient Temperature,,,,,,,68518243AA,,,available,69.85,48.81,1.4 x 2.1 x 2.2 inches,0.40 Pounds,/parts/mopar-sensor-ambient-temperature~5149265ab.html
+2,5NC26DX9AC,CONTROL Heater,,,,,,,5NC26DX9AF,,[GFA],available,379,250.88,10.3 x 3.9 x 3.8 inches,1.30 Pounds,/parts/mopar-control-heater~5nc26dx9ac.html
+3,5NC24DX9AD,CONTROL A/C And Heater,,,,,,,5NC24DX9AF,,"[HAA], [GFA] AND/OR [GTB] AND/OR [GTR]",available,417,275.41,12.7 x 5.7 x 4.6 inches,1.30 Pounds,/parts/mopar-control-a-c-and-heater~5nc24dx9ad.html

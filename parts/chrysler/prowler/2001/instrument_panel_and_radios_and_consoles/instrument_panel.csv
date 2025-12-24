@@ -1,0 +1,53 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,LP641SA,PANEL Instrument Upper,,2001-2002,Base,6 Cyl 3.5L,,,,,Charcoal,discontinued,,,48.6 x 19.0 x 11.9 inches,12.60 Pounds,/parts/mopar-panel-instrument-upper~lp641sa.html
+1,LP641VF,PANEL Instrument Upper,,2001-2002,Base,6 Cyl 3.5L,,,,,Pepper Red,discontinued,,,26.3 x 12.7 x 0.9 inches,12.60 Pounds,/parts/mopar-panel-instrument-upper~lp641vf.html
+1,LP641XT,PANEL Instrument Upper,,2001-2002,Base,6 Cyl 3.5L,,,,,Tundra,discontinued,,,30.9 x 19.2 x 12.6 inches,12.90 Pounds,/parts/mopar-panel-instrument-upper~lp641xt.html
+3,4815030,BRACKET Instrument Cluster,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,10.72,8.42,8.5 x 3.5 x 1.1 inches,0.80 Pounds,/parts/mopar-bracket-instrument-cluster~4815030.html
+4,6032723,SCREW Self Tapping M4.2x1.69x19.05,,2001-2002,Base,6 Cyl 3.5L,2,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+5,4815679AB,PANEL Instrument Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,368.37,289.48,64.3 x 16.2 x 21.3 inches,12.70 Pounds,/parts/mopar-i-panel-instrument-panel~4815679ab.html
+7,LP77LAZ,CAP Instrument Panel End,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.8 x 9.3 x 3.8 inches,1.00 Pounds,/parts/mopar-cap-end-instrument-panel-end~lp77laz.html
+8,LP78LAZ,COVER Instrument Panel Steering Column Opening,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.7 x 9.5 x 3.7 inches,1.00 Pounds,/parts/mopar-cover-instrument-panel~lp78laz.html
+10,LP76LAZAB,CAP Instrument Panel End,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.4 x 3.6 x 13.9 inches,1.00 Pounds,/parts/mopar-cap-end-instrument-panel-end~lp76lazab.html
+11,6503519,CLIP M7.25x16.20,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.0 x 1.0 x 0.5 inches,0.40 Pounds,/parts/mopar-clip~6503519.html
+12,4462470,LOUVER Air Outlet,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,,/parts/mopar-outlet-air-outlet~4462470.html
+13,PF01LAZ,HOUSING Instrument Panel Spot Cooler,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.4 x 2.3 x 1.9 inches,0.80 Pounds,/parts/mopar-housing-i-p-spot-cooler~pf01laz.html
+14,PF24LAZ,HOUSING Instrument Panel Spot Cooler,,2001,Base,6 Cyl 3.5L,,,,,,available,11.27,8.86,5.2 x 2.0 x 1.8 inches,0.60 Pounds,/parts/mopar-housing-i-p-spot-cooler~pf24laz.html
+15,LP82LAZAD,AIR BAG Passenger,,2001-2002,Base,6 Cyl 3.5L,,,LP82LAZAE,,,discontinued,,,20.1 x 10.8 x 13.9 inches,10.10 Pounds,/parts/mopar-airbag-passenger~lp82lazad.html
+19,4815680,DOOR Glove Box,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.3 x 12.7 x 5.5 inches,1.60 Pounds,/parts/mopar-door-glove-box~4815680.html
+20,4678070,STRAP Glove Box,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,13.75,10.74,11.0 x 1.4 x 1.1 inches,0.40 Pounds,/parts/mopar-strap-glove-box~4678070.html
+22,4786373,STRIKER Glove Box Door Latch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.3 x 1.8 x 0.3 inches,0.70 Pounds,/parts/mopar-striker-glove-box-door-latch~4786373.html
+23,5DL15TAZ,LATCH Glovebox,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,89.35,49.15,3.2 x 2.1 x 1.6 inches,0.50 Pounds,/parts/mopar-latch-glovebox~5dl15taz.html
+28,4786437AB,BEZEL Instrument Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.8 x 12.7 x 5.3 inches,1.30 Pounds,/parts/mopar-bezel-instrument-panel~4786437ab.html
+29,PD88SX8,AIR OUTLET Heater and A/C,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,36.12,28.39,12.8 x 5.5 x 4.4 inches,1.10 Pounds,/parts/mopar-outlet-heater-and-a-c~pd88sx8.html
+30,4865395AA,SWITCH Volume Control,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.7 x 1.7 x 1.0 inches,0.40 Pounds,/parts/mopar-switch-volume-control~4865395aa.html
+31,4793551,BASE Cigar Lighter,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,37.4,25.98,2.1 x 1.0 x 1.2 inches,0.50 Pounds,/parts/mopar-lighter-cigar-lighter~4793551.html
+32,4685591,CAP Cigar Lighter,,2001-2002,Base,6 Cyl 3.5L,,,68049813AA,,,available,11.9,8.16,4.3 x 1.3 x 1.2 inches,1.00 Pounds,/parts/mopar-cap-cigar-lighter~4685591.html
+33,4524342,CLIP,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,9.2 x 7.3 x 1.1 inches,0.50 Pounds,/parts/mopar-clip~4524342.html
+41,4360211AB,KNOB Head Lamp Switch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.0 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-knob-head-lamp-switch~4360211ab.html
+42,PF81LAZ,BEZEL Headlamp Switch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.1 x 1.1 x 0.5 inches,0.50 Pounds,/parts/mopar-bezel-headlamp-switch~pf81laz.html
+44,4786391,BRACKET Fuse Block,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,3.63,2.86,2.2 x 1.8 x 0.7 inches,0.50 Pounds,/parts/mopar-bracket-fuse-block~4786391.html
+47,ATM10,"FUSE Mini 10 AMP, Red",,2001-2002,Base,6 Cyl 3.5L,,,,"68124782AA, 68110976AA, 6101486",,available,3.7,2.5,0.5 x 0.7 x 0.8 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm10.html
+48,ATM15,"FUSE Mini 15 AMP, Light Blue",,2001-2002,Base,6 Cyl 3.5L,,,,"6101487, 68124784AA, 68110975AA",,available,3.55,2.39,0.4 x 0.8 x 0.9 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm15.html
+49,ATM20,"FUSE Mini 20 AMP, Yellow",,2001-2002,Base,6 Cyl 3.5L,,,,"6101488, 68124785AA",,available,3.7,2.5,0.5 x 0.7 x 0.8 inches,0.40 Pounds,/parts/mopar-fuse-mini~atm20.html
+,4815454,BRACKET Instrument Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.7 x 2.3 x 0.4 inches,0.50 Pounds,/parts/mopar-bracket-instrument-panel~4815454.html
+,4865212AA,BRACKET PAB De-activation Switch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,22.67,17.82,6.4 x 2.8 x 1.8 inches,0.60 Pounds,/parts/mopar-bracket-pab-de-activation-switch~4865212aa.html
+,5291051,BUMPER Glove Box Door,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.5 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-striker-glove-box-door~5291051.html
+,6503518,CLIP M15.9x30.00,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-clip~6503518.html
+,6034833,CLIP Push .164-7.5,,2001-2002,Base,6 Cyl 3.5L,24,1,,,,available,22.35,14.51,0.5 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-clip-snap-in~6034833.html
+,4786367,HINGE Glovebox,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.9 x 3.3 x 0.2 inches,0.70 Pounds,/parts/mopar-hinge-int-glovebox~4786367.html
+,4688898,LABEL Fuse Block,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,3.47,2.72,,0.90 Pounds,/parts/mopar-label-fuse-block~4688898.html
+,4886429AA,LINER Glove Box,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,18.9 x 7.9 x 7.7 inches,2.30 Pounds,/parts/mopar-glovebox-glove-box~4886429aa.html
+,34201358,NUT AND WASHER Hex Nut-Sealing Washer M6 x 1.00,,2001-2002,Base,6 Cyl 3.5L,2,1,,6101444,,available,13.9,9.67,1.0 x 1.0 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-hex-nut-sealing-washer~34201358.html
+,6101712,NUT U M6x1.00,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,9.2,6.41,1.2 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-nut-u~6101712.html
+,4815574,PLATE Instrument Panel Support,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,3.2 x 1.0 x 0.9 inches,0.60 Pounds,/parts/mopar-plate-i-p-support~4815574.html
+,4450129,PULLER Fuse,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 0.6 x 0.5 inches,0.50 Pounds,/parts/mopar-puller-fuse~4450129.html
+,4786377,REINFORCEMENT Instrument Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,51.0 x 23.7 x 21.0 inches,17.30 Pounds,/parts/mopar-reinfmnt-instrument-panel~4786377.html
+,56021893AA,RETAINER Headlamp Switch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.8 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-retainer-headlamp-switch~56021893aa.html
+,6036148AA,RIVET Blind Three Leg,,2001-2002,Base,6 Cyl 3.5L,4,1,,6034212,,available,13.25,9.26,2.2 x 0.7 x 0.5 inches,0.40 Pounds,/parts/mopar-rivet-blind~6036148aa.html
+,6101451,SCREW AND WASHER Hex Head M6x1x25,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,unavailable,8.9,6.17,1.4 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-bolt-hex-head~6101451.html
+,6101462,SCREW AND WASHER Hex Head M8x1.25x30,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,5.4,3.73,1.5 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6101462.html
+,6102132AA,SCREW Hex Head M6x1x20,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,5.5,3.73,1.1 x 0.9 x 0.6 inches,1.90 Pounds,/parts/mopar-screw-hex-head~6102132aa.html
+,4786719,SILENCER Dash Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,23.6 x 16.4 x 2.7 inches,4.10 Pounds,/parts/mopar-silencer-dash-panel~4786719.html
+,4815938,SUPPORT Instrument Panel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.2 x 0.6 x 0.8 inches,0.70 Pounds,/parts/mopar-support-instrument-panel~4815938.html
+,4565022,SWITCH AND LAMP Glove Box,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,33.8,23.42,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-switch-glove-box~4565022.html
+,4565321AD,SWITCH Headlamp,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.6 x 4.8 x 3.1 inches,0.70 Pounds,/parts/mopar-switch-headlamp~4565321ad.html

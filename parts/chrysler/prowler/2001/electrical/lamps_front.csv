@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,QF40VXTAD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Tundra,discontinued,,,40.7 x 16.4 x 11.8 inches,13.70 Pounds,/parts/mopar-headlamp~qf40vxtad.html
+1,QF40YB9AD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Midnight Blue,discontinued,,,40.3 x 16.2 x 11.9 inches,14.00 Pounds,/parts/mopar-headlamp~qf40yb9ad.html
+1,QF40YSAAD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Charcoal,discontinued,,,40.0 x 16.4 x 11.6 inches,13.40 Pounds,/parts/mopar-headlamp~qf40ysaad.html
+1,QF40YVFAD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Pepper Red,discontinued,,,40.8 x 15.7 x 12.5 inches,1.90 Pounds,/parts/mopar-headlamp~qf40yvfad.html
+1,QF41VXTAD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Tundra,discontinued,,,35.7 x 10.6 x 8.2 inches,11.10 Pounds,/parts/mopar-headlamp~qf41vxtad.html
+1,QF41YB9AD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Midnight Blue,discontinued,,,40.6 x 15.6 x 11.6 inches,14.30 Pounds,/parts/mopar-headlamp~qf41yb9ad.html
+1,QF41YSAAD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Charcoal,discontinued,,,11.3 x 9.0 x 41.1 inches,12.10 Pounds,/parts/mopar-headlamp~qf41ysaad.html
+1,QF41YVFAD,HEADLAMP,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Pepper Red,discontinued,,,10.9 x 8.9 x 39.2 inches,12.50 Pounds,/parts/mopar-headlamp~qf41yvfad.html
+3,6101956,NUT U M6x1.00,,2001-2002,Base,6 Cyl 3.5L,4,1,6510185AA,,,available,1.85,1.28,0.7 x 0.8 x 1.2 inches,0.40 Pounds,/parts/mopar-nut-u~6101956.html
+4,6503698,SCREW AND WASHER Truss Head M6-1.00x30.00,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,1.3 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-screw-truss-head~6503698.html
+5,6502589,NUT Wing M6,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,1.2 x 1.1 x 1.1 inches,0.50 Pounds,/parts/mopar-nut-wing~6502589.html
+10,4786876,LAMP Side Marker,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.5 x 3.4 x 1.8 inches,0.50 Pounds,/parts/mopar-lamp-side-marker~4786876.html
+10,4786877,LAMP Side Marker,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.6 x 3.5 x 1.8 inches,0.50 Pounds,/parts/mopar-lamp-side-marker~4786877.html
+11,L0000168,BULB 168,,2001-2002,Base,6 Cyl 3.5L,2,1,,"MS820080, 9425542",,available,10.5,7.34,0.4 x 1.9 x 3.0 inches,0.40 Pounds,/parts/mopar-bulb~l0000168.html
+12,4786243AB,LAMP Park and Turn Signal,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.1 x 4.0 x 3.7 inches,0.80 Pounds,/parts/mopar-lamp-park-and-turn-signal~4786243ab.html
+12,4786242AB,LAMP Park and Turn Signal,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.8 x 3.8 x 4.1 inches,0.80 Pounds,/parts/mopar-lamp-park-and-turn-signal~4786242ab.html
+16,4815283,WIRING Turn Signal Lamp,,2001,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.1 x 4.2 x 2.0 inches,0.60 Pounds,/parts/mopar-wiring-turn-signal-lamp~4815283.html
+,L0009005,BULB Headlamp,,2001,Base,6 Cyl 3.5L,,,,MS820959,,available,37,25.26,2.0 x 1.9 x 4.4 inches,0.50 Pounds,/parts/mopar-headlamp-headlamp~l0009005.html
+,P0009005EB,BULB Headlamp,,2001,Base,6 Cyl 3.5L,,,,,Sylvania Lighting,discontinued,,,3.1 x 1.0 x 2.0 inches,0.50 Pounds,/parts/mopar-bulb-headlamp-eco-bright-9005~p0009005eb.html
+,4897007AA,CAP Headlamp,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,24.6 x 7.0 x 2.9 inches,1.10 Pounds,/parts/mopar-cap-headlamp~4897007aa.html
+,4897006AA,CAP Headlamp,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,unavailable,,,23.7 x 8.9 x 3.5 inches,1.10 Pounds,/parts/mopar-cap-headlamp~4897006aa.html
+,4815769,LABEL Headlamp Leveling,,,,,,,,,,discontinued,,,,,
+,6101653,NUT M5x.8,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.8 x 0.5 x 0.4 inches,0.40 Pounds,/parts/mopar-nut~6101653.html
+,4897009AA,PLUG,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.0 x 1.0 x 1.1 inches,0.70 Pounds,/parts/mopar-plug~4897009aa.html
+,6503904,SCREW Pan Head M5x.8x30,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,,/parts/mopar-screw-pan-head~6503904.html
+,4815282,WIRING Headlamp,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.1 x 3.1 x 1.2 inches,0.60 Pounds,/parts/mopar-wiring-headlamp~4815282.html

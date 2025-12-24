@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,MT47LAZ,CONSOLE Floor,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.5 x 10.0 x 5.2 inches,3.10 Pounds,/parts/mopar-console-floor~mt47laz.html
+2,LR95LAZ,PANEL Console,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.3 x 8.1 x 4.1 inches,2.30 Pounds,/parts/mopar-panel-console~lr95laz.html
+3,RP63DX9AA,BIN Floor Console,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.2 x 3.1 x 1.6 inches,1.70 Pounds,/parts/mopar-box-bin-floor-console~rp63dx9aa.html
+4,HL63MAZ,ARMREST Console,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-armrest-console~hl63maz.html
+5,4599162,HINGE Armrest Pad,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-hinge-armrest-pad~4599162.html
+6,4453713,BUMPER Floor Console Armrest,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,,,/parts/mopar-stop-bmpr-floor-console-armrest~4453713.html
+7,PS24DX9,INSERT Floor Console,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.2 x 4.4 x 4.5 inches,0.60 Pounds,/parts/mopar-insert-floor-console~ps24dx9.html
+8,TM481X7AA,BEZEL Console PRNDL,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,11.6 x 6.8 x 2.2 inches,1.10 Pounds,/parts/mopar-bezel-console-prndl~tm481x7aa.html
+9,4815038,BOOT Console Hand Brake,,,,,,,,,,discontinued,,,,,
+11,6032723,SCREW Self Tapping M4.2x1.69x19.05,,2001-2002,Base,6 Cyl 3.5L,2,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+,6032986,SCREW Tapping M4.2-1.69x12.7,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,discontinued,,,,,/parts/mopar-screw-tapping~6032986.html

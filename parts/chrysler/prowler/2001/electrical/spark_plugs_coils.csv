@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4609088AF,COIL Ignition,,2001-2002,Base,6 Cyl 3.5L,6,1,4609088AI,,,available,146,96.24,3.3 x 3.8 x 8.1 inches,1.00 Pounds,/parts/mopar-coil-ign-ignition~4609088af.html
+2,6505121AA,BOLT,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,discontinued,,,1.6 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-bolt-special-head~6505121aa.html
+3,4648604,TUBE Spark Plug,,2001-2002,Base,6 Cyl 3.5L,6,1,,,,available,15.05,10.43,1.1 x 1.1 x 5.7 inches,0.60 Pounds,/parts/mopar-tube-spark-plug~4648604.html
+4,SPRC12PEC5,SPARK PLUG,,2001,Base,6 Cyl 3.5L,6,1,68304017AA,,,available,11.45,7.92,1.1 x 1.1 x 3.8 inches,0.50 Pounds,/parts/mopar-plug~sprc12pec5.html
+5,4609133AA,CAPACITOR Ignition,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,2.0 x 1.1 x 0.8 inches,0.40 Pounds,/parts/mopar-capacitor-ignition~4609133aa.html
+,6102003,BOLT AND CONED WASHER Hex Head M6x16x14,,2001-2002,Base,6 Cyl 3.5L,2,1,,6100275,,available,8.3,5.77,1.1 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-bolt-hex-head~6102003.html
+,4609116AA,SPACER,,2001-2002,Base,6 Cyl 3.5L,12,1,,,,discontinued,,,0.5 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-spacer~4609116aa.html

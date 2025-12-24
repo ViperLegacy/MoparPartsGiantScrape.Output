@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,153341,SCREW Pan Head .64-18x.50,,2001,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,0.7 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-screw-pan-head~153341.html
+2,PQ14LAZAB,PANEL Quarter Trim,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Black,discontinued,,,39.1 x 13.1 x 4.2 inches,1.40 Pounds,/parts/mopar-panel-quarter-trim~pq14lazab.html
+2,PQ15LAZAB,PANEL Quarter Trim,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Black,discontinued,,,41.7 x 13.2 x 4.2 inches,2.30 Pounds,/parts/mopar-panel-quarter-trim~pq15lazab.html
+3,34201872,NUT Snap In M4.2 x 1.41,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,6.92,5.44,0.7 x 0.6 x 0.4 inches,0.50 Pounds,/parts/mopar-nut-snap-in~34201872.html
+4,153832,SCREW .190-16x1.00,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,4.07,3.2,1.0 x 0.3 x 0.3 inches,0.80 Pounds,/parts/mopar-screw~153832.html
+,4815386,BRACKET Quarter Trim,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,2.3 x 1.2 x 1.6 inches,0.60 Pounds,/parts/mopar-bracket-quarter-trim~4815386.html
+,4815397AC,SEAL Quarter Belt Trim,Left,2001,Base,6 Cyl 3.5L,,,TC43DX9AB,,,available,111,95.94,8.1 x 4.4 x 2.0 inches,0.50 Pounds,/parts/mopar-seal-quarter-belt-trim~4815397ac.html
+,4815396AC,SEAL Quarter Belt Trim,Right,2001,Base,6 Cyl 3.5L,,,TC42DX9AB,,,discontinued,,,8.3 x 5.3 x 2.0 inches,0.50 Pounds,/parts/mopar-seal-quarter-belt-trim~4815396ac.html

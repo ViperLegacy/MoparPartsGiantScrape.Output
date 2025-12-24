@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4868402AA,GENERATOR Engine,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,433,290.36,10.8 x 10.1 x 10.1 inches,16.80 Pounds,/parts/mopar-alternatr-engine~4868402aa.html
+1,RCAC2314,GENERATOR Engine,,2001-2002,,6 Cyl 3.5L,,,,,ALTERNATOR,discontinued,,,,,
+2,4792261,STRUT Support to Cylinder Head,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,9.2 x 4.3 x 3.4 inches,2.10 Pounds,/parts/mopar-bracket-support-to-cylinder-head~4792261.html
+3,4604735,CLIP Wiring,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.8 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-clip-wiring~4604735.html
+4,6101448,NUT AND WASHER Hex Nut-Coned Washer M10 x 1.5,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,11.3,7.86,1.2 x 1.2 x 0.8 inches,0.40 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6101448.html
+5,6505128AA,BOLT,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.43,3.48,5.3 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-bolt~6505128aa.html
+6,6502691,NUT Hex Flange Lock M6x1,,2001-2002,Base,6 Cyl 3.5L,,,6101802,,,available,4.45,3.03,0.6 x 0.6 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502691.html
+8,4792262AC,STRUT Alternator To Cylinder Head,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.95,6.09,7.2 x 0.8 x 0.5 inches,0.70 Pounds,/parts/mopar-bracket-alternator-to-cylinder-head~4792262ac.html
+10,6505128AA,BOLT,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,4.43,3.48,5.3 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-bolt~6505128aa.html
+,6101763,BOLT AND WASHER Hex Head M10x1.5,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,3.7 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-bolt-hex-head~6101763.html
+,6101462,SCREW AND WASHER Hex Head M8x1.25x30,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5.4,3.73,1.5 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6101462.html

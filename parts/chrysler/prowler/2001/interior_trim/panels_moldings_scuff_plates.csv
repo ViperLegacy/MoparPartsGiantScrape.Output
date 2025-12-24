@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,PQ12LAZ,PANEL Cowl Side Trim,,,,,,,,,Right Black,discontinued,,,,,
+1,PQ13LAZ,PANEL Cowl Side Trim,,,,,,,,,Left Black,discontinued,,,,,
+2,34201872,NUT Snap In M4.2 x 1.41,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,6.92,5.44,0.7 x 0.6 x 0.4 inches,0.50 Pounds,/parts/mopar-nut-snap-in~34201872.html
+3,153832,SCREW .190-16x1.00,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,4.07,3.2,1.0 x 0.3 x 0.3 inches,0.80 Pounds,/parts/mopar-screw~153832.html

@@ -1,0 +1,29 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865073AA,REINFORCEMENT Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,24.9 x 5.6 x 2.4 inches,4.90 Pounds,/parts/mopar-reinfmnt-floor-pan~4865073aa.html
+7,5003684AC,PANEL Rear Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,79.0 x 48.5 x 12.4 inches,33.30 Pounds,/parts/mopar-panel-rear-floor-pan~5003684ac.html
+8,4786717,COVER Fuel Tank Access,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,11.1 x 10.1 x 1.1 inches,1.30 Pounds,/parts/mopar-cover-fuel-tank-access~4786717.html
+9,4865239AB,CROSSMEMBER Radiator,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,426.05,334.81,31.4 x 13.9 x 4.2 inches,3.20 Pounds,/parts/mopar-c-member-radiator~4865239ab.html
+11,4786121AB,CROSSMEMBER Hood Latch Support,,,,,,,,,,discontinued,,,,,
+12,4815107AB,CROSSMEMBER Front Body Mount,,,,,,,,,,discontinued,,,,,
+13,4815292AB,BRACKET Cowl Side I/P Beam,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.65,6.8,7.7 x 5.1 x 2.6 inches,1.60 Pounds,/parts/mopar-bracket-cowl-side-i-p-beam~4815292ab.html
+13,4815293AB,BRACKET Cowl Side I/P Beam,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.2 x 4.2 x 2.3 inches,1.50 Pounds,/parts/mopar-bracket-cowl-side-i-p-beam~4815293ab.html
+14,4815486,REINFORCEMENT Radiator Brace,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,4.9 x 2.6 x 2.4 inches,0.80 Pounds,/parts/mopar-reinfmnt-radiator-brace~4815486.html
+14,4815487,REINFORCEMENT Radiator Brace,Left,2001-2002,,6 Cyl 3.5L,,,,,,discontinued,,,,,
+15,6503183,SCREW Hex Head M10x1.5x30,,2001-2002,Base,6 Cyl 3.5L,8,1,,,,available,6.95,4.72,1.6 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head-tapping~6503183.html
+16,4865030AB,BRACKET Frame,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,discontinued,,,6.1 x 3.9 x 1.6 inches,1.40 Pounds,/parts/mopar-bracket-frame~4865030ab.html
+17,4815418,BRACKET Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,Right Rear Folding Top Mounting,discontinued,,,5.8 x 5.9 x 3.0 inches,1.40 Pounds,/parts/mopar-bracket-floor-pan~4815418.html
+17,4815419,BRACKET Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,Left Rear Folding Top Mounting,available,12.94,10.17,6.0 x 5.9 x 3.0 inches,1.60 Pounds,/parts/mopar-bracket-floor-pan~4815419.html
+24,4815842,REINFORCEMENT Body Side Aperture,,2001-2002,Base,6 Cyl 3.5L,,,,,Right To Front Floor Pan,discontinued,,,8.0 x 7.5 x 4.7 inches,1.10 Pounds,/parts/mopar-reinfmnt-body-side-aperture~4815842.html
+24,4815843,REINFORCEMENT Body Side Aperture,,2001-2002,Base,6 Cyl 3.5L,,,,,Left To Front Floor Pan,discontinued,,,7.6 x 7.5 x 5.2 inches,1.20 Pounds,/parts/mopar-reinfmnt-body-side-aperture~4815843.html
+25,4815840,REINFORCEMENT Body Side Aperture Seat,,2001-2002,Base,6 Cyl 3.5L,,,,,Right To Seat Riser Crossmember,discontinued,,,5.1 x 4.5 x 2.9 inches,0.60 Pounds,/parts/mopar-reinfmnt-body-side-aperture-seat~4815840.html
+25,4815841,REINFORCEMENT Body Side Aperture Seat,,2001,Base,6 Cyl 3.5L,,,,,Left To Seat Riser Crossmember,discontinued,,,6.4 x 5.3 x 4.0 inches,0.80 Pounds,/parts/mopar-reinfmnt-body-side-aperture-seat~4815841.html
+,4815100,BRACKET Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.1 x 5.7 x 2.5 inches,1.60 Pounds,/parts/mopar-bracket-floor-pan~4815100.html
+,4815858,EXTENSION Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,15.1 x 10.6 x 4.4 inches,0.80 Pounds,/parts/mopar-extension-floor-pan~4815858.html
+,4865073AA,REINFORCEMENT Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,24.9 x 5.6 x 2.4 inches,4.90 Pounds,/parts/mopar-reinfmnt-floor-pan~4865073aa.html
+,4865166AA,REINFORCEMENT Floor Tunnel,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.4 x 1.8 x 0.2 inches,0.50 Pounds,/parts/mopar-reinfmnt-floor-tunnel~4865166aa.html
+,4815352,REINFORCEMENT Radiator Brace,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.5 x 2.0 x 2.1 inches,0.50 Pounds,/parts/mopar-reinfmnt-radiator-brace~4815352.html
+,4865100AB,REINFORCEMENT Rear Floor Pan,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,12.59,9.89,5.6 x 3.6 x 0.2 inches,0.60 Pounds,/parts/mopar-reinfmnt-rr-floor-pan~4865100ab.html
+,4865108AA,REINFORCEMENT Rear Floor Pan,Right,2001-2002,Base,6 Cyl 3.5L,,,,,,available,15.04,11.82,0.3 x 0.3 x 0.3 inches,0.60 Pounds,/parts/mopar-reinfmnt-rr-floor-pan~4865108aa.html
+,4865109AA,REINFORCEMENT Rear Floor Pan,Left,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,8.3 x 6.0 x 0.2 inches,0.50 Pounds,/parts/mopar-reinfmnt-rr-floor-pan~4865109aa.html
+,6504339,STUD,,,,,3,,,,,discontinued,,,,,
+,4865161AA,STUD PLATE Rear Floor Pan To Rear Impact Blocker,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.8 x 1.5 x 1.0 inches,0.60 Pounds,/parts/mopar-plate-rear-floor-pan-to-rear-impa~4865161aa.html

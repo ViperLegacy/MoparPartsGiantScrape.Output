@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4883505AA,GUIDE PACKAGE Parking Sprag Pawl,,2001,Base,6 Cyl 3.5L,,,4883505AB,,,available,131,87.41,3.4 x 2.5 x 3.8 inches,0.80 Pounds,/parts/mopar-guide-parking-sprag-pawl~4883505aa.html
+2,4431653,SPRING Parking Sprag Return,,2001,Base,6 Cyl 3.5L,,,52852949AA,,,available,7.05,4.78,,,/parts/mopar-spring-parking-sprag-return~4431653.html
+3,4431634,ROD Parking Sprag,,2001,Base,6 Cyl 3.5L,,,,,,discontinued,,,,,/parts/mopar-rod-parking-sprag~4431634.html
+4,6035256,SNAP RING Rod,,2001,Base,6 Cyl 3.5L,,,,,,available,3.95,2.68,,0.50 Pounds,/parts/mopar-ring-rod~6035256.html

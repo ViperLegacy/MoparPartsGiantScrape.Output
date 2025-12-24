@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4786744AD,"HOSE Power Steering Pressure, Pump to Steering Gear",,,,,,,,,,discontinued,,,,,
+2,4786745AC,HOSE Power Steering Return Steering Gear to Reservoir,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,26.0 x 5.2 x 1.0 inches,1.10 Pounds,/parts/mopar-line-power-steering-return~4786745ac.html
+3,4815987AA,CLIP Power Steering Hose,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.3 x 3.1 x 0.5 inches,0.40 Pounds,/parts/mopar-clip-power-steering-hose~4815987aa.html
+4,4626849AB,RESERVOIR Power Steering Pump Includes Cap,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.2 x 5.1 x 5.1 inches,0.90 Pounds,/parts/mopar-reservoir-power-steering-pump~4626849ab.html
+5,4815332AC,"HOSE Power Steering Return, Reservoir to Pump",,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,16.0 x 9.6 x 5.7 inches,1.00 Pounds,/parts/mopar-line-power-steering~4815332ac.html
+6,4815712AB,BRACKET Power Steering Reservoir,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.4 x 4.0 x 2.1 inches,0.90 Pounds,/parts/mopar-cooler-power-steering-reservoir~4815712ab.html
+7,6502843,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00 Reservoir Bracket to Upper Load Beam,,2001-2002,Base,6 Cyl 3.5L,2,1,,"6502726, 6504030",,available,7.8,5.3,0.8 x 0.8 x 0.4 inches,0.40 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6502843.html

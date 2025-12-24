@@ -1,0 +1,80 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5014201AA,CARRIER AND BEARING Planet Pinion,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,275,172.91,8.8 x 7.2 x 7.5 inches,6.40 Pounds,/parts/mopar-carrier-planet-pinion~5014201aa.html
+2,4412235,BEARING CONE Output Shaft,,2001-2002,Base,6 Cyl 3.5L,,,4412235AB,,,available,129,85.33,3.8 x 2.7 x 1.9 inches,0.70 Pounds,/parts/mopar-brg-pkg-output-shaft~4412235.html
+3,6501853,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.8,5.3,3.8 x 3.9 x 0.3 inches,0.40 Pounds,/parts/mopar-ring~6501853.html
+4,4412261,SPRING Low/Reverse Clutch Piston,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.6 x 5.5 x 0.4 inches,0.60 Pounds,/parts/mopar-spring-low-reverse-clutch-piston~4412261.html
+5,4882917,SEAL PACKAGE Transmission Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.35,6.56,5.0 x 5.1 x 3.4 inches,0.40 Pounds,/parts/mopar-seal-pkg-transmission-clutch~4882917.html
+6,4431672,PISTON Low and Reverse Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.5 x 7.0 x 2.8 inches,2.00 Pounds,/parts/mopar-piston-low-and-reverse-clutch~4431672.html
+7,4431648,RETAINER Transmission Low and Reverse Clutch Pistion,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.5 x 6.9 x 2.8 inches,2.00 Pounds,/parts/mopar-retainer-transmission-low-and-revers~4431648.html
+9,4431649,GASKET Clutch Retainer,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,10.2 x 10.2 x 0.4 inches,0.40 Pounds,/parts/mopar-gasket-clutch-retainer~4431649.html
+10,4412234,BEARING CUP Output Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,27.5,19.05,3.2 x 3.2 x 0.8 inches,0.60 Pounds,/parts/mopar-brg-pkg-output-shaft~4412234.html
+11,5280020,SHIM Carrier Bearing 5.17 - 5.19mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,10,6.93,2.0 x 2.1 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280020.html
+41,4567022,BEARING CUP Differential,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,37.1,25.92,1.9 x 2.6 x 3.7 inches,0.60 Pounds,/parts/mopar-brg-pkg-differential~4567022.html
+42,4567025AB,BEARING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,55.7,27.46,0.9 x 12.5 x 6.3 inches,0.70 Pounds,/parts/mopar-bearing-differential~4567025ab.html
+43,6502476,NUT Rear Carrier M36 x 1.50,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,22.15,15.26,2.6 x 2.3 x 0.7 inches,0.60 Pounds,/parts/mopar-nut-rear-carrier~6502476.html
+44,5280053,SHIM Carrier Sprocket 2.64 - 2.84mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.6 x 0.6 x 0.1 inches,0.50 Pounds,/parts/mopar-shim-carrier-sprocket~5280053.html
+52,4659831,SPROCKET Output Shaft,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,27.24,21.41,5.4 x 4.8 x 3.2 inches,5.60 Pounds,/parts/mopar-sprocket-output-shaft~4659831.html
+53,4567262,THRUST BEARING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,17,11.77,2.1 x 2.1 x 0.5 inches,0.50 Pounds,/parts/mopar-bearing~4567262.html
+54,4377080,GEAR Sun,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,67.65,47.07,3.7 x 2.6 x 1.9 inches,1.10 Pounds,/parts/mopar-gear-sun~4377080.html
+55,4412229AB,THRUST BEARING Rear Sun Gear Front,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,19.7,13.75,2.5 x 2.5 x 0.5 inches,0.50 Pounds,/parts/mopar-bearing-rear-sun-gear~4412229ab.html
+56,4567573,DISC Clutch,,,,,5,,,,,discontinued,,,,,
+57,4659055,PLATE Transmission Clutch Reaction,,2001-2002,Base,6 Cyl 3.5L,5,1,,,,available,12.25,8.39,10.8 x 10.4 x 0.3 inches,0.60 Pounds,/parts/mopar-plate-transmission-clutch-reactio~4659055.html
+58,4412395,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,9.2,6.35,6.9 x 7.0 x 0.1 inches,0.40 Pounds,/parts/mopar-ring~4412395.html
+59,4897452AA,PLATE PACKAGE Low/Reverse Clutch 5.753/6.012,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,54.7,38.1,13.3 x 10.6 x 0.8 inches,1.10 Pounds,/parts/mopar-plate-pkg-low-reverse-clutch~4897452aa.html
+64,4799858AA,SNAP RING,,2001,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.3 x 10.2 x 11.8 inches,0.50 Pounds,/parts/mopar-ring~4799858aa.html
+65,4799794,GEAR Annulus,,2001-2002,Base,6 Cyl 3.5L,,,4799794AB,,,available,101,67.73,6.6 x 6.4 x 3.4 inches,2.20 Pounds,/parts/mopar-gear-annulus~4799794.html
+66,6035238,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,7,4.83,4.9 x 4.3 x 0.1 inches,0.40 Pounds,/parts/mopar-ring~6035238.html
+67,4567539AB,CARRIER Planetary Pinion,,2001-2002,Base,6 Cyl 3.5L,,,4800673AA,,,available,171,113.63,3.3 x 5.2 x 6.2 inches,2.60 Pounds,/parts/mopar-carrier-planetary-pinion~4567539ab.html
+69,6035238,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,available,7,4.83,4.9 x 4.3 x 0.1 inches,0.40 Pounds,/parts/mopar-ring~6035238.html
+70,4505591,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,,,4505591AB,,,available,12.95,8.85,7.0 x 7.3 x 0.1 inches,0.50 Pounds,/parts/mopar-ring~4505591.html
+71,4883078,RETAINER PACKAGE 2nd & 4th Clutch Piston,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,13.3 x 12.4 x 2.1 inches,2.30 Pounds,/parts/mopar-retnr-pkg-2nd-4th-clutch-piston~4883078.html
+72,4882917,SEAL PACKAGE Transmission Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.35,6.56,5.0 x 5.1 x 3.4 inches,0.40 Pounds,/parts/mopar-seal-pkg-transmission-clutch~4882917.html
+73,4412248,SPRING 2nd And 4th Clutch Piston,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,34.5,23.88,6.9 x 6.8 x 0.4 inches,0.50 Pounds,/parts/mopar-spring-2nd-and-4th-clutch-piston~4412248.html
+74,4412216AB,THRUST WASHER Second and Fourth Clutch,,2001-2002,Base,6 Cyl 3.5L,,,4412216AC,,,available,15.05,10.37,2.4 x 2.4 x 0.4 inches,0.40 Pounds,/parts/mopar-washer-second-and-fourth-clutch~4412216ab.html
+75,4659618AB,HUB AND GEAR Second And Fourth Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,49.5,34.54,6.6 x 6.4 x 3.5 inches,2.30 Pounds,/parts/mopar-hub-second-and-fourth-clutch~4659618ab.html
+76,4659054,PLATE Transmission Clutch Reaction,,2001-2002,Base,6 Cyl 3.5L,4,1,,,,available,15.7,10.83,10.9 x 10.5 x 0.4 inches,0.70 Pounds,/parts/mopar-plate-transmission-clutch-reactio~4659054.html
+77,4799860AA,DISC Clutch,,2001,Base,6 Cyl 3.5L,4,1,4799860AB,,,available,14.8,10.19,10.4 x 10.1 x 0.3 inches,0.50 Pounds,/parts/mopar-disc-clutch~4799860aa.html
+78,4539901,WASHER Sprocket,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,2.0 x 2.1 x 0.1 inches,0.50 Pounds,/parts/mopar-washer-sprocket~4539901.html
+79,6502448,SNAP RING,,2001-2002,Base,6 Cyl 3.5L,2,1,,,,discontinued,,,5.2 x 5.2 x 5.1 inches,1.10 Pounds,/parts/mopar-ring~6502448.html
+,4897453AA,PLATE PACKAGE Low/Reverse Clutch 6.013/6.272,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,55.85,38.91,,1.20 Pounds,/parts/mopar-plate-pkg-low-reverse-clutch~4897453aa.html
+,4897454AA,PLATE PACKAGE Low/Reverse Clutch 6.273/6.532,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,66.35,46.19,12.4 x 10.6 x 1.1 inches,1.40 Pounds,/parts/mopar-plate-pkg-low-reverse-clutch~4897454aa.html
+,4897455AA,PLATE PACKAGE Low/Reverse Clutch 6.533/6.792,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,64.15,44.68,,1.20 Pounds,/parts/mopar-plate-pkg-low-reverse-clutch~4897455aa.html
+,4897456AA,PLATE PACKAGE Low/Reverse Clutch 6.793/7.052,,2001-2002,Base,6 Cyl 3.5L,,,,4567893,,available,59.35,41.24,11.7 x 10.3 x 0.5 inches,1.20 Pounds,/parts/mopar-plate-pkg-low-reverse-clutch~4897456aa.html
+,6501819,SCREW AND WASHER Pan Head M5x0.8x11.00,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,5.65,3.84,0.8 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-pan-head~6501819.html
+,5280021,SHIM Carrier Bearing 5.20 - 5.22mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.0 x 2.0 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280021.html
+,5280022,SHIM Carrier Bearing 5.23 - 5.25mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.2,4.25,1.0 x 1.0 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-carrier-bearing~5280022.html
+,5280023,SHIM Carrier Bearing 5.26 - 5.28mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5.45,3.79,2.0 x 2.0 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280023.html
+,5280024,SHIM Carrier Bearing 5.29 - 5.31mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5.65,3.9,2.0 x 2.0 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280024.html
+,5280025,SHIM Carrier Bearing 5.32 - 5.34mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.0 x 2.1 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280025.html
+,5280026,SHIM Carrier Bearing 5.35 - 5.37mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.75,5.36,1.8 x 1.8 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280026.html
+,5280027,SHIM Carrier Bearing 5.38 - 5.40mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.45,4.49,5.1 x 2.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280027.html
+,5280028,SHIM Carrier Bearing 5.41 - 5.43mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,9.75,6.76,1.8 x 1.7 x 0.2 inches,1.20 Pounds,/parts/mopar-shim-carrier-bearing~5280028.html
+,5280029,SHIM Carrier Bearing 5.44 - 5.46mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.1,5.59,1.8 x 1.9 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-carrier-bearing~5280029.html
+,5280030,SHIM Carrier Bearing 5.47 - 5.49mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.2,4.19,1.8 x 1.8 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280030.html
+,5280031,SHIM Carrier Bearing 5.50 - 5.52mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.45,4.37,1.7 x 1.7 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280031.html
+,5280032,SHIM Carrier Bearing 5.53 - 5.55mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.0 x 2.1 x 0.5 inches,0.50 Pounds,/parts/mopar-shim-carrier-bearing~5280032.html
+,5280033,SHIM Carrier Bearing 5.56 - 5.58mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.1 x 2.0 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280033.html
+,5280034,SHIM Carrier Bearing 5.59 - 5.61mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5.9,4.02,1.6 x 1.6 x 0.2 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280034.html
+,5280035,SHIM Carrier Bearing 5.62 - 5.64mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,10,6.93,,0.50 Pounds,/parts/mopar-shim-carrier-bearing~5280035.html
+,5280036,SHIM Carrier Bearing 5.65 - 5.67mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.4,4.37,3.1 x 4.2 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280036.html
+,5280037,SHIM Carrier Bearing 5.68 - 5.70mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,18.85,13.05,3.2 x 3.1 x 0.4 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280037.html
+,5280038,SHIM Carrier Bearing 5.71 - 5.73mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.75,5.42,2.3 x 2.3 x 0.7 inches,0.60 Pounds,/parts/mopar-shim-carrier-bearing~5280038.html
+,5280039,SHIM Carrier Bearing 5.74 - 5.76mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.3,5.71,8.3 x 3.1 x 3.2 inches,4.30 Pounds,/parts/mopar-shim-carrier-bearing~5280039.html
+,5280040,SHIM Carrier Bearing 5.77 - 5.79mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.95,4.83,6.3 x 5.1 x 0.7 inches,1.40 Pounds,/parts/mopar-shim-carrier-bearing~5280040.html
+,5280041,SHIM Carrier Bearing 5.80 - 5.82mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.25,5.07,1.9 x 1.9 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280041.html
+,5280042,SHIM Carrier Bearing 5.83 - 5.85mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.85,4.78,2.0 x 2.0 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280042.html
+,5280043,SHIM Carrier Bearing 5.86 - 5.88mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.5,5.94,1.8 x 1.9 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280043.html
+,5280044,SHIM Carrier Bearing 5.89 - 5.91mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.65,4.6,3.8 x 3.7 x 0.6 inches,0.50 Pounds,/parts/mopar-shim-carrier-bearing~5280044.html
+,5280045,SHIM Carrier Bearing 5.92 - 5.94mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.75,4.66,2.0 x 2.1 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280045.html
+,5280046,SHIM Carrier Bearing 5.95 - 5.97mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,7.9,5.48,4.2 x 4.2 x 0.5 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280046.html
+,5280047,SHIM Carrier Bearing 5.98 - 6.00mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,8.7,6,1.8 x 1.8 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280047.html
+,5280048,SHIM Carrier Bearing 6.01 - 6.03mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.3 x 2.3 x 0.6 inches,0.50 Pounds,/parts/mopar-shim-carrier-bearing~5280048.html
+,5280049,SHIM Carrier Bearing 6.04 - 6.06mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.5,4.54,2.0 x 2.1 x 0.6 inches,0.40 Pounds,/parts/mopar-shim-carrier-bearing~5280049.html
+,5280054,SHIM Carrier Sprocket 2.85 - 3.05mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.4 x 1.4 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-carrier-sprocket~5280054.html
+,5280055,SHIM Carrier Sprocket 3.06 - 3.26mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.4 x 1.4 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-carrier-sprocket~5280055.html
+,5280056,SHIM Carrier Sprocket 3.27 - 3.47mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.5 x 1.5 x 0.1 inches,0.50 Pounds,/parts/mopar-shim-carrier-sprocket~5280056.html
+,5280057,SHIM Carrier Sprocket 3.48 - 3.68mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.5 x 1.4 x 0.1 inches,0.50 Pounds,/parts/mopar-shim-carrier-sprocket~5280057.html
+,5280058,SHIM Carrier Sprocket 3.69 - 3.89mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.4 x 1.4 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-carrier-sprocket~5280058.html
+,5280059,SHIM Carrier Sprocket 3.90 - 4.10mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.4 x 1.5 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-carrier-sprocket~5280059.html
+,5280120,SHIM Carrier Sprocket 4.11 - 4.31mm,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 1.6 x 0.1 inches,0.90 Pounds,/parts/mopar-shim-carrier-sprocket~5280120.html
+,4567262,THRUST BEARING,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,17,11.77,2.1 x 2.1 x 0.5 inches,0.50 Pounds,/parts/mopar-bearing~4567262.html
