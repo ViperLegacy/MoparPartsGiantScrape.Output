@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848421,LAMP Tail Stop Turn,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,18.6 x 8.1 x 7.7 inches,2.30 Pounds,/parts/mopar-lamp-tail-stop-turn~4848421.html
+4,4848422,WIRING Taillamp,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,17.17,13.49,9.4 x 8.4 x 0.3 inches,0.60 Pounds,/parts/mopar-wiring-taillamp~4848422.html
+8,L0000168,BULB 168,,"2009-2010, 1992-2006","27; ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,"MS820080, 9425542","License, CHMSL",available,10.5,7.34,0.4 x 1.9 x 3.0 inches,0.40 Pounds,/parts/mopar-bulb~l0000168.html
+10,4642571,LAMP High Mounted Stop,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,17.7 x 5.3 x 4.6 inches,1.00 Pounds,/parts/mopar-lamp-high-mounted-stop~4642571.html
+11,4848203,GROMMET Lamp,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,34.67,27.25,12.5 x 4.1 x 0.4 inches,0.40 Pounds,/parts/mopar-seal-lamp~4848203.html
+12,4643601,BRACKET High Mounted Stop Lamp,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,13.5 x 1.5 x 0.5 inches,0.60 Pounds,/parts/mopar-bracket-high-mounted-stop-lamp~4643601.html
+13,34201942,CLIP Panel Fastener,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.9 x 0.5 x 0.4 inches,0.50 Pounds,/parts/mopar-retainer-panel-fastener~34201942.html
+16,4642910,PANEL Chmsl Cover,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,19.2 x 4.2 x 1.4 inches,0.90 Pounds,/parts/mopar-panel-center-high-mounted-stop-li~4642910.html
+18,6034756,RIVET Blind .156x.460,,1992-2002,"27; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,1.9 x 0.3 x 0.2 inches,0.40 Pounds,/parts/mopar-rivet-blind~6034756.html
+19,4763042,LAMP Liftgate Chmsl,,"2001-2002, 1992-1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.0 x 4.2 x 4.1 inches,0.70 Pounds,/parts/mopar-lamp-liftgate-chmsl~4763042.html

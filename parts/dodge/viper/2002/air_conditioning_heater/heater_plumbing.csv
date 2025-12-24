@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642554,VALVE Water Control,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.7 x 5.8 x 5.0 inches,1.10 Pounds,/parts/mopar-valve-water-control~4642554.html
+2,4643381,CABLE A/C And Heater Control,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,14.5 x 14.7 x 0.2 inches,0.70 Pounds,/parts/mopar-cable-a-c-and-heater-control~4643381.html
+3,4642555,HOSE Water Valve To Heater Core,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 3.7 x 2.6 inches,0.60 Pounds,/parts/mopar-hose-water-valve-to-heater-core~4642555.html
+4,6505604AA,CLAMP,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.0 x 1.0 x 0.3 inches,0.40 Pounds,/parts/mopar-clamp~6505604aa.html
+5,6502017,CLAMP Heater Hose,,"2013-2014, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,"32002256, 6503422, 55057185AA",,available,8.6,5.88,0.8 x 1.3 x 1.6 inches,0.40 Pounds,/parts/mopar-clamp-hose~6502017.html
+7,4763975AC,HOSE Heater Core To Engine,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4763975AB,,available,36.8,34.91,13.2 x 5.2 x 2.7 inches,0.80 Pounds,/parts/mopar-hose-heater-core-to-engine~4763975ac.html
+8,4763974AD,HOSE Engine to Water Valve,,,,,,,,,,discontinued,,,,,
+10,6035728,SCREW .190-16x1.00,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw~6035728.html
+,6100047,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,"2005, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,available,9.35,6.52,0.8 x 0.7 x 0.7 inches,1.80 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+,5245458AC,TUBE Heater Core,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,5245458AB,,discontinued,,,28.2 x 3.1 x 2.6 inches,1.70 Pounds,/parts/mopar-tube-heater-core~5245458ac.html

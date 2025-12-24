@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,6101801,SCREW Tapping Annular M8x1.25x15,,"2000-2001, 1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,0.9 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-screw-tapping-annular~6101801.html
+2,5013433AA,BRACKET PACKAGE Leak Detection Pump,,1998-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,8.57,6.73,,2.20 Pounds,/parts/mopar-bracket-leak-detection-pum~5013433aa.html
+3,4669360,HOSE Leak Detection Pump,,1998-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-hose-leak-detection-pump~4669360.html
+4,4669306AB,PUMP Leak Detection,,1998-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4891423AC,,,discontinued,,,7.3 x 5.3 x 5.1 inches,1.40 Pounds,/parts/mopar-pump-leak-detection~4669306ab.html
+5,4612901,FILTER Fuel Vapor Vent,,1998-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,5.0 x 3.4 x 3.0 inches,0.50 Pounds,/parts/mopar-filter-fuel-vapor-vent~4612901.html
+7,4669359,HOSE Leak Detection Pump,,,,,,,,,,discontinued,,,,,
+8,4669456,CANISTER Vapor,,1998-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-canister-vapor~4669456.html
+,6502493,NUT Hex Flange Serration M6x1,,1998-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.6 x 0.6 x 0.2 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-serration~6502493.html
+,6035482,SCREW Tapping .19-16x.375,,1998-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,0.6 x 0.4 x 0.4 inches,0.70 Pounds,/parts/mopar-screw-tapping~6035482.html
+,6503951,STUD M6X1.00X.250-14X30.00,,1998-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,1.2 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-stud~6503951.html

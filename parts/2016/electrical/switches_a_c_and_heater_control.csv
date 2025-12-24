@@ -1,5 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,5091906AB,CENTER STACK Upper,,,,,,5091906AC,"[SDV] OR [SDY], [X81], [XSQ] AND/OR [AZA] AND/OR [MTR]",available,933,792.3,/parts/mopar-stack~5091906ab.html
-1,68223407AC,CENTER STACK Upper,,,,,,68223407AD,"[SDK] OR [SDE], [X81], [JBK] AND/OR [JAP]",available,776,660.06,/parts/mopar-stack~68223407ac.html
-1,68223408AC,CENTER STACK Upper,,,,,,68223408AH,"[SDV] OR [SDY], [X81], [JBK]",available,910,775.2,/parts/mopar-stack~68223408ac.html
-1,68223409AC,CENTER STACK Upper,,,,,,68223409AD,"[SDV] OR [SDY], [X81], [JBD]",available,1115,607.01,/parts/mopar-stack~68223409ac.html

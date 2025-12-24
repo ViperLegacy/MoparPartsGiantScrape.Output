@@ -1,0 +1,26 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68204715AA,ANTENNA Cable & Base Assy,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,78.7,53.42,5.4 x 4.9 x 3.3 inches,1.00 Pounds,/parts/mopar-antenna-cable-base-assy~68204715aa.html
+2,5064186AA,ANTENNA Global Positioning,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,105,71.21,3.5 x 2.3 x 0.8 inches,0.50 Pounds,/parts/mopar-antenna-global-positioning~5064186aa.html
+3,5035290AC,"SPEAKER 3.5""",,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,68640876AA,,,available,147,100.4,,1.10 Pounds,/parts/mopar-speaker~5035290ac.html
+4,68043031AC,SPEAKER Tweeter,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"68043031AB, 68043031AA",,available,42.15,27.67,3.8 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-speaker-tweeter~68043031ac.html
+5,5035290AC,"SPEAKER 3.5""",,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,2,1,68640876AA,,[RC5] OR [RCA],available,147,100.4,,1.10 Pounds,/parts/mopar-speaker~5035290ac.html
+6,6509674AA,BOLT Hex Flange Head M5X0.8X55.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,3,1,,,,available,2.25,1.51,2.4 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~6509674aa.html
+7,5035254AA,SPEAKER Sub Woofer,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,179,116.18,10.8 x 8.3 x 4.5 inches,2.40 Pounds,/parts/mopar-speaker-h-sub-woofer~5035254aa.html
+8,68270662AD,RADIO MULTI Media,,2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,68270662AG,,"[X81], [RA4]",available,2060,1745.85,10.6 x 10.8 x 6.4 inches,4.00 Pounds,/parts/mopar-radio-multi-media~68270662ad.html
+8,68270663AD,RADIO MULTI Media,,2017,,10 Cyl 8.4L,,,,,"[X81], [RA4], [RSD]",discontinued,,,,,
+8,68270665AE,RADIO MULTI Media,,2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,68270665AH,,"[X81], [RJ4]",available,2320,424.88,10.7 x 10.5 x 6.4 inches,4.70 Pounds,/parts/mopar-radio-multi-media~68270665ae.html
+9,6102192AA,BOLT Hex Flange Head M4.2X1.70X16.00,,"2013-2017, 2008-2010","COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,3,1,,,,available,2.95,1.98,0.9 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~6102192aa.html
+10,5035339AA,COVER Speaker Opening,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,"[RC5]
+[RCA], [GAP]",available,108,72.23,9.8 x 7.0 x 4.3 inches,0.60 Pounds,/parts/mopar-cover-speaker-opening~5035339aa.html
+11,6102398AA,NUT AND WASHER Hex M5x0.80,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,6104714AA,,available,11.3,7.86,0.8 x 0.8 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-hex~6102398aa.html
+12,5035253AB,"SPEAKER 6""X9""",,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,5035253AA,[RC5],available,161,102.08,10.5 x 10.6 x 5.8 inches,2.60 Pounds,/parts/mopar-speaker~5035253ab.html
+13,68260279AC,COVER KIT Speaker Delete,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,discontinued,,,11.6 x 8.4 x 7.6 inches,1.70 Pounds,/parts/mopar-cover-kit-speaker-delete~68260279ac.html
+14,5043022AA,CAP Power Outlet,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,22.8,17.65,3.7 x 2.5 x 1.9 inches,0.90 Pounds,/parts/mopar-cap-power-outlet~5043022aa.html
+16,5043018AB,USB PORT Media Hub,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5043018AA,,available,256,171,9.5 x 5.3 x 3.4 inches,0.70 Pounds,/parts/mopar-usb-media-hub~5043018ab.html
+17,5035418AC,AMPLIFIER,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,5035418AB,,unavailable,1325,884.79,13.6 x 9.4 x 3.8 inches,2.30 Pounds,/parts/mopar-amplifier~5035418ac.html
+18,6102398AA,NUT AND WASHER Hex M5x0.80,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,6104714AA,,available,11.3,7.86,0.8 x 0.8 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-hex~6102398aa.html
+19,6510184AA,SCREW HEX HEAD M4X1.46X12.00,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,2,1,,,,available,1.7,1.17,0.7 x 0.6 x 1.1 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6510184aa.html
+20,6101736,NUT AND  WASHER Hex M6x1,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,68236955AA,,available,9.35,6.52,0.8 x 0.8 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex~6101736.html
+21,5035290AC,"SPEAKER 3.5""",,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,2,1,68640876AA,,,available,147,100.4,,1.10 Pounds,/parts/mopar-speaker~5035290ac.html
+22,68174053AA,BRACKET Speaker,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,8.75,7.57,6.5 x 4.6 x 1.9 inches,0.80 Pounds,/parts/mopar-bracket-speaker~68174053aa.html
+,56046637AA,POWER OUTLET,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68476797AB,,,available,25.65,17.71,2.9 x 1.2 x 1.1 inches,0.50 Pounds,/parts/mopar-outlet~56046637aa.html

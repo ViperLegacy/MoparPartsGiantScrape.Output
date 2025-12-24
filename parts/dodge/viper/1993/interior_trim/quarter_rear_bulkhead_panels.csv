@@ -1,0 +1,25 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,34201398,"SCREW and WASHER, .164-18x.984",,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,,discontinued,,,1.0 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-screw-oval-truss-head~34201398.html
+3,EK06LX7,"PANEL, Rear Quarter Trim, Black",Right,1992-1995,,10 Cyl 8.0L,,,,,"1992-95, Up to 12-5-94, Right",discontinued,,,,,
+3,EK07LX7,"PANEL, Rear Quarter Trim, Black",Left,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-95, Up to 12-5-94, Left",discontinued,,,,3.10 Pounds,/parts/mopar-panel-rr-qtr-trim-lt~ek07lx7.html
+3,KN08RX7,"PANEL, Rear Quarter Trim, Black",Right,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1995,96, After 12-5-94, Right",discontinued,,,,1.40 Pounds,/parts/mopar-rr-qtr-trim-rt-panel~kn08rx7.html
+3,KN09RX7,"PANEL, Rear Quarter Trim, Black",Left,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1995,96, After 12-5-94, Left",available,129.01,101.38,,3.60 Pounds,/parts/mopar-panel-rr-qtr-trim-lt~kn09rx7.html
+3,LC18BX7,"PANEL, Rear Quarter Trim, Black",Right,1996,29,10 Cyl 8.0L,,,,,"1996, Right",discontinued,,,,,
+3,LC19BX7,"PANEL, Rear Quarter Trim, Black",Left,1996,29,10 Cyl 8.0L,,,,,"1996, Left",discontinued,,,,,
+4,4848231,"PANEL, Rear Bulkhead, Black",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+4,EJ86LX7,"PANEL, Rear Bulkhead, Black",,1992-1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+4,GM75LX7,"PANEL, Rear Bulkhead, Black",,1992-1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1992-93 (CANADA & EUROPE),discontinued,,,,,
+4,KJ43MX7,"PANEL, Rear Bulkhead, Black",,1994-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1994-95, Up to 1-26-95 (CANADA & EUROPE)",discontinued,,,,,
+4,KJ44MX7,"PANEL, Rear Bulkhead, Black",,1994-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1994-95, Up to 1-10-95",discontinued,,,,,
+4,PD91RX7,"PANEL, Rear Bulkhead, Black",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1995,96, After 1-26-95 (CANADA & EUROPE)",discontinued,,,,,
+4,PD92RX7,"PANEL, Rear Bulkhead, Black",,1995,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1995,96, After 1-10-95",discontinued,,,,10.90 Pounds,/parts/mopar-panel-rear-bulkhead~pd92rx7.html
+5,4643027,"GRILLE, Radio Speaker",,,,,2,,,,,discontinued,,,,,
+6,4708217,"GROMMET, Rear Bulkhead, 1992",,,,,3,,,,,discontinued,,,,,
+7,4763478,"CUSHION, Bulkhead Trim Panel",,,,,,,,,,discontinued,,,,,
+8,J4007503,"BUMPER, Steel Insert Seat Rear Protector",,,,,4,,,,,discontinued,,,,,
+9,6035085,"SCREW, .164-15x1.00, 1993-94-95",,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,1.3 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-tapping~6035085.html
+10,6034384,"SCREW, .437-20x.150",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,0.9 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-screw-pan-head~6034384.html
+11,6035451,CLIP,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.8 x 0.6 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-u-1thd~6035451.html
+,6501636,"CLIPS, Bulkhead Attaching",,,,,,,,,,discontinued,,,,,
+,4897370AA,"COVER KIT, Quarter Trim Protector, 1996",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-quarter-trim-protector-cov~4897370aa.html
+,4897371AA,"COVER KIT, Quarter Trim Protector, 1996",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.20 Pounds,/parts/mopar-quarter-trim-protector-cov~4897371aa.html

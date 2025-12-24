@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,WP74DX9AA,GRILLE Defroster,,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,,available,55.15,46.54,15.9 x 6.1 x 1.3 inches,0.50 Pounds,/parts/mopar-grille-defroster~wp74dx9aa.html
+2,4865541AA,DUCT Defroster,,"2008-2010, 2003","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,84.15,70.99,10.2 x 5.4 x 2.6 inches,0.60 Pounds,/parts/mopar-duct-defroster~4865541aa.html
+4,TS33DX9AD,PANEL Instrument Panel,,"2008-2010, 2005, 2003","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,"TS33DX9AC, TS33DX9AB",,discontinued,,,97.9 x 16.3 x 11.5 inches,23.40 Pounds,/parts/mopar-panel-instrument-panel~ts33dx9ad.html
+5,5030373AC,AIR BAG Passenger,,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,5030373AB,,discontinued,,,21.4 x 12.5 x 9.5 inches,10.40 Pounds,/parts/mopar-airbag-passenger~5030373ac.html
+7,4865532AA,SUPPORT Instrument Panel,,"2008-2010, 2005, 2003","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,1690,1429.45,62.8 x 20.1 x 21.2 inches,26.80 Pounds,/parts/mopar-support-instrument-panel~4865532aa.html
+8,WA87DX9AA,BEZEL Instrument Cluster,,"2008-2010, 2005, 2003","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,unavailable,634,531.24,53.0 x 20.2 x 12.2 inches,6.60 Pounds,/parts/mopar-bezel-instrument-cluster~wa87dx9aa.html
+9,1JU33AAAAA,BEZEL Instrument Panel Center,,"2010, 2008","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,"[X5][JBE]
+[X9][JBE]
+[XB][JBE]
+[XR][JBE]
+[XU][JBE]...View More",discontinued,,,11.6 x 11.7 x 7.6 inches,3.00 Pounds,/parts/mopar-bezel-instrument-panel~1ju33aaaaa.html
+9,XT23DX9AA,BEZEL Instrument Panel Center,,"2010, 2008, 2005-2006, 2003","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,XT231X9AA,"[X5][JAA]
+[X9][JAA]
+[XB][JAA]
+[XR][JAA]
+[XU][JAA]...View More",available,604,487.3,16.8 x 11.4 x 0.5 inches,1.40 Pounds,/parts/mopar-bezel-instrument-panel~xt23dx9aa.html
+,4865530AA,CHUTE Airbag,,"2008, 2005, 2003","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,424,354.57,14.4 x 9.5 x 3.7 inches,1.40 Pounds,/parts/mopar-chute-airbag~4865530aa.html
+,4865810AD,CONTROL A/C And Heater,,"2008-2010, 2003-2005","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,"4865810AA, 4865810AB, 4865810AC",,discontinued,,,10.1 x 3.8 x 3.7 inches,1.30 Pounds,/parts/mopar-control-a-c-and-heater~4865810ad.html

@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1WA311V5AA,SEAT BELT Front,,"2016-2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,Left [VX],available,216,145.13,11.3 x 5.6 x 4.9 inches,3.90 Pounds,/parts/mopar-seatbelt-front~1wa311v5aa.html
+1,1WA31DX9AA,SEAT BELT Front,,"2016-2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [KX]
+Left [RX]
+Left [X9]",available,245,196.27,11.4 x 5.7 x 4.9 inches,4.10 Pounds,/parts/mopar-seatbelt-front~1wa31dx9aa.html
+1,1WA321R4AA,SEAT BELT Front,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1WA321R4AB,,"Right [KX] [CGQ]
+Right [RX] [CGQ]
+Right [X9] [CGQ]...View More",available,307,246.42,9.8 x 8.4 x 3.8 inches,3.90 Pounds,/parts/mopar-seat-belt-front~1wa321r4aa.html
+1,1WA321V5AA,SEAT BELT Front,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1WA321V5AB,,Right [VX],available,221,147.77,11.2 x 5.8 x 4.8 inches,3.60 Pounds,/parts/mopar-seat-belt-front~1wa321v5aa.html
+1,1WA32DX9AA,SEAT BELT Front,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1WA32DX9AB,,"Right [KX]
+Right [RX]
+Right [X9]",available,230,183.38,11.6 x 5.8 x 4.8 inches,3.80 Pounds,/parts/mopar-seat-belt-front~1wa32dx9aa.html
+2,5029127AD,TURNING LOOP Seat Belt,Left,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,"5029127AC, 5029127AB",,available,52.1,36.41,6.2 x 5.2 x 2.1 inches,1.20 Pounds,/parts/mopar-loop-seat-belt~5029127ad.html
+3,6105221AA,SCREW Hex Head M8x1.25x25,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,4.15,2.85,,0.40 Pounds,/parts/mopar-screw-hex-head~6105221aa.html
+4,6502467,BOLT AND WASHER Hex Head M10x1.50x30.00,,"2013-2017, 2008-2010, 1997-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6503571,,available,11.15,7.75,0.8 x 0.5 x 0.6 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6502467.html
+5,6036512AA,SCREW Pan Head .437-20x1.375,,"2013-2017, 2008-2010, 2002-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,11.7,6.86,1.6 x 1.1 x 0.7 inches,0.50 Pounds,/parts/mopar-bolt-pan-head~6036512aa.html
+6,5029290AA,PLATE Child Tether Anchor,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,3.1 x 1.3 x 0.7 inches,0.50 Pounds,/parts/mopar-plate-child-tether-anchor~5029290aa.html
+7,6105221AA,SCREW Hex Head M8x1.25x25,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,4.15,2.85,,0.40 Pounds,/parts/mopar-screw-hex-head~6105221aa.html
+8,1YW78DX9AB,SEAT BELT Buckle Half,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,1YW78DX9AC,,[VX],available,228,153.41,11.6 x 5.6 x 4.8 inches,1.10 Pounds,/parts/mopar-seat-belt-buckle-half~1yw78dx9ab.html

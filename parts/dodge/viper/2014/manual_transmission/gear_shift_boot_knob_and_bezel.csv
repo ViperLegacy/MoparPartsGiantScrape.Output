@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1ZV76LV5AA,KNOB Gearshift,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,With [VX],available,360,231.92,3.9 x 4.0 x 2.9 inches,1.00 Pounds,/parts/mopar-knob-gearshift~1zv76lv5aa.html
+2,1WT16AAAAA,BEZEL Console Shifter,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,With [JAA] and [XSQ],available,1125,760.49,10.5 x 9.5 x 5.3 inches,1.10 Pounds,/parts/mopar-bezel-console-shifter~1wt16aaaaa.html
+2,1WT17LK5AB,BEZEL Console Shifter,,2013-2015,,10 Cyl 8.4L,,,,,With [JAB] and [KX],discontinued,,,,,
+2,1WT17XR4AB,BEZEL Console Shifter,,2013-2015,,10 Cyl 8.4L,,,,,With [JAB] and [RX],discontinued,,,,,
+2,1WT17YSAAB,BEZEL Console Shifter,,2013-2015,,10 Cyl 8.4L,,,,,With [JAB] and [X9],discontinued,,,,,
+2,1WT18AAAAA,BEZEL Console Shifter,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[XSQ] With [JAB] or [JAC] and [KX]
+[XSQ] With [JAB] or [JAC] and [RX]
+[XSQ] With [JAB] or [JAC] and [VX]
+[XSQ] With [JAB] or [JAC] and [X9]...View More",discontinued,,,,,/parts/mopar-bezel-console-shifter~1wt18aaaaa.html
+2,1YS01HL1AB,BEZEL Console Shifter,,2013-2014,SRT GTS,10 Cyl 8.4L,,,1YS01HL1AD,,With [JAC] and [VX],available,1575,1038.4,10.9 x 9.4 x 5.4 inches,1.10 Pounds,/parts/mopar-housing-console-shifter~1ys01hl1ab.html
+2,1YS01YSAAB,BEZEL Console Shifter,,2013-2014,SRT GTS,10 Cyl 8.4L,,,1YS01YSAAD,,With [JAC] and [X9],available,1215,800.8,10.8 x 9.4 x 5.5 inches,1.10 Pounds,/parts/mopar-housing-console-shifter~1ys01ysaab.html
+3,124934,NUT Hex Jam .50-20,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,8.75,6.06,3.1 x 0.8 x 0.3 inches,0.60 Pounds,/parts/mopar-nut-hex-jam~124934.html
+4,4709410,ISOLATOR Shift Lever,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,5.8 x 4.3 x 2.1 inches,1.30 Pounds,/parts/mopar-handle-shift-lever~4709410.html
+6,5038653AA,BOOT Gearshift,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,5037319AA,,discontinued,,,6.8 x 5.4 x 2.4 inches,0.90 Pounds,/parts/mopar-boot-gearshift~5038653aa.html
+7,68027838AA,BOLT,,"2013-2017, 2008-2010","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,,available,3.3,2.27,3.5 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-bolt~68027838aa.html
+8,68206971AA,SHIFTER Transmission,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,314,204.75,7.9 x 6.0 x 5.6 inches,2.60 Pounds,/parts/mopar-shifter-transmission~68206971aa.html

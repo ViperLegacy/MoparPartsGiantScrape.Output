@@ -1,0 +1,21 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642589,"BOLT, Side Post Battery",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-bolt-hex-head~4642589.html
+2,4642591,"COVER, Battery Side Post, Negative",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-cover-battery-terminal~4642591.html
+3,4642924,"COVER, Battery Side Post, Positive",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.0 x 2.0 x 1.0 inches,0.70 Pounds,/parts/mopar-cover-battery-terminal~4642924.html
+4,4490878,"RETAINER, Battery Tray",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.1 x 2.4 x 0.5 inches,0.60 Pounds,/parts/mopar-retainer-battery-hold-down~4490878.html
+4,4709105,"RETAINER, Battery Tray",,1994,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+4,4763635,"RETAINER, Battery Tray",,1995-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+5,6500584,"SCREW, w/Washer",,1992-2004,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,10.35,7.16,1.4 x 0.8 x 0.8 inches,0.70 Pounds,/parts/mopar-bolt-hex-head~6500584.html
+6,4708262,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,7.40 Pounds,/parts/mopar-wiring-unibody-wrg-assy~4708262.html
+7,4642610,"WIRING, Battery Negative",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,11.0 x 1.2 x 1.2 inches,0.80 Pounds,/parts/mopar-wiring-battery-negative~4642610.html
+8,4642603,"WIRING, Battery Positive",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,15.1 x 15.9 x 1.7 inches,2.90 Pounds,/parts/mopar-wiring-battery-positive~4642603.html
+8,4763057,"WIRING, Battery Positive",,1992-1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,13.5 x 11.5 x 2.5 inches,2.90 Pounds,/parts/mopar-cable-bat-battery-positive~4763057.html
+9,VU01205,"COVER, Battery",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Repair Battery Terminal End Top Post ( Ten Per Box),available,86.6,58.28,5.5 x 4.7 x 2.8 inches,1.70 Pounds,/parts/mopar-terminal-battery-terminal~vu01205.html
+9,VU01207,"COVER, Battery",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Repair Battery Terminal End Side Post ( Ten Per Box),discontinued,,,4.5 x 2.7 x 5.4 inches,2.60 Pounds,/parts/mopar-terminal-battery-terminal~vu01207.html
+9,4643653,"COVER, Battery",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,2.40 Pounds,/parts/mopar-cover~4643653.html
+11,VU01205,"TRAY, Battery",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Repair Battery Terminal End Top Post ( Ten Per Box),available,86.6,58.28,5.5 x 4.7 x 2.8 inches,1.70 Pounds,/parts/mopar-terminal-battery-terminal~vu01205.html
+11,VU01207,"TRAY, Battery",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Repair Battery Terminal End Side Post ( Ten Per Box),discontinued,,,4.5 x 2.7 x 5.4 inches,2.60 Pounds,/parts/mopar-terminal-battery-terminal~vu01207.html
+11,4643305,"TRAY, Battery",,1993-1995,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,18.3 x 13.8 x 9.5 inches,2.90 Pounds,/parts/mopar-tray-battery~4643305.html
+11,4798272,"TRAY, Battery",,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+11,BA078730EX,"TRAY, Battery",,1992-2002,,10 Cyl 8.0L,,,,,Mopar Power Pro 6,discontinued,,,,,
+,6101308,CLIP,,"2013-2014, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,6.2,4.19,1.2 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-u~6101308.html

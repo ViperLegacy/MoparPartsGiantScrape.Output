@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1843251,TUBE Steel .187 25 Foot Roll,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,20.9 x 18.4 x 6.1 inches,2.90 Pounds,/parts/mopar-tube-steel~1843251.html
+2,2207919,CLIP Parking Brake Cable,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,6.75,5.31,1.4 x 1.1 x 0.6 inches,0.40 Pounds,/parts/mopar-clip-parking-brake-cable~2207919.html
+3,4763155,HOSE Front Wheel Disc,Left,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,18.9 x 4.3 x 2.2 inches,1.70 Pounds,/parts/mopar-line-front-wheel-disc~4763155.html
+4,6502114,WASHER Brake Hose,,"2013-2017, 1992-2005","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",8,1,,,,available,9.2,6.68,0.3 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-gasket-brake-hose-to-caliper~6502114.html
+5,6503805,BOLT Hex Head M10x1.0x21.75,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.2 x 0.6 x 0.6 inches,0.80 Pounds,/parts/mopar-bolt-hex-head~6503805.html
+6,6100575,BOLT AND CONED WASHER Hex Head M8x25x17,,"2008-2010, 1997-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,8.65,6,1.3 x 0.6 x 0.7 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6100575.html
+7,6034881,NUT Inverted Flare .375-24,,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,16,12.58,0.9 x 0.5 x 0.5 inches,0.90 Pounds,/parts/mopar-nut-inverted-flare~6034881.html
+9,3404625,CLIP Tube,,,,,,,,,,discontinued,,,,,
+10,4848445,TUBE Brake,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.1 x 5.1 x 3.1 inches,0.50 Pounds,/parts/mopar-line-master-cylinder-to-combo-va~4848445.html
+11,4848443,TUBE Brake,,"2000, 1997-1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.0 x 5.4 x 3.5 inches,0.50 Pounds,/parts/mopar-line-master-cylinder-to-combo-va~4848443.html
+12,4848532AB,VALVE Proportioning,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.5 x 2.6 x 3.8 inches,0.50 Pounds,/parts/mopar-valve-proportioning~4848532ab.html
+13,6034862,NUT Inverted Flare .50-20x.625,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,3.7,2.91,,0.50 Pounds,/parts/mopar-nut-inverted-flare~6034862.html
+14,6100151,BOLT Hex Head M8x14,,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.7 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6100151.html
+15,6100047,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,"2005, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,9.35,6.52,0.8 x 0.7 x 0.7 inches,1.80 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+16,5264859AA,CLIP Fuel Bundle,,,,,3,,,,,discontinued,,,,,
+17,4683653,CLIP Tube,,"2008-2010, 2002-2006, 1997-2000","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,6.2,2.21,1.4 x 1.1 x 0.6 inches,0.40 Pounds,/parts/mopar-retainer-tube~4683653.html
+18,1843251,TUBE Steel .187 25 Foot Roll,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,20.9 x 18.4 x 6.1 inches,2.90 Pounds,/parts/mopar-tube-steel~1843251.html
+19,1141472,TEE Brake Tube,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.2 x 1.4 x 1.0 inches,0.50 Pounds,/parts/mopar-connector-brake-tube~1141472.html
+20,4642231,HOSE Brake,Left,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.8 x 4.0 x 1.2 inches,1.70 Pounds,/parts/mopar-line-brake~4642231.html
+21,6502746,SCREW AND WASHER Hex Head Header Point M10x1x14,,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.9 x 0.9 x 0.8 inches,0.80 Pounds,/parts/mopar-screw-hex-head-header-point~6502746.html
+,4848993AA,TUBE Brake,,,,,,,,,Main Brake,discontinued,,,,,

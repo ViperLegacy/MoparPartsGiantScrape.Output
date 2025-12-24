@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4886458AA,FRAME,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right Rear,available,535.06,420.47,64.8 x 9.7 x 5.2 inches,20.90 Pounds,/parts/mopar-rail~4886458aa.html
+1,4886459AA,FRAME,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Left Rear,discontinued,,,63.9 x 9.5 x 5.2 inches,20.00 Pounds,/parts/mopar-freight-parts~4886459aa.html
+2,4886314AA,FRAME Front Clip,,,,,,,,,,discontinued,,,,,
+3,4848657,CROSSMEMBER Front Frame,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,578.07,454.27,31.0 x 17.3 x 10.2 inches,6.80 Pounds,/parts/mopar-c-member-front-frame~4848657.html
+7,4763524AB,CROSSMEMBER Differential,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 2.8 x 2.1 inches,0.60 Pounds,/parts/mopar-c-member-differential~4763524ab.html
+8,6102073AA,SCREW Hex Flange Head M10x1.5x65,,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.9 x 0.8 x 0.8 inches,0.80 Pounds,/parts/mopar-screw-hex-flange-head~6102073aa.html
+9,6502696,NUT Hex Flange Lock M14x1.50,,1992-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",3,1,,6506264AA,,available,7.2,4.89,0.7 x 1.0 x 1.0 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502696.html
+10,4708053,STRUT Support to Upper Rail,Left,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,14.6 x 4.4 x 1.6 inches,0.80 Pounds,/parts/mopar-reinfmnt-support-to-upper-rail~4708053.html
+11,6101780,SCREW M6x1x25 to Upper Radiator,,,,,2,,,,,discontinued,,,,,
+12,6025335,SCREW,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.4 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-screw~6025335.html
+,4848653,BRACKET Sportbar,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,5.5 x 3.0 x 1.9 inches,1.30 Pounds,/parts/mopar-bracket-sportbar~4848653.html
+,6503571,SCREW AND WASHER M10x1.50x35,,"2008-2010, 1997-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",3,1,6502467,,,available,11.15,7.75,0.8 x 0.6 x 0.5 inches,0.50 Pounds,/parts/mopar-screw~6503571.html
+,4848656,STUD PLATE Sport Bar Support Bracket,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,7.93,6.24,5.6 x 1.4 x 1.2 inches,1.20 Pounds,/parts/mopar-plate-sport-bar-support-bracket~4848656.html

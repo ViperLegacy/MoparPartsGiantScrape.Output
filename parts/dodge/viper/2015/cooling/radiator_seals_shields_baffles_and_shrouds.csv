@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5290670AB,SEAL Radiator Upper,,"2013-2017, 2008-2010, 2004-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,54,47.74,20.1 x 4.6 x 1.5 inches,1.10 Pounds,/parts/mopar-seal-radiator-upper~5290670ab.html
+2,5290671AA,SEAL Radiator Side Air,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,15.25,12.64,21.2 x 6.3 x 0.4 inches,2.40 Pounds,/parts/mopar-seal-radiator-side-air~5290671aa.html
+3,68202600AA,PUSH PIN,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,4.85,3.96,,1.40 Pounds,/parts/mopar-push-pin~68202600aa.html
+4,68145383AA,BAFFLE Air,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68145383AB,,,available,147,98.61,59.3 x 17.5 x 15.5 inches,11.90 Pounds,/parts/mopar-baffle-air~68145383aa.html
+5,6508904AA,PIN Push M6.3x20.40,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,available,8.1,5.65,1.0 x 0.7 x 0.3 inches,0.40 Pounds,/parts/mopar-pin-push~6508904aa.html

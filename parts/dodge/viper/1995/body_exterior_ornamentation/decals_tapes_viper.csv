@@ -1,0 +1,41 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,GC54LV5,"DECAL, Rear Fascia ""DODGE""",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Orange Red,discontinued,,,,0.40 Pounds,/parts/mopar-decal~gc54lv5.html
+1,GC54MD5,"DECAL, Rear Fascia ""DODGE""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Quartz,discontinued,,,3.2 x 11.6 x 0.2 inches,0.50 Pounds,/parts/mopar-decal-dodge-fascia-rr~gc54md5.html
+1,GC54MGR,"DECAL, Rear Fascia ""DODGE""",,1992-1997,,10 Cyl 8.0L,,,,,Emerald Green,discontinued,,,,,
+1,GC54PJE,"DECAL, Rear Fascia ""DODGE""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Yellow,discontinued,,,,0.50 Pounds,/parts/mopar-decal-dodge-fascia-rr~gc54pje.html
+1,GC54SBB,"DECAL, Rear Fascia ""DODGE""",,"2002, 1992-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Blue,discontinued,,,13.3 x 5.3 x 0.3 inches,0.40 Pounds,/parts/mopar-decal~gc54sbb.html
+1,GC54SGW,"DECAL, Rear Fascia ""DODGE""",,1992-1997,,10 Cyl 8.0L,,,,,Dark Green,discontinued,,,,,
+1,GC54SW1,"DECAL, Rear Fascia ""DODGE""",,1992-1997,,10 Cyl 8.0L,,,,,White,discontinued,,,,,
+1,GC54SX3,"DECAL, Rear Fascia ""DODGE""",,"1999-2000, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black,discontinued,,,,0.50 Pounds,/parts/mopar-decal~gc54sx3.html
+2,GC43LV5,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Orange Red,discontinued,,,14.7 x 6.3 x 0.3 inches,0.40 Pounds,/parts/mopar-decal~gc43lv5.html
+2,GC43MD5,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Quartz,discontinued,,,14.7 x 6.2 x 0.3 inches,0.50 Pounds,/parts/mopar-decal-viper-rt-10-fascia-rr~gc43md5.html
+2,GC43MGR,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Emerald Green,discontinued,,,11.6 x 2.1 x 0.3 inches,0.50 Pounds,/parts/mopar-decal-viper-rt-10-fascia-rr~gc43mgr.html
+2,GC43PJE,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Yellow,discontinued,,,,0.50 Pounds,/parts/mopar-decal-viper-rt-10-fascia-rr~gc43pje.html
+2,GC43SGW,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Dark Green,discontinued,,,,0.50 Pounds,/parts/mopar-decal-viper-rt-10-fascia-rr~gc43sgw.html
+2,GC43SW1,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,White,discontinued,,,,0.50 Pounds,/parts/mopar-decal~gc43sw1.html
+2,GC43SX3,"DECAL, Rear Fascia ""VIPER R/T 10""",,"1999, 1992-1996","GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black,discontinued,,,,,/parts/mopar-viper-r-t-10~gc43sx3.html
+2,MB59SBB,"DECAL, Rear Fascia ""VIPER R/T 10""",,"2002, 1992-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Blue (DECAL, ""VIPER GTS"")",discontinued,,,,,/parts/mopar-decal-viper-gts~mb59sbb.html
+2,MB59TV5,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Red (DECAL, ""VIPER GTS"")",discontinued,,,15.9 x 6.1 x 0.3 inches,0.50 Pounds,/parts/mopar-decal-viper-gts~mb59tv5.html
+2,PF00S3B,"DECAL, Rear Fascia ""VIPER R/T 10""",,"2002, 1999, 1992-1997","29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"DECAL, Viper Head",discontinued,,,3.8 x 2.6 x 0.3 inches,0.60 Pounds,/parts/mopar-ornament-hood~pf00s3b.html
+2,QH38SA1,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1997,,10 Cyl 8.0L,,,,,"Silver (TAPE, Hood)
+Silver (TAPE, Sport Cap)",discontinued,,,,,
+2,QH38SBB,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Blue (TAPE, Hood)",discontinued,,,66.8 x 37.5 x 0.3 inches,4.50 Pounds,/parts/mopar-tape-hood~qh38sbb.html
+2,QH39SBB,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1997,,10 Cyl 8.0L,,,,,"Blue (TAPE, Sport Cap)",discontinued,,,,,
+2,QH40SA1,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Silver (TAPE, Deck Lid)",discontinued,,,,2.40 Pounds,/parts/mopar-tape-decklid~qh40sa1.html
+2,QH40SBB,"DECAL, Rear Fascia ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Blue (TAPE, Deck Lid)",discontinued,,,,2.60 Pounds,/parts/mopar-tape-decklid~qh40sbb.html
+3,GC53MGR,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Emerald Green,discontinued,,,,0.60 Pounds,/parts/mopar-decal-viper-rt-10-hood~gc53mgr.html
+3,GC53LV5,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Orange Red,discontinued,,,18.6 x 3.1 x 0.1 inches,0.50 Pounds,/parts/mopar-decal~gc53lv5.html
+3,GC53MD5,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Quartz,discontinued,,,,0.50 Pounds,/parts/mopar-decal-viper-rt-10-hood~gc53md5.html
+3,GC53PJE,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Yellow,discontinued,,,,0.80 Pounds,/parts/mopar-decal-viper-rt-10-hood~gc53pje.html
+3,GC53SGW,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Dark Green,discontinued,,,,0.50 Pounds,/parts/mopar-viper-rt-10-hood-decal~gc53sgw.html
+3,GC53SW1,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,,10 Cyl 8.0L,,,,,White,discontinued,,,,,
+3,GC53SX3,"DECAL, Hood ""VIPER R/T 10""",,"1999-2000, 1992-1996","GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black,discontinued,,,12.6 x 12.5 x 0.8 inches,0.80 Pounds,/parts/mopar-decal~gc53sx3.html
+3,MB61SBB,"DECAL, Hood ""VIPER R/T 10""",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Blue (DECAL, ""VIPER GTS"")",discontinued,,,,,/parts/mopar-decal-hood-viper-r-t-10~mb61sbb.html
+3,MB61TV5,"DECAL, Hood ""VIPER R/T 10""",,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Red (DECAL, ""VIPER GTS"")",discontinued,,,,0.80 Pounds,/parts/mopar-decal-viper-gts~mb61tv5.html
+3,PS46SY4,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,,10 Cyl 8.0L,,,,,"DECAL, ""Prancing Snake"" (DECAL, ""VIPER GTS"")",discontinued,,,,,
+3,QH38SA1,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,,10 Cyl 8.0L,,,,,"Silver (TAPE, Hood)
+Silver (TAPE, Sport Cap)",discontinued,,,,,
+3,QH38SBB,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Blue (TAPE, Hood)",discontinued,,,66.8 x 37.5 x 0.3 inches,4.50 Pounds,/parts/mopar-tape-hood~qh38sbb.html
+3,QH39SBB,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,,10 Cyl 8.0L,,,,,"Blue (TAPE, Sport Cap)",discontinued,,,,,
+3,QH40SA1,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Silver (TAPE, Deck Lid)",discontinued,,,,2.40 Pounds,/parts/mopar-tape-decklid~qh40sa1.html
+3,QH40SBB,"DECAL, Hood ""VIPER R/T 10""",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Blue (TAPE, Deck Lid)",discontinued,,,,2.60 Pounds,/parts/mopar-tape-decklid~qh40sbb.html

@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5102103AA,KEY Blank,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,3.0 x 1.5 x 0.4 inches,0.50 Pounds,/parts/mopar-key-blank~5102103aa.html
+2,4686669AC,MODULE Keyless Entry Receiver,,"2008-2010, 2005","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,118,77.68,4.2 x 3.0 x 1.3 inches,0.80 Pounds,/parts/mopar-module-keyless-entry-receiver~4686669ac.html
+3,4602260AD,TRANSMITTER Keyless Entry,,"2008-2010, 2005, 2003","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,4602260AA,,available,220,124.78,3.5 x 1.7 x 0.9 inches,0.50 Pounds,/parts/mopar-transmtr-keyless-entry~4602260ad.html

@@ -1,0 +1,32 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245335,"ROCKER, Valve",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,3.2 x 1.5 x 1.3 inches,0.70 Pounds,/parts/mopar-arm-valve~5245335.html
+2,5245336,"PIVOT, Rocker Arm",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,1.2 x 1.0 x 0.8 inches,0.50 Pounds,/parts/mopar-arm-rocker-arm~5245336.html
+3,5245337,"RETAINER, Rocker Arm/Push Rod",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,,,/parts/mopar-retainer-pedestal~5245337.html
+4,6034499,"BOLT, Rocker Arm Pivot, (.375-16x1.5)",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,1.9 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~6034499.html
+5,33003521,"LOCK, Valve Spring Retainer",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",40,1,,P4529218,,available,3.45,2.33,1.0 x 1.0 x 0.5 inches,0.50 Pounds,/parts/mopar-retainer-valve-spring-retainer~33003521.html
+6,5245374,"RETAINER, Valve Spring",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,1.5 x 1.5 x 0.4 inches,0.50 Pounds,/parts/mopar-retainer-valve-spring~5245374.html
+7,4761616,"SPRING, Valve, (Serviced in Sets Only)",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,,,/parts/mopar-spring-valve-serviced-in-sets-only~4761616.html
+8,5245162,"SEAT, Valve Spring",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,1.5 x 1.5 x 0.2 inches,0.50 Pounds,/parts/mopar-seat-valve-spring~5245162.html
+9,53009886,"SEAL, Intake Valve",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",10,1,,33002729,,available,8.95,6.17,1.0 x 0.9 x 0.8 inches,0.40 Pounds,/parts/mopar-seal-valve-guide~53009886.html
+10,53009887,"SEAL, Exhaust Valve",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",10,1,,33002522,,available,15.65,10.83,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-seal-valve-guide~53009887.html
+11,4883658AA,"VALVE, Intake",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,.015 O/S,discontinued,,,,0.70 Pounds,/parts/mopar-intake-valve~4883658aa.html
+11,04883659AA,"VALVE, Intake",,1992-1996,,10 Cyl 8.0L,,,,,.030 O/S,discontinued,,,,,
+11,5245163,"VALVE, Intake",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,Standard,discontinued,,,,0.70 Pounds,/parts/mopar-intake-valve~5245163.html
+12,4883661AA,"VALVE, Exhaust",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,.015 O/S,discontinued,,,,0.70 Pounds,/parts/mopar-exhaust-valve~4883661aa.html
+12,04883662AA,"VALVE, Exhaust",,1992-1996,,10 Cyl 8.0L,,,,,.030 O/S,discontinued,,,,,
+12,5245166,"VALVE, Exhaust",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,Standard,discontinued,,,,,/parts/mopar-valve-exhaust~5245166.html
+13,5245071,"PLUG, Camshaft Rear Bearing",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.5 x 2.5 x 0.3 inches,0.50 Pounds,/parts/mopar-plug-camshaft~5245071.html
+14,141195,"PIN, Dowel, (.25x.56)",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,0.5 x 0.2 x 0.2 inches,0.40 Pounds,/parts/mopar-dowel-pin~141195.html
+15,4713439,"TAPPET, Valve",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,3.7 x 2.6 x 1.8 inches,0.80 Pounds,/parts/mopar-tappetpkg-valve~4713439.html
+16,4763708,CAMSHAFT,,1994-1996,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Std. (1994-96),discontinued,,,25.0 x 2.3 x 2.3 inches,9.50 Pounds,/parts/mopar-camshaft-engine~4763708.html
+16,4864367,CAMSHAFT,,1994-1996,"27; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,.002 O/S (1994-96),discontinued,,,,,
+16,4883616AA,CAMSHAFT,,1994-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,.003 O/S (1994-96),discontinued,,,,12.80 Pounds,/parts/mopar-camshaft-engine~4883616aa.html
+16,4883617AA,CAMSHAFT,,1994-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,0.30 O/S (1994-96),discontinued,,,,13.60 Pounds,/parts/mopar-camshaft-engine~4883617aa.html
+16,4883695AA,CAMSHAFT,,1994-1996,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,.002 O/S (1994-96),discontinued,,,32.2 x 18.7 x 8.2 inches,15.10 Pounds,/parts/mopar-camshaft~4883695aa.html
+16,4883696AA,CAMSHAFT,,1994-1996,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,.003 O/S (1994-96),discontinued,,,,12.30 Pounds,/parts/mopar-camshaft-engine~4883696aa.html
+16,4883697AA,CAMSHAFT,,1994-1996,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,0.30 O/S (1994-96),discontinued,,,,13.20 Pounds,/parts/mopar-camshaft-engine~4883697aa.html
+16,5245121,CAMSHAFT,,1992-1993,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+17,5245334,"PUSH ROD, Valve",,1992-1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-rod-push~5245334.html
+17,5245556,"PUSH ROD, Valve",,1994-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,discontinued,,,11.4 x 5.3 x 0.6 inches,0.50 Pounds,/parts/mopar-push-rod-engine~5245556.html
+18,5245169,"YOKE, Tappet Aligning",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,3.0 x 1.8 x 0.6 inches,0.50 Pounds,/parts/mopar-retainer-tappet-aligning~5245169.html
+19,5245170,"BOLT, (.25-20x.88)",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,1.1 x 0.8 x 0.8 inches,0.80 Pounds,/parts/mopar-bolt~5245170.html

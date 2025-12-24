@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848662AB,GENERATOR Engine,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,301,242.52,10.9 x 10.1 x 10.2 inches,16.00 Pounds,/parts/mopar-alternatr-engine~4848662ab.html
+3,4626444,TENSIONER PACKAGE Belt,,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.4 x 5.6 x 5.0 inches,2.10 Pounds,/parts/mopar-belt-belt~4626444.html
+,4848124,SPACER Alternator,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.7 x 0.6 x 0.6 inches,0.60 Pounds,/parts/mopar-bushing-altr-brkt~4848124.html

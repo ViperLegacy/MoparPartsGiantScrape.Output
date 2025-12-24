@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4874334AB,COLUMN Steering Tilt,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,40.1 x 10.6 x 8.9 inches,16.20 Pounds,/parts/mopar-column-steering~4874334ab.html
+2,4470103,LEVER Tilt Column Release,,"2000-2002, 1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,55351006AB,,discontinued,,,5.3 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-lever-tilt-column-release~4470103.html
+3,4763861,SHAFT Steering Column,,,,,,,,,,discontinued,,,,,
+4,6503210,SCREW Hex Flange Head M10x1.5x35.,,1996-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,4.55,3.09,1.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~6503210.html
+5,KJ95PX8,SHROUD Steering Column,,,,,,,,,,discontinued,,,,,
+6,DH69JX8,SHROUD Lock Housing,,,,,,,,,,discontinued,,,,,
+7,BA67KX8,SHROUD Steering Column,,"2001-2002, 1997-1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-retainer-steering-column~ba67kx8.html
+8,BA65KX8,SHROUD Steering Column,,"2000-2002, 1997-1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-retainer-steering-column~ba65kx8.html
+9,4470105,SCREW Filister Head #8-16x.25,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,,/parts/mopar-screw-filister-head~4470105.html
+11,6502390,STUD M6x1.00x43.80,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.8 x 0.2 x 0.2 inches,0.80 Pounds,/parts/mopar-retainer~6502390.html
+13,6100517,NUT Hex Flange Lock M8 Phosphate,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,5.3,3.61,0.6 x 0.9 x 1.0 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6100517.html
+14,6501730,NUT Retainer M6 x 1.00,,1996-2001,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,0.8 x 0.8 x 0.2 inches,0.40 Pounds,/parts/mopar-nut-retainer~6501730.html
+15,6101308,NUT U M6x1.00,,"2013-2014, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,6.2,4.19,1.2 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-u~6101308.html
+,6503845,SCREW Ignition Switch,,"2001-2002, 1997-1999","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,available,5.25,2.48,1.0 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-screw-ignition-switch~6503845.html
+,56021346,SWITCH Ignition,,"2001-2002, 1992-1999","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,56021346AB,,,available,315,212.63,5.6 x 4.2 x 3.1 inches,1.10 Pounds,/parts/mopar-manual-transmission-w-buzzer-halo~56021346.html

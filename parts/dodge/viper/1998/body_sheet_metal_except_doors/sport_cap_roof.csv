@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848848AB,PANEL Sport Cap,,,,,,,,,,discontinued,,,,,
+2,4848875AB,APPLIQUE SPORT CAP,,,,,,,,,,discontinued,,,,,
+7,6034578,RIVET .25 Grip.06-.25,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.6 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-retainer~6034578.html
+8,6502337,NUT M10x1.5,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,8.75,6,0.8 x 1.2 x 1.2 inches,0.40 Pounds,/parts/mopar-nut-hex-locking~6502337.html
+9,6503675,SCREW AND WASHER Hex Head M10x1.5x40,,1997-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,available,11.35,8.91,1.8 x 1.1 x 1.2 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6503675.html
+10,6035227,STUD .312-18x1.875,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.0 x 0.3 x 0.3 inches,2.40 Pounds,/parts/mopar-stud~6035227.html
+11,PR73DX9AD,PAD Sport Cap,,1998-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,63.6 x 7.4 x 6.2 inches,3.30 Pounds,/parts/mopar-pad-sport-cap~pr73dx9ad.html
+13,4848371,SEAL Sport Cap Base,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,19,14.93,3.1 x 1.3 x 1.3 inches,2.20 Pounds,/parts/mopar-seal-sport-cap-base~4848371.html
+15,4643353,SHIM Floor Pan Isolator,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.1 x 2.0 x 0.1 inches,0.50 Pounds,/parts/mopar-shim-floor-pan-isolator~4643353.html
+16,QX23DX9AB,GROMMET Sport Cap,,1998-2002,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,5.0 x 5.0 x 0.9 inches,0.40 Pounds,/parts/mopar-grommet-sport-cap~qx23dx9ab.html
+17,RV89DX9AA,"COVER ""B"" Pillar Outside",,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,Left Black,available,8.79,6.9,14.1 x 3.9 x 0.2 inches,0.50 Pounds,/parts/mopar-cover-b-pillar-outside~rv89dx9aa.html
+,4848876AA,BRACKET Quarter Trim,,1997-1999,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,1.8 x 1.8 x 0.8 inches,0.70 Pounds,/parts/mopar-bracket-quarter-trim~4848876aa.html
+,6034756,RIVET Blind .156x.460,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.9 x 0.3 x 0.2 inches,0.40 Pounds,/parts/mopar-rivet-blind~6034756.html
+,6503139,SCREW Tress Head M5x.80x15,,1992-1999,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,discontinued,,,0.7 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-tress-head~6503139.html

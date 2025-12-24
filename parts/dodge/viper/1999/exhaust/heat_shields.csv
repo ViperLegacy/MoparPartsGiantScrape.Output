@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763847,SHIELD Heat,Left,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,14.0 x 15.4 x 4.7 inches,1.10 Pounds,/parts/mopar-shield-heat~4763847.html
+2,6035135,SCREW,,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw~6035135.html
+3,6029074,U-NUT .25-20,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,,discontinued,,,1.2 x 0.6 x 0.5 inches,0.50 Pounds,/parts/mopar-nut~6029074.html
+4,5245730,SHIELD Heat,,,,,,,,,,discontinued,,,,,
+5,6035494,SCREW TAPPING & WASHER Hex Head .190-16X.500,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,0.8 x 0.8 x 0.7 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6035494.html

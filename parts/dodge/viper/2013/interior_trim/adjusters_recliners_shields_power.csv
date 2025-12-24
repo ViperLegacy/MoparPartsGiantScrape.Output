@@ -1,0 +1,67 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5NJ24HL1AA,SHIELD Recliner,,2013-2017,,10 Cyl 8.4L,,,,,"Right Outboard [-VX], [JTD], [LAX]",discontinued,,,,,
+1,5NJ24YSAAA,SHIELD Recliner,,2013-2017,,10 Cyl 8.4L,,,,,"Right Outboard [-X9], [JTD], [LAX]",discontinued,,,,,
+1,5NJ25DX9AA,SHIELD Recliner,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left Inboard [-KX], [JTD]
+Left Inboard [-RX], [JTD]
+Left Inboard [-VX], [JTD]
+Left Inboard [-X9], [JTD]...View More",available,27.75,24.23,11.6 x 8.9 x 2.1 inches,1.10 Pounds,/parts/mopar-shield-recliner~5nj25dx9aa.html
+1,5NJ30DX9AA,SHIELD Recliner,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5NJ30DX0AA, 5NJ30XR4AA, 5NJ30LK5AA","Right Inboard [-KX], [JTD], [LAX]
+Right Inboard [-KX], [JTD], [LAX], [XSQ]
+Right Inboard [-RX], [JTD], [LAX]
+Right Inboard [-RX], [JTD], [LAX], [XSQ]
+Right Inboard [-VX], [JTD], [LAX]
+Right Inboard [-VX], [JTD], [LAX], [XSQ]
+Right Inboard [-X9], [JTD], [LAX]
+Right Inboard [-X9], [JTD], [LAX], [XSQ]...View More",available,27.75,24.23,12.2 x 9.4 x 3.1 inches,0.90 Pounds,/parts/mopar-shield-recliner~5nj30dx9aa.html
+1,5NJ31DX9AA,SHIELD Recliner,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5NJ31XR4AA, 5NJ31LK5AA","Left Outboard [-KX], [JTD]
+Left Outboard [-KX], [JTD], [XSQ]
+Left Outboard [-RX], [JTD]
+Left Outboard [-RX], [JTD], [XSQ]
+Left Outboard [-VX], [JTD]
+Left Outboard [-VX], [JTD], [XSQ]
+Left Outboard [-X9], [JTD]
+Left Outboard [-X9], [JTD], [XSQ]...View More",available,27.75,24.23,11.7 x 9.2 x 2.1 inches,1.10 Pounds,/parts/mopar-shield-recliner~5nj31dx9aa.html
+1,5NJ33HL1AA,SHIELD Recliner,,2013-2017,,10 Cyl 8.4L,,,,,"Left Inboard [-VX], [JTD], [XSQ]",discontinued,,,,,
+1,5NJ33LK5AA,SHIELD Recliner,,2013,SRT GTS,10 Cyl 8.4L,,,,,"Left Inboard [-KX], [JTD], [XSQ]",discontinued,,,,,/parts/mopar-recliner~5nj33lk5aa.html
+1,5NJ33XR4AA,SHIELD Recliner,,2013,SRT GTS,10 Cyl 8.4L,,,,,"Left Inboard [-RX], [JTD], [XSQ]",discontinued,,,,,/parts/mopar-recliner~5nj33xr4aa.html
+1,5NJ33YSAAA,SHIELD Recliner,,2013-2017,,10 Cyl 8.4L,,,,,"Left Inboard [-X9], [JTD], [XSQ]",discontinued,,,,,
+3,68210980AA,CABLE Seat Back Release Recliner,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,137,92.14,13.3 x 1.3 x 1.3 inches,0.60 Pounds,/parts/mopar-cable-seat-back-release~68210980aa.html
+4,5NJ29DX9AA,SHIELD Seat,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left Inboard [-KX], [JTD]
+Left Inboard [-KX], [JTD], [XSQ]
+Left Inboard [-RX], [JTD]
+Left Inboard [-RX], [JTD], [XSQ]
+Left Inboard [-VX], [JTD]
+Left Inboard [-VX], [JTD], [XSQ]
+Left Inboard [-X9], [JTD]
+Left Inboard [-X9], [JTD], [XSQ]...View More",discontinued,,,11.7 x 8.8 x 2.1 inches,1.00 Pounds,/parts/mopar-shield-seat~5nj29dx9aa.html
+4,5NJ34DX9AA,SHIELD Seat,,2013-2017,"SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5NJ34XR4AA, 5NJ34LK5AA","Right Outboard [-KX], [JTD], [LAX]
+Right Outboard [-KX], [JTD], [LAX], [XSQ]
+Right Outboard [-RX], [JTD], [LAX]
+Right Outboard [-RX], [JTD], [LAX], [XSQ]
+Right Outboard [-VX], [JTD], [LAX]
+Right Outboard [-VX], [JTD], [LAX], [XSQ]
+Right Outboard [-X9], [JTD], [LAX]
+Right Outboard [-X9], [JTD], [LAX], [XSQ]...View More",discontinued,,,26.5 x 6.1 x 4.1 inches,2.00 Pounds,/parts/mopar-shield-seat~5nj34dx9aa.html
+4,5NJ35DX9AA,SHIELD Seat,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5NJ35LK5AA, 5NJ35XR4AA","Left Outboard [-KX], [JTD]
+Left Outboard [-KX], [JTD], [XSQ]
+Left Outboard [-RX], [JTD]
+Left Outboard [-RX], [JTD], [XSQ]
+Left Outboard [-VX], [JTD]
+Left Outboard [-VX], [JTD], [XSQ]
+Left Outboard [-X9], [JTD]
+Left Outboard [-X9], [JTD], [XSQ]...View More",discontinued,,,27.0 x 6.4 x 4.2 inches,2.00 Pounds,/parts/mopar-shield-seat~5nj35dx9aa.html
+6,68210981AA,CABLE Seat Adjuster Height Adjustment,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,169,109.63,15.6 x 1.3 x 1.3 inches,0.60 Pounds,/parts/mopar-cable-seat-adjuster~68210981aa.html
+7,68206493AA,MOTOR Power Seat,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,3,1,,,"Right or Left [JTD]
+Right or Left [JTD], [LAX]
+Right or Left [JTD], [LAX], [XSQ]
+Right or Left [JTD], [XSQ]...View More",available,224,187.88,5.7 x 7.1 x 4.2 inches,2.10 Pounds,/parts/mopar-motor-power-seat~68206493aa.html
+8,68206488AA,BRACKET Switch,,,,,,,,,"Right [JTD], [LAX]
+Right [JTD], [LAX], [XSQ]",discontinued,,,,,
+9,68210407AA,RISER Seat,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [JTD]
+Left [JTD], [LAX]
+Left [JTD], [LAX], [XSQ]
+Left [JTD], [XSQ]...View More",unavailable,779,664.62,27.6 x 6.1 x 4.1 inches,6.30 Pounds,/parts/mopar-riser-seat~68210407aa.html
+10,68206494AA,CABLE Adjuster Fore and Aft,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Right or Left
+Right or Left [JTD]",available,48,40.78,6.0 x 1.3 x 1.3 inches,0.50 Pounds,/parts/mopar-cable-adjuster~68206494aa.html
+11,68206560AA,ADJUSTER Power Seat,,2013-2017,"SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Right [JTD], [LAX]
+Right [JTD], [LAX], [XSQ]",available,2510,1655.5,25.6 x 25.1 x 15.7 inches,25.90 Pounds,/parts/mopar-adjuster-power-seat~68206560aa.html

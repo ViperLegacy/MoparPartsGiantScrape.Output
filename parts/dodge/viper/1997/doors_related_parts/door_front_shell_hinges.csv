@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763923AC,DOOR Front Service Dealer Paint,Left,1997,29; GTS Coupe,10 Cyl 8.0L,,,,,,discontinued,,,,56.70 Pounds,/parts/mopar-door-front~4763923ac.html
+1,4848620,DOOR Front Service Dealer Paint,,1997,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Right Up to 04-08-97,available,611.21,480.31,,127.70 Pounds,/parts/mopar-door-front~4848620.html
+1,4848620AB,DOOR Front Service Dealer Paint,,1997-1998,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Right w/Notch for Belt Weatherstrip,discontinued,,,,67.00 Pounds,/parts/mopar-door-front~4848620ab.html
+1,4848620AC,DOOR Front Service Dealer Paint,,1997,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Right After 09-01-97,discontinued,,,,69.60 Pounds,/parts/mopar-door-front~4848620ac.html
+1,4848621,DOOR Front Service Dealer Paint,,1997,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Left Up to 04-08-97,discontinued,,,,54.50 Pounds,/parts/mopar-front-door~4848621.html
+1,4848621AB,DOOR Front Service Dealer Paint,,1997-1998,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Left w/Notch for Belt Weatherstrip,discontinued,,,,67.30 Pounds,/parts/mopar-door-front~4848621ab.html
+1,4848621AC,DOOR Front Service Dealer Paint,,1997,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Left After 09-01-97,discontinued,,,,70.70 Pounds,/parts/mopar-door-front~4848621ac.html
+2,ME75MX3,"MOLDING B Pillar Stanchion Cover, includes Sealer Tape",Left,,29,,,,,,,discontinued,,,,,
+2,QB96JX8AE,"MOLDING B Pillar Stanchion Cover, includes Sealer Tape",Right,,27,,,,,,,discontinued,,,,,
+2,QB97JX8AE,"MOLDING B Pillar Stanchion Cover, includes Sealer Tape",Left,,27,,,,,,,discontinued,,,,,
+7,5245109,HINGE Front Door,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,unavailable,,,9.3 x 5.3 x 3.4 inches,2.30 Pounds,/parts/mopar-hinge-front-door~5245109.html
+8,6502549,SCREW Pan Head M8x1.25x30,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,7.8,5.13,1.5 x 0.6 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-pan-head~6502549.html
+9,6503351,SCREW AND WASHER Hex Head M8x1.25x35,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,discontinued,,,1.7 x 1.0 x 1.0 inches,0.90 Pounds,/parts/mopar-screw-hex-head~6503351.html
+11,6502676,NUT Hex M6x1.00,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,,,/parts/mopar-nut-hex~6502676.html
+12,6032723,SCREW Self Tapping M4.2x1.69x19.05,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+13,4642957,COVER Hinge,Left,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,211.53,166.23,,1.00 Pounds,/parts/mopar-panel-hinge~4642957.html
+14,35022111,SPACER Fender 1.0,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,1.2 x 1.1 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-fender~35022111.html
+,4763963,BRACKET,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,5.7 x 2.4 x 1.4 inches,0.60 Pounds,/parts/mopar-bracket~4763963.html
+,4658887,PUSH PIN Front Door Glass Run With Weatherstrip,,"2008-2009, 1997-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.4L",4,1,,,,available,7.15,4.95,1.2 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-retainer~4658887.html

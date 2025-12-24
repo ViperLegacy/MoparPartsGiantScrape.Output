@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+3,RW19JX8AB,AIR BAG Passenger,,,,,,,,,,discontinued,,,,,
+5,4848663,BEZEL Security Indicator,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.7 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-bezel-security-indicator~4848663.html
+6,4848664,WIRING LED Security,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.4 x 3.3 x 0.8 inches,0.40 Pounds,/parts/mopar-wiring-led-security~4848664.html
+7,4848291,MODULE Wiper,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.5 x 5.0 x 3.2 inches,1.00 Pounds,/parts/mopar-switch-wiper~4848291.html
+8,4848290,STRAP Module Mounting,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.5 x 1.2 x 0.6 inches,0.60 Pounds,/parts/mopar-strap-module-mounting~4848290.html
+9,4848802AE,MODULE Air Bag Control,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,"4848802AB, 4848802AC, 4848802AD",,discontinued,,,6.4 x 6.9 x 6.1 inches,1.70 Pounds,/parts/mopar-module-air-bag-control~4848802ae.html
+10,4709109,BOX Antenna Amplifier,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 3.6 x 1.5 inches,0.50 Pounds,/parts/mopar-control-antenna-amplifier~4709109.html
+12,LB45JX8AB,AIR BAG Driver,,,,,,,,,,discontinued,,,,,
+13,5266269,CHIME Warning,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.8 x 3.5 x 2.6 inches,0.60 Pounds,/parts/mopar-buzzer-warning~5266269.html
+14,4848832AE,MODULE Keyless Entry Receiver,,1998-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4848832AG,,,discontinued,,,6.3 x 6.3 x 3.5 inches,1.00 Pounds,/parts/mopar-module-keyless-entry-receiver~4848832ae.html
+15,4848290,STRAP Module Mounting,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.5 x 1.2 x 0.6 inches,0.60 Pounds,/parts/mopar-strap-module-mounting~4848290.html
+16,4865431AA,TRANSMITTER Keyless Entry,,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.4 x 1.9 x 0.8 inches,0.50 Pounds,/parts/mopar-transmtr-keyless-entry~4865431aa.html
+,5245299AB,MODULE Lighting Control,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,108,93.32,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-module-lighting-control~5245299ab.html

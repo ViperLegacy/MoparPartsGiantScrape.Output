@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4723011AB,CLUTCH OVERHAUL KIT A/C Compressor,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.4 x 4.2 x 1.0 inches,0.50 Pounds,/parts/mopar-clutch-a-c-compressor~4723011ab.html
+2,4723017,CAP High Flow Valve Core A/C Compressor,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,2.22,1.74,1.1 x 1.1 x 0.8 inches,0.40 Pounds,/parts/mopar-cap-high-flow-valve-core~4723017.html
+3,4723018,CAP Low Flow Valve Core A/C Compressor,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.8 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-cap-low-flow-valve-core~4723018.html
+4,5012379AA,MANIFOLD KIT A/C Compressor,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,7.6 x 7.0 x 3.4 inches,1.50 Pounds,/parts/mopar-manifold-a-c-compressor~5012379aa.html
+6,5264457,BOLT KIT A/C Compressor Manifold,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.3 x 0.8 x 0.8 inches,0.70 Pounds,/parts/mopar-bolt-a-c-compressor-manifold~5264457.html
+7,4723015,VALVE CORE A/C Line,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,34.34,26.99,3.0 x 1.7 x 1.0 inches,0.40 Pounds,/parts/mopar-valve-a-c-line~4723015.html
+8,4723016,VALVE CORE A/C Line,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,0.9 x 0.9 x 0.9 inches,0.40 Pounds,/parts/mopar-valve-a-c-line~4723016.html
+9,4815912AC,COMPRESSOR Air Conditioning,,2001-2002,Base,6 Cyl 3.5L,,,4815912AD,,,available,927,631.47,9.7 x 9.6 x 8.5 inches,10.70 Pounds,/parts/mopar-compres0r-air-conditioning~4815912ac.html
+10,5012378AA,COIL Stator A/C Compressor Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,6.5 x 6.4 x 3.5 inches,0.60 Pounds,/parts/mopar-coil-stator~5012378aa.html
+11,4723014,PULLEY HUB KIT A/C Compressor,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,155.18,121.95,7.4 x 6.2 x 3.2 inches,4.30 Pounds,/parts/mopar-pully-kit-a-c-compressor~4723014.html
+13,4720848,VALVE High Pressure Relief,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,60.18,47.29,1.4 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-valve-high-pressure-relief~4720848.html
+14,4723033,BOLT Plumbing Attaching,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.4 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-bolt-plumbing-attaching~4723033.html
+,4728854,SEAL Manifold To Compressor,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,15.5,12.18,3.5 x 2.5 x 0.1 inches,0.40 Pounds,/parts/mopar-seal-manifold-to-compressor~4728854.html
+,5264454,SNAP RING KIT A/C Clutch,,2001-2002,Base,6 Cyl 3.5L,,,,68033034AA,,available,29.25,20.27,2.8 x 2.4 x 0.6 inches,0.70 Pounds,/parts/mopar-snap-ring-a-c-clutch~5264454.html

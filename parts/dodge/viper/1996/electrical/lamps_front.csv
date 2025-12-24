@@ -1,0 +1,30 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642930,"LAMP, Side Marker Front",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,4.1 x 2.2 x 5.1 inches,0.50 Pounds,/parts/mopar-lamp-side-marker~4642930.html
+1,4643939,"LAMP, Side Marker Front",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,EUROPE,discontinued,,,5.1 x 4.1 x 2.2 inches,0.50 Pounds,/parts/mopar-lamp-side-marker~4643939.html
+2,4643819,"COVER, Fog Lamp, Right",Left,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"COVER, Fog Lamp, Left",discontinued,,,13.1 x 10.3 x 1.6 inches,0.70 Pounds,/parts/mopar-cover-fog-lamp~4643819.html
+3,5245104,"LAMP, Fog (U-Nut Fog Lamp Attaching 6028509)",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.8 x 6.8 x 6.2 inches,1.70 Pounds,/parts/mopar-lamp-fog~5245104.html
+4,0152941,BOLT,,,,,,,,,,discontinued,,,,,
+5,118614,"NUT, w/Washer",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.6 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex~118614.html
+6,6033526,"BRACKET, Fog Lamp Adapter",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Screw, fog lamp to adapter",discontinued,,,0.9 x 0.8 x 0.8 inches,0.70 Pounds,/parts/mopar-screw~6033526.html
+8,4643928,SPACER,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,6.67,5.24,,0.50 Pounds,/parts/mopar-spacer-fog-lamp~4643928.html
+10,4708147,"HEADLAMP, Park & Turn Signal",,,,,,,,,EUROPE (Left),discontinued,,,,,
+10,4763010,"HEADLAMP, Park & Turn Signal",,1992-1995,,,,,,,1992-95 (Right),discontinued,,,,,
+10,4763011,"HEADLAMP, Park & Turn Signal",,1992-1995,,,,,,,1992-95 (Left),discontinued,,,,,
+10,4848062,"HEADLAMP, Park & Turn Signal",,1996,,,,,,,1996 (Right),discontinued,,,,,
+10,4848063,"HEADLAMP, Park & Turn Signal",,1996,,,,,,,1996 (Left),discontinued,,,,,
+12,4643975,"BRACKET, Headlamp Support to Rail, Right",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BRACKET, Headlamp Support to Rail, Left",discontinued,,,,0.50 Pounds,/parts/mopar-bracket-h-lamp-suppt-to-ra~4643975.html
+13,6031012,SCREW,,,,,2,,,,,discontinued,,,,,
+14,6100051,NUT,,"2013-2017, 1992-1996","GTS Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10","10 Cyl 8.0L, 10 Cyl 8.4L",8,1,,,,available,10.45,7.28,0.9 x 0.9 x 0.4 inches,0.50 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6100051.html
+16,6025002,"NUT, w/Washer, Side Marker",,"2000-2002, 1992-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.40 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6025002.html
+,4728646,"BULB, Fog Lamp (H3)",,,,,,,,,,discontinued,,,,,
+,154805,"BULB, Headlamp",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 2.3 x 2.0 inches,0.40 Pounds,/parts/mopar-bulb~154805.html
+,L0003157ST,"BULB, Park & Turn Signal",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.3 x 3.2 x 1.2 inches,0.60 Pounds,/parts/mopar-bulb~l0003157st.html
+,153620,"BULB, Side Repeater, EUROPE",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,L0003893,,,available,6,4.08,1.0 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-bulb~153620.html
+,4708011,"COVER, Back, Right",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"COVER, Back, Left",discontinued,,,19.4 x 8.7 x 4.0 inches,1.40 Pounds,/parts/mopar-cover-back-right~4708011.html
+,4676565,"LAMP ASSEMBLY, Front Fender Side Repeater",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,9.8 x 9.7 x 1.8 inches,0.50 Pounds,/parts/mopar-lamp-front-fender~4676565.html
+,4708148,"LAMP, Side Repeater EUROPE",,,,,,,,,,discontinued,,,,,
+,4708012,"NUT, Wing",,"1999-2002, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,,discontinued,,,1.6 x 0.8 x 0.6 inches,1.20 Pounds,/parts/mopar-nut-wing~4708012.html
+,4643463,SHIM,,1992-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,12.14,9.54,2.4 x 1.5 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-hood-latch~4643463.html
+,4685295,"SWITCH, Fog Lamp",,,,,,,,,,discontinued,,,,,
+,5288139,"VENT TUBE, H/Lamp Module Return Top",,,,,,,,,,discontinued,,,,,
+,4481618,"WIRING ASSEMBLY, Side Repeater Lamp (EUROPE)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,19.8 x 1.2 x 1.2 inches,0.50 Pounds,/parts/mopar-wiring-side-repeater-lamp~4481618.html

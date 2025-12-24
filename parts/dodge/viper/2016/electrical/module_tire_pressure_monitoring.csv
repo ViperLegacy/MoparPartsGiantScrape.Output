@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,82214295,EMERGENCY KIT Tire Repair,,,,,,,,,,available,149,108.13,,,/parts/mopar-accessories_emergency_tire_repair-82214295.html
+2,56029400AE,SENSOR Tire Pressure,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,68374924AB,,,available,99.1,70.99,1.2 x 2.9 x 3.4 inches,0.50 Pounds,/parts/mopar-sensor-tire-pressure~56029400ae.html
+3,56053037AB,NUT Tire Pressure Sensor,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,"56053037AA, 68374925AA",,available,11.05,7.69,1.0 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-tire-pressure-sensor~56053037ab.html
+4,68219831AE,MODULE Tire Pressure Monitoring,,2016,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,68219831AF,,,available,195,130.5,3.9 x 3.5 x 2.6 inches,0.50 Pounds,/parts/mopar-module-tire-pressure-monitoring~68219831ae.html

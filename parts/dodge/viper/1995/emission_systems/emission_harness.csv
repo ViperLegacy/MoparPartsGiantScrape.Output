@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763804,"HARNESS, Purge",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,(1996),discontinued,,,,0.80 Pounds,/parts/mopar-harness-canister-purge~4763804.html
+1,4848014,"HARNESS, Purge",,1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,(1996),available,7.3,5.74,,0.60 Pounds,/parts/mopar-harness-canister-purge~4848014.html
+1,5245623,"HARNESS, Purge",,1992-1995,"GTS Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.70 Pounds,/parts/mopar-canister-purge-harness-asm~5245623.html
+2,4643638,"HARNESS, Duty Cycle Purge",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-95, w/Solenoid and Bracket",discontinued,,,,0.80 Pounds,/parts/mopar-purge-body-harness~4643638.html
+2,4763831,"HARNESS, Duty Cycle Purge",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,19.8 x 13.4 x 1.6 inches,0.70 Pounds,/parts/mopar-harness-purge-body~4763831.html
+3,4643829,"BRACKET, Duty Cycle Purge Solenoid",,1992-1995,,"10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,,
+3,4762085,"BRACKET, Duty Cycle Purge Solenoid",,1996,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,14.35,11.28,3.3 x 1.3 x 0.7 inches,0.50 Pounds,/parts/mopar-bracket-duty-cycle-purge-solenoid~4762085.html
+4,6015756,"TIE STRAP, Purge Harness",,"2014, 1992-1996","GTS Coupe, RT/10 Convertible, SRT, SRT GTS","10 Cyl 8.0L, 10 Cyl 8.4L",,,4641780,,,available,0.45,0.29,0.4 x 0.5 x 2.6 inches,0.40 Pounds,/parts/mopar-tiestrap~6015756.html
+5,5227635,"SOLENOID, Duty Cycle Purge",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.2 x 2.3 x 2.6 inches,0.50 Pounds,/parts/mopar-solenoid-duty-cycle-purge~5227635.html
+5,4669475,"SOLENOID, Duty Cycle Purge",,1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,34201358,"NUT, Solenoid Bracket",,1996,"ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,6101444,,available,13.9,9.67,1.0 x 1.0 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-hex-nut-sealing-washer~34201358.html
+6,6100047,"NUT, Solenoid Bracket",,1992-1995,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,9.35,6.52,0.8 x 0.7 x 0.7 inches,1.80 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+7,6100270,"SCREW, w/Washer, 1996",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,6.6,5.19,1.8 x 0.5 x 0.5 inches,0.60 Pounds,/parts/mopar-screw~6100270.html
+8,4275637,"ELBOW, Duty Cycle Purge Harness, (90 Degree 1/ 4x1/4)",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-elbow-vapor-tube-harness~4275637.html

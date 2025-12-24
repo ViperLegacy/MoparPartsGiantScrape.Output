@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763972,"HOUSING, Heater/Air Conditioning",,,,,,,,,"DUCT, Recirculating",discontinued,,,,,
+1,4874423,"HOUSING, Heater/Air Conditioning",,,,,,,,,,discontinued,,,,,
+2,4874422,"COVER, Actuator",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.3 x 6.8 x 1.9 inches,0.60 Pounds,/parts/mopar-cover-heater~4874422.html
+3,4874375,ACTUATOR,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.3 x 3.3 x 2.4 inches,0.80 Pounds,/parts/mopar-actuator-heater-door~4874375.html
+4,4874376,ACTUATOR,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.0 x 2.0 x 2.1 inches,0.80 Pounds,/parts/mopar-actuator-fresh-air-door~4874376.html
+5,4874377,"HARNESS, Vacuum Actuator",,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.8 x 9.8 x 1.0 inches,0.60 Pounds,/parts/mopar-harness-a-c-and-heater-vacuum~4874377.html
+6,4708364,"HARNESS, Thermostat",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.1 x 4.1 x 0.7 inches,0.50 Pounds,/parts/mopar-wiring-heater-and-a-c~4708364.html
+7,4708205,THERMOSTAT,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.4 x 5.1 x 4.4 inches,0.90 Pounds,/parts/mopar-thermosta-air-conditioning~4708205.html
+8,4874421,"BRACKET, Heater Core",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.4 x 2.3 x 0.8 inches,0.60 Pounds,/parts/mopar-bracket-heater-core~4874421.html
+9,4874374,"CORE, w/Seals Heater",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,12.5 x 12.2 x 8.9 inches,2.60 Pounds,/parts/mopar-core-heater~4874374.html
+10,4708196,EVAPORATOR,,,,,,,,,,discontinued,,,,,
+11,4709102,"VALVE, Exspansion",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.2 x 6.2 x 4.7 inches,1.90 Pounds,/parts/mopar-valve-a-c-expansion~4709102.html
+12,4874424,"PACKAGE, Seal",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-seal-a-c-and-heater-unit~4874424.html

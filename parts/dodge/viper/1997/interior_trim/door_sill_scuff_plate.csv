@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,KS21DX9AB,SILL COVER Interior,Left,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,62.8,54.87,38.6 x 7.5 x 1.6 inches,1.20 Pounds,/parts/mopar-pad-interior~ks21dx9ab.html
+2,154751,SCREW Tapping .164-18x1,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,8,1,,,,discontinued,,,1.1 x 0.4 x 0.4 inches,1.20 Pounds,/parts/mopar-screw-tapping~154751.html
+3,4848881AA,PLUG Body .75 Diameter,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,8,1,,,,discontinued,,,1.0 x 1.0 x 0.4 inches,0.40 Pounds,/parts/mopar-plug-body~4848881aa.html

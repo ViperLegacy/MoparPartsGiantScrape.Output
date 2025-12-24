@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,5030619AA,SEAL Air Cleaner,,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,,available,14.15,11.36,13.3 x 5.2 x 1.0 inches,0.50 Pounds,/parts/mopar-seal-air-cleaner~5030619aa.html
+3,5029542AA,SEAL Foam,,"2008-2009, 2005-2006","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,8.75,7.66,6.2 x 2.2 x 1.0 inches,0.50 Pounds,/parts/mopar-seal-foam~5029542aa.html
+4,5029534AA,SEAL Foam,,"2008-2010, 2005-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,12.05,10.14,12.6 x 7.3 x 0.9 inches,0.50 Pounds,/parts/mopar-seal-foam~5029534aa.html

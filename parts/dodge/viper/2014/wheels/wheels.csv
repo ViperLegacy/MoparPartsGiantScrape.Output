@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1TZ80RXFAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1TZ80RXFAB,,Front [WPK],available,2075,1359.55,21.8 x 16.2 x 25.1 inches,26.50 Pounds,/parts/mopar-wheel-aluminum~1tz80rxfaa.html
+1,1TZ83JXYAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1TZ83JXYAB,,Rear [WP9],available,2200,1442.05,22.2 x 16.1 x 24.4 inches,28.20 Pounds,/parts/mopar-wheel-aluminum~1tz83jxyaa.html
+1,1TZ80LSTAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1TZ80LSTAB,,Front [WC2],available,2185,1425.55,21.8 x 15.8 x 24.4 inches,27.80 Pounds,/parts/mopar-wheel-aluminum~1tz80lstaa.html
+1,1TZ83LSTAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1TZ83LSTAB,,Rear [WC2],available,2135,1387.05,21.6 x 16.1 x 25.1 inches,27.60 Pounds,/parts/mopar-wheel-aluminum~1tz83lstaa.html
+1,1TZ83RXFAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1TZ83RXFAB,,Rear [WPK],available,1845,1216.55,22.0 x 16.1 x 24.2 inches,29.00 Pounds,/parts/mopar-wheel-aluminum~1tz83rxfaa.html
+2,1WL85JXYAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1WL85JXYAB,,Front [WP4],available,1490,974.55,21.6 x 13.0 x 24.9 inches,29.20 Pounds,/parts/mopar-wheel-aluminum~1wl85jxyaa.html
+2,1WL85RXFAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1WL85RXFAB,,Front [WF3],available,724,622.6,21.4 x 12.7 x 24.2 inches,28.90 Pounds,/parts/mopar-wheel-aluminum~1wl85rxfaa.html
+2,1WL85SZGAA,WHEEL Aluminum,,2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1WL85SZGAB,,Front [WC5],available,2350,1541.05,21.8 x 13.0 x 24.9 inches,27.90 Pounds,/parts/mopar-wheel-aluminum~1wl85szgaa.html
+2,1WL88AAAAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1WL88AAAAB,,Rear [WC1],available,1055,943.47,22.0 x 15.8 x 24.9 inches,31.10 Pounds,/parts/mopar-wheel-aluminum~1wl88aaaaa.html
+2,1WL88JXYAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1WL88JXYAB,,Rear [WP4],available,1320,865.65,21.6 x 15.9 x 24.7 inches,30.50 Pounds,/parts/mopar-wheel-aluminum~1wl88jxyaa.html
+2,1WL88RXFAA,WHEEL Aluminum,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1WL88RXFAB,,Rear [WF3],available,999,658.9,21.8 x 15.8 x 24.4 inches,32.30 Pounds,/parts/mopar-wheel-aluminum~1wl88rxfaa.html
+2,1WL88SZGAA,WHEEL Aluminum,,2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,1WL88SZGAB,,Rear [WC5],available,1245,816.15,21.6 x 15.9 x 24.2 inches,30.60 Pounds,/parts/mopar-wheel-aluminum~1wl88szgaa.html
+3,1WR18RXFAA,WHEEL Aluminum,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,Rear [WPA],discontinued,,,30.3 x 30.9 x 24.2 inches,29.70 Pounds,/parts/mopar-wheel-aluminum~1wr18rxfaa.html
+3,1WR19JXYAA,WHEEL Aluminum,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,Front [WC4],discontinued,,,21.8 x 13.2 x 25.1 inches,28.10 Pounds,/parts/mopar-wheel-aluminum~1wr19jxyaa.html
+3,1WR19RXFAA,WHEEL Aluminum,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,Front [WPA],discontinued,,,21.4 x 12.8 x 24.4 inches,23.50 Pounds,/parts/mopar-wheel-aluminum~1wr19rxfaa.html
+4,6036747AA,NUT Wheel,,"2013-2017, 2008-2010, 2000-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",24,1,,"6036310AA, J4006956",,available,16.45,8.91,1.2 x 1.2 x 1.6 inches,0.50 Pounds,/parts/mopar-nut-wheel~6036747aa.html

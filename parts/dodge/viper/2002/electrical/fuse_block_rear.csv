@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848193,RELAY Electrical,,,,,,,,,,discontinued,,,,,
+2,56005146,RELAY Electrical,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-relay-electrical~56005146.html
+3,FLF30,"CARTRIDGE Fuseable Link 30 Amp, Pink",,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,7,4.13,1.5 x 1.3 x 0.8 inches,0.40 Pounds,/parts/mopar-fuse-fuseable-link~flf30.html
+5,MAX30,"FUSE Maxi 30 Amp, Green",,2001-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,68124781AA,,available,6.2,4.25,1.7 x 1.5 x 0.6 inches,0.50 Pounds,/parts/mopar-fuse-maxi~max30.html
+,4414333,BREAKER Circuit,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,unavailable,,,1.7 x 1.3 x 0.6 inches,0.40 Pounds,/parts/mopar-breaker-30-amp-fuse~4414333.html

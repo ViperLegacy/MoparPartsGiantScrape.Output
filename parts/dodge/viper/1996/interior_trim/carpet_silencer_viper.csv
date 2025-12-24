@@ -1,0 +1,29 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,FW05MKA,"CARPET and SILENCER, Cowl (Left)",,,,10 Cyl 8.0L,,,,,Black/Tan,discontinued,,,,,
+1,JX27MKA,"CARPET and SILENCER, Cowl (Left)",,1994,,10 Cyl 8.0L,,,,,"Black/Tan (1994, Up to 2-16-94)",discontinued,,,,,
+1,JX27MX9,"CARPET and SILENCER, Cowl (Left)",,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Black (1994, Up to 2-16-94)",available,39.25,20.44,,1.60 Pounds,/parts/mopar-carpet-as-cowl-sill-rt~jx27mx9.html
+1-8,4763690,"CARPET, ( Includes Insulation 4763690)",,1996,,10 Cyl 8.0L,,,,,"INSULATION, After 2-16-94 (1996)",discontinued,,,,,
+1-8,LJ94PKA,"CARPET, ( Includes Insulation 4763690)",,1992-1996,,10 Cyl 8.0L,,,,,Carmel Tan (Right),discontinued,,,,,
+1-8,LJ94PX9,"CARPET, ( Includes Insulation 4763690)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Flat Black (Right),discontinued,,,,8.60 Pounds,/parts/mopar-carpet-frt-floor~lj94px9.html
+1-8,LJ94PXK,"CARPET, ( Includes Insulation 4763690)",,1992-1996,,10 Cyl 8.0L,,,,,Black & Carmel Tan (Right),discontinued,,,,,
+1-8,LJ95PX9,"CARPET, ( Includes Insulation 4763690)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Flat Black (Left, w/o Dead Pedal)",discontinued,,,,15.30 Pounds,/parts/mopar-carpet-frt-floor~lj95px9.html
+1-8,PF67RKA,"CARPET, ( Includes Insulation 4763690)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Carmel Tan (Left, w/Dead Pedal)",discontinued,,,,17.50 Pounds,/parts/mopar-carpet-frt-floor-molded-with-dead~pf67rka.html
+1-8,PF67RX9,"CARPET, ( Includes Insulation 4763690)",,1992-1996,,10 Cyl 8.0L,,,,,"Flat Black (Left, w/Dead Pedal)",discontinued,,,,,
+1-8,PN68SKA,"CARPET, ( Includes Insulation 4763690)",,1996,,10 Cyl 8.0L,,,,,"Carmel Tan, Right (1996)",discontinued,,,,,
+1-8,PN68SX9,"CARPET, ( Includes Insulation 4763690)",,1996,,10 Cyl 8.0L,,,,,"Black, Right (1996)",discontinued,,,,,
+1-8,PN69SKA,"CARPET, ( Includes Insulation 4763690)",,1996,,10 Cyl 8.0L,,,,,"Carmel Tan, Left (1996)",discontinued,,,,,
+1-8,PN69SX9,"CARPET, ( Includes Insulation 4763690)",,1996,,10 Cyl 8.0L,,,,,"Black, Left (1996)",discontinued,,,,,
+2,FW03MKA,"CARPET and SILENCER, Floor (Left), Up to 2-16-94",,,,,,,,,Black/Tan,discontinued,,,,,
+3,FW04MKA,"CARPET and SILENCER, Floor (Right), Up to 2-16-94",,,,,,,,,Black/Tan,discontinued,,,,,
+4,FV92MKA,"CARPET and SILENCER, Tunnel (Left), Up to 2-16-94",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black/Tan,discontinued,,,,3.60 Pounds,/parts/mopar-carpet-tunnel-side~fv92mka.html
+5,FW02MKA,"CARPET and SILENCER, Tunnel (Right), Up to 2-16-94",,,,,,,,,"Black,Tan",discontinued,,,,,
+6,FW06MKA,"CARPET and SILENCER, Cowl (Right)",,,,10 Cyl 8.0L,,,,,Black/Tan,discontinued,,,,,
+6,JX26MKA,"CARPET and SILENCER, Cowl (Right)",,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Black/Tan (1994, Up to 2-16-94)",available,25.2,4.38,,2.00 Pounds,/parts/mopar-carpet-as-cowl-sill-rt~jx26mka.html
+6,JX26MX9,"CARPET and SILENCER, Cowl (Right)",,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Black (1994, Up to 2-16-94)",discontinued,,,,1.40 Pounds,/parts/mopar-carpet-as-cowl-sill-rt~jx26mx9.html
+7,FW08LX9,"CARPET and SILENCER, Bulkhead (Right), Up to 2-16-94",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,51.3,8.91,,1.80 Pounds,/parts/mopar-carpet-rear-bulkhead~fw08lx9.html
+8,FW07LX9,"CARPET and SILENCER, Bulkhead (Left), Up to 2-16-94",,,,,,,,,,discontinued,,,,,
+9,4643895,"HEEL PAD, Floor Carpet",,,,,,,,,,discontinued,,,,,
+10,4709277,"INSULATION, Floor Left",,,,,,,,,,discontinued,,,,,
+11,4709276,"INSULATION, Floor Right",,,,,,,,,,discontinued,,,,,
+12,82300379,FLOOR MATS,,,,,,,,,Tan,discontinued,,,,,
+,0154405,"SCREW, Carpet Cowl Side Attaching",,,,,2,,,,,discontinued,,,,,

@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4643035,"LATCH, Door",Left,,27,,,,,,,discontinued,,,,,
+1,4763186,"LATCH, Door",Right,,29,,,,,,,discontinued,,,,,
+1,4763187,"LATCH, Door",Left,,29,,,,,,,discontinued,,,,,
+2,6501373,"SCREW, Latch",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",6,1,,,,available,9,6.23,1.0 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6501373.html
+3,4643799,"HOUSING, Remote Control",Left,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,47.89,37.64,6.4 x 4.2 x 2.9 inches,1.10 Pounds,/parts/mopar-housing-door-latch-remote~4643799.html
+3,4763618,"HOUSING, Remote Control",Right,1992-1998,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-housing-door-remote-control~4763618.html
+3,4763619,"HOUSING, Remote Control",Left,1992-1998,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.3 x 6.1 x 5.1 inches,0.60 Pounds,/parts/mopar-housing-door-remote-control~4763619.html
+4,0154657,"SCREW, Housing",,,,,2,,,,,discontinued,,,,,
+6,4708359,"LINK, w/Sleeve, Right",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"LINK, w/Sleeve, Left",discontinued,,,,0.60 Pounds,/parts/mopar-link-frt-dr-i-s-remote-release-l~4708359.html
+7,4643805,"LINK, Latch, Right",Left,,,,,,,,"LINK, Latch, Left",discontinued,,,,,
+8,4643066,"STRIKER, Door",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,18.1,15.72,2.8 x 2.0 x 1.5 inches,0.70 Pounds,/parts/mopar-striker-door-latch~4643066.html
+9,4643067,"SPACER, Striker",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,4643067AB,,,available,7.7,6.35,2.7 x 2.0 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-door-lock-striker~4643067.html
+10,4643428,"SCREW, Striker",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,available,5.27,4.14,1.5 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-flat-head~4643428.html
+11,4763550,"INTERLOCK, Lower Door Restraint",,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"1994-96
+INTERLOCK, Lower Door Restraint",available,3.1,2.44,,0.60 Pounds,/parts/mopar-seat-belt-lwr-dr-rsrnt-sys~4763550.html
+12,4763553,"SPACER, Restraint",,1994-1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1994-96
+SPACER, Restraint",available,6.2,3.88,4.3 x 1.2 x 0.1 inches,0.50 Pounds,/parts/mopar-shim-lower-door-restraint~4763553.html
+13,4763554,"INSULATOR, Restraint",,1994-1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,4.4 x 1.3 x 0.1 inches,0.50 Pounds,/parts/mopar-insulator-restraint-system~4763554.html
+13,4763554,"INSULATOR, Restraint",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,4.4 x 1.3 x 0.1 inches,0.50 Pounds,/parts/mopar-insulator-restraint-system~4763554.html
+14,6503665,"SCREW, Interlock",,1994-1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,"1994-96
+SCREW, Interlock",discontinued,,,0.7 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-flange-head~6503665.html
+15,4708357,"CLIP, Remote Control Link",,,,,2,,,,,discontinued,,,,,

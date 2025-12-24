@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,5SH64LR9AA,AIR BAG Driver,,,,,,6JU47LR9AB,[-R9],available,1365,925.47,/parts/mopar-air-bag-driver~5sh64lr9aa.html
-1,5SH64LV5AA,AIR BAG Driver,,,,,,6JU47LV5AB,[-VV],available,1725,1158.25,/parts/mopar-air-bag-driver~5sh64lv5aa.html
-1,5VT61DX9AA,AIR BAG Driver,,,,,,6JU48DX9AB,"[-X9],[CG3], [MYH][-XR],[CG3], [MYH]",available,2200,1485.95,/parts/mopar-air-bag-driver~5vt61dx9aa.html
-1,5XK65LR9AA,AIR BAG Driver,,,,,,,"[-R9],[CG3], [MYH]",discontinued,,,/parts/mopar-air-bag-driver~5xk65lr9aa.html
-1,5XK65LV5AA,AIR BAG Driver,,,,,,,"[-VV],[CG3], [MYH]",discontinued,,,/parts/mopar-air-bag-driver~5xk65lv5aa.html
-2,6105037AA,SCREW Hex Flange Head M6x1.00x20.00,,,,2,1,,,available,3.2,2.16,/parts/mopar-screw-hex-flange-head~6105037aa.html
-3,68137707AD,AIR BAG Passenger,,,,,,,,unavailable,615,419.52,/parts/mopar-airbag-passenger~68137707ad.html
-4,68226092AC,AIR BAG Side Curtain Door Mounted,,,,,,,Right [CJ6],available,649,443.46,/parts/mopar-air-bag-side-curtain~68226092ac.html

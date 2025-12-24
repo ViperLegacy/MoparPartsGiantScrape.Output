@@ -1,0 +1,30 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642970,"PANEL ASSEMBLY, Sport Cap",,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4709123,"PANEL ASSEMBLY, Sport Cap",,1993-1994,,10 Cyl 8.0L,,,,,1993-94 (EXPORT),discontinued,,,,,
+1,4709396,"PANEL ASSEMBLY, Sport Cap",,1993-1994,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4709426,"PANEL ASSEMBLY, Sport Cap",,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,96.50 Pounds,/parts/mopar-panel-sport-cap-primed~4709426.html
+1,4763899,"PANEL ASSEMBLY, Sport Cap",,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1995-96 (EXPORT),discontinued,,,,80.80 Pounds,/parts/mopar-sport-cap-primed-bux-panel~4763899.html
+2,6034756,"RIVET, 1992",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.9 x 0.3 x 0.2 inches,0.40 Pounds,/parts/mopar-rivet-blind~6034756.html
+3,6034578,RIVET,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.6 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-retainer~6034578.html
+4,6502337,NUT and WASHER,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,8.75,6,0.8 x 1.2 x 1.2 inches,0.40 Pounds,/parts/mopar-nut-hex-locking~6502337.html
+5,6101085,"SCREW and WASHER, M10x1.50x40.00",,"2003, 1992-1996","COMP. Coupe, GTS Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,discontinued,,,,,/parts/mopar-screw~6101085.html
+6,4643556,SHIM,,,,,6,,,,,discontinued,,,,,
+7,JL70MX9,"PAD ASSEMBLY, Sport Cap",,1994-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1993 After 3-17-93, 1994-95-96",discontinued,,,62.4 x 5.1 x 4.0 inches,2.70 Pounds,/parts/mopar-pad-sport-cap~jl70mx9.html
+7,EK16LX7,"PAD ASSEMBLY, Sport Cap",,1992-1993,,10 Cyl 8.0L,,,,,1992-93 Up To 3-17-93,discontinued,,,,,
+8,GY07LX9,"MOULDING, Sport Cap Close Out Panel, 1992-93",,,,,,,,,,discontinued,,,,,
+11,6501941,"NUT and WASHER, M6x1.00",,,,,5,,,,,discontinued,,,,,
+12,4708043,SHIM,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1.0,discontinued,,,,0.50 Pounds,/parts/mopar-shim-sport-cap~4708043.html
+12,4708044,SHIM,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1.5,available,7.13,5.61,,0.50 Pounds,/parts/mopar-shim-sport-cap~4708044.html
+13,4643680,"CATCHER, Sportbar Interlock",Right,1992,,10 Cyl 8.0L,,,,,"1992,93,94,95, Up to 9-26-94, Right",discontinued,,,,,
+13,4643681,"CATCHER, Sportbar Interlock",Left,1992,,10 Cyl 8.0L,,,,,"1992,93,94,95, Up to 9-26-94, Left",discontinued,,,,,
+13,4763658,"CATCHER, Sportbar Interlock",Right,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1995,96, After 9-26-94, Right",discontinued,,,,0.50 Pounds,/parts/mopar-catch-sportbar-interlock-rt~4763658.html
+13,4763659,"CATCHER, Sportbar Interlock",Left,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1995,96, After 9-26-94, Left",discontinued,,,,0.50 Pounds,/parts/mopar-catch-sportbar-interlock-rt~4763659.html
+14,4643557,SHIM,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-sport-bar-interlock-catch~4643557.html
+15,34201596,BOLT,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,7,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-bolt-pan-head~34201596.html
+16,4708216,"GROMMET, Sports Cap Pad",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-grommet-sport-cap-pad~4708216.html
+17,55254651,DEADENER PAD,,,,,,,,,,discontinued,,,,,
+18,6034790,STUD,,1992-1993,,10 Cyl 8.0L,2,,,,,discontinued,,,,,
+18,6035227,STUD,,1994-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,1994-95-96,discontinued,,,2.0 x 0.3 x 0.3 inches,2.40 Pounds,/parts/mopar-stud~6035227.html
+,4708339,"LABEL, Warning Bar, (Canada - French)",,,,,,,,,,discontinued,,,,,
+,6503139,"SCREW, (Attach Sport Cap Cover)",,1992-1999,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.7 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-tress-head~6503139.html
+,4848371,"SEAL, Sport Cap Base",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,19,14.93,3.1 x 1.3 x 1.3 inches,2.20 Pounds,/parts/mopar-seal-sport-cap-base~4848371.html

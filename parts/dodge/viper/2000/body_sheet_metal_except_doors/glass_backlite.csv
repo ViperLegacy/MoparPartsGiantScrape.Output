@@ -1,0 +1,24 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763380AC,BACKLITE,,1999-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,71.7 x 4.1 x 38.1 inches,40.00 Pounds,/parts/mopar-backlite~4763380ac.html
+2,4763965,HINGE Liftgate,Left,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 4.0 x 3.1 inches,0.80 Pounds,/parts/mopar-hinge-liftgate~4763965.html
+3,QM20SX9,COVER Hinge,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,8.2 x 3.1 x 3.1 inches,1.90 Pounds,/parts/mopar-cover-hinge~qm20sx9.html
+4,6035857,PIN PUSH .281x.770,,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,8,1,,,,discontinued,,,0.8 x 0.4 x 0.4 inches,0.90 Pounds,/parts/mopar-pin~6035857.html
+5,4848225,SHIM Liftgate Hinge,,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,2.2 x 1.1 x 0.1 inches,0.40 Pounds,/parts/mopar-shim-liftgate-hinge~4848225.html
+6,6100567,SCREW AND WASHER Hex Head M6x1x25,,"2013-2017, 2008-2010, 2004-2006, 1992-2002","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,9.3,6.47,1.2 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6100567.html
+7,6501941,NUT AND WASHER,,,,,4,,,,,discontinued,,,,,
+8,4763387AB,PROP Backlite,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,2,1,,,,available,46.45,38.97,31.0 x 6.3 x 1.3 inches,1.40 Pounds,/parts/mopar-prop-backlite~4763387ab.html
+9,5256749,BUMPER Deck Lid Adjuster,,"2008-2010, 1996-2006","COMP. Coupe, GTS Coupe, GTS-L Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,discontinued,,,1.7 x 0.7 x 0.8 inches,0.50 Pounds,/parts/mopar-bumper-deck-lid-adjuster~5256749.html
+10,4854301AA,GASKET Bumper Bracket,,2000-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,2,1,,,,discontinued,,,1.4 x 1.4 x 0.1 inches,0.40 Pounds,/parts/mopar-gasket-bumper-bracket~4854301aa.html
+11,4763384,STRIKER Backlite,,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,3.6 x 2.0 x 2.1 inches,0.60 Pounds,/parts/mopar-striker-backlite~4763384.html
+12,6501941,NUT AND WASHER,,,,,2,,,,,discontinued,,,,,
+13,4848359,BRACKET Liftgate,Left,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,available,70.66,55.53,5.6 x 3.0 x 4.3 inches,0.80 Pounds,/parts/mopar-bracket-liftgate~4848359.html
+15,6100557,BOLT AND CONED WASHER Hex Head M6x20x14,,"2004-2006, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",6,1,,,,available,9.2,6.41,1.0 x 0.5 x 0.5 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6100557.html
+16,5017672AA,LATCH Decklid,,2000-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,4.7 x 3.5 x 1.0 inches,0.80 Pounds,/parts/mopar-latch-decklid~5017672aa.html
+17,5017673AA,CABLE Deck Lid Release,,2000-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,14.1 x 14.4 x 2.1 inches,1.40 Pounds,/parts/mopar-cable-deck-lid-release~5017673aa.html
+19,6100567,SCREW AND WASHER Hex Head M6x1x25,,"2013-2017, 2008-2010, 2004-2006, 1992-2002","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,9.3,6.47,1.2 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6100567.html
+20,4763671AB,WEATHERSTRIP Liftgate Glass,,1998-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,29.7 x 23.3 x 2.1 inches,3.90 Pounds,/parts/mopar-w-strip-liftgate-glass~4763671ab.html
+21,4763386,BRACKET Mounting,,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,4.9 x 4.0 x 1.9 inches,1.10 Pounds,/parts/mopar-bracket-mounting~4763386.html
+,4848767,BRACKET Trunk Lamp Mounting,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,4.4 x 3.9 x 1.9 inches,2.00 Pounds,/parts/mopar-bracket-trunk-lamp-mounting~4848767.html
+,6016152,CLIP,,"2008, 1998-2006","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,discontinued,,,,,/parts/mopar-retainer~6016152.html
+,SF88DX9AA,HANDLE Backlight Remote Release,,1999-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,10.5 x 3.8 x 3.8 inches,0.70 Pounds,/parts/mopar-handle-backlite-remote-release~sf88dx9aa.html
+,5245667,REINFORCEMENT Mounting,Left,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,4.5 x 3.8 x 0.3 inches,0.70 Pounds,/parts/mopar-reinfmnt-mounting~5245667.html

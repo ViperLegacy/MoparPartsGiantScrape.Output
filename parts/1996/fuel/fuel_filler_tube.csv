@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,4763003,"TUBE, Fuel Filler",,1996,29,,,,,discontinued,,,
-1,4763580,"TUBE, Fuel Filler",,1996,27,,,,,discontinued,,,
-2,4763002,"TUBE, Fuel Tank Vent",,1996,29,,,,,discontinued,,,
-2,4763008,"TUBE, Fuel Tank Vent",,1996,27,,,,,discontinued,,,/parts/mopar-tube-fuel-filler-vent~4763008.html
-3,6502089,"CLAMP, Vent Hose",,,,,,,,available,7.5,5.18,/parts/mopar-clamp-hose-clamp~6502089.html
-4,52006629,"CAP, Fuel Filler Tube",,,27,,,,,discontinued,,,/parts/mopar-cap-fuel-filler~52006629.html
-6,6502091,"CLAMP, Filler Tube",,1992-95,,,,,,discontinued,,,/parts/mopar-clamp-hose~6502091.html
-7,5217578,"GROMMET, Fuel Tank",,,,,,,,available,22.5,15.55,/parts/mopar-grommet-fuel-tank-filler-tube-openi~5217578.html

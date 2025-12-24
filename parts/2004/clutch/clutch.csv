@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-2,5037226AB,FLYWHEEL,,,,,,,,discontinued,,,/parts/mopar-flywheel~5037226ab.html
-3,6035811,BOLT Hex Head .437-20x1.50,,,,8,1,,,available,30.05,20.4,/parts/mopar-bolt-hex-head~6035811.html
-4,4848708AC,PLATE Clutch Pressure,,,,,,4848708AF,,discontinued,,,/parts/mopar-cltch-kit-clutch-pressure~4848708ac.html
-5,6036611AA,BOLT,,,,8,1,,,discontinued,,,/parts/mopar-bolt~6036611aa.html
-6,153371,BOLT Hex Head .375-16x2.25,,,,4,1,,,available,19.75,12.71,/parts/mopar-screw-hex-head~153371.html
-7,154927AA,SCREW,,,,4,1,,,available,4.43,3.48,/parts/mopar-screw~154927aa.html
-8,181148,SCREW Hex Head .437-14x2.75,,,,2,1,6036621AA,,available,32.85,22.95,/parts/mopar-screw-hex-head~181148.html
-9,9417838,WASHER Flat,,,,2,1,,,discontinued,,,/parts/mopar-spacer-flat~9417838.html

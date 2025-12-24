@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245322,GROMMET Crankcase Vent,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.6 x 1.6 x 0.8 inches,0.60 Pounds,/parts/mopar-grommet-crank-case-vent~5245322.html
+2,3671076,VALVE PCV,,,,,,,,,,discontinued,,,,,
+3,4763767AD,HARNESS PCV,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,8.5 x 1.5 x 0.9 inches,0.50 Pounds,/parts/mopar-harness-pollution-control-valve~4763767ad.html
+4,4848340AC,HOSE PCV Inlet,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,15,11.79,8.1 x 5.5 x 1.2 inches,0.50 Pounds,/parts/mopar-hose-pcv-inlet~4848340ac.html
+5,4763806AB,HARNESS CCV To Air Cleaner,,,,,,,,,,discontinued,,,,,

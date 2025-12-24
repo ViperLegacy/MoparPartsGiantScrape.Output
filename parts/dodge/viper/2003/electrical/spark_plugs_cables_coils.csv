@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245237AB,SEPERATOR Ignition Cable,,1998-2004,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,,,,discontinued,,,2.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-seperator-ignition-cable~5245237ab.html
+2,5093789AA,CABLE PACKAGE Ignition,,2003,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,,,available,215,182.08,12.0 x 9.6 x 3.8 inches,2.80 Pounds,/parts/mopar-cable-pkg-ignition~5093789aa.html
+3,5037179AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029651AA,,[#4],available,50.9,35.53,15.6 x 15.6 x 10.2 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~5037179ac.html
+3,5037180AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029652AA,,[#6],available,37.85,26.45,8.4 x 7.6 x 0.8 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~5037180ac.html
+3,5037181AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029653AA,,[#8],available,49.45,34.54,13.2 x 9.2 x 1.1 inches,0.80 Pounds,/parts/mopar-wiring-spark-plug~5037181ac.html
+3,5037182AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029654AA,,[#10],available,46.1,32.21,12.7 x 9.8 x 0.8 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~5037182ac.html
+3,5037184AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029644AA,,[#1],available,41.15,28.72,12.8 x 9.9 x 0.4 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~5037184ac.html
+3,5037185AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029645AA,,[#3],available,50.05,34.95,12.9 x 10.0 x 0.8 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~5037185ac.html
+3,5037186AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029646AA,,[#5],available,36.75,25.69,6.0 x 5.3 x 1.2 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~5037186ac.html
+3,5037187AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029647AA,,[#7],available,53.25,37.11,8.5 x 9.9 x 0.8 inches,0.60 Pounds,/parts/mopar-wiring-spark-plug~5037187ac.html
+3,5037188AC,WIRE Spark Plug,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,5029648AA,,[#9],available,42.35,29.59,19.3 x 17.9 x 10.1 inches,0.90 Pounds,/parts/mopar-wiring-spark-plug~5037188ac.html
+4,SP0RC12ECC,SPARK PLUG,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,10,1,68304022AA,,,available,8.25,5.71,1.0 x 1.1 x 3.9 inches,0.50 Pounds,/parts/mopar-plug~sp0rc12ecc.html
+6,56032520,COIL Ignition,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,7.4 x 7.4 x 6.3 inches,3.50 Pounds,/parts/mopar-coil-ign-ignition~56032520.html
+7,56032521,COIL Ignition,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,6.9 x 6.6 x 3.3 inches,3.40 Pounds,/parts/mopar-coil-ignition~56032521.html
+,6034526,SCREW AND WASHER,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,8,1,,,,discontinued,,,2.2 x 0.6 x 0.6 inches,0.60 Pounds,/parts/mopar-screw~6034526.html
+,154777,SCREW AND WASHER Hex Head .25-20x1.00,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",8,1,,6035666,,available,14.2,7.13,1.3 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~154777.html
+,5037104AB,SHIELD Heat,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,10,1,,,,discontinued,,,3.0 x 1.3 x 1.4 inches,0.50 Pounds,/parts/mopar-shield-heat~5037104ab.html

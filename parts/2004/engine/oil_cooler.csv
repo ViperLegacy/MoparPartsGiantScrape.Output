@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,5290014AD,COOLER Engine Oil Assembly,,,,,,5290014AE,,unavailable,377,254.93,/parts/mopar-cooler-engine-oil~5290014ad.html
-2,5290014AD,COOLER Engine Oil,,,,,,5290014AE,,unavailable,377,254.93,/parts/mopar-cooler-engine-oil~5290014ad.html
-4,5037316AC,CONNECTOR Engine Oil Cooler,,,,2,1,5037316AD,,available,16.35,11.3,/parts/mopar-connector-male~5037316ac.html
-5,6503771,SCREW Hex Flange Head M6x1x23,,,,3,1,,,discontinued,,,/parts/mopar-screw-hex-flange-head~6503771.html
-7,5290004AD,LINE Oil Cooler Inlet,,,,,,,,available,182,142.88,/parts/mopar-tube-oil-cooler-inlet~5290004ad.html
-8,5290001AC,LINE Oil Cooler Outlet,,,,,,5290001AD,,available,701,593.94,/parts/mopar-tube-oil-cooler-outlet~5290001ac.html

@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1VT17DX9AA,HEADLINER,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1VT17DX9AD,,"[-X9], [CHE]",available,1985,1344.7,72.8 x 64.3 x 10.5 inches,12.00 Pounds,/parts/mopar-headliner~1vt17dx9aa.html
+1,1VT17LV5AA,HEADLINER,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1VT17LV5AD,,"[-VX], [CHE]",available,2035,1378.6,72.1 x 64.9 x 10.4 inches,12.90 Pounds,/parts/mopar-headliner~1vt17lv5aa.html
+4,6035201,RIVET Headliner To Roof - Push-Pin Style,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,12,1,,,,available,12.2,8.45,2.8 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-rivet~6035201.html
+5,1UL85DX9AA,VISOR,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1UL85DX9AE,,"Left [-KX]
+Left [-RX]
+Left [-X9]",available,868,592.8,17.5 x 12.7 x 2.3 inches,1.40 Pounds,/parts/mopar-visor~1ul85dx9aa.html
+5,1WV62DX9AA,VISOR,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1WV62DX9AE,,"Right [-X9], [CHE]",available,492,328.93,11.2 x 11.3 x 4.0 inches,1.70 Pounds,/parts/mopar-visor~1wv62dx9aa.html
+5,1WV62LV5AA,VISOR,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1WV62LV5AE,,"Right [-VX], [CHE]",available,492,332.76,21.4 x 12.5 x 3.6 inches,1.40 Pounds,/parts/mopar-visor~1wv62lv5aa.html
+6,4720533,SCREW,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",33,1,,,,available,6,4.08,0.7 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-screw~4720533.html
+,5KX19DX9AA,BEZEL Dome Lamp Includes LED,,2013,"SRT, SRT GTS",10 Cyl 8.4L,2,1,5KX19DX9AB,,,available,31.4,25.16,,0.70 Pounds,/parts/mopar-bezel-dome-lamp~5kx19dx9aa.html

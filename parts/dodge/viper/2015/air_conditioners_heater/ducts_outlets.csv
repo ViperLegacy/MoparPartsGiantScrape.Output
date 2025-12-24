@@ -1,0 +1,57 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68144918AA,DUCT Defroster,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,56,38.91,15.3 x 5.1 x 3.0 inches,0.60 Pounds,/parts/mopar-duct-defroster~68144918aa.html
+2,4865554AA,DUCT Floor Distribution,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,48.3,42.68,18.7 x 10.5 x 0.3 inches,0.70 Pounds,/parts/mopar-duct-floor-distribution~4865554aa.html
+3,4865809AA,DUCT Floor,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,28.7,25.05,21.9 x 6.4 x 4.8 inches,0.90 Pounds,/parts/mopar-duct-floor~4865809aa.html
+4,6505300AA,SCREW Tapping Pan Head M6X2.25X19.25,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,9.5,5.92,0.9 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-tapping-pan-head~6505300aa.html
+5,6100840,NUT Spring,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,7.25,5.01,0.7 x 0.6 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-spring~6100840.html
+6,1WQ64DX9AB,GRILLE Defroster,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1WQ64DX9AA,,available,205,168.75,20.5 x 6.3 x 2.1 inches,1.10 Pounds,/parts/mopar-grille-defroster~1wq64dx9ab.html
+7,5NK50CV5AA,OUTLET Air Conditioning & Heater,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,5NK501V5AA,"[-V5],[X81], [JAB], [AZA]",available,575,378.4,6.8 x 6.8 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50cv5aa.html
+7,5NK50DX9AA,OUTLET Air Conditioning & Heater,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,"[-V5],[X81], [JAA]
+[-V5],[X81], [JAA], [AXV], [QBD]
+[-V5],[X81], [JAA], [AXV], [QX8]
+[-X9],[X81], [JAA]
+[-XY],[X81], [JAA], [AXV], [QY5]...View More",available,474,391.37,6.9 x 7.1 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50dx9aa.html
+7,5NK50DX9AA,OUTLET Air Conditioning & Heater,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9],[X81], [JAA]",available,474,391.37,6.9 x 7.1 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50dx9aa.html
+7,5NK50LK5AA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,"[-KX],[X81], [JAB]",available,467,312.2,7.0 x 7.1 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50lk5aa.html
+7,5NK50LR9AA,OUTLET Air Conditioning & Heater,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,"5NK501R9AA, 5NK501X6AA","[-R9],[X81], [JAC], [ARZ], [PHL]
+[-R9],[X81], [JAC], [ARZ], [PKC]
+[-X6],[X81], [JAA], [MS7]
+[-X6],[X81], [JAA], [MS7], [ARZ], [PKC]
+[-X6],[X81], [JAB]
+[-X6],[X81], [JAB], [ARZ]
+[-X6],[X81], [JAB], [XSQ], [ARZ]
+[-X6],[X81], [JAC], [ARZ]...View More",available,527,347.6,7.1 x 7.0 x 6.1 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50lr9aa.html
+7,5NK50LR9AA,OUTLET Air Conditioning & Heater,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5NK501R9AA, 5NK501X6AA","[-R9],[X81], [JAC]
+[-X6],[X81], [JAB]
+[-X6],[X81], [JAB], [ARZ]...View More",available,527,347.6,7.1 x 7.0 x 6.1 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50lr9aa.html
+7,5NK50LV5AA,OUTLET Air Conditioning & Heater,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5NK501VXAA, 5NK501VVAA","[-VV],[X81], [JAC]
+[-VX],[X81], [JAB]
+[-VX],[X81], [JAB], [ARZ]...View More",available,527,347.6,7.0 x 6.9 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50lv5aa.html
+7,5NK50LV5AA,OUTLET Air Conditioning & Heater,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,"5NK501VXAA, 5NK501VVAA","[-VV],[X81], [JAC], [ARZ], [PHL]
+[-VV],[X81], [JAC], [ARZ], [PKC]
+[-VX],[X81], [JAA], [MS7]
+[-VX],[X81], [JAA], [MS7], [ARZ], [PKC]
+[-VX],[X81], [JAB]
+[-VX],[X81], [JAB], [ARZ]
+[-VX],[X81], [JAB], [XSQ], [ARZ]...View More",available,527,347.6,7.0 x 6.9 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50lv5aa.html
+7,5NK50XR4AA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,"[-RX][X81], [JAB]",available,467,312.2,6.8 x 6.8 x 6.1 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50xr4aa.html
+7,5NK50YSAAA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5NK50SZ6AA,,"[-X9],[X81], [JAB], [ARZ]
+[-X9],[X81], [JAC]",available,589,388.3,7.0 x 7.0 x 5.9 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50ysaaa.html
+7,5NK50YSAAA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,5NK50SZ6AA,,"[-X9],[X81], [JAA]
+[-X9],[X81], [JAA], [MS7]
+[-X9],[X81], [JAA], [MS7], [ARZ], [PHL]
+[-X9],[X81], [JAA], [MS7], [ARZ], [PKC]
+[-X9],[X81], [JAA], [XSQ]
+[-X9],[X81], [JAB]
+[-X9],[X81], [JAB], [ARZ]
+[-X9],[X81], [JAB], [XSQ], [ARZ]
+[-X9],[X81], [JAC]
+[-X9],[X81], [JAC], [ARZ]
+[-X9],[X81], [JAC], [ARZ], [PHL]
+[-X9],[X81], [JAC], [ARZ], [PKC]
+[-X9],[X81], [JAC], [XSQ]
+[-X9],[X81], [JAC], [XSQ], [ARZ]...View More",available,589,388.3,7.0 x 7.0 x 5.9 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50ysaaa.html
+8,68203408AA,DUCT Air Distribution,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,113,76.28,25.2 x 7.2 x 5.3 inches,3.70 Pounds,/parts/mopar-duct-air-distribution~68203408aa.html
+9,68203411AA,DUCT Air Distribution,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,139,93.83,18.4 x 10.5 x 8.2 inches,0.90 Pounds,/parts/mopar-duct-air-distribution~68203411aa.html
+10,68203414AA,DUCT Air Distribution,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,114,76.95,21.6 x 8.5 x 6.3 inches,0.90 Pounds,/parts/mopar-duct-air-distribution~68203414aa.html
+11,4865640AE,PLENUM Fresh Air Inlet,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,"4865640AD, 4865640AC, 4865640AB",,available,465,308.86,22.6 x 22.6 x 6.5 inches,2.80 Pounds,/parts/mopar-plenum-fresh-air-inlet~4865640ae.html

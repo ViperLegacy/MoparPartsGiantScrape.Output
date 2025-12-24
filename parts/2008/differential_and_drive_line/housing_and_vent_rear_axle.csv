@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,68046922AA,HOUSING Axle,,,,,,,,available,1080,904,/parts/mopar-housing-axle~68046922aa.html
-2,5093383AA,COVER Differential,,,,,,5093383AB,,available,512,336.6,/parts/mopar-cover-differential~5093383aa.html
-3,4626710,PLUG Differential Housing,,,,,,68401316AB,,available,13.5,9.26,/parts/mopar-plug-differential-housing~4626710.html
-4,68046861AA,VENT Axle,,,,,,,,available,4.25,3.93,/parts/mopar-vent-axle~68046861aa.html
-5,4626709,BOLT Differential Cover,,,,9,1,,,available,4.25,3.67,/parts/mopar-boot-differential-cover~4626709.html
-6,5012879AA,BOLT Differential,,,,4,1,,,available,17.75,12.5,/parts/mopar-bolt-differential~5012879aa.html

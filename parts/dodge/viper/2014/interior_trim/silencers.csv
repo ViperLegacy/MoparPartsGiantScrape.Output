@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68199796AB,SILENCER Hood,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68199796AD,,[MGB],available,280,189,58.0 x 48.7 x 3.4 inches,2.50 Pounds,/parts/mopar-silencer-hood~68199796ab.html
+2,6030441,PUSH PIN .250X.900,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,14,1,,"6509015AA, 6505403AA",,available,7.95,5.53,1.1 x 0.9 x 0.9 inches,0.60 Pounds,/parts/mopar-push-pin~6030441.html
+3,4680665AA,"PAD B-Pillar, Upper Extension",,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,5.85,4.08,15.6 x 4.2 x 4.2 inches,0.60 Pounds,/parts/mopar-pad~4680665aa.html
+,68252078AA,"PAD Location: Inner Right Side Door Panel, 1 Inch Wide X 2 Inches Long",,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,14.35,10.02,3.7 x 3.2 x 0.3 inches,0.80 Pounds,/parts/mopar-pad~68252078aa.html
+,5181986AA,SILENCER Wheelhouse,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,Left [GAP],available,70.7,49.4,19.8 x 15.5 x 1.1 inches,2.10 Pounds,/parts/mopar-silencer-wheelhouse~5181986aa.html

@@ -1,0 +1,43 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4709051,"SHOCK ABSORBER, Front",,1993-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,1993-95 w/Coil Spring,discontinued,,,,13.80 Pounds,/parts/mopar-coil-over-shock-assy-frt~4709051.html
+1,4643115,"SHOCK ABSORBER, Front",,1992,,10 Cyl 8.0L,2,,,,1992 w/Coil Spring,discontinued,,,,,
+1,4709291,"SHOCK ABSORBER, Front",,1996,27,10 Cyl 8.0L,2,,,,1996 w/o Coil Spring,discontinued,,,,,
+1,4848641,"SHOCK ABSORBER, Front",,1996,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,1996 w/o Coil Spring,discontinued,,,18.5 x 6.1 x 4.6 inches,7.30 Pounds,/parts/mopar-absorber-suspension~4848641.html
+1,4855168,"SHOCK ABSORBER, Front",,1996,,10 Cyl 8.0L,2,,,,1996 w/Coil Spring,discontinued,,,,,
+2,6100969,"BOLT, Shock Mtg.",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,discontinued,,,4.1 x 1.0 x 0.9 inches,0.70 Pounds,/parts/mopar-bolt-hex-flange-head~6100969.html
+3,6101515,"NUT, Shock Mtg.",,,,,4,,,,,discontinued,,,,,
+4,4709337,"CAM BOLT, Lower Control Arm 1992-93 4.75""",,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,"1994-96, 4.63""",discontinued,,,5.3 x 1.8 x 1.8 inches,0.80 Pounds,/parts/mopar-cam-bolt-l-cont-arm~4709337.html
+5,2269232,"CAM, Washer Lower Control Arm",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.8 x 1.8 x 0.2 inches,0.70 Pounds,/parts/mopar-nut-front-suspension-control-ar~2269232.html
+6,0152479,NUT,,,,,4,,,,,discontinued,,,,,
+7,1671405,"NUT, Lower Ball Joint",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.2 x 1.0 x 0.8 inches,0.90 Pounds,/parts/mopar-nut-hex~1671405.html
+8,273912,"NUT, Upper Ball Joint",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.1 x 1.1 x 0.8 inches,0.60 Pounds,/parts/mopar-nut-hex~273912.html
+10,4642013,"ARM, Control Lower",Left,1992-1995,,10 Cyl 8.0L,,,,,"1992-95, Left",discontinued,,,,,
+10,4709296,"ARM, Control Lower",Right,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996, Right",discontinued,,,18.2 x 17.0 x 5.3 inches,10.20 Pounds,/parts/mopar-arm-control~4709296.html
+10,4709297,"ARM, Control Lower",Left,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996, Left",discontinued,,,17.7 x 16.7 x 5.3 inches,4.90 Pounds,/parts/mopar-arm-control~4709297.html
+11,4642077,"ARM, Control Upper",Left,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-95, Left",discontinued,,,,8.90 Pounds,/parts/mopar-arm-frt-susp-upr-lt~4642077.html
+11,4709292,"ARM, Control Upper",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,10.8 x 13.5 x 5.1 inches,5.80 Pounds,/parts/mopar-arm-control~4709292.html
+12,6031282,"NUT, Upper Control Arm Mtg.",,,,,4,,,,,discontinued,,,,,
+13,4643113,"KNUCKLE, Front Axle",Left,1992-1995,,10 Cyl 8.0L,,,,,"1992-95, Left",discontinued,,,,,
+13,4709303,"KNUCKLE, Front Axle",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1996 Lt.,discontinued,,,12.1 x 8.5 x 8.1 inches,6.10 Pounds,/parts/mopar-knuckle-front~4709303.html
+13,4709304,"KNUCKLE, Front Axle",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1996 Rt.,discontinued,,,,,/parts/mopar-knuckle-front-axle~4709304.html
+14,6100219,NUT,,"2008-2009, 1992-2006","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,8.75,6.06,2.1 x 1.0 x 0.4 inches,0.80 Pounds,/parts/mopar-nut-hex-jam~6100219.html
+15,6501423,SCREW,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,,,/parts/mopar-bolt-m10x1-5-35~6501423.html
+16,4643047,"LINK, Assy.",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,10.7 x 2.1 x 2.1 inches,1.30 Pounds,/parts/mopar-link-stabilizer-bar~4643047.html
+17,4848105,"BAR, Sway",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,48.4 x 8.2 x 1.2 inches,7.90 Pounds,/parts/mopar-bar-frt-susp~4848105.html
+18,4404219,"RETAINER, Sway Bar",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,4.0 x 2.0 x 1.9 inches,0.70 Pounds,/parts/mopar-cover-sway-bar~4404219.html
+19,4643004,BUSHING,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,discontinued,,,2.2 x 1.8 x 1.6 inches,0.50 Pounds,/parts/mopar-bushing-stabilizer-bar~4643004.html
+20,2808394,"BALL JOINT, Upper",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,unavailable,,,3.9 x 3.9 x 3.7 inches,4.00 Pounds,/parts/mopar-b-jnt-pkg-upper-control-arm~2808394.html
+21,4848174,"BALL JOINT, Lower",,1996,"GTS Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,discontinued,,,,,/parts/mopar-balljoint-lower-control-arm~4848174.html
+22,52006405,"SEAL, Ball Joint Upper",,"2013-2017, 2008-2010, 2003-2006, 2001, 1992-1996","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,discontinued,,,2.9 x 2.9 x 1.8 inches,0.50 Pounds,/parts/mopar-seal-ball-joint~52006405.html
+23,4642056,"SHIM, Front Suspension Control Arm",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.4 x 1.3 x 0.8 inches,0.50 Pounds,/parts/mopar-spacer-control-arm~4642056.html
+24,9425066,"BOLT, Upper Control Arm Mounting To Frame",,,,,4,,,,,discontinued,,,,,
+,4763943,1996,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.6 x 1.6 x 1.6 inches,0.80 Pounds,/parts/mopar-seat-reduced-height-spring~4763943.html
+,4848049,"BUSHING, Upper Control Pivot",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.0 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-bushing-control-arm~4848049.html
+,52006404,"SEAL, Lower Ball Joint",,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,43.8,30.41,3.2 x 3.2 x 2.0 inches,0.50 Pounds,/parts/mopar-seal-ball-joint~52006404.html
+,4708045,"SEAT, Adjusting",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.70 Pounds,/parts/mopar-seat-reduced-height-spring~4708045.html
+,4708045,"SEAT, Spring Reduced Height 1994-95",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.70 Pounds,/parts/mopar-seat-reduced-height-spring~4708045.html
+,4708027,"SHIM, Spring Seat 1992-95",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,8.23,6.47,,0.50 Pounds,/parts/mopar-shim-spring-seat~4708027.html
+,4709321,"SHIM, Spring Seat 1996",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.8 x 3.7 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-coil-over-shock-spring~4709321.html
+,4643203,"SPRING, Front Coil 1992",,,,,2,,,,,discontinued,,,,,
+,4708496,"SPRING, Front Coil 1993-95",,,,,2,,,,,discontinued,,,,,
+,4848168,"SPRING, Front Coil 1996",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,5.80 Pounds,/parts/mopar-spring-front~4848168.html

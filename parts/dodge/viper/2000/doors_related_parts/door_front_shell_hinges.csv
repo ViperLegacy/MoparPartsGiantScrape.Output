@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4854333AC,DOOR Front,Left,1999-2000,"27; GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4854336AC,DOOR Front,Right,1999-2000,"29; GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,available,1775,307.82,58.9 x 34.5 x 19.6 inches,38.00 Pounds,/parts/mopar-door-front~4854336ac.html
+1,4854337AC,DOOR Front,Left,1999-2000,"29; GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,available,391.71,307.82,59.2 x 34.7 x 20.4 inches,5.70 Pounds,/parts/mopar-door-front~4854337ac.html
+2,ME75MX3AD,MOLDING B Pillar,Left,1999-2002,29; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,QB96JX8AF,MOLDING B Pillar,Right,1999-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,24.2 x 8.4 x 1.6 inches,1.20 Pounds,/parts/mopar-cover-door-outer-stanchion~qb96jx8af.html
+2,QB97JX8AF,MOLDING B Pillar,Left,1999-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,,
+7,5245109,HINGE Front Door,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,unavailable,,,9.3 x 5.3 x 3.4 inches,2.30 Pounds,/parts/mopar-hinge-front-door~5245109.html
+8,6502549,SCREW Pan Head M8x1.25x30,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,7.8,5.13,1.5 x 0.6 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-pan-head~6502549.html
+9,6503351,SCREW AND WASHER Hex Head M8x1.25x35,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,discontinued,,,1.7 x 1.0 x 1.0 inches,0.90 Pounds,/parts/mopar-screw-hex-head~6503351.html
+11,6502676,NUT Hex M6x1.00,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,,,/parts/mopar-nut-hex~6502676.html
+12,6032723,SCREW Self Tapping M4.2x1.69x19.05,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+13,4854323AA,COVER Hinge,Left,,,,,,,,,discontinued,,,,,
+14,35022111,SPACER Fender 1.0,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,1.2 x 1.1 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-fender~35022111.html
+16,4848919AB,TAPE Stanchion Cover Shutface,Left,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.4 x 6.1 x 0.1 inches,0.70 Pounds,/parts/mopar-tape~4848919ab.html
+,4763963,BRACKET Stanchion Cover Mtg.,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,5.7 x 2.4 x 1.4 inches,0.60 Pounds,/parts/mopar-bracket~4763963.html
+,2860332,PLUG Anti-Rattle,,1998-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,,,,available,9.2,6.41,1.1 x 1.1 x 0.4 inches,0.60 Pounds,/parts/mopar-plug-anti-rattle~2860332.html
+,4848917AA,TAPE Stanchion Cover Rear of Door,Left,1998-2001,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-isolator-stanchion-cover~4848917aa.html

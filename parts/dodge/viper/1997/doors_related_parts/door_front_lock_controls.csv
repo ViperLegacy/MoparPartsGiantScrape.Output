@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763187,LATCH Front Door,Left,,29,,,,,,,discontinued,,,,,
+2,6501373,SCREW AND WASHER Hex Head M6x1x20,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",6,1,,,,available,9,6.23,1.0 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6501373.html
+3,4763619,HOUSING Door Remote Control,Left,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.3 x 6.1 x 5.1 inches,0.60 Pounds,/parts/mopar-housing-door-remote-control~4763619.html
+4,0154657,SCREW Pan Head .164-18x.50,,,,,2,,,,,discontinued,,,,,
+6,4643066,STRIKER Door Latch,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,18.1,15.72,2.8 x 2.0 x 1.5 inches,0.70 Pounds,/parts/mopar-striker-door-latch~4643066.html
+7,4643067,SPACER Door Lock Striker,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,4643067AB,,,available,7.7,6.35,2.7 x 2.0 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-door-lock-striker~4643067.html
+8,4643428,SCREW Flat Head M8x1.25x36.3,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,available,5.27,4.14,1.5 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-flat-head~4643428.html
+9,5245098,INTERLOCK Door Restraint,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.80 Pounds,/parts/mopar-striker-door-restraint~5245098.html
+10,4763553,SPACER Lower Door Restraint,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,6.2,3.88,4.3 x 1.2 x 0.1 inches,0.50 Pounds,/parts/mopar-shim-lower-door-restraint~4763553.html
+11,4763554,INSULATOR Restraint System,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,4.4 x 1.3 x 0.1 inches,0.50 Pounds,/parts/mopar-insulator-restraint-system~4763554.html
+12,6503665,SCREW Flange Head M6x1x18,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,0.7 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-flange-head~6503665.html
+14,PS20TX9,HANDLE Front Door,,1997-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right Flat Black,discontinued,,,3.7 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-handle-front-door~ps20tx9.html
+14,PS21SX8,HANDLE Front Door,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,PS21DX8AB,Left Black,discontinued,,,3.9 x 2.1 x 3.0 inches,0.60 Pounds,/parts/mopar-handle-front-door~ps21sx8.html
+14,PS21TX9,HANDLE Front Door,,1997-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Left Flat Black,discontinued,,,3.8 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-handle-front-door~ps21tx9.html
+15,5245795,NUT,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.0 x 1.0 x 0.4 inches,0.50 Pounds,/parts/mopar-nut~5245795.html
+16,4848479,PIN Snap,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.6 x 0.2 x 0.2 inches,0.80 Pounds,/parts/mopar-pin-snap~4848479.html

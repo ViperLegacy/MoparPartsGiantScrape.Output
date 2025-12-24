@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4643872,"RECEIVER, Ash (Black)",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"CLIP, Ash Receiver Retention",discontinued,,,,0.50 Pounds,/parts/mopar-spring-ash-receiver-retent~4643872.html
+1,4761733,"RECEIVER, Ash (Black)",,1992-2002,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,4643397,"BEZEL, Console",,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,6032268,"BEZEL, Console",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,"Clip, Bezel attaching",discontinued,,,0.7 x 0.4 x 0.1 inches,0.80 Pounds,/parts/mopar-clip~6032268.html
+2,HV33LX9,"BEZEL, Console",,1993-1995,27,10 Cyl 8.0L,,,,,Black 1993-95,discontinued,,,,,
+2,HV33MD5,"BEZEL, Console",,1993-1995,27,10 Cyl 8.0L,,,,,Quartz 1993-95,discontinued,,,,,
+2,HV33SX4,"BEZEL, Console",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Opal/Black-1996,discontinued,,,,,/parts/mopar-bezel-console~hv33sx4.html
+2,KS79MX4,"BEZEL, Console",,1992-2002,29,10 Cyl 8.0L,,,,,Opal/Black 1996,discontinued,,,,,
+4,PF25TX7,"CONSOLE, Assembly (Items 7 & 8 Included)",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1996 - Coupe,discontinued,,,,10.90 Pounds,/parts/mopar-console-front~pf25tx7.html
+4,PF42RD5,"CONSOLE, Assembly (Items 7 & 8 Included)",,1992-1996,"GTS Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Quartz,discontinued,,,33.7 x 18.6 x 6.3 inches,6.00 Pounds,/parts/mopar-console-front~pf42rd5.html
+4,PF42RKA,"CONSOLE, Assembly (Items 7 & 8 Included)",,1992-1996,"GTS Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Tan,discontinued,,,36.9 x 18.6 x 8.2 inches,6.00 Pounds,/parts/mopar-console-front~pf42rka.html
+4,PF42SX7,"CONSOLE, Assembly (Items 7 & 8 Included)",,,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black,discontinued,,,,,
+6,3747633,"SHELL, w/Clamp, C/Lighter",,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,37.25,20.96,4.0 x 3.2 x 1.9 inches,0.80 Pounds,/parts/mopar-shell-cigar-lighter~3747633.html
+6,3004190,"SHELL, w/Clamp, C/Lighter",,1992-1998,,10 Cyl 8.0L,,,,,"ELEMENT, Cigar Lighter",discontinued,,,,,
+6,4373689,"SHELL, w/Clamp, C/Lighter",,1992-1998,,10 Cyl 8.0L,,,,,"KNOB, Cigar Lighter",discontinued,,,,,
+7,EK21LX9,"BOOT, Parking Brake",,,,,,,,,,discontinued,,,,,
+8,4642723,"BOOT, Shift",,1992-1996,,10 Cyl 8.0L,,,,,"BOOT, Inner",discontinued,,,,,
+8,4643033,"BOOT, Shift",,1992-1996,,10 Cyl 8.0L,,,,,RETAINER,discontinued,,,,,
+8,EK22LX9,"BOOT, Shift",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.70 Pounds,/parts/mopar-boot-shifter-lever~ek22lx9.html

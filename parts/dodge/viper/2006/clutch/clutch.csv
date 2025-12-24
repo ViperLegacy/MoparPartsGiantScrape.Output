@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,5037226AB,FLYWHEEL,,"2006, 2003-2004","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,16.0 x 16.3 x 2.1 inches,34.10 Pounds,/parts/mopar-flywheel~5037226ab.html
+3,6036617AA,BOLT Flexplate,,2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,8,1,,,,available,17.95,12.41,1.8 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-screw-flexplate~6036617aa.html
+5,6036611AA,BOLT,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,8,1,,,,discontinued,,,1.0 x 0.6 x 0.6 inches,0.60 Pounds,/parts/mopar-bolt~6036611aa.html
+6,6035470,SCREW,,1997-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,6036816AA,6036717AA,,available,17.85,12.47,2.7 x 1.0 x 1.0 inches,0.80 Pounds,/parts/mopar-bolt-hex-head~6035470.html
+7,154927AA,SCREW,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,4,1,,,,available,4.43,3.48,2.2 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw~154927aa.html
+8,6036621AA,SCREW Hex Head .437-14x2.75,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,181148,,discontinued,,,3.2 x 0.8 x 0.8 inches,1.30 Pounds,/parts/mopar-screw-hex-head~6036621aa.html

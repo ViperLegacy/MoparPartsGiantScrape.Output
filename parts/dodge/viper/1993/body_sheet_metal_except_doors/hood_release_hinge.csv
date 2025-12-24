@@ -1,0 +1,53 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642963,HOOD ASSEMBLY,,1993,27,,,,,,"1993, Up to 4-20-93 (Domestic)",discontinued,,,,,
+1,4709239,HOOD ASSEMBLY,,1993-1994,27,,,,,,"1993-94, After 4-20-93 (Domestic)",discontinued,,,,,
+1,4709240,HOOD ASSEMBLY,,1994,27,,,,,,"1994, Primed (EXPORT)",discontinued,,,,,
+1,4709449,HOOD ASSEMBLY,,1995-1996,27,,,,,,"1995-96, Primed (Domestic)",discontinued,,,,,
+1,4709450,HOOD ASSEMBLY,,1995,27,,,,,,"1995, Primed (EXPORT)",discontinued,,,,,
+1,4763322,HOOD ASSEMBLY,,1996,29,,,,,,1996 (Domestic),discontinued,,,,,
+1,4763929,HOOD ASSEMBLY,,1996,27,,,,,,"1996, Primed (EXPORT)",discontinued,,,,,
+1,PB48RJE,HOOD ASSEMBLY,,1996,27,,,,,,"1996, Yellow (Domestic)",discontinued,,,,,
+1,PB49RJE,HOOD ASSEMBLY,,1996,27,,,,,,"1996, Yellow (EXPORT)",discontinued,,,,,
+2,6003351,"FASTENER, Hood Silencer",,1993-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,9,6.23,1.6 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-fastener-hood-insulation~6003351.html
+3,4848024,"HEAT SHIELD, Silencer, Center",,1993-2003,27,"10 Cyl 8.0L, 10 Cyl 8.3L",,,,,After 7-1-96,discontinued,,,,,
+3,5245781,"HEAT SHIELD, Silencer, Center",,1993-2003,27,"10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,,
+3,6503999,"HEAT SHIELD, Silencer, Center",,1993-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,"PIN, Push-In, Ground Shield to Chassis",discontinued,,,1.4 x 1.4 x 0.7 inches,0.40 Pounds,/parts/mopar-pin-ground-shield-to-chassis~6503999.html
+3,6504004,"HEAT SHIELD, Silencer, Center",,1993-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"NUT and SPRING, Push-On",discontinued,,,,,/parts/mopar-nut-push-on~6504004.html
+4,4709460,HEAT SHIELD,Right,1993-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.90 Pounds,/parts/mopar-shield-heat~4709460.html
+4,4848025,HEAT SHIELD,Left,1993-1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+5,4708281,"BUMPER, Front Hood Stabilizer",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.1 x 1.3 x 1.3 inches,0.40 Pounds,/parts/mopar-stop-bmpr-deck-lid~4708281.html
+6,6100591,"SCREW, M8x1.25x25.00",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,,,/parts/mopar-screw-hex-head~6100591.html
+7,4642869,"HINGE ASSEMBLY, (Includes Secondary Latch)",,1993-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Up to 10-31-92,available,360,304.56,38.8 x 39.5 x 7.4 inches,15.40 Pounds,/parts/mopar-hinge-assembly-includes-secondary-latch~4642869.html
+7,4708435,"HINGE ASSEMBLY, (Includes Secondary Latch)",,1993-1996,,10 Cyl 8.0L,,,,,"After 10-31-92, Up to 3-11-93",discontinued,,,,,
+7,4709251,"HINGE ASSEMBLY, (Includes Secondary Latch)",,1994,,10 Cyl 8.0L,,,,,"1994,95
+After 3-11-93",discontinued,,,,,
+7,4848590,"HINGE ASSEMBLY, (Includes Secondary Latch)",,1996,27,10 Cyl 8.0L,,,,,,discontinued,,,,,
+9,6100583,"SCREW and WASHER, M8x1.25x25.00",,"2008-2010, 1993-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,,14.51,1.2 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6100583.html
+10,4708439,"LATCH and BRACKET ASSY., Hood Primary",,1993-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,4708439AB,,,discontinued,,,4.2 x 3.0 x 1.1 inches,0.60 Pounds,/parts/mopar-latch-hood~4708439.html
+11,4708438,"STRIKER, Hood Latch",,1993-1994,,,,,,,"1993-94-95, Up to 9-7-94",discontinued,,,,,
+11,5245045,"STRIKER, Hood Latch",,1995-1996,,,,,,,"1995-96, After 9-7-94",discontinued,,,,,
+12,6100557,"SCREW, 1993-96, M6x1.00x20.00",,"2004-2006, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,9.2,6.41,1.0 x 0.5 x 0.5 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6100557.html
+13,4708004,"PIVOT ASSY., Hood Hinge Lift Assist",Right,1993,,10 Cyl 8.0L,,,,,"1993, Up to 1-21-93, Right",discontinued,,,,,
+13,4708005,"PIVOT ASSY., Hood Hinge Lift Assist",Left,1993,,10 Cyl 8.0L,,,,,"1993, Up to 1-21-93, Left",discontinued,,,,,
+13,4709074,"PIVOT ASSY., Hood Hinge Lift Assist",Right,1994-1995,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"After 1-21-93, 1994-95-96, Right",unavailable,,,13.4 x 7.2 x 2.0 inches,2.20 Pounds,/parts/mopar-hinge-hood-hinge-lift-assist~4709074.html
+13,4709075,"PIVOT ASSY., Hood Hinge Lift Assist",Left,1994-1995,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"After 1-21-93, 1994-95-96, Left",discontinued,,,10.4 x 7.4 x 2.1 inches,4.10 Pounds,/parts/mopar-hinge-hood-hinge-lift-assist~4709075.html
+14,6100584,"SCREW and WASHER, M8x1.25x30.00",,1993-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,,discontinued,,,1.4 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6100584.html
+15,4643874,"BRACKET ASSY., Lower Hood Lateral Stablizer , Right",Right,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,20.59,16.18,3.5 x 3.4 x 1.7 inches,0.80 Pounds,/parts/mopar-bracket-lower-hood-lateral~4643874.html
+15,4643875,"BRACKET ASSY., Lower Hood Lateral Stablizer , Right",Left,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BRACKET ASSY., Lower Hood Lateral Stablizer , Left",available,20.59,16.18,3.6 x 3.6 x 1.2 inches,0.80 Pounds,/parts/mopar-bracket-lower-hood-lateral~4643875.html
+17,4643374,"BRACKET, Lower Hood Lateral Stabilizer Catch",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.5 x 3.4 x 2.1 inches,1.00 Pounds,/parts/mopar-bracket-lower-hood-lateral~4643374.html
+18,6100657,"SCREW and WASHER, M6x1.00x25.00",,1993-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,3.7,2.5,0.8 x 0.2 x 0.2 inches,0.50 Pounds,/parts/mopar-pin~6100657.html
+19,5245114,"BRACKET, Rear Hold Down, Right",Right,1993-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,4.8 x 4.1 x 3.6 inches,1.30 Pounds,/parts/mopar-bracket-hood~5245114.html
+19,5245115,"BRACKET, Rear Hold Down, Right",Left,1993-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"BRACKET, Rear Hold Down, Left",discontinued,,,5.0 x 4.1 x 3.5 inches,1.30 Pounds,/parts/mopar-bracket-hood~5245115.html
+21,4643463,SHIM,,1992-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,12.14,9.54,2.4 x 1.5 x 0.2 inches,0.50 Pounds,/parts/mopar-shim-hood-latch~4643463.html
+22,5245116,"BRACKET, Rear Hood Hold Down, Right",Right,,,,,,,,,discontinued,,,,,
+22,5245117,"BRACKET, Rear Hood Hold Down, Right",Left,,,,,,,,"BRACKET, Rear Hood Hold Down, Left",discontinued,,,,,
+24,6500532,"NUT and WASHER, M8x1.25",,,,,4,,,,,discontinued,,,,,
+25,4642874,"SCREEN ASSY., Air Inlet",Right,1993,,10 Cyl 8.0L,,,,,"1993, Up to 5-27-93, Right",discontinued,,,,,
+25,4642875,"SCREEN ASSY., Air Inlet",Left,1993,,10 Cyl 8.0L,,,,,"1993, Up to 5-27-93, Left",discontinued,,,,,
+25,4709248,"SCREEN ASSY., Air Inlet",Right,1993-1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1993-96, After 5-27-93, Right",discontinued,,,12.5 x 17.7 x 1.0 inches,5.50 Pounds,/parts/mopar-grille-hood~4709248.html
+25,4709249,"SCREEN ASSY., Air Inlet",Left,1993-1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1993-96, After 5-27-93, Left",discontinued,,,12.3 x 9.1 x 1.0 inches,1.30 Pounds,/parts/mopar-grille-hood~4709249.html
+27,4643073,"SEAL, Hood to Cowl",,1993-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,13.2 x 12.2 x 5.2 inches,1.40 Pounds,/parts/mopar-seal-hood-to-cowl~4643073.html
+28,4763330,"LOUVER, Hood",Right,,,,,,,,,discontinued,,,,,
+28,4763331,"LOUVER, Hood",Left,,,,,,,,,discontinued,,,,,
+29,4763335,"BEZEL, Nacaduct",,,,,,,,,,discontinued,,,,,
+29,6500808,"BEZEL, Nacaduct",,,,,6,,,,"STUD, Hood Louver",discontinued,,,,,

@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245325,WATER CROSSOVER,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.80 Pounds,/parts/mopar-crossover-machined~5245325.html
+2,5226374,"SENSOR, Coolant Temperature",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.9 x 2.6 x 1.8 inches,0.50 Pounds,/parts/mopar-sensor-coolant-temperature~5226374.html
+3,5245195,"GASKET, Water Passage",,1992,,,2,,,,,discontinued,,,,,
+4,56027012,"SENDING UNIT, Temperature Gauge",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,45.55,31.75,2.2 x 0.9 x 0.8 inches,0.40 Pounds,/parts/mopar-sensor-temperature-gauge~56027012.html
+5,5245156,THERMOSTAT,,,,,,,,,,discontinued,,,,,
+6,5245575,"NIPPLE, Heater Water Return",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.7 x 0.8 x 0.8 inches,1.40 Pounds,/parts/mopar-connector-heater-return~5245575.html
+7,4763839,"GASKET, Thermostat Housing",,,29,,,,,,,discontinued,,,,,
+8,5245811,"HOSE, Thermostat Outlet to Engine Tube",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.0 x 2.8 x 2.5 inches,0.80 Pounds,/parts/mopar-hose-cool-stat-outlet-to-eng-tube~5245811.html
+9,32002366,CLAMP,,"1998-2002, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,55037660AA,,,available,13.65,9.49,2.3 x 0.6 x 0.6 inches,0.60 Pounds,/parts/mopar-clamp-hose~32002366.html
+10,5245521,"HOUSING, Thermostat",,,27,,,,,,,discontinued,,,,,
+11,32002365,"CLAMP, Hose, By-Pass",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,4596498AA,,,available,7.25,5.01,2.1 x 2.1 x 0.4 inches,0.60 Pounds,/parts/mopar-clamp-by-pass~32002365.html
+12,5245658,"HOSE, Thermostat By-Pass to Engine By-Pass",,,,,,,,,,discontinued,,,,,
+14,5245461,"TUBE, Water Return",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-tube-water-bypass-and-ais~5245461.html
+15,6034502,"TUBE, Water By-Pass",,1992-1996,,10 Cyl 8.0L,,,,,"SCREW and WASHER, By-Pass Tube Attaching",discontinued,,,,,
+15,6034541,"TUBE, Water By-Pass",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,"STUD, Water Tubes Attaching",discontinued,,,1.9 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-stud-coolant-tube~6034541.html
+16,5245413,"HOSE, By-Pass Tube to Water Pump",,,,,,,,,,discontinued,,,,,
+17,4709200,"HOSE, Tube to Radiator",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,24.0 x 5.2 x 6.0 inches,2.00 Pounds,/parts/mopar-hose-cool-rad-out-to-water-pump-2-00~4709200.html
+17,4763584,"HOSE, Tube to Radiator",,,29,10 Cyl 8.0L,,,,,,discontinued,,,,,
+17,5245960,"HOSE, Tube to Radiator",,1996,27,10 Cyl 8.0L,,,,,"1996
+HOSE, Radiator to Water Pump",discontinued,,,,,
+18,52006750,CLAMP,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,55111033AA,,,available,9.1,6.35,2.9 x 2.2 x 0.6 inches,0.50 Pounds,/parts/mopar-clamp-radiator~52006750.html
+19,5245236,"SEAL, Thermostat By-Pass",,"2005-2006, 1992-1996","GTS Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,53010047,,,discontinued,,,2.8 x 2.7 x 0.2 inches,0.40 Pounds,/parts/mopar-seal-thermostsat-by-pass~5245236.html

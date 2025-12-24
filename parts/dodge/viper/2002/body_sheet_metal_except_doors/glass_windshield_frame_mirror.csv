@@ -1,0 +1,35 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4897573AA,WINDSHIELD Shipping Assembly - 05 Lite Glass,,2000-2002,"29; GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,70.7 x 49.0 x 7.8 inches,42.00 Pounds,/parts/mopar-w-shield-shipping-assembly-05-lite~4897573aa.html
+2,4643847,SHIM Windshield,,"2013-2014, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,2.2,1.28,1.3 x 0.5 x 0.5 inches,0.90 Pounds,/parts/mopar-shim-windshield~4643847.html
+3,55076401,BUTTON Rear View Mirror,,2000-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,37.2,25.98,1.6 x 1.2 x 0.2 inches,0.50 Pounds,/parts/mopar-button-rear-view-mirror~55076401.html
+3,5027213AA,MIRROR Inside Rear View Lighted,,2000-2006,,"10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,,
+4,55076401,BUTTON Rear View Mirror,,2000-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,37.2,25.98,1.6 x 1.2 x 0.2 inches,0.50 Pounds,/parts/mopar-button-rear-view-mirror~55076401.html
+5,4805332AB,MIRROR Inside Rear View,,2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,4805332AD,,,available,111,73.86,4.4 x 5.7 x 12.8 inches,1.30 Pounds,/parts/mopar-mirror-inside-rear-view~4805332ab.html
+6,4848883AA,BACKLITE,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,51.0 x 24.2 x 0.4 inches,3.60 Pounds,/parts/mopar-backlite~4848883aa.html
+6,4278662,SPACER,,"2014-2017, 2008-2010, 2005-2006, 1996-2002","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,4.15,2.85,1.3 x 0.6 x 0.5 inches,0.50 Pounds,/parts/mopar-spacer~4278662.html
+7,SX50WYRAA,MOLDING A PILLAR,,1998-2002,,10 Cyl 8.0L,,,,,Right [YR],discontinued,,,,,
+7,SX50ZDRAA,MOLDING A PILLAR,,1998-2002,,10 Cyl 8.0L,,,,,Right [DR],discontinued,,,,,
+7,SX51LRNAA,MOLDING A PILLAR,,1998-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,Left [RN],discontinued,,,,0.60 Pounds,/parts/mopar-cover-a-pillar~sx51lrnaa.html
+7,SX51WYRAA,MOLDING A PILLAR,,2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,Left [YR],discontinued,,,,0.60 Pounds,/parts/mopar-cover-a-pillar~sx51wyraa.html
+7,SX51ZDRAA,MOLDING A PILLAR,,1998-2002,,10 Cyl 8.0L,,,,,Left [DR],discontinued,,,,,
+8,4848823,BRACKET Windshield Frame to Roof,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,5,1,,,,discontinued,,,2.6 x 1.5 x 1.4 inches,0.50 Pounds,/parts/mopar-bracket-windshield-frame-to-roof~4848823.html
+9,4848527,BRACKET Windshield,Left,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 3.5 x 1.4 inches,1.00 Pounds,/parts/mopar-bracket-windshield~4848527.html
+10,6100582,BOLT AND CONED WASHER Hex Head M8x20x20,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,discontinued,,,0.9 x 0.9 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6100582.html
+12,4763889AD,RETAINER Front Pillar to Glass,Left,1998-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,available,62.35,49.05,39.6 x 2.4 x 9.9 inches,1.10 Pounds,/parts/mopar-retainer-front-pillar-to-glass~4763889ad.html
+13,5245843,LOCK COVER Dual Cover Half,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,6,1,,,,discontinued,,,1.3 x 1.3 x 0.4 inches,0.40 Pounds,/parts/mopar-cover-dual~5245843.html
+13,4848307AB,RETAINER A Pillar Trim,Left,2000-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,18.4 x 6.2 x 1.8 inches,0.60 Pounds,/parts/mopar-retainer-a-pillar-trim~4848307ab.html
+14,5245842,LOCK COVER Dual Body Half,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,6,1,,,,discontinued,,,1.7 x 1.3 x 0.4 inches,0.40 Pounds,/parts/mopar-cover-dual~5245842.html
+15,RC77DX9AA,CAP,Left,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,1.3 x 1.6 x 0.4 inches,0.40 Pounds,/parts/mopar-cap-end~rc77dx9aa.html
+15,6500584,SCREW AND WASHER Hex Head M8x1.25x30,,1992-2004,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",8,1,,,,available,10.35,7.16,1.4 x 0.8 x 0.8 inches,0.70 Pounds,/parts/mopar-bolt-hex-head~6500584.html
+16,4848371,SEAL Sport Cap Base,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,19,14.93,3.1 x 1.3 x 1.3 inches,2.20 Pounds,/parts/mopar-seal-sport-cap-base~4848371.html
+17,PR74DX9AF,FRAME Windshield,,2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,available,3147.05,2473.08,60.9 x 38.4 x 20.0 inches,42.70 Pounds,/parts/mopar-frame-windshield~pr74dx9af.html
+17,6500584,SCREW AND WASHER Hex Head M8x1.25x30,,1992-2004,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",8,1,,,,available,10.35,7.16,1.4 x 0.8 x 0.8 inches,0.70 Pounds,/parts/mopar-bolt-hex-head~6500584.html
+,4848889AA,BACKLITE Lock Cover,Left,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,available,23.35,18.35,6.2 x 7.4 x 1.8 inches,0.40 Pounds,/parts/mopar-cover-lock-cover~4848889aa.html
+,4848891AA,BACKLITE Lock Package,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,7.1 x 6.2 x 0.1 inches,1.80 Pounds,/parts/mopar-key-pkg-lock-package~4848891aa.html
+,4848886AA,BACKLITE Snap Assy,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,3,1,,,,discontinued,,,3.5 x 2.7 x 0.8 inches,0.40 Pounds,/parts/mopar-snap-snap-assy~4848886aa.html
+,GA75LX7,BAG Backlite,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 7.3 x 1.4 inches,1.60 Pounds,/parts/mopar-bag-backlite~ga75lx7.html
+,4848894AA,KEY Backlite Viper,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,4.1 x 1.0 x 0.1 inches,0.40 Pounds,/parts/mopar-key-backlite~4848894aa.html
+,4848895AA,LOCK COVER End Cap,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,0.5 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-cover-end-cap~4848895aa.html
+,4643847,SHIM Windshield,,"2013-2014, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,2.2,1.28,1.3 x 0.5 x 0.5 inches,0.90 Pounds,/parts/mopar-shim-windshield~4643847.html
+,4848896AA,WASHER Lock Cylinder With Seal,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,,0.40 Pounds,/parts/mopar-washer-lock-cylinder~4848896aa.html
+,4848305AH,WEATHERSTRIP A-Pillar to Roof,Left,1998-2002,RT/10 Convertible,10 Cyl 8.0L,,,,4848305AG,,discontinued,,,11.2 x 11.2 x 2.3 inches,2.40 Pounds,/parts/mopar-w-strip-a-pillar-to-roof~4848305ah.html

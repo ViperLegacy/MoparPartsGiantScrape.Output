@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245035,LINE A/C Suction,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,5245035AB,,,discontinued,,,40.5 x 14.7 x 5.7 inches,1.50 Pounds,/parts/mopar-line-air-conditioning-suction~5245035.html
+2,4796564,O RING A/C Line,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,8.42,6.62,0.1 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-o-ring-a-c-line~4796564.html
+3,4740361,O RING A/C Line,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-gasket-a-c-line~4740361.html
+5,6035583,CLIP Wrap Around,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,47.59,37.4,2.0 x 1.1 x 0.8 inches,0.60 Pounds,/parts/mopar-clamp-wrap-around~6035583.html
+6,5264642,CAP A/C Check Valve,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,68620804AA,,,available,,6.55,1.1 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-cap-a-c-check-valve~5264642.html
+7,4848164,LINE A/C Liquid,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,32.6 x 5.7 x 6.0 inches,0.70 Pounds,/parts/mopar-line-air-conditioning-liquid~4848164.html
+8,5114529AA,O RING A/C Line Drier,,,,,,,,,,discontinued,,,,,
+9,5114528AA,O RING A/C Line Condenser,,,,,,,,,,discontinued,,,,,
+11,5072866AA,CAP A/C Charge Valve,,"2013-2017, 2008-2010, 1997-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,5066690AA,,available,5.75,3.9,0.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-cap-a-c-charge-valve~5072866aa.html
+12,5264924AA,LINE A/C Discharge,,2001-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,5264924AB,,,discontinued,,,11.7 x 7.5 x 1.6 inches,1.70 Pounds,/parts/mopar-line-a-c-discharge~5264924aa.html
+13,4796565,O RING A/C Line,,"2004-2006, 1997-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,available,9.75,6.76,0.3 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-o-ring-a-c-line~4796565.html
+14,4709099,CLIP Discharge Line,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,3.1,2.44,1.5 x 1.3 x 0.7 inches,0.60 Pounds,/parts/mopar-clip-discharge-line~4709099.html
+15,4708201,RECEIVER DRIER,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.6 x 6.5 x 6.6 inches,2.50 Pounds,/parts/mopar-drier~4708201.html
+16,4708204,SWITCH Dual Pressure,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.1 x 6.1 x 4.1 inches,0.40 Pounds,/parts/mopar-switch-dual-pressure~4708204.html
+18,4708206,CONDENSER Air Conditioning,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,30.1 x 20.2 x 5.6 inches,5.40 Pounds,/parts/mopar-condenser-air-conditioning~4708206.html
+19,4708365,DRAIN A/C And Heater,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.0 x 1.0 x 1.0 inches,1.40 Pounds,/parts/mopar-hose-drain~4708365.html
+20,4709377,BRACKET A/C Condenser,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.3 x 5.3 x 0.8 inches,0.60 Pounds,/parts/mopar-bracket-air-conditioning-condenser~4709377.html
+,4848672,TUBE Filter Drier to Evaporator,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.4 x 6.1 x 4.9 inches,0.60 Pounds,/parts/mopar-tube-filter-drier-to-evaporator~4848672.html
+,5011346AA,VALVE CORE A/C Line,,"2008, 1997-2006","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,5003461AA,,,available,31.95,22.14,0.3 x 3.8 x 4.1 inches,0.50 Pounds,/parts/mopar-valve-cor-service-port~5011346aa.html

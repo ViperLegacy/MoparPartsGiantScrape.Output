@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763546,"CROSSMEMBER, Shock Tower",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,6.50 Pounds,/parts/mopar-c-member-frame-frt~4763546.html
+1,4773168,"CROSSMEMBER, Shock Tower",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"CROSSMEMBER, Rear, K Type",discontinued,,,37.3 x 21.1 x 5.3 inches,25.40 Pounds,/parts/mopar-crossmember-rear-spring-k-type~4773168.html
+1-7,4855232,1992-95,,1996,,,,,,,"1996, w/o Rails",discontinued,,,,,
+2,6101051,"SCREW, Crossmember to Shock Tower",,,,,5,,,,,discontinued,,,,,
+3,4720019,"RAIL, Frame Rear, Right",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"RAIL, Frame Rear, Left",discontinued,,,,19.40 Pounds,/parts/mopar-rail-assy-frame-rear~4720019.html
+4,4720021,"SILL, Side",Left,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+4,4797140,"SILL, Side",Right,1993-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,131.16,103.07,,21.20 Pounds,/parts/mopar-sill-sill~4797140.html
+4,4797141,"SILL, Side",Left,1993-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,22.20 Pounds,/parts/mopar-r-sill~4797141.html
+5,4708053,"FRAME, Front",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"STRUT, Support to Upper Rail , Left (SHIM, Support to Upper Rail)",discontinued,,,14.6 x 4.4 x 1.6 inches,0.80 Pounds,/parts/mopar-reinfmnt-support-to-upper-rail~4708053.html
+5,4708129,"FRAME, Front",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Front (BRACKET, Towing EXPORT)",discontinued,,,7.6 x 3.3 x 1.6 inches,1.60 Pounds,/parts/mopar-bracket-towing~4708129.html
+5,4708184,"FRAME, Front",,1992-2002,,10 Cyl 8.0L,,,,,"BRACKET, Support, Fascia EXPORT, Right (BRACKET, Towing EXPORT)",discontinued,,,,,
+5,4708185,"FRAME, Front",,1992-2002,,10 Cyl 8.0L,,,,,"BRACKET, Support, Fascia EXPORT, Left (BRACKET, Towing EXPORT)",discontinued,,,,,
+5,4708188,"FRAME, Front",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Rear, Right (BRACKET, Towing EXPORT)",discontinued,,,6.7 x 3.2 x 1.8 inches,1.70 Pounds,/parts/mopar-bracket-towing~4708188.html
+5,4708189,"FRAME, Front",,1992-2002,,10 Cyl 8.0L,,,,,"Rear, Left (BRACKET, Towing EXPORT)",discontinued,,,,,
+5,4709331,"FRAME, Front",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"RETAINER, Support EXPORT (SHIM, Support to Upper Rail)",discontinued,,,58.6 x 1.0 x 10.1 inches,19.40 Pounds,/parts/mopar-retainer-fascia~4709331.html
+5,4720047,"FRAME, Front",,1992-1993,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+5,4763564,"FRAME, Front",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Thin (SHIM, Support to Upper Rail)",discontinued,,,5.4 x 1.7 x 0.1 inches,0.50 Pounds,/parts/mopar-shim~4763564.html
+5,4763565,"FRAME, Front",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Thick (SHIM, Support to Upper Rail)",discontinued,,,5.4 x 1.7 x 0.1 inches,0.60 Pounds,/parts/mopar-shim~4763565.html
+5,4798313,"FRAME, Front",,1994-1995,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+5,4848653,"FRAME, Front",,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"BRACKET, Sportbar Support (BRACKET, Towing EXPORT)",discontinued,,,5.5 x 3.0 x 1.9 inches,1.30 Pounds,/parts/mopar-bracket-sportbar~4848653.html
+5,4848656,"FRAME, Front",,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"PLATE, Sportbar Support Bracket Stud (SHIM, Support to Upper Rail)",available,7.93,6.24,5.6 x 1.4 x 1.2 inches,1.20 Pounds,/parts/mopar-plate-sport-bar-support-bracket~4848656.html
+5,4886314AA,"FRAME, Front",,1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,4796078,"RAIL, Front Crossmember",,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,280.21,220.2,,15.30 Pounds,/parts/mopar-front-crossmember-rail~4796078.html
+7,4797851,"CROSSMEMBER, Rear",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,136.61,107.35,,10.70 Pounds,/parts/mopar-frame-rear-xmbr-asm~4797851.html
+8,4763524AB,"CROSSMEMBER, Differential Pinion Mtg.",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 2.8 x 2.1 inches,0.60 Pounds,/parts/mopar-c-member-differential~4763524ab.html
+10,6502528,NUT,,,,,2,,,,,discontinued,,,,,

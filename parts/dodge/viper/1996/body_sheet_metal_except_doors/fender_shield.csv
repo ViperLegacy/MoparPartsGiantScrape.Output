@@ -1,0 +1,26 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642757,"SPLASH SHIELD, Inner Front",,1992-1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-93 (LEFT)
+1994-95 (LEFT)",available,297.63,233.89,,13.90 Pounds,/parts/mopar-shield-shield-inner-front~4642757.html
+1,4709363,"SPLASH SHIELD, Inner Front",,1994-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1994-95 (Coolant Bottle Attach) (RIGHT),available,163.62,128.58,,8.60 Pounds,/parts/mopar-splash-sh-shield-inner-frt-rt~4709363.html
+1,4763824,"SPLASH SHIELD, Inner Front",,1996,,10 Cyl 8.0L,,,,,1996 (RIGHT),discontinued,,,,,
+1,4763825,"SPLASH SHIELD, Inner Front",,1996,,10 Cyl 8.0L,,,,,1996 (LEFT),discontinued,,,,,
+2,4708180,SCREW,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",12,1,,,,available,7.7,6.35,1.2 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-retainer-splash-shield~4708180.html
+3,4643505,"SPLASH SHIELD, Front Extension , Right",Left,,,,,,,,"SPLASH SHIELD, Front Extension , Left",discontinued,,,,,
+4,4709030,"WEATHERSTRIP ASSEMBLY, Front Splash to Shield",,1993-1996,,,,,,,,discontinued,,,,,
+6,4643201,"SPLASH SHIELD, Rear Upper",Left,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-95, Left",discontinued,,,30.9 x 31.2 x 37.4 inches,18.00 Pounds,/parts/mopar-shield-splash-rear-upper-lt~4643201.html
+6,4763348,"SPLASH SHIELD, Rear Upper",Right,1996,,10 Cyl 8.0L,,,,,"1996, Right",discontinued,,,,,
+6,4763349,"SPLASH SHIELD, Rear Upper",Left,1996,,10 Cyl 8.0L,,,,,"1996, Left",discontinued,,,,,
+7,4642760,"SPLASH SHIELD, Rear Lower",Right,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right (1992-95),discontinued,,,,1.80 Pounds,/parts/mopar-shield-splash-rr-lwr-rt~4642760.html
+7,4642761,"SPLASH SHIELD, Rear Lower",Left,1992-1995,,10 Cyl 8.0L,,,,,Left (1992-95),discontinued,,,,,
+7,4763092,"SPLASH SHIELD, Rear Lower",Right,1996,"27; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right (1996),discontinued,,,24.8 x 13.2 x 6.7 inches,2.00 Pounds,/parts/mopar-shield-splash~4763092.html
+7,4763093,"SPLASH SHIELD, Rear Lower",Left,1996,29,10 Cyl 8.0L,,,,,Left (1996),discontinued,,,,,
+9,181063,"SCREW and WASHER, (.250-20x.750)",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,8,1,,,,discontinued,,,5.7 x 4.3 x 0.8 inches,0.50 Pounds,/parts/mopar-screw~181063.html
+11,4709357,"BRACKET, Bulkhead To Frame",Left,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.5 x 3.1 x 0.1 inches,0.60 Pounds,/parts/mopar-bracket-bulkhead~4709357.html
+12,4709031,"WEATHERSTRIP ASSEMBLY, Front Splash to Hood Extension",,1993-1996,,,,,,,,discontinued,,,,,
+13,6034578,RIVET,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.6 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-retainer~6034578.html
+14,55254651,"DEADENER, Attached to Trunk Pan and Frame",,,,,2,,,,,discontinued,,,,,
+15,4708057,"PLUG, 3"" Round",,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,47.85,33.38,5.3 x 5.2 x 0.8 inches,0.60 Pounds,/parts/mopar-plug-trunk-seal~4708057.html
+17,6035135,"SCREW, .250-14x.875",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw~6035135.html
+,4708235,"FLAP, Splash Shield, Front",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,unavailable,,,7.1 x 3.2 x 0.1 inches,0.50 Pounds,/parts/mopar-shield-wheelhouse~4708235.html
+,6500911,"RIVET, Flap to Front Splash Shield",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,available,12.8,8.85,2.3 x 0.9 x 0.9 inches,0.40 Pounds,/parts/mopar-rivet~6500911.html
+,6100877,"WASHER, M6x24.00Dia.",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",3,1,,,,discontinued,,,,,/parts/mopar-washer-flat~6100877.html

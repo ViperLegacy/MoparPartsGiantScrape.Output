@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,6102398AA,NUT AND WASHER Hex M5x0.80,,,,3,1,,,available,11.3,7.86,/parts/mopar-nut-hex~6102398aa.html
-2,5035233AA,MODULE Air Suspension,,,,,,,,available,654,535.7,/parts/mopar-module-air-suspension~5035233aa.html
-3,68155835AA,ISOLATOR Anti Lock Brake Unit,,,,,,68225331AA,,available,43.35,30.23,/parts/mopar-grommet-anti-lock-brake-unit~68155835aa.html
-4,68155836AC,BRACKET Hydraulic Control Unit,,,,,,,,discontinued,,,/parts/mopar-bracket-hydraulic-control-unit~68155836ac.html
-5,68224802AB,MODULE Anti-Lock Brake System,,,,,,68224802AC,,available,804,530.2,/parts/mopar-module-anti-lock-brake-system~68224802ab.html
-6,68224799AA,CONTROL UNIT Anti-Lock Brake,,,,,,,,available,889,585.2,/parts/mopar-modulator-anti-lock-brake~68224799aa.html

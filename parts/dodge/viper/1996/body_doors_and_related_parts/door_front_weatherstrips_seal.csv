@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642870,"SEAL, Door Opening Primary",,1992-1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right, 1992-94 (SEAL, Door Surround to Sportcap)",unavailable,55.2,48.23,11.5 x 11.3 x 3.5 inches,1.60 Pounds,/parts/mopar-seal-front-door-opening-primary~4642870.html
+1,4709252,"SEAL, Door Opening Primary",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,132,102.69,17.5 x 13.9 x 1.0 inches,2.20 Pounds,/parts/mopar-seal-assy-assy-front-door-opening-p~4709252.html
+1,4709253,"SEAL, Door Opening Primary",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,14.4 x 14.5 x 2.3 inches,1.70 Pounds,/parts/mopar-seal-assy-assy-front-door-opening-p~4709253.html
+1,4848204,"SEAL, Door Opening Primary",,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right, 1995-96 (SEAL, Door Surround to Sportcap)",discontinued,,,2.8 x 8.9 x 0.1 inches,0.40 Pounds,/parts/mopar-seal-door~4848204.html
+1,4848205,"SEAL, Door Opening Primary",,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left, 1995-96 (SEAL, Door Surround to Sportcap)",discontinued,,,4.9 x 2.8 x 0.5 inches,0.40 Pounds,/parts/mopar-seal-door~4848205.html
+2,4642872,"SEAL, Door Opening Secondary",,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.60 Pounds,/parts/mopar-seal-door~4642872.html
+3,4763557,"SEAL, V-Profile",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,23.17,18.21,,0.50 Pounds,/parts/mopar-seal-v-profile~4763557.html
+4,4709079,"SEAL, Mucket",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-seal-door-mucket-rt~4709079.html
+4,4848728,"SEAL, Mucket",Right,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right (1996),discontinued,,,,0.50 Pounds,/parts/mopar-seal-door-mucket-rt~4848728.html
+4,4763878,"SEAL, Mucket",Right,1992-1996,,10 Cyl 8.0L,,,,,"Right (WEATHERSTRIP, Glass Channel)",discontinued,,,,,
+4,4763879,"SEAL, Mucket",Left,1992-1996,,10 Cyl 8.0L,,,,,"Left (WEATHERSTRIP, Glass Channel)",discontinued,,,,,
+4,4848729,"SEAL, Mucket",Left,1996,,10 Cyl 8.0L,,,,,Left (1996),discontinued,,,,,

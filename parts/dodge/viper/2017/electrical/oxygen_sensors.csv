@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5149180AA,SENSOR Oxygen,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5149180AB,,,available,182,122.63,1.7 x 2.3 x 5.9 inches,0.60 Pounds,/parts/mopar-sensor-oxygen~5149180aa.html
+2,68090640AA,SENSOR Oxygen,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68090640AB,,,available,132,87.41,0.4 x 1.0 x 19.4 inches,0.60 Pounds,/parts/mopar-sensor-oxygen~68090640aa.html
+3,5149180AA,SENSOR Oxygen,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5149180AB,,,available,182,122.63,1.7 x 2.3 x 5.9 inches,0.60 Pounds,/parts/mopar-sensor-oxygen~5149180aa.html
+4,68090640AA,SENSOR Oxygen,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68090640AB,,,available,132,87.41,0.4 x 1.0 x 19.4 inches,0.60 Pounds,/parts/mopar-sensor-oxygen~68090640aa.html

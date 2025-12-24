@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,QD06DX9AG,CARPET Front Floor,,2000-2002,,10 Cyl 8.0L,,,,,Right w/5-Point Restraint (Black),discontinued,,,,,
+1,QD06WUCAH,CARPET Front Floor,,2000-2002,,10 Cyl 8.0L,,,,,Right w/o 5-Point Restraint (Cognac),discontinued,,,,,
+1,QD07DX9AC,CARPET Front Floor,,2000-2002,,10 Cyl 8.0L,,,,,Left w/o 5-Point Restraint (Black),discontinued,,,,,
+1,QD07DX9AE,CARPET Front Floor,,2000-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,Left w/o 5-Point Restraint (Black),available,187.02,146.97,75.2 x 38.1 x 18.0 inches,14.20 Pounds,/parts/mopar-carpet-front-floor~qd07dx9ae.html
+1,QD07DX9AF,CARPET Front Floor,,2000-2002,,10 Cyl 8.0L,,,,,Left w/5-Point Restraint (Black),discontinued,,,,,
+1,QD07WUCAG,CARPET Front Floor,,2000-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,Left Cognac,discontinued,,,,10.30 Pounds,/parts/mopar-carpet-front-floor~qd07wucag.html
+2,LC11DX9AB,CARPET Cargo Side Trim,,,,,,,,,,discontinued,,,,,
+3,SZ28DX9AA,CARPET Luggage Compartment,,"2002, 1999-2000","GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,Lower w/Radio and Competion Group,discontinued,,,80.3 x 33.4 x 17.1 inches,6.50 Pounds,/parts/mopar-carpet-luggage-compartment~sz28dx9aa.html
+5,LC07BX7AD,PANEL Cargo Door Header Trim,,1999-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,52.5 x 8.0 x 6.2 inches,3.00 Pounds,/parts/mopar-panel-cargo-door-header-trim~lc07bx7ad.html
+6,QK43BX7AB,PANEL Cargo Door Header Trim,Left,1999-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,38.4 x 10.1 x 9.7 inches,3.40 Pounds,/parts/mopar-panel-cargo-door-header-trim~qk43bx7ab.html
+7,6031869,NUT Push .19,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",10,1,,,,discontinued,,,0.8 x 0.7 x 0.6 inches,0.50 Pounds,/parts/mopar-grommet-push~6031869.html
+9,4709275,PAD Bulkhead Spacer,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.3 x 1.7 x 1.3 inches,0.80 Pounds,/parts/mopar-pad-bulkhead-spacer~4709275.html
+10,6505390AA,SCREW Oval Head,,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.1 x 1.1 x 1.1 inches,0.50 Pounds,/parts/mopar-screw-oval-head~6505390aa.html
+11,6031869,NUT Push .19,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",3,1,,,,discontinued,,,0.8 x 0.7 x 0.6 inches,0.50 Pounds,/parts/mopar-grommet-push~6031869.html
+,6505392AA,WASHER Rubber Mount,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,2,1,,,,discontinued,,,0.4 x 0.4 x 0.1 inches,0.80 Pounds,/parts/mopar-washer-rubber-mount~6505392aa.html

@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4874334,"COLUMN ASSEMBLY, w/o Switchs",,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4642805,"COLUMN, Steering Complete",,1992-1996,RT/10 Convertible,10 Cyl 8.0L,,,,,,available,138.73,109.02,,15.90 Pounds,/parts/mopar-column-steering~4642805.html
+2,52079221,"LEVER, Tilt Release",,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,56002951,"LEVER, Turn Signal, Int. Wiper/Washer, Dimmer Switch",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,8.1 x 8.2 x 6.2 inches,1.40 Pounds,/parts/mopar-lever-turn-sig-int-wipe-wash-dim~56002951.html
+3,52006207,"LEVER, Tilt Release",,,,,,,,,,discontinued,,,,,
+3,4763861,"SHAFT, Intermediate Gear To Column",,,,,,,,,,discontinued,,,,,
+4,6503210,"SCREW, M10x1.50x35.00",,1996-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,4.55,3.09,1.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~6503210.html
+4,4642732,"SHAFT, Intermediate Column To Gear",,1992-1996,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,4.60 Pounds,/parts/mopar-shaft-intermediate-steering~4642732.html
+5,6501596,"SCREW, w/Washer Column Mtg.",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,8.65,5.94,0.8 x 0.9 x 2.5 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6501596.html
+5,4636181,"SHROUD, Lower Lock Housing",,1996,GTS Coupe,10 Cyl 8.0L,,,,"4504392, AL99JV8",,discontinued,,,10.5 x 6.4 x 6.7 inches,1.10 Pounds,/parts/mopar-shroudpkg-lock-housing~4636181.html
+6,6100517,"NUT, Lower Column Mtg.",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,5.3,3.61,0.6 x 0.9 x 1.0 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6100517.html
+6,DH69JC5,"SHROUD, Upper Lock Housing",,1992-2002,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+7,BA67KV8,"SHROUD, Lower Fixed",,,,,,,,,,discontinued,,,,,
+8,BA65KV8,"SHROUD, Upper Fixed",,,,,,,,,,discontinued,,,,,
+9,4470105,"SCREW, .179-16x.610",,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,,/parts/mopar-screw-filister-head~4470105.html
+11,6502390,"STUD, M6x1.00x43.80",,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.8 x 0.2 x 0.2 inches,0.80 Pounds,/parts/mopar-retainer~6502390.html
+13,6101308,"NUT, M6x1.00",,"2013-2014, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,6.2,4.19,1.2 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-u~6101308.html
+14,6501730,"NUT, M6x1.00",,1996-2001,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.8 x 0.8 x 0.2 inches,0.40 Pounds,/parts/mopar-nut-retainer~6501730.html
+15,6101308,U NUT,,"2013-2014, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,6.2,4.19,1.2 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-u~6101308.html
+,4642809,"BRACKET, Column Support",,,,,,,,,,discontinued,,,,,
+,J3250575,"SWITCH, Ignition Lock",,1992-1996,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,1.8 x 3.4 x 6.7 inches,0.70 Pounds,/parts/mopar-switch-ign~j3250575.html

@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,PR12SB4,"WHEEL, Steering 1992-3-4-5",,1992-1996,,10 Cyl 8.0L,,,,,Bright Blue 1996,discontinued,,,,,
+1,PR12SR1,"WHEEL, Steering 1992-3-4-5",,1992-1996,RT/10 Convertible,10 Cyl 8.0L,,,,,Red 1996,discontinued,,,16.0 x 16.1 x 8.7 inches,3.10 Pounds,/parts/mopar-wheel-steering-wheel-assy~pr12sr1.html
+1,PR12SX9,"WHEEL, Steering 1992-3-4-5",,1992-1996,,10 Cyl 8.0L,,,,,Flat Black 1996,discontinued,,,,,
+1,PB41TB4,"WHEEL, Steering, Leather",,1996-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Bright Blue,discontinued,,,,3.70 Pounds,/parts/mopar-steering-wheel~pb41tb4.html
+1,PB41TR1,"WHEEL, Steering, Leather",,1996-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Red,discontinued,,,,3.30 Pounds,/parts/mopar-wheel-steering~pb41tr1.html
+2,LB45JX8,"MODULE, Air Bag",,1996-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-airbag-driver~lb45jx8.html
+3,6503771,"SCREW, Air Bag Module",,1996-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,discontinued,,,1.2 x 0.5 x 0.5 inches,0.60 Pounds,/parts/mopar-screw-hex-flange-head~6503771.html
+3,52000745,"WIRE, (w/Retainer J3187257)",,1992-1996,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-wiring-steering-wheel~52000745.html
+4,4642740,SCREW,,,,,6,,,,,discontinued,,,,,
+5,4848437,CLOCKSPRING PACKAGE,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4848437AA,,,discontinued,,,5.2 x 5.2 x 3.1 inches,0.80 Pounds,/parts/mopar-clkspring~4848437.html
+5,J4200414,NUT,,1996-2002,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,4642738,"ADAPTER, Steering Wheel",,1992-1996,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,2.00 Pounds,/parts/mopar-adaptor-wheel-to-column~4642738.html
+6,J4200414,"NUT, Steering Wheel",,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+7,52004402,"SPRING, Horn Button",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.5 x 0.7 x 0.7 inches,6.50 Pounds,/parts/mopar-spring-horn-button~52004402.html

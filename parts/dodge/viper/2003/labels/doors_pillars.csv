@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4708021AB,LABEL Exhaust Warning,,"2008-2010, 2003-2005","27; ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,Use After 2/07/03,available,6.7,5.13,6.1 x 3.9 x 0.4 inches,0.40 Pounds,/parts/mopar-label-exhaust-warning~4708021ab.html
+2,4708022,LABEL Warning Bar,,"2008-2010, 2002-2006, 1992-1998","COMP. Coupe, GTS Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,discontinued,,,,0.40 Pounds,/parts/mopar-label-sport-bar-warning~4708022.html
+6,4040858,OVERLAY Vehicle Certification,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,4.5 x 3.2 x 0.4 inches,0.50 Pounds,/parts/mopar-overlay-vehicle-certification~4040858.html

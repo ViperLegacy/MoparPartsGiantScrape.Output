@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763269AB,GLASS Front Door,Left,1998-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,49.8 x 30.1 x 1.6 inches,10.10 Pounds,/parts/mopar-glass-door~4763269ab.html
+2,4848471AB,GLASS Door,Left,1998-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,39.1 x 26.5 x 3.2 inches,15.00 Pounds,/parts/mopar-glass-door~4848471ab.html
+4,6501373,SCREW AND WASHER Hex Head M6x1x20,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",6,1,,,,available,9,6.23,1.0 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6501373.html
+5,4763279,CHANNEL Front Door Glass,Left,1996-2002,"29; GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,11.2 x 1.0 x 1.9 inches,1.60 Pounds,/parts/mopar-channel-front-door-glass~4763279.html
+5,4848460,CHANNEL Front Door Glass,Right,1997-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,32.5 x 2.6 x 3.4 inches,1.80 Pounds,/parts/mopar-channel-front-door-glass~4848460.html
+5,4848461,CHANNEL Front Door Glass,Left,1997-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,31.8 x 2.7 x 3.3 inches,1.60 Pounds,/parts/mopar-channel-front-door-glass~4848461.html
+6,6504199,SCREW Hex Flange Head M6x1x12,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,available,6.35,2.33,0.9 x 0.9 x 0.5 inches,0.60 Pounds,/parts/mopar-screw-hex-flange-head~6504199.html
+7,6502843,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,"6502726, 6504030",,available,7.8,5.3,0.8 x 0.8 x 0.4 inches,0.40 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6502843.html
+8,4763285AB,CHANNEL Door Glass,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,85,51.68,18.9 x 3.4 x 1.1 inches,0.90 Pounds,/parts/mopar-channel-door-glass~4763285ab.html
+9,6501373,SCREW AND WASHER Hex Head M6x1x20,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",6,1,,,,available,9,6.23,1.0 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6501373.html
+10,6500284,NUT Hex M6x1.00,,,,,2,,,,,discontinued,,,,,
+11,4658734,STABILIZER Door Glass Belt,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.4 x 1.2 x 0.6 inches,0.50 Pounds,/parts/mopar-stable-door-glass-belt~4658734.html
+12,4763283,REGULATOR Front Door Window,Left,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,20.4 x 17.8 x 3.7 inches,3.90 Pounds,/parts/mopar-regulator-front-door-window~4763283.html
+,4763280,UPSTOP Front Door Window Glass,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.7 x 0.7 x 0.2 inches,0.50 Pounds,/parts/mopar-upstop-front-door-window-glass~4763280.html

@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1VN1706SAA,MEDALLION Viper Head,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,252,201.38,2.9 x 3.0 x 2.5 inches,0.70 Pounds,/parts/mopar-ornament-viper-head~1vn1706saa.html
+2,1WS19SZ0AA,NAMEPLATE GTS,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,,,,available,42.15,35.18,6.6 x 1.8 x 1.8 inches,0.50 Pounds,/parts/mopar-nameplate-gts~1ws19sz0aa.html
+3,1WS20SZ0AB,NAMEPLATE SRT,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,47.55,40.25,,0.50 Pounds,/parts/mopar-nameplate~1ws20sz0ab.html
+,5SR42KL4AA,DECAL TA Track Badge,,2014-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,"[-X8], [M3S]",available,139,92.53,22.8 x 6.4 x 0.3 inches,2.30 Pounds,/parts/mopar-decal~5sr42kl4aa.html
+,5SR42RXFAA,DECAL TA Track Badge,,"2017, 2014-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,5043041AA,"[-L4], [M3S]
+[-WA], [M3S]",available,114,76.33,23.2 x 6.2 x 0.3 inches,2.10 Pounds,/parts/mopar-decal~5sr42rxfaa.html
+,5043046AA,DECAL Viper,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5SR43RXFAA,,,available,58.1,40.54,23.0 x 6.2 x 0.3 inches,0.50 Pounds,/parts/mopar-decal~5043046aa.html

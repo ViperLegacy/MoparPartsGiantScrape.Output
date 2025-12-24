@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,52037501,END Tie Rod,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.1 x 4.1 x 6.0 inches,1.80 Pounds,/parts/mopar-tie-rod-tie-rod~52037501.html
+2,6035643,NUT .562-18,,1996-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,6036331AA,,,available,14.45,9.96,0.9 x 0.9 x 0.5 inches,0.60 Pounds,/parts/mopar-nut~6035643.html
+3,120123,PIN Cotter,,"2013-2017, 2008-2010, 1996-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,8.1,5.65,2.0 x 0.5 x 0.4 inches,0.40 Pounds,/parts/mopar-pin-cotter~120123.html

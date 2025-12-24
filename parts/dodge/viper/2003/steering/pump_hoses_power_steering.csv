@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5093985AA,PUMP Power Steering,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,7.6 x 6.1 x 5.5 inches,3.80 Pounds,/parts/mopar-pump-power-steering~5093985aa.html
+4,5103202AA,"RESERVOIR Power Steering Pump Kit, Contains: 2-Clips, Throat Tube, O`Ring",,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,5093219AA,,discontinued,,,8.7 x 6.6 x 7.0 inches,1.70 Pounds,/parts/mopar-reservoir-power-steering-pump~5103202aa.html
+5,5073626AA,CAP Power Steering Reservoir,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,3.9 x 2.2 x 2.2 inches,0.50 Pounds,/parts/mopar-cap-power-steering-reservoir~5073626aa.html
+6,5290139AA,PULLEY Power Steering Pump,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,5290139AB,,,available,291,131.83,7.2 x 6.2 x 3.3 inches,1.90 Pounds,/parts/mopar-pulley-power-steering-pump~5290139aa.html
+7,5290009AA,LINE Power Steering,,,,,,,,,,discontinued,,,,,
+8,5290010AA,HOSE Power Steering Return,,,,,,,,,,discontinued,,,,,
+9,5093235AA,COOLER KIT Power Steering,,,,,,,,,,discontinued,,,,,
+11,5086999AA,LINE Power Steering,,,,,,,,,,discontinued,,,,,
+12,5086998AA,LINE Power Steering,,,,,,,,,,discontinued,,,,,
+13,5290008AC,LINE Power Steering,,"2005-2006, 2003","27; COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,Fan to Power Steering Pump Up to 3/17/03,discontinued,,,,,
+13,5290008AD,LINE Power Steering,,"2005-2006, 2003","27; COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,Fan to Power Steering Pump After 3/17/03,discontinued,,,18.6 x 14.8 x 4.8 inches,1.10 Pounds,/parts/mopar-line-power-steering~5290008ad.html
+14,52088914AA,FITTING Quick Disconnect,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,available,238,157.5,6.2 x 6.2 x 6.3 inches,1.40 Pounds,/parts/mopar-fitting-quick-disconnect~52088914aa.html
+16,52088116AB,FITTING Quick Connect,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,1.0 x 1.0 x 1.6 inches,0.50 Pounds,/parts/mopar-fitting-quick-connect~52088116ab.html
+17,52079929AB,CLIP Line,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,Pressure Line 3/8 Inch,available,6.45,2.99,2.7 x 1.9 x 0.5 inches,0.40 Pounds,/parts/mopar-clip-line~52079929ab.html
+18,5290177AA,CLIP Power Steering Return Hose,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,available,5.35,1.98,5.5 x 4.1 x 0.6 inches,0.40 Pounds,/parts/mopar-clip-power-steering-return-hose~5290177aa.html
+,5290238AA,CONNECTOR Power Steering Cooler,,"2008-2009, 2003-2006","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,68034089AA,,,available,27.35,19.11,1.0 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-connector-quick-type~5290238aa.html
+,5019705AA,O RING,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,available,7.6,5.24,,0.40 Pounds,/parts/mopar-o-ring~5019705aa.html
+,4778797AB,SEAL Power Steering Pump,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,1.2 x 1.1 x 0.4 inches,0.40 Pounds,/parts/mopar-seal-power-steering-pump~4778797ab.html
+,2537833,SPRING Power Steering Pump Flow,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,2.1 x 0.6 x 0.2 inches,0.50 Pounds,/parts/mopar-none-power-steering-pump-flow~2537833.html

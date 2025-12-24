@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,MC25PYM,WHEEL Aluminum,,,,2,,,Front Gold,discontinued,,,
-1,MC36PAK,WHEEL Aluminum,,,,2,1,,Rear Silver,discontinued,,,/parts/mopar-wheel-aluminum~mc36pak.html
-1,MC36PYM,WHEEL Aluminum,,,,2,,,Rear Gold,discontinued,,,
-1,QV40SZ2AA,WHEEL Aluminum,,,,2,,,Front Polished Aluminum,discontinued,,,
-1,QV41SZ2AA,WHEEL Aluminum,,,,2,,,Rear Polished Aluminum,discontinued,,,
-2,6034958,NUT Hex .50-20,,,,24,1,,,available,18.75,14.51,/parts/mopar-nut-hex~6034958.html
-3,4708167,TOOL Wheel Cap Removal,,,,,,,,discontinued,,,/parts/mopar-wrench-wheel-cap-removal~4708167.html
-4,2073355,STEM Wheel Valve,,,,,,,,available,4.9,3.38,/parts/mopar-stem-wheel-valve~2073355.html

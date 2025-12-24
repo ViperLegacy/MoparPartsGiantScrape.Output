@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+2,4763754AB,COVER Cylinder Head,,1998-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4763754AC,,,discontinued,,,26.0 x 5.2 x 4.2 inches,2.10 Pounds,/parts/mopar-cover-cylinder-head~4763754ab.html
+3,4763755AB,COVER Cylinder Head,,1998-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4763755AC,,,discontinued,,,14.1 x 7.0 x 7.2 inches,2.20 Pounds,/parts/mopar-cover-cylinder-head~4763755ab.html
+4,5245081AB,CAP Oil Filler,,,,,,,,,,discontinued,,,,,
+5,6035666,SCREW Hex Flange Head .25-20x1.00,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",26,1,154777,,,available,14.2,9.9,1.2 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~6035666.html
+6,5245095,GASKET Valve Cover,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,131,103.05,36.4 x 10.2 x 0.1 inches,0.70 Pounds,/parts/mopar-gasket-valve-cover~5245095.html
+7,4763724AB,HEAD Cylinder,,"1998-2002, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,29.6 x 9.9 x 7.1 inches,33.80 Pounds,/parts/mopar-head-cylinder~4763724ab.html
+8,5013101AA,GASKET Cylinder Head,,"2004-2005, 1997-1998","COMP. Coupe, GTS Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,4763749AB,,discontinued,,,30.9 x 12.2 x 0.3 inches,2.20 Pounds,/parts/mopar-gasket-cylinder-head~5013101aa.html
+9,6035471,BOLT Cylinder Head,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",24,1,,,,available,19.9,13.86,4.2 x 0.7 x 0.7 inches,0.60 Pounds,/parts/mopar-screw-cylinder-head~6035471.html
+10,6035666,SCREW Hex Flange Head .25-20x1.00,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",12,1,154777,,,available,14.2,9.9,1.2 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~6035666.html
+,4882950AB,GASKET PACKAGE Engine Upper,,,,,,,,,,discontinued,,,,,

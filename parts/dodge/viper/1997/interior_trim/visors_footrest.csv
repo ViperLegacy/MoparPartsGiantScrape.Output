@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,LH31SX7,VISOR W/Mirror,,1997-1998,29,10 Cyl 8.0L,,,,,"Left Black, (Use Up To 2-17-97)",discontinued,,,,,
+1,RF481X7AA,VISOR W/Mirror,,1997-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right Black, (Use After 2-17-97)",discontinued,,,,1.20 Pounds,/parts/mopar-w-mirror-visor~rf481x7aa.html
+1,RF491X7AA,VISOR W/Mirror,,1997-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left Black, (Use After 2-17-97)",discontinued,,,,1.20 Pounds,/parts/mopar-visor-w-mirror~rf491x7aa.html
+2,6032723,SCREW Self Tapping M4.2x1.69x19.05,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+4,4763695,FOOTREST,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.20 Pounds,/parts/mopar-footrest~4763695.html
+,4595748AA,LABEL Air Bag Warning,,1997-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,,/parts/mopar-label-air-bag-warning~4595748aa.html

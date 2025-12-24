@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,6102398AA,NUT AND WASHER Hex M5x0.80,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,6104714AA,,available,11.3,7.86,0.8 x 0.8 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-hex~6102398aa.html
+2,5035233AA,MODULE Air Suspension,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,654,535.7,13.8 x 9.6 x 3.7 inches,1.20 Pounds,/parts/mopar-module-air-suspension~5035233aa.html
+3,68155835AA,ISOLATOR Anti Lock Brake Unit,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68225331AA,,,available,43.35,30.23,1.1 x 1.0 x 0.9 inches,0.50 Pounds,/parts/mopar-grommet-anti-lock-brake-unit~68155835aa.html
+4,68155836AC,BRACKET Hydraulic Control Unit,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68155836AB,,discontinued,,,,,/parts/mopar-bracket-hydraulic-control-unit~68155836ac.html
+5,68224802AC,MODULE Anti-Lock Brake System,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"68224802AA, 68224802AB",,available,804,567.8,7.0 x 7.1 x 4.1 inches,5.80 Pounds,/parts/mopar-module-anti-lock-brake-system~68224802ac.html
+6,68224799AC,CONTROL UNIT Anti-Lock Brake,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,,available,752,531.28,9.7 x 7.8 x 6.2 inches,5.50 Pounds,/parts/mopar-modulator-anti-lock-brake~68224799ac.html

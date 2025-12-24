@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5038041AA,FILTER Engine Oil,,,,,,,,,,available,,23.87,,,/parts/mopar-accessories_filter_engine_oil-5038041aa.html
+2,5037973AA,CONNECTOR Oil Filter Adapter,,"2013-2017, 2008-2010","COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,,available,11.15,7.75,1.6 x 0.7 x 0.7 inches,0.60 Pounds,/parts/mopar-adapter-oil-filter-adapter~5037973aa.html
+3,68171066PB,ENGINE OIL 0W40 Quart,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,50040856AA,,,available,13.33,9.32,9.8 x 9.2 x 8.1 inches,2.00 Pounds,/parts/mopar-oil-0w40~68171066pb.html

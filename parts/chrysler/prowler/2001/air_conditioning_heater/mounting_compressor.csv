@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4792291AB,BRACKET A/C Compressor,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,17.7 x 7.9 x 5.1 inches,2.40 Pounds,/parts/mopar-bracket-a-c-compressor~4792291ab.html
+2,6506019AA,BOLT AND WASHER Hex Head M10x1.5x30,,2001-2002,Base,6 Cyl 3.5L,2,1,,5143443AA,,available,4.65,3.2,1.6 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6506019aa.html
+3,6505653AA,STUD,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6,4.08,3.8 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-stud-double-ended~6505653aa.html
+4,6502425,SCREW AND WASHER Hex Head M8x1.25x95,,2001-2002,Base,6 Cyl 3.5L,3,1,,,,available,11,7.63,3.9 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6502425.html

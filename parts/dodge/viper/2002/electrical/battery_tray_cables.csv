@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642924,COVER Battery Terminal,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.0 x 2.0 x 1.0 inches,0.70 Pounds,/parts/mopar-cover-battery-terminal~4642924.html
+2,4642591,COVER Battery Terminal,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-cover-battery-terminal~4642591.html
+3,4763635,RETAINER Battery Hold Down,,,,,,,,,,discontinued,,,,,
+4,6100584,BOLT AND CONED WASHER Hex Head M8x30x20,,1993-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.4 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6100584.html
+5,4854448AA,WIRING Body,,2001-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,20.0 x 8.6 x 5.2 inches,6.90 Pounds,/parts/mopar-wiring-body~4854448aa.html
+6,4642610AC,WIRING Battery Negative,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4642610AB,,discontinued,,,9.5 x 1.7 x 1.4 inches,0.70 Pounds,/parts/mopar-cable-bat-battery-negative~4642610ac.html
+7,4642589,BOLT Hex Head .375-16x.95,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-bolt-hex-head~4642589.html
+8,4763057AD,WIRING Battery Positive,,2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4763057AE,,,discontinued,,,13.6 x 11.9 x 2.4 inches,2.70 Pounds,/parts/mopar-cable-bat-battery-positive~4763057ad.html
+10,VU01207,TRAY Battery,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Repair Battery Terminal End Side Post ( Ten Per Box),discontinued,,,4.5 x 2.7 x 5.4 inches,2.60 Pounds,/parts/mopar-terminal-battery-terminal~vu01207.html
+10,4643305,TRAY Battery,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,18.3 x 13.8 x 9.5 inches,2.90 Pounds,/parts/mopar-tray-battery~4643305.html
+10,BA078730EX,TRAY Battery,,1992-2002,,10 Cyl 8.0L,,,,,Mopar Power Pro 6,discontinued,,,,,
+11,56028194,SENSOR Battery Temperature,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,6.5 x 3.3 x 1.8 inches,0.50 Pounds,/parts/mopar-sensor-battery-temperature~56028194.html
+13,BA078730EX,BATTERY,,,,,,,,,Mopar Power Pro 6,discontinued,,,,,

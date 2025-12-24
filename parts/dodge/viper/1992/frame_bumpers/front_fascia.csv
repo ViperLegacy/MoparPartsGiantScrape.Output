@@ -1,0 +1,31 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848448,"FASCIA, Front",,"2000-2002, 1992-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"SEAL, Fascia to Hood (TAPE, Clear)",discontinued,,,6.6 x 4.6 x 1.1 inches,0.50 Pounds,/parts/mopar-seal-front-fascia-to-hood~4848448.html
+1,4709035,"FASCIA, Front",,1994-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,unavailable,1095,926.6,77.2 x 14.0 x 15.3 inches,43.30 Pounds,/parts/mopar-fascia-front~4709035.html
+1,4848612,"FASCIA, Front",Right,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right (PANEL, Fascia Close-Out)",discontinued,,,10.6 x 4.1 x 0.3 inches,0.60 Pounds,/parts/mopar-panel-front-facsia~4848612.html
+1,4848613,"FASCIA, Front",Left,"2002, 1992-2000","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left (PANEL, Fascia Close-Out)",discontinued,,,11.1 x 4.8 x 0.6 inches,0.50 Pounds,/parts/mopar-panel-front-facsia~4848613.html
+1,4848828,"FASCIA, Front",Right,"2000-2002, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right (TAPE, Clear)",available,48.68,38.25,9.2 x 2.0 x 0.3 inches,0.40 Pounds,/parts/mopar-applique-fascia-front~4848828.html
+1,4848829,"FASCIA, Front",Left,"2000-2002, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left (TAPE, Clear)",available,49.68,39.04,,0.40 Pounds,/parts/mopar-applique-fascia-front~4848829.html
+1,4864973,"FASCIA, Front",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Primed 1996,discontinued,,,86.1 x 25.5 x 26.0 inches,21.90 Pounds,/parts/mopar-fascia-front~4864973.html
+1,KS72SBE,"FASCIA, Front",,1996,29,10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,6025335,SCREW,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,11,1,,,,discontinued,,,1.4 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-screw~6025335.html
+3,4708472,"REINFORCEMENT, Metal, 1992",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"FOAM, w/Tape",discontinued,,,58.6 x 8.6 x 7.6 inches,2.30 Pounds,/parts/mopar-absorber-front-energy~4708472.html
+3,4708345,"REINFORCEMENT, Metal, 1992",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BUMPER, Fascia, Fiberglass 93-94",available,638,553.84,,7.90 Pounds,/parts/mopar-bumper-fascia-front~4708345.html
+3,4763098,"REINFORCEMENT, Metal, 1992",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,74.4 x 31.5 x 22.9 inches,17.90 Pounds,/parts/mopar-bumper-fascia~4763098.html
+3,4643220,"REINFORCEMENT, Metal, 1992",,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+3,4708436,"REINFORCEMENT, Metal, 1992",,1992-1996,,10 Cyl 8.0L,,,,,"BRACKET, Bumper Mtg., Right (BUMPER ASSEMBLY)",discontinued,,,,,
+3,4708437,"REINFORCEMENT, Metal, 1992",,1992-1996,,10 Cyl 8.0L,,,,,"BRACKET, Bumper Mtg., Left (BUMPER ASSEMBLY)",discontinued,,,,,
+3,4763375,"REINFORCEMENT, Metal, 1992",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1995 (BUMPER ASSEMBLY),available,217,183.86,55.6 x 11.0 x 10.8 inches,16.70 Pounds,/parts/mopar-bumper-fascia-frt~4763375.html
+3,5245044,"REINFORCEMENT, Metal, 1992",,"2000-2002, 1992-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"FOAM AND TAPE, (GT-2)",discontinued,,,30.3 x 4.0 x 1.9 inches,0.80 Pounds,/parts/mopar-absorber-frt-fascia-grille-opng~5245044.html
+4,6101448,NUT,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",6,1,,,,available,11.3,7.86,1.2 x 1.2 x 0.8 inches,0.40 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6101448.html
+5,4708268,"PACKAGE, License Plate",,,,,,,,,,discontinued,,,,,
+5,4709042,"PACKAGE, License Plate",,,,,,,,,EXPORT,discontinued,,,,,
+6,4708227,SHIM,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Thick,available,5.83,4.59,,0.60 Pounds,/parts/mopar-shim-bumper-thick~4708227.html
+6,4708228,SHIM,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Thin,available,5.83,4.59,,0.50 Pounds,/parts/mopar-shim-bumper-thin~4708228.html
+7,4642693,FOAM,,,,,,,,,,discontinued,,,,,
+8,4708344,"PLATE, Fascia Adapter",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,171,97.45,8.6 x 7.5 x 2.8 inches,2.20 Pounds,/parts/mopar-adaptor-bumper-fascia~4708344.html
+8,4763099,"PLATE, Fascia Adapter",,1996,,10 Cyl 8.0L,2,,,,,discontinued,,,,,
+11,6100545,SCREW,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.3 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6100545.html
+12,4709348,"BRACKET, Hood Latch",,,,,,,,,,discontinued,,,,,
+13,4709049,"HANDLE, w/Cable Hood Release",,,,,,,,,,discontinued,,,,,
+15,6100515,NUT,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,6501140,,available,7.55,5.24,0.4 x 0.4 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6100515.html
+16,4709275,"PAD, Bulkhead Spacer",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.3 x 1.7 x 1.3 inches,0.80 Pounds,/parts/mopar-pad-bulkhead-spacer~4709275.html

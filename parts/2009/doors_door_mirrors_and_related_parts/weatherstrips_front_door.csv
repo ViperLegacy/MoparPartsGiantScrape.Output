@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,154936AA,SCREW,,,,4,1,,,unavailable,1.3,0.87,/parts/mopar-screw~154936aa.html
-2,4865565AD,WEATHERSTRIP Front Door Sill Secondary,Left,,,,,,,discontinued,,,/parts/mopar-w-strip-front-door-sill-secondary~4865565ad.html
-3,4658673,PIN PUSH .150x.410,,,,2,1,,,available,8.55,5.94,/parts/mopar-pin~4658673.html
-4,4865585AC,WEATHERSTRIP Door Belt Outer,Left,,,,,4865585AD,,available,94.95,77.83,/parts/mopar-w-strip-door-belt~4865585ac.html
-5,4865579AD,WEATHERSTRIP Door Belt Inner,Left,,,,,4865579AE,,available,94.95,77.83,/parts/mopar-w-strip-door-belt~4865579ad.html
-6,6032723,SCREW Self Tapping M4.2x1.69x19.05,,,,14,1,,,available,9.15,6.35,/parts/mopar-screw-self-tapping~6032723.html

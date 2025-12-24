@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,TW85SZBAA,WHEEL Front,,2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,[WPS],discontinued,,,24.5 x 24.5 x 14.8 inches,28.80 Pounds,/parts/mopar-wheel~tw85szbaa.html
+1,TW85XZAAA,WHEEL Front,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,[WPH],available,1050,872.36,21.2 x 13.1 x 24.7 inches,33.30 Pounds,/parts/mopar-wheel~tw85xzaaa.html
+2,TW89SZBAA,WHEEL Rear,,2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,[WPS],discontinued,,,,,/parts/mopar-wheel~tw89szbaa.html
+2,TW89XZAAA,WHEEL Rear,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,[WPH],discontinued,,,,,/parts/mopar-wheel~tw89xzaaa.html
+3,6036310AA,NUT Wheel .50x20 Chrome,,"2008-2010, 2000-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",24,1,6036747AA,,,available,16.45,8.91,1.2 x 1.2 x 1.6 inches,0.50 Pounds,/parts/mopar-nut-wheel~6036310aa.html
+6,TW94XZAAA,CAP Wheel Center,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,"[WP1,WPH]",available,90.7,59.61,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-cap-wheel-center~tw94xzaaa.html
+,5083124AA,CAP Valve stem,,2005-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,0.9 x 0.4 x 0.4 inches,0.80 Pounds,/parts/mopar-cap-valve-stem~5083124aa.html
+,52088961AA,NUT Tire Pressure Sensor,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,15.85,11.07,0.8 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-tire-pressure-sensor~52088961aa.html
+,52088990AA,SENSOR Tire Pressure Valve stem,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,3.2 x 1.8 x 1.0 inches,0.80 Pounds,/parts/mopar-sensor-tire-pressure~52088990aa.html

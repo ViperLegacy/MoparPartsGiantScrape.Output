@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,D221SX8,ASH RECEIVER Rear Door,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-ashtray-rear-door~d221sx8.html
+3,PK84JX8AD,BEZEL Instrument Panel,,1998-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Center Black,discontinued,,,15.5 x 15.5 x 8.7 inches,1.30 Pounds,/parts/mopar-bezel-instrument-panel~pk84jx8ad.html
+5,PF25TX7,CONSOLE Front,,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Graphite,discontinued,,,,10.90 Pounds,/parts/mopar-console-front~pf25tx7.html
+8,4685536,KNOB AND ELEMENT Cigar Lighter,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,"4685536AB, 5ZN46DX9AA, 5ZN46LXHAA",,available,40.15,27.84,1.4 x 1.3 x 1.1 inches,0.50 Pounds,/parts/mopar-lighter-cigar-lighter~4685536.html
+9,PD66TX9,BOOT Parking Brake Lever,,1997-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black,discontinued,,,,0.60 Pounds,/parts/mopar-boot-parking-brake-lever~pd66tx9.html
+10,PD67TX9,BOOT Gearshift,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,12.9 x 7.6 x 4.1 inches,1.10 Pounds,/parts/mopar-boot-gearshift~pd67tx9.html
+11,4848038,BOOT Gearshift,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,90.6,74.17,22.7 x 5.4 x 2.9 inches,0.80 Pounds,/parts/mopar-boot-gearshift~4848038.html
+,4643872,CLIP Ash Receiver Retention,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-spring-ash-receiver-retent~4643872.html
+,3747634,SHELL Cigar Lighter,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,23.34,18.34,2.0 x 1.0 x 1.2 inches,0.50 Pounds,/parts/mopar-lighter-cigar-lighter~3747634.html

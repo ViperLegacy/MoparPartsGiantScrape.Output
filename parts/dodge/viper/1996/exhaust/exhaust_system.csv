@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763667,"ISOLATOR, Exhaust Pipe",,"2000-2002, 1996-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,5.6 x 1.4 x 1.4 inches,0.80 Pounds,/parts/mopar-isolator-exhaust-support~4763667.html
+2,4763629,"SUPPORT, Isolator, Exhaust Pipe",,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,5.7 x 1.6 x 0.1 inches,0.50 Pounds,/parts/mopar-support-exhaust-isolator~4763629.html
+3,4709038,"ISOLATOR, Exhaust",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,discontinued,,,3.6 x 1.4 x 1.0 inches,0.60 Pounds,/parts/mopar-isolator-exhaust~4709038.html
+4,4708458,"ISOLATOR, Support",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,discontinued,,,3.7 x 1.1 x 0.2 inches,0.50 Pounds,/parts/mopar-support-exhaust-isolator~4708458.html
+5,6033047,BOLT,,"2001-2002, 1992-1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,14,1,,,,discontinued,,,2.3 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-bolt-shoulder~6033047.html
+6,5245788,"MUFFLER, w/Pipe",,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,52.1 x 18.3 x 7.3 inches,28.00 Pounds,/parts/mopar-muffler-exhaust~5245788.html
+7,6501483,"NUT, Hanger",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,6505245AA,,discontinued,,,1.0 x 1.0 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-hex-flange~6501483.html
+8,5245034,"ROD, Hanger, Rear Muffler",,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,unavailable,,,5.1 x 4.6 x 1.7 inches,0.80 Pounds,/parts/mopar-hanger-muffler~5245034.html
+9,4763593,"Pipe, Exhaust, Intermediate",,1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Lt.,discontinued,,,,9.30 Pounds,/parts/mopar-pipe~4763593.html
+9,4855300,"Pipe, Exhaust, Intermediate",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Rt.,discontinued,,,,,
+9,4855301,"Pipe, Exhaust, Intermediate",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Lt.,discontinued,,,,,
+10,5245815,"INSULATION, Thermal, Sill Inner, Right",Left,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"INSULATION, Thermal, Sill Inner, Left",discontinued,,,47.2 x 8.9 x 3.9 inches,3.30 Pounds,/parts/mopar-insulatio-thermal-sill-inner~5245815.html
+11,6100316,"BOLT, Pipe to Manifold",,,,,4,,,,,discontinued,,,,,
+12,4709094,"CLAMP, Exhaust Pipe",,,,,2,,,,,discontinued,,,,,
+13,4695220,"CLAMP, Exhaust Pipe",,,,,2,,,,,discontinued,,,,,
+15,4855441,"CONVERTER ASSEMBLY, Right",Left,1996-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"CONVERTER ASSEMBLY, Left",discontinued,,,,17.10 Pounds,/parts/mopar-converter-catalytic~4855441.html
+16,4763586,"SEAL, Ring, Exhaust Pipe to Manifold",,1996-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.6 x 3.6 x 0.3 inches,0.40 Pounds,/parts/mopar-gasket-exhaust~4763586.html
+17,4427610,"NUT, Flange",,,,,2,,,,,discontinued,,,,,
+18,4709106,"BAR, Muffler Hanger",,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,66.68,52.4,42.2 x 1.2 x 3.2 inches,2.40 Pounds,/parts/mopar-hanger-muffler~4709106.html
+19,6101542,"SCREW, Hanger Bar, (M8x1.25x20.00)",,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.0 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6101542.html
+20,4848163,"SPACER, Exhaust Hanger",,,,,2,,,,,discontinued,,,,,

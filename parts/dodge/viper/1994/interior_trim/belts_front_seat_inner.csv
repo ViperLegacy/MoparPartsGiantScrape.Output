@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642365,"BUCKLE, Seat Belt Inner (Black)",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,,,,,discontinued,,,,,
+1,4643954,"BUCKLE, Seat Belt Inner (Black)",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,EXPORT,available,21.59,16.96,,1.00 Pounds,/parts/mopar-buckle-seat-belt-outer-rt~4643954.html
+1,4643954,"BUCKLE, Seat Belt Inner (Black)",Right,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right (CANADA),available,21.59,16.96,,1.00 Pounds,/parts/mopar-buckle-seat-belt-outer-rt~4643954.html
+1,4643955,"BUCKLE, Seat Belt Inner (Black)",Left,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Left (CANADA),discontinued,,,,1.00 Pounds,/parts/mopar-seatbelt-outer-rt-buckle-a~4643955.html
+1,4848718,"BUCKLE, Seat Belt Inner (Black)",Right,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right (EXPORT and CANADA, 1996)",discontinued,,,12.4 x 2.1 x 2.1 inches,0.80 Pounds,/parts/mopar-seat-belt-buckle-half~4848718.html
+1,4848719,"BUCKLE, Seat Belt Inner (Black)",Left,1992-2000,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4848719AB,,"Left (EXPORT and CANADA, 1996)",discontinued,,,8.6 x 7.8 x 3.9 inches,2.90 Pounds,/parts/mopar-seat-belt-buckle-half~4848719.html
+1,5245884,"BUCKLE, Seat Belt Inner (Black)",Right,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right (EXPORT and CANADA, 1996)",available,9.22,7.24,11.2 x 9.4 x 2.4 inches,1.00 Pounds,/parts/mopar-seat-belt-seat-belt-outer-lt~5245884.html
+1,5245885,"BUCKLE, Seat Belt Inner (Black)",Left,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left (EXPORT and CANADA, 1996)",discontinued,,,,,
+6,6034457,"BOLT, Inner Belt Attaching",,1992-2001,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,20,14.51,1.7 x 0.8 x 0.4 inches,0.50 Pounds,/parts/mopar-bolt-pan-head~6034457.html
+7,FV59LX9,"CHILD SEAT, Restraint Assy.",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,7,5.5,,1.20 Pounds,/parts/mopar-restraint-child-seat~fv59lx9.html
+8,5260606,"COVER, Front Anchor Bolt Child Restraint (P.A.R.)",,,,,,,,,"EXTENDER, Seat Belt",discontinued,,,,,
+8,F814LX9,"COVER, Front Anchor Bolt Child Restraint (P.A.R.)",,,,,,,,,,discontinued,,,,,
+,4883004,"TETHER, Hardware Package, Child Seat",,,,,,,,,,discontinued,,,,,

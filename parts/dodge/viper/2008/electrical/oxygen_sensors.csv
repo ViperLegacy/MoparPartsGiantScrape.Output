@@ -1,0 +1,3 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,56028995AB,SENSOR Oxygen,,2008-2010,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,"[UPSTREAM,LEFT]
+[UPSTREAM,RIGHT]",available,117,77.23,1.3 x 8.1 x 9.8 inches,0.80 Pounds,/parts/mopar-sensor-oxygen~56028995ab.html

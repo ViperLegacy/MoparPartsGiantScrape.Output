@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848584,COMPRESSOR Air Conditioning,,,,,,,,,,discontinued,,,,,
+2,6034244,SCREW AND WASHER Hex Head .312-18x3.50,,"2004-2006, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,,,,available,18.75,14.51,3.7 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6034244.html
+3,4882801,MANIFOLD KIT A/C Compressor,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.1 x 6.3 x 4.7 inches,1.60 Pounds,/parts/mopar-manifold-a-c-compressor~4882801.html
+5,4897330AA,PULLEY HUB KIT A/C Compressor,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,8.7 x 5.5 x 3.8 inches,1.40 Pounds,/parts/mopar-pully-kit-a-c-compressor~4897330aa.html
+,5264452,CLUTCH OVERHAUL KIT A/C Compressor,,,,,,,,,,discontinued,,,,,
+,4882802,COIL Stator A/C Compressor Clutch,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,36.67,28.82,7.1 x 6.2 x 4.7 inches,1.60 Pounds,/parts/mopar-coil-stator~4882802.html
+,4728854,SEAL Manifold To Compressor,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,15.5,12.18,3.5 x 2.5 x 0.1 inches,0.40 Pounds,/parts/mopar-seal-manifold-to-compressor~4728854.html

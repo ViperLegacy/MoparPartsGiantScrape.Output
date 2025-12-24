@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+3,4865582AB,MODULE Air Bag Control,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,68290974AA,,,available,256,172.13,6.3 x 6.4 x 3.5 inches,1.70 Pounds,/parts/mopar-module-air-bag-control~4865582ab.html
+5,4815551AC,MODULE Radio Antenna,,"2005, 2003","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,available,34.46,27.08,10.7 x 3.9 x 3.7 inches,1.10 Pounds,/parts/mopar-module-radio-antenna~4815551ac.html
+7,TQ87DX9AA,AIR BAG Driver,,2003,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,,,discontinued,,,,,/parts/mopar-airbag-driver~tq87dx9aa.html
+8,4686669AB,MODULE Keyless Entry Receiver,,,,,,,,,,discontinued,,,,,
+9,4602260AA,TRANSMITTER Keyless Entry,,"2005, 2003","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,2,1,4602260AD,,,available,220,124.78,3.6 x 1.6 x 0.9 inches,0.50 Pounds,/parts/mopar-transmtr-keyless-entry~4602260aa.html
+,6102254AA,BOLT AND WASHER Hex Head M6x-1.00x55,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,4,1,,,,available,1.93,1.52,2.3 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6102254aa.html
+,4865524AF,MODULE Body Controller,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,4865524AL,,,available,404,331.63,13.8 x 9.6 x 3.8 inches,0.90 Pounds,/parts/mopar-module-body-controller~4865524af.html
+,4865944AA,MODULE HID Bulb Powerpack,,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,4865944AB,,,available,290,236.38,3.6 x 3.7 x 1.6 inches,1.00 Pounds,/parts/mopar-headlamp-hid-bulb-powerpack~4865944aa.html
+,4815227AF,MODULE Tire Pressure Monitoring,,"2005, 2003","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,,discontinued,,,6.4 x 6.4 x 3.5 inches,0.90 Pounds,/parts/mopar-module-tire-pressure-monitoring~4815227af.html

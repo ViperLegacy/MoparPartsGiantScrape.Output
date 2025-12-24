@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5066241AB,BATTERY Transmitter,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"68114486AA, 5066241AA",,available,7.7,5.36,7.2 x 6.4 x 0.8 inches,0.40 Pounds,/parts/mopar-battery-transmitter~5066241ab.html
+2,68200221AA,KEY Blank TRANSMITTER,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"68156409AA, 68085680AA, 68085673AA, 68145590AA",,available,65.4,45.67,2.8 x 1.4 x 0.9 inches,0.50 Pounds,/parts/mopar-key-blank~68200221aa.html
+3,5035395AA,TRANSMITTER Integrated Key FOB,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,208,139.87,3.1 x 1.2 x 0.8 inches,0.50 Pounds,/parts/mopar-fob-integrated-key-fob~5035395aa.html
+4,5035464AA,RECEIVER Hub,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,,available,170,113.93,,0.90 Pounds,/parts/mopar-module-hub~5035464aa.html
+5,68068148AA,ANTENNA Passive Entry,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,15.3,8.91,2.6 x 3.5 x 3.7 inches,0.60 Pounds,/parts/mopar-antenna-passive-entry~68068148aa.html
+6,6104708AA,NUT Hex M6,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5097674AA,,,available,15.95,14.51,0.5 x 0.5 x 0.3 inches,0.80 Pounds,/parts/mopar-nut-hex~6104708aa.html
+7,6105032AA,SCREW Hex Flange Head M5X0.8X20.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,3.5,2.39,0.7 x 0.7 x 0.3 inches,0.40 Pounds,/parts/mopar-screw-hex-flange-head~6105032aa.html

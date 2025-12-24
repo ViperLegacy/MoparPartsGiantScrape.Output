@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,RR36SZ2AA,WHEEL Aluminum,,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Front [WPD], Polished",discontinued,,,15.9 x 16.1 x 8.8 inches,32.60 Pounds,/parts/mopar-wheel-steel~rr36sz2aa.html
+1,SM08WD2AA,WHEEL Aluminum,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Front [WPE], Silver",discontinued,,,24.2 x 11.4 x 24.4 inches,31.90 Pounds,/parts/mopar-wheel-aluminum~sm08wd2aa.html
+1,SM09WD2AA,WHEEL Aluminum,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Rear [WPE], Silver",discontinued,,,24.4 x 11.3 x 24.7 inches,37.50 Pounds,/parts/mopar-wheel-aluminum~sm09wd2aa.html
+2,152349,NUT Hex .50-20,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,0.8 x 0.8 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-hex~152349.html
+3,6036310AA,NUT Wheel .50x20 Chrome,,"2008-2010, 2000-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",24,1,6036747AA,,,available,16.45,8.91,1.2 x 1.2 x 1.6 inches,0.50 Pounds,/parts/mopar-nut-wheel~6036310aa.html
+4,2073355,STEM Wheel Valve,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4725934AA,,available,4.9,3.38,1.0 x 1.1 x 2.1 inches,0.40 Pounds,/parts/mopar-stem-wheel-valve~2073355.html

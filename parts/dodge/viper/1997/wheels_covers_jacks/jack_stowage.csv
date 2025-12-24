@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4512493,WINGNUT Jack and Tire Hold Down,,,,,,,,,,discontinued,,,,,
+2,4695774,JACK,,,,,,,,,,discontinued,,,,,
+4,4341383,WRENCH Wheel Lug Nut,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,2.00 Pounds,/parts/mopar-handle-jack~4341383.html
+5,4708167,TOOL Wheel Cap Removal,,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.8 x 0.4 x 0.4 inches,1.80 Pounds,/parts/mopar-wrench-wheel-cap-removal~4708167.html
+6,4708087,LABEL Tire Storage,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,1.9,1.49,,0.50 Pounds,/parts/mopar-label-tire-storage~4708087.html
+,5256549,BAG Jack Tool Storage,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,18.5 x 6.2 x 0.7 inches,0.70 Pounds,/parts/mopar-bag-jack-tool-storage~5256549.html
+,4848696,BELT Jack Stowage,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,4.0 x 2.2 x 0.4 inches,0.40 Pounds,/parts/mopar-belt-jack-stowage~4848696.html

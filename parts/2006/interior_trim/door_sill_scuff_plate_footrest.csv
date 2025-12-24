@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,TR89DX9AC,SILL COVER Interior,Left,,,,,TR89DX9AD,,available,217,175.97,/parts/mopar-pad-interior~tr89dx9ac.html
-2,153754,SCREW .190-16x1.00,,,,6,1,,,discontinued,,,/parts/mopar-screw~153754.html
-4,5DV62DX9,FASTENER Trim Panel Attaching,,,,3,1,,,discontinued,,,/parts/mopar-retainer-trim-panel-attaching~5dv62dx9.html
-5,4865929AD,FOOTREST,,,,,,4865929AF,,available,122,99.09,/parts/mopar-footrest~4865929ad.html
-6,6101630,SCREW Footrest Attach,,,,2,1,,,available,1.9,1.28,/parts/mopar-screw-hex-head~6101630.html
-7,5290365AB,WASHER,,,,2,1,,,available,5.7,4.01,/parts/mopar-washer-none~5290365ab.html
-8,5290332AA,RETAINER,,,,2,1,,,available,,3.93,/parts/mopar-retainer~5290332aa.html
-9,5290331AB,CAP,,,,2,1,,,available,,3.93,/parts/mopar-plug~5290331ab.html

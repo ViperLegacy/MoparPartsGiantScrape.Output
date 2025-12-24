@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763858AB,PLENUM Blower Motor Inlet,,,,,,,,,,discontinued,,,,,
+4,4848021,BLOWER,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,17.0 x 15.2 x 10.0 inches,8.10 Pounds,/parts/mopar-wheel~4848021.html
+5,6100047,NUT AND WASHER Hex Nut-Coned Washer M6 x 1.00,,"2005, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,9.35,6.52,0.8 x 0.7 x 0.7 inches,1.80 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6100047.html
+,4874453,RESISTOR Blower Motor,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.4 x 6.0 x 5.1 inches,1.40 Pounds,/parts/mopar-resistor-blower-motor~4874453.html

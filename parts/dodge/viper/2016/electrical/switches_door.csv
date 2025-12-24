@@ -1,0 +1,50 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68096397AD,HANDLE Front Door Exterior,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68096397AC,Left Includes Door Handle Switch,discontinued,,,6.8 x 3.4 x 1.8 inches,0.90 Pounds,/parts/mopar-handle-front-door-exterior~68096397ad.html
+2,1YK34HL1AA,SWITCH Door Lock,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1YK34LV5AA,"Right [-VV], [RCA] OR [RC5], [CBF]",available,46.2,31.75,3.8 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-switch-door-lock~1yk34hl1aa.html
+2,1YK34LR9AA,SWITCH Door Lock,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Right [-R9], [RCA] OR [RC5], [CBF]",available,39.85,27.84,3.7 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-switch-door-lock~1yk34lr9aa.html
+2,1YK35DX9AA,SWITCH Door Lock,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [-X9], [RCA] OR [RC5], [CBF]",available,47.55,40.25,3.8 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-switch-door-lock~1yk35dx9aa.html
+2,1YK35HL1AA,SWITCH Door Lock,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [-VV], [RCA] OR [RC5], [CBF]",available,38.8,26.85,3.8 x 2.6 x 1.8 inches,0.50 Pounds,/parts/mopar-switch-door-lock~1yk35hl1aa.html
+2,1YK35LR9AA,SWITCH Door Lock,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [-R9], [RCA] OR [RC5], [CBF]",available,44.6,31.11,6.4 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-switch-door-lock~1yk35lr9aa.html
+2,68268284AA,SWITCH Door Lock,,2014-2017,,10 Cyl 8.4L,,,,,"Left [CBV], [RCA]
+Left [CBV], [RCA], [XSQ]
+Left [CTK], [RC5]
+Left [CTK], [RC5], [XSQ]
+Left [CTK], [RCA]
+Left [CTK], [RCA], [AZA] AND/OR [MTR]
+Left [CTK], [RCA], [XSQ]
+Left [RC5] OR [RC8], [CBV]
+Left [RC5] OR [RC8], [CBV], [XSQ]
+Left [RC5], [CBZ]
+Left [RC5], [CBZ], [XSQ]
+Left [RCA] OR [RC5], [CBF], [XSQ]
+Left [RCA], [CBZ]
+Left [RCA], [CBZ], [XSQ]...View More",discontinued,,,,,
+2,68289282AA,SWITCH Door Lock,,2014-2017,,10 Cyl 8.4L,,,,,"Right [CBV], [RCA], [XSQ]
+Right [CTK], [RC5]
+Right [CTK], [RC5], [XSQ]
+Right [CTK], [RCA]
+Right [CTK], [RCA], [AZA] AND/OR [MTR]
+Right [CTK], [RCA], [XSQ]
+Right [RC5] OR [RC8], [CBV]
+Right [RC5] OR [RC8], [CBV], [XSQ]
+Right [RC5], [CBZ]
+Right [RC5], [CBZ], [XSQ]
+Right [RCA] OR [RC5], [CBF], [XSQ]
+Right [RCA], [CBZ]
+Right [RCA], [CBZ], [XSQ]...View More",discontinued,,,,,
+3,5035279AB,SWITCH AND BEZEL Power Window Vortex Film,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68620470AA,,"Left [CBV], [RCA], [XSQ]
+Left [CTK], [RC5], [XSQ]
+Left [CTK], [RCA], [AZA] AND/OR [MTR]
+Left [CTK], [RCA], [XSQ]
+Left [RC5] OR [RC8], [CBV], [XSQ]
+Left [RCA] OR [RC5], [CBF]
+Left [RCA] OR [RC5], [CBF], [XSQ]
+Left [RCA], [CBZ], [XSQ]...View More",discontinued,,,8.5 x 3.4 x 2.8 inches,1.30 Pounds,/parts/mopar-switch-power-window~5035279ab.html
+4,5035276AB,SWITCH AND BEZEL Power Window Cross Tread Film,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5035276AC,,"Right [CBV], [RCA]
+Right [CTK], [RC5]
+Right [CTK], [RCA]
+Right [RC5] OR [RC8], [CBV]
+Right [RC5], [CBZ]
+Right [RC5], [CBZ], [XSQ]
+Right [RCA], [CBZ]...View More",unavailable,364,245.9,10.2 x 3.8 x 3.8 inches,0.90 Pounds,/parts/mopar-switch-power-window~5035276ab.html
+5,5035283AA,SWITCH Fuel Door,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,36.75,23.88,3.7 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-switch-fuel-door~5035283aa.html

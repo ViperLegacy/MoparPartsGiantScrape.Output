@@ -1,8 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,68056415AA,SEAL Input Shaft,,,,,,,,available,15.7,10.83,/parts/mopar-seal-input-shaft~68056415aa.html
-2,68207870AA,SHIM PACKAGE Input,,,,,,68292428AA,,available,94.95,63.96,/parts/mopar-shim-input~68207870aa.html
-3,68045323AA,BEARING KIT Input Shaft,,,,,,,,available,236,156.38,/parts/mopar-bearing-input-shaft~68045323aa.html
-4,68211562AA,SHAFT Input,,,,,,,,unavailable,487,329.38,/parts/mopar-shaft-input~68211562aa.html
-5,68199043AA,BEARING Input Shaft,,,,,,68280759AA,,available,93.85,63.17,/parts/mopar-bearing-input-shaft~68199043aa.html
-6,68199056AA,WASHER Thrust,,,,,,,,available,42.45,29.47,/parts/mopar-bearing-thrust~68199056aa.html
-7,68199055AA,WASHER Thrust,,,,,,,,available,40.85,28.37,/parts/mopar-washer-thrust~68199055aa.html

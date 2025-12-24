@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5035214AC,MODULE Engine Controller,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5035214AF,,,available,1585,1037.73,10.6 x 6.4 x 6.6 inches,2.20 Pounds,/parts/mopar-module-engine-controller~5035214ac.html
+2,5181368AB,COVER Module,,"2013-2017, 2008-2010","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,,available,11.05,8.91,9.8 x 4.1 x 2.9 inches,0.60 Pounds,/parts/mopar-cover-module~5181368ab.html
+3,6509674AA,BOLT Hex Flange Head M5X0.8X55.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,3,1,,,,available,2.25,1.51,2.4 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head~6509674aa.html
+4,5043011AB,MODULE A/C And Heater,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5043011AC,,,available,175,115.88,8.2 x 4.0 x 3.8 inches,0.90 Pounds,/parts/mopar-control-a-c-and-heater~5043011ab.html

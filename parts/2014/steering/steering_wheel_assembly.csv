@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,5NP57HL1AA,WHEEL Steering,,,,,,,"[-VX] [XSQ] With,[SCC] Or [SCG]",available,1110,728.2,/parts/mopar-wheel-steering~5np57hl1aa.html
-1,5NP57LK5AA,WHEEL Steering,,,,,,,"[-KX], [SCC] Or [SCG] Without [XSQ][-KX],[XSQ] With [SCC] Or [SCG],[XSQ]",available,496,410.32,/parts/mopar-wheel-steering~5np57lk5aa.html
-1,5NP57LV5AA,WHEEL Steering,,,,,,5NP57HL1AA,"[-VX],[SCC] Or [SCG] Without [XSQ]",available,1110,748.06,/parts/mopar-wheel-steering~5np57lv5aa.html
-1,5NP57XR4AA,WHEEL Steering,,,,,,,"[-RX],[SCC] Or [SCG] Without [XSQ][-RX][XSQ] With[SCC] Or [SCG]",available,587,380.6,/parts/mopar-wheel-steering~5np57xr4aa.html
-1,5NP57YSAAA,WHEEL Steering,,,,,,,"[-X9] [SCC] Or [SCG[-X9],[SCC] Without [SCG]",available,564,455.4,/parts/mopar-wheel-steering~5np57ysaaa.html
-2,5NP56LV5AA,COVER Steering Wheel Back,,,,,,,"[-VX], [XSQ],[SCC] Or [SCG][-VX],[SCC] OR [SCG] Without [XSQ]",available,782,515.9,/parts/mopar-cover-steering-wheel-back~5np56lv5aa.html
-3,6505656AA,SCREW Hex Flange Head M10x1.5x35.,,,,,,,,available,4.45,3.09,/parts/mopar-bolt-hex-flange-head~6505656aa.html
-4,5LX37AAAAA,BEZEL Steering Wheel,,,,,,,"[-KX], [XSQ] With [SCC] Or [SCG],[-RX],[XSQ] With [SCC] Or [SCG][-VX],[XSQ] With [SCC] Or [SCG][-X9],[SCJ],[XSQ][-X9],[XSQ] With [SCC] OR [SCG]...View More",available,1570,1032.9,/parts/mopar-bezel-steering-wheel~5lx37aaaaa.html

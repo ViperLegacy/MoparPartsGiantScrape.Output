@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4815319,DRIER Air Conditioning Filter w/Bracket,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,68.01,53.45,9.4 x 5.3 x 3.4 inches,2.00 Pounds,/parts/mopar-drier-air-conditioning-filter~4815319.html
+2,4815890,PLATE Reciever/Drier,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,2.1 x 1.4 x 0.8 inches,0.70 Pounds,/parts/mopar-plate-reciever-drier~4815890.html
+3,5264642,CAP A/C Check Valve,,2001-2002,Base,6 Cyl 3.5L,,,68620804AA,,,available,,6.55,1.1 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-cap-a-c-check-valve~5264642.html
+4,6101660,SCREW AND WASHER Hex Head M8x1.25x35,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.6 x 0.9 x 0.9 inches,0.70 Pounds,/parts/mopar-screw-hex-head~6101660.html
+5,4786475AF,LINE A/C Suction And Liquid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,19.6 x 10.4 x 3.2 inches,1.70 Pounds,/parts/mopar-line-a-c-suction-and-liquid~4786475af.html
+6,4815912AC,COMPRESSOR Air Conditioning,,2001-2002,Base,6 Cyl 3.5L,,,4815912AD,,,available,927,631.47,9.7 x 9.6 x 8.5 inches,10.70 Pounds,/parts/mopar-compres0r-air-conditioning~4815912ac.html
+7,4786472AB,LINE A/C Liquid,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,15.6 x 13.2 x 4.2 inches,0.60 Pounds,/parts/mopar-line-air-conditioning-liquid~4786472ab.html
+8,4786474,LINE A/C Discharge,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,15.8 x 14.5 x 5.7 inches,1.60 Pounds,/parts/mopar-line-air-conditioning-discharge~4786474.html
+9,6032572,SCREW Cap .25-20x2.00,,2001-2002,Base,6 Cyl 3.5L,2,1,6036623AA,,,discontinued,,,2.3 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-screw-cap~6032572.html
+10,4596151,CLIP A/C Quick Disconnect,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.3 x 1.2 x 1.0 inches,0.40 Pounds,/parts/mopar-clip-a-c-quick-disconnect~4596151.html
+11,4596152,CLIP A/C Quick Disconnect,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,1.0 x 1.4 x 1.5 inches,0.40 Pounds,/parts/mopar-clip-a-c-quick-disconnect~4596152.html
+12,3846836,GASKET A/C Expansion Valve,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,5,3.14,2.9 x 1.6 x 0.3 inches,0.60 Pounds,/parts/mopar-gasket-a-c-expansion-valve~3846836.html
+14,5264919AA,VALVE A/C Expansion,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,5.1 x 4.0 x 2.1 inches,0.90 Pounds,/parts/mopar-valve-a-c-expansion~5264919aa.html
+20,5264886AA,CONDENSER Air Conditioning,,,,,,,,,,discontinued,,,,,
+,6503422,CLAMP Supply Hose 26 mm Diameter,,2001-2002,Base,6 Cyl 3.5L,2,1,6502017,,,available,8.6,5.88,0.9 x 1.3 x 1.7 inches,0.40 Pounds,/parts/mopar-clamp-supply-hose~6503422.html
+,4815542,HOSE Heater Core,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,12.4 x 4.2 x 2.0 inches,0.80 Pounds,/parts/mopar-hose-heater-core~4815542.html
+,4592105,HOSE Heater Return,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,6.58,5.17,3.3 x 1.1 x 1.1 inches,0.70 Pounds,/parts/mopar-hose-heater-return~4592105.html
+,4786927,HOSE Heater Return,,2001-2002,Base,6 Cyl 3.5L,,,,,Supply,available,7.67,6.03,3.4 x 1.6 x 0.6 inches,0.40 Pounds,/parts/mopar-hose-heater-return~4786927.html
+,6032572,SCREW Cap .25-20x2.00,,2001-2002,Base,6 Cyl 3.5L,2,1,6036623AA,,,discontinued,,,2.3 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-screw-cap~6032572.html
+,4815819AB,SEAL Condenser,,2001-2002,Base,6 Cyl 3.5L,,,,,,available,42.05,7.3,17.7 x 14.7 x 2.1 inches,1.20 Pounds,/parts/mopar-seal-condenser~4815819ab.html
+,4792185AC,TUBE Heater Feed,,2001-2002,Base,6 Cyl 3.5L,,,4792185AD,,,discontinued,,,25.0 x 6.4 x 6.2 inches,2.40 Pounds,/parts/mopar-tube-heater-feed~4792185ac.html
+,4815995AD,TUBE Heater Return,,2001-2002,Base,6 Cyl 3.5L,,,,,,discontinued,,,32.9 x 20.1 x 11.1 inches,2.40 Pounds,/parts/mopar-tube-heater-return~4815995ad.html

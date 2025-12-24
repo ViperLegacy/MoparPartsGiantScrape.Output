@@ -1,0 +1,33 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642952,"PANEL ASSEMBLY, Door Surround",Right,1992,,,,,,,"1992, Right",discontinued,,,,,
+1,4642953,"PANEL ASSEMBLY, Door Surround",Left,1992,,,,,,,"1992, Left",discontinued,,,,,
+1,4708476,"PANEL ASSEMBLY, Door Surround",Right,1993-1994,27,,,,,,Right (1993-94-95-96),discontinued,,,,,
+1,4708477,"PANEL ASSEMBLY, Door Surround",Left,1993-1994,27,,,,,,Left (1993-94-95-96),discontinued,,,,,
+1,4848682,"PANEL ASSEMBLY, Door Surround",Right,1993-1994,29,,,,,,Right (1993-94-95-96),discontinued,,,,,
+1,4848683,"PANEL ASSEMBLY, Door Surround",Left,1993-1994,29,,,,,,Left (1993-94-95-96),discontinued,,,,,
+2,35022112,SHIM,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,1.5,discontinued,,,1.0 x 1.0 x 0.8 inches,0.50 Pounds,/parts/mopar-shim-fender~35022112.html
+2,35022110,SHIM,,"2008-2010, 1992-2006",,"10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,.50,discontinued,,,,,
+2,35022111,SHIM,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,1.0,discontinued,,,1.2 x 1.1 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-fender~35022111.html
+3,4708020,PLUG,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,8,1,,,,discontinued,,,0.9 x 0.9 x 0.5 inches,1.10 Pounds,/parts/mopar-plug-door-surround-19mm-hole-5~4708020.html
+4,4643726,"PANEL, Sill Outer, P.A.R.",Right,1992-1994,,,,,,,"1992-94-95, Right",discontinued,,,,,
+4,4643727,"PANEL, Sill Outer, P.A.R.",Left,1992-1994,,,,,,,"1992-94-95, Left",discontinued,,,,,
+4,4709040,"PANEL, Sill Outer, P.A.R.",Right,1993-1994,,,,,,,"1993-94-95, EUROPE, Right",discontinued,,,,,
+4,4709041,"PANEL, Sill Outer, P.A.R.",Left,1993-1994,,,,,,,"1993-94-95, EUROPE, Left",discontinued,,,,,
+4,4763640,"PANEL, Sill Outer, P.A.R.",Right,1996,,,,,,,"1996, Right",discontinued,,,,,
+4,4763641,"PANEL, Sill Outer, P.A.R.",Left,1996,,,,,,,"1996, Left",discontinued,,,,,
+6,4373728,"PLUG, Front of Dash",,"1998-2002, 1992-1996","GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,12.5,8.74,1.3 x 1.3 x 0.8 inches,0.50 Pounds,/parts/mopar-plug~4373728.html
+,4708428,"APPLIQUE, Sill Cover Anti Chip",Right,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Front, Right",discontinued,,,,0.50 Pounds,/parts/mopar-applique-front-sill~4708428.html
+,4708429,"APPLIQUE, Sill Cover Anti Chip",Left,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Front, Left",discontinued,,,,0.50 Pounds,/parts/mopar-applique-front-sill~4708429.html
+,4708430,"APPLIQUE, Sill Cover Anti Chip",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Center, Right",discontinued,,,,0.50 Pounds,/parts/mopar-applique-sill-cvr-anti-chip-cntr-r~4708430.html
+,4708431,"APPLIQUE, Sill Cover Anti Chip",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Center, Left",discontinued,,,9.5 x 9.4 x 2.5 inches,0.60 Pounds,/parts/mopar-applique-sill-cvr-anti-chip-cntr-r~4708431.html
+,4708432,"APPLIQUE, Sill Cover Anti Chip",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Rear, Right",available,54.39,42.75,6.6 x 5.0 x 0.4 inches,0.50 Pounds,/parts/mopar-applique-sill-cvr-anti-chip-rr-rt~4708432.html
+,4708433,"APPLIQUE, Sill Cover Anti Chip",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Rear, Left",discontinued,,,6.4 x 5.0 x 0.4 inches,0.40 Pounds,/parts/mopar-applique-rear-sill~4708433.html
+,4708250,"END CAPS, Rear",Right,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-95, Right",discontinued,,,,0.80 Pounds,/parts/mopar-end-cap-cap-rear-rt~4708250.html
+,4708251,"END CAPS, Rear",Left,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-95, Left",discontinued,,,,0.70 Pounds,/parts/mopar-rear-rt-end-cap~4708251.html
+,5245544,"END CAPS, Rear",Right,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996, Right",discontinued,,,7.0 x 6.6 x 1.3 inches,0.70 Pounds,/parts/mopar-cap~5245544.html
+,5245545,"END CAPS, Rear",Left,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996, Left",discontinued,,,7.1 x 7.0 x 1.4 inches,3.90 Pounds,/parts/mopar-cap~5245545.html
+,4708022,"LABEL, Bar Warning",,"2008-2010, 2002-2006, 1992-1998","COMP. Coupe, GTS Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,,0.40 Pounds,/parts/mopar-label-sport-bar-warning~4708022.html
+,4708021,"LABEL, Exhaust Warning",,1992-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-label-exhaust-warning~4708021.html
+,4708252,"RETAINER, Insulation, Right",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,3.30 Pounds,/parts/mopar-retainer-insulation-rt~4708252.html
+,4708253,"RETAINER, Insulation, Right",Left,,,,,,,,"RETAINER, Insulation, Left",discontinued,,,,,
+,6504580,"SCREW and WASHER, M4.8x1.59x13.00",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,available,5,3.93,0.8 x 0.7 x 0.7 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head-tapping~6504580.html

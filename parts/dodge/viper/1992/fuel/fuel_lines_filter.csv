@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763006AB,"BUNDLE, Fuel Line, Tank to Chassis",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,22.9 x 10.6 x 2.7 inches,0.70 Pounds,/parts/mopar-tube-fuel-lines~4763006ab.html
+1,4643670,"BUNDLE, Fuel Line, Tank to Chassis",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-bundle-fuel-line-f-tank-to-chassis~4643670.html
+2,4643542,"LINE, Fuel Supply",,,,,,,,,,discontinued,,,,,
+3,4643543,"LINE, Fuel Return, 1992-93",,,,,,,,,,discontinued,,,,,
+4,4643544,"LINE, Fuel Vapor",,,,,,,,,,discontinued,,,,,
+6,4708317,"FILTER, Fuel",,1993-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,52020016,"FILTER, Fuel",,1992,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,40.19,31.1,,1.10 Pounds,/parts/mopar-filter-asm-fuel~52020016.html
+7,3404625,"CLIP, Fuel Return Line",,,,,2,,,,,discontinued,,,,,
+8,4709067,"LINE, Chassis Fuel",,1992-1995,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+8,4764000,"LINE, Chassis Fuel",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,109.5 x 15.4 x 14.5 inches,2.40 Pounds,/parts/mopar-tube-fuel~4764000.html
+9,52017741,"CLIP, Fuel Bundle",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.0 x 0.6 x 2.5 inches,0.60 Pounds,/parts/mopar-clip-fuel-bundle~52017741.html
+10,2207919,"CLIP, Fuel Line",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,available,6.75,5.31,1.4 x 1.1 x 0.6 inches,0.40 Pounds,/parts/mopar-clip-parking-brake-cable~2207919.html
+11,6035135,"SCREW, Fuel Line Clip, (.250-14x.875)",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw~6035135.html

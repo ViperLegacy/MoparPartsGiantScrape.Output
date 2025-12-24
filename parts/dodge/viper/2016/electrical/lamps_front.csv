@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68207853AA,COVER,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,25.25,17.13,3.7 x 3.5 x 2.6 inches,0.60 Pounds,/parts/mopar-cover~68207853aa.html
+2,L0000D3S,BULB Headlamp D3S,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,405,270.95,4.2 x 4.1 x 4.2 inches,0.40 Pounds,/parts/mopar-headlamp-headlamp~l0000d3s.html
+3,68111652AC,HEADLAMP,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68111652AB,Right [LMC],unavailable,1460,1209.1,24.1 x 16.3 x 13.1 inches,11.00 Pounds,/parts/mopar-headlamp~68111652ac.html
+3,68145248AC,HEADLAMP,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68145248AB,Right [LMP],available,1460,1177,24.1 x 16.2 x 12.8 inches,10.80 Pounds,/parts/mopar-headlamp~68145248ac.html
+3,68145249AC,HEADLAMP,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68145249AB,Left [LMP],available,1460,1177,23.7 x 16.0 x 12.8 inches,10.20 Pounds,/parts/mopar-headlamp~68145249ac.html
+4,68194268AB,LAMP Side Marker,Right,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68194268AA,,available,47.8,33.38,6.6 x 3.4 x 1.8 inches,0.50 Pounds,/parts/mopar-lamp-side-marker~68194268ab.html
+5,153624,BULB W3W,,"2013-2017, 2009-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,9.95,6.93,0.3 x 0.4 x 0.9 inches,1.40 Pounds,/parts/mopar-bulb~153624.html
+6,6102244AA,NUT,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,available,3.9,2.68,0.8 x 0.8 x 0.4 inches,0.50 Pounds,/parts/mopar-nut~6102244aa.html
+7,68170821AA,MODULE HID Ballast,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,671,442.2,5.4 x 4.8 x 3.3 inches,1.20 Pounds,/parts/mopar-module-hid-ballast~68170821aa.html
+9,6509367AA,NUT M6x1.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,6,1,,,,available,3.8,2.62,0.9 x 0.9 x 0.6 inches,0.40 Pounds,/parts/mopar-nut~6509367aa.html
+10,4389440,CAP Wiper Arm Nut,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,28.9,20.15,1.0 x 1.0 x 0.5 inches,0.40 Pounds,/parts/mopar-cap-wiper-arm-nut~4389440.html

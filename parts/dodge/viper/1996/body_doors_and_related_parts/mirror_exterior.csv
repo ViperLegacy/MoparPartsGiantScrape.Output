@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4643214,"MIRROR, Complete",Right,1992-1993,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4709432,"MIRROR, Complete",Right,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,3.50 Pounds,/parts/mopar-mirror-outside-rearview~4709432.html
+1,4709433,"MIRROR, Complete",,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left, 1994-96
+Left, EUROPE",available,130.76,102.76,,3.50 Pounds,/parts/mopar-mirror-outside-rearview~4709433.html
+1,4709434,"MIRROR, Complete",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right, EUROPE",discontinued,,,,3.60 Pounds,/parts/mopar-mirror-as-o-s-rr-view-comp-primed-rt~4709434.html
+1,4856052,"MIRROR, Complete",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"SHIELD, Mirror Sight, Right",discontinued,,,,0.50 Pounds,/parts/mopar-mirror-asm-o-s-rt-lt-sight~4856052.html
+1,4856053,"MIRROR, Complete",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"SHIELD, Mirror Sight, Left",discontinued,,,,0.70 Pounds,/parts/mopar-shield-mirror-assy-o-s-rt-lt~4856053.html
+2,6101371,"SCREW, Mirror Mounting",,,,,4,,,,,discontinued,,,,,

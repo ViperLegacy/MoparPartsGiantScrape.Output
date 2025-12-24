@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4854300AA,PAN Trunk,,1998,GTS Coupe,10 Cyl 8.0L,,,,,GT-2,discontinued,,,,203.30 Pounds,/parts/mopar-trunk-pan~4854300aa.html
+3,4848591,EXHAUSTER Bodyside Aperture,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,4,1,,,,discontinued,,,6.6 x 5.5 x 1.2 inches,0.50 Pounds,/parts/mopar-exhauster-bodyside-aperature~4848591.html
+5,6502688,SCREW AND WASHER Hex Head M10x1.5x70,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.1 x 0.8 x 0.2 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6502688.html
+6,4642900,ISOLATOR Rear Floor Pan To Frame,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,4.0 x 3.1 x 0.8 inches,0.60 Pounds,/parts/mopar-isolator-rear-floor-pan-to-frame~4642900.html
+7,4848189,SPACER Floor Pan Isolator,,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,5.98,4.7,1.0 x 0.5 x 0.6 inches,0.40 Pounds,/parts/mopar-spacer-floor-pan-isolator~4848189.html
+8,4848868AA,SHIM Floor Pan Isolator,,1997-2002,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,One Inch,discontinued,,,2.0 x 2.0 x 0.1 inches,0.60 Pounds,/parts/mopar-shim-floor-pan-isolator~4848868aa.html
+9,6503675,SCREW AND WASHER Hex Head M10x1.5x40,,1997-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,available,11.35,8.91,1.8 x 1.1 x 1.2 inches,0.60 Pounds,/parts/mopar-screw-hex-head~6503675.html
+11,4665288,ANCHOR Tie Down,,1992-1999,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,,/parts/mopar-anchor-tie-down~4665288.html
+12,6034646,RIVET .197 Grip-.187-.375,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,2.3 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-retainer~6034646.html
+13,4708256,PLATE Footman Loop,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.80 Pounds,/parts/mopar-plate-footman-loop~4708256.html
+14,4763477,CUSHION Trunk Pan,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,9.3 x 6.3 x 0.3 inches,0.60 Pounds,/parts/mopar-support-trunk-pan~4763477.html
+15,4848865AA,PATCH Floor Pan Rear Corner,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 2.1 x 0.3 inches,2.40 Pounds,/parts/mopar-shield-floor-pan-rear-corner~4848865aa.html
+,4848819,COVER Trunk Exhauster,Left,,,,,,,,,discontinued,,,,,
+,4848103,GASKET Fuel Pump Cover Plate,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.7 x 10.4 x 0.6 inches,0.60 Pounds,/parts/mopar-gasket-fuel-pump-cover-plate~4848103.html
+,4848419,PLUG Floor Pan,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,0.8 x 0.4 x 0.4 inches,0.90 Pounds,/parts/mopar-plug-floor-pan~4848419.html
+,4708168,STRAP Cargo Tie Down,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.5 x 5.0 x 2.0 inches,0.70 Pounds,/parts/mopar-strap-cargo-tie-down~4708168.html

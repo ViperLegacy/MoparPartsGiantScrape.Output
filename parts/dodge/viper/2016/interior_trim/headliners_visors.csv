@@ -1,0 +1,35 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5YK18DX9AC,HEADLINER,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,"5YK18DX9AA, 5YK18DX9AB","[-V5], [CHE]
+[-VX], [CHE]
+[-X6], [CHE]
+[-X9], [CHE]...View More",available,1620,1093.84,49.0 x 41.2 x 8.2 inches,18.30 Pounds,/parts/mopar-headliner~5yk18dx9ac.html
+1,5YK18LV5AC,HEADLINER,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,"5YK18LV5AA, 5YK18LV5AB","[-VV], [CHE]",available,1300,880.27,49.5 x 44.1 x 8.3 inches,12.90 Pounds,/parts/mopar-headliner~5yk18lv5ac.html
+1,5YK43DX9AC,HEADLINER,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,"5YK43DX9AA, 5YK43DX9AB","[-V5], [CHD]
+[-VX], [CHD]
+[-X6], [CHD]
+[-X9], [CHD]
+[-XR], [CHD]
+[-XY], [CHD]...View More",available,1900,1288.2,50.9 x 41.6 x 8.4 inches,18.20 Pounds,/parts/mopar-headliner~5yk43dx9ac.html
+4,6035201,RIVET Headliner To Roof - Push-Pin Style,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,10,1,,,,available,12.2,8.45,2.8 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-rivet~6035201.html
+5,1UL85DX9AE,VISOR,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"1UL85DX9AD, 1UL85DX9AC, 1UL85DX9AB, 1UL85DX9AA","Left [-V5], [CHD]
+Left [-VX], [CHD]
+Left [-X6], [CHD]
+Left [-X9], [CHD]
+Left [-XR], [CHD]
+Left [-XY], [CHD]...View More",available,868,572,17.5 x 12.1 x 2.3 inches,1.40 Pounds,/parts/mopar-visor~1ul85dx9ae.html
+5,1WV62DX9AD,VISOR,,2016,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1WV62DX9AE,,"Right [-V5], [CHE]
+Right [-VX], [CHE]
+Right [-X6], [CHE]
+Right [-X9], [CHE]
+Right [-XR], [CHE]...View More",available,492,76.5,17.1 x 12.4 x 2.3 inches,1.70 Pounds,/parts/mopar-visor~1wv62dx9ad.html
+5,1WV62LR9AD,VISOR,,2016,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1WV62LR9AE,,"Right [-R9], [CHE]",available,492,328.93,17.5 x 12.4 x 2.3 inches,1.70 Pounds,/parts/mopar-visor~1wv62lr9ad.html
+5,1WV62LV5AD,VISOR,,2016,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1WV62LV5AE,,"Right [-VV], [CHE]",available,492,267.75,17.3 x 12.6 x 2.3 inches,1.70 Pounds,/parts/mopar-visor~1wv62lv5ad.html
+5,1WV63DX9AE,VISOR,,2016,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1WV63DX9AF,,"Left [-V5], [CHE]
+Left [-VX], [CHE]
+Left [-X6], [CHE]
+Left [-X9], [CHE]
+Left [-XR], [CHE]...View More",available,474,316.66,17.3 x 12.6 x 2.3 inches,1.40 Pounds,/parts/mopar-visor~1wv63dx9ae.html
+5,1WV63LR9AE,VISOR,,2016,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1WV63LR9AF,,"Left [-R9], [CHE]",available,474,316.66,17.6 x 12.1 x 3.2 inches,1.40 Pounds,/parts/mopar-visor~1wv63lr9ae.html
+5,1WV63LV5AE,VISOR,,2016,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1WV63LV5AF,,"Left [-VV], [CHE]",available,474,320.35,17.3 x 12.2 x 2.3 inches,1.40 Pounds,/parts/mopar-visor~1wv63lv5ae.html
+6,4720533,SCREW,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,6,4.08,0.7 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-screw~4720533.html
+,5KX19DX9AB,BEZEL Dome Lamp Includes LED,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,5KX19DX9AA,,available,31.4,25.16,,0.70 Pounds,/parts/mopar-bezel-dome-lamp~5kx19dx9ab.html

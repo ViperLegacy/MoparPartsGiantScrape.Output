@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68158243AA,SWITCH Headlamp,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68158243AB,,,available,103,69.24,3.7 x 3.5 x 2.6 inches,0.70 Pounds,/parts/mopar-switch-headlamp~68158243aa.html
+2,1UL96XR4AA,SWITCH Ignition,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,6GE11XR4AC,,,available,122,80.33,6.4 x 2.9 x 2.9 inches,0.60 Pounds,/parts/mopar-module-ignition~1ul96xr4aa.html
+3,5035288AA,SWITCH Glove Box Lamp,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,26.8,18,3.7 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-switch-glove-box-lamp~5035288aa.html
+4,4565022,SWITCH AND LAMP Glove Box,,"2013-2017, 2008-2010, 2005, 2003","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,33.8,23.42,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-switch-glove-box~4565022.html

@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5035148AD,WIRING Body,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5035148AG,,,available,757,517.56,26.3 x 14.1 x 8.1 inches,11.30 Pounds,/parts/mopar-wiring-body~5035148ad.html
+2,5035155AD,WIRING Rear Fascia,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5035155AE,,,available,311,207,16.6 x 10.4 x 2.3 inches,1.50 Pounds,/parts/mopar-wiring-rear-fascia~5035155ad.html
+3,5035149AD,WIRING Underbody Contains Battery Wiring,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5035149AG,,,available,1500,1006.83,22.7 x 10.5 x 6.6 inches,10.80 Pounds,/parts/mopar-wiring-underbody~5035149ad.html
+4,5035319AA,"WIRING Battery, Alternator, And Starter",,,,,,,,,,discontinued,,,,,

@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4643867AB,HORN High Note,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,After 1-27-97,discontinued,,,6.3 x 6.3 x 3.4 inches,1.20 Pounds,/parts/mopar-horn~4643867ab.html
+,4643868AB,HORN Low Note,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,After 1-27-97,discontinued,,,7.2 x 3.2 x 2.1 inches,1.60 Pounds,/parts/mopar-horn~4643868ab.html
+,6035135,SCREW,,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw~6035135.html

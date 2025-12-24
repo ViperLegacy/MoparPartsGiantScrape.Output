@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763850AB,GAUGE Speedometer,,,,,,,,,,discontinued,,,,,
+4,4642133AB,GAUGE Oil Pressure,,1997-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.00 Pounds,/parts/mopar-gage-oil-pressure~4642133ab.html
+5,4642134AB,GAUGE Temperature,,1997-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.7 x 4.1 x 3.2 inches,1.40 Pounds,/parts/mopar-gage-temperature~4642134ab.html
+,4848154,CHIMNEY Cluster,,1997-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,3.67,2.88,4.1 x 1.8 x 1.0 inches,0.40 Pounds,/parts/mopar-chimney-cluster~4848154.html

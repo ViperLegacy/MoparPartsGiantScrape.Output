@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,WN73ERSAC,DECAL VIPER,,2008-2009,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KEM],available,66.95,61.64,9.2 x 4.1 x 0.4 inches,0.40 Pounds,/parts/mopar-d-viper~wn73ersac.html
+1,WN73FCVAC,DECAL VIPER,,2008,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KEV],available,24,18.86,11.6 x 6.1 x 0.4 inches,0.40 Pounds,/parts/mopar-d-viper~wn73fcvac.html
+1,WN73GBCAC,DECAL VIPER,,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KEC],available,68.1,47.59,17.1 x 6.2 x 0.2 inches,0.40 Pounds,/parts/mopar-d-viper~wn73gbcac.html
+1,WN73GGSAC,DECAL VIPER,,"2010, 2008","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KEN],available,72.3,58.22,11.8 x 6.4 x 0.4 inches,0.40 Pounds,/parts/mopar-d-viper~wn73ggsac.html
+1,WN73GK3AC,DECAL VIPER,,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KEL],available,84.15,56.5,11.5 x 6.2 x 0.4 inches,0.40 Pounds,/parts/mopar-d-viper~wn73gk3ac.html
+1,WN73SBBAC,DECAL VIPER,,"2008, 2006","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,WN73SBBAB,[KEB],available,66.95,56.5,11.4 x 4.2 x 0.4 inches,0.40 Pounds,/parts/mopar-d-viper~wn73sbbac.html
+1,WN73WRRAC,DECAL VIPER,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,WN73WRRAB,[KER],available,72.3,58.22,11.9 x 6.1 x 0.4 inches,0.60 Pounds,/parts/mopar-d-viper~wn73wrrac.html
+2,WN80ERSAC,DECAL DODGE,,2008-2009,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KSM],available,48.2,40.25,10.3 x 6.2 x 0.4 inches,0.40 Pounds,/parts/mopar-d~wn80ersac.html
+2,WN80FCVAC,DECAL DODGE,,2008,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KSV],discontinued,,,11.5 x 6.1 x 0.4 inches,0.50 Pounds,/parts/mopar-d~wn80fcvac.html
+2,WN80GBCAC,DECAL DODGE,,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KSC],available,55.55,37.8,11.8 x 6.3 x 0.4 inches,0.50 Pounds,/parts/mopar-d~wn80gbcac.html
+2,WN80GGSAC,DECAL DODGE,,"2010, 2008","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KSN],discontinued,,,11.4 x 6.4 x 0.4 inches,0.50 Pounds,/parts/mopar-d~wn80ggsac.html
+2,WN80GK3AC,DECAL DODGE,,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.4L,,,,,[KSL],available,57.65,39.03,11.8 x 6.2 x 0.4 inches,0.50 Pounds,/parts/mopar-d~wn80gk3ac.html
+2,WN80SBBAC,DECAL DODGE,,"2008, 2006","COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,WN80SBBAA,[KSB],discontinued,,,11.5 x 6.1 x 0.4 inches,0.50 Pounds,/parts/mopar-d~wn80sbbac.html
+2,WN80WRRAC,DECAL DODGE,,"2008-2010, 2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,[KSR],available,50.85,42.76,11.7 x 6.2 x 0.4 inches,0.50 Pounds,/parts/mopar-d~wn80wrrac.html
+3,WN81XZAAC,DECAL SRT-10,,"2008-2010, 2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,75.5,60.64,14.9 x 6.4 x 0.7 inches,0.50 Pounds,/parts/mopar-d-viper~wn81xzaac.html
+,68037898AA,DECAL ACR,,2008-2009,"COMP. Coupe, SRT-10 Coupe",10 Cyl 8.4L,2,1,68037898AB,,,available,265,215.45,12.7 x 10.3 x 3.2 inches,0.60 Pounds,/parts/mopar-d-viper~68037898aa.html

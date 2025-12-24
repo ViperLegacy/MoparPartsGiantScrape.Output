@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5264889AA,CANISTER Vapor,,2000-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,13.8 x 9.5 x 6.1 inches,4.50 Pounds,/parts/mopar-canister-vapor~5264889aa.html
+2,5264878AA,BRACKET Leak Detection Pump,,2000-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,15.49,12.17,7.2 x 6.9 x 2.6 inches,1.40 Pounds,/parts/mopar-bracket-leak-detection-pump~5264878aa.html
+,6101447,NUT,,"2013-2017, 2008-2010, 2003-2006, 1999-2000","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",3,1,,,,available,8.55,5.94,0.8 x 0.8 x 0.6 inches,0.40 Pounds,/parts/mopar-nut~6101447.html
+,6101801,SCREW Tapping Annular M8x1.25x15,,"2000-2001, 1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,0.9 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-screw-tapping-annular~6101801.html
+,6503951,STUD M6X1.00X.250-14X30.00,,1998-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,1.2 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-stud~6503951.html

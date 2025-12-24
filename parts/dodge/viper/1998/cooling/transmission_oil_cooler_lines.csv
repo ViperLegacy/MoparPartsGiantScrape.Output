@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848310,LINE Oil Cooler Inlet,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4848310AB,,discontinued,,,18.7 x 12.4 x 1.2 inches,1.30 Pounds,/parts/mopar-line-oil-cooler-inlet~4848310.html
+2,4848300,LINE Oil Cooler Outlet,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4848300AB,,discontinued,,,19.8 x 9.9 x 1.2 inches,1.20 Pounds,/parts/mopar-line-oil-cooler-outlet~4848300.html
+3,4643826AB,COOLER Engine Oil,,,,,,,,,,discontinued,,,,,
+4,6034530,SCREW Hex Head .312-18x.75,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,,,,available,5.33,4.19,1.0 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6034530.html
+5,6100296,BOLT Hex Head,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,8.65,6,1.2 x 0.7 x 0.7 inches,0.80 Pounds,/parts/mopar-bolt-hex-head~6100296.html

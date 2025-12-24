@@ -1,0 +1,38 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4709414,"DIFFERENTIAL ASSEMBLY, Rear Complete as Purchased",,1994-1995,,,,,,,,discontinued,,,,,
+1,4763897,"DIFFERENTIAL ASSEMBLY, Rear Complete as Purchased",,1996,,,,,,,,discontinued,,,,,
+1,4626714,"HOUSING, Also Includes Items #23 & 24.",,,,,,,,,,discontinued,,,,,
+2,1795173,"NUT, Pinion",,"2003-2006, 1992-1996","COMP. Coupe, GTS Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,5191197AA,,,available,,14.51,0.9 x 1.6 x 1.7 inches,0.50 Pounds,/parts/mopar-nut-pinion~1795173.html
+3,1795175,"WASHER, Pinion Nut",,"2013-2017, 2008-2010, 2003-2006, 1992-1996","ACR-X Coupe, COMP. Coupe, GTS Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,7,4.83,1.5 x 1.5 x 0.1 inches,0.40 Pounds,/parts/mopar-washer-pinion~1795175.html
+4,4626715,"YOKE ASSEMBLY, Driveshaft",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,5137577AA,,,discontinued,,,6.8 x 6.4 x 3.4 inches,2.30 Pounds,/parts/mopar-yoke-drive-shaft~4626715.html
+5,4384188,"SEAL, Oil Front",,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,47.7,33.14,3.5 x 3.4 x 0.9 inches,0.60 Pounds,/parts/mopar-seal-drive-pinion~4384188.html
+6,4506090,"WASHER, Thrust Pinion Bearing",,,,,,,,,,discontinued,,,,,
+7,4626725,"BEARING PACKAGE, Pinion Outer",,,,,,,,,,discontinued,,,,,
+9,4626710,"PLUG, Pipe 1992-93, (Not Used in 1994)",,"2013-2015, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,68401316AB,,,available,13.5,9.26,1.0 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-plug-differential-housing~4626710.html
+10,4626697,"YOKE/SHAFT ASSEMBLY, Right",,,,,,,,,,discontinued,,,,,
+11,4626699,BEARING ASSEMBLY,,,,,2,,,,,discontinued,,,,,
+12,4626696,"SEAL, Oil Side",,"2013-2017, 2008-2010, 2000-2006, 1992-1996","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,35.05,24.35,4.0 x 4.2 x 0.2 inches,1.40 Pounds,/parts/mopar-seal-axle-drive-shaft~4626696.html
+13,4626721,"SPACER, Collapsible",,,,,,,,,,discontinued,,,,,
+14,4626726,"BEARING PACKAGE, Pinion Inner",,,,,,,,,,discontinued,,,,,
+15,4626729,"SHIM PACKAGE, Each Package Contains 5 Shims",,,,,,,,,.035 thru .039,discontinued,,,,,
+15,4626730,"SHIM PACKAGE, Each Package Contains 5 Shims",,,,,,,,,.040 thru .044,discontinued,,,,,
+15,4626731,"SHIM PACKAGE, Each Package Contains 5 Shims",,,,,,,,,.045 thru .049,discontinued,,,,,
+15,4626732,"SHIM PACKAGE, Each Package Contains 5 Shims",,,,,,,,,.050 thru .054,discontinued,,,,,
+16,4626716,"GEAR & PINION PACKAGE, Also Contains:#2,3,13 & 18.",,,,,,,,,,discontinued,,,,,
+17,4626708,"COVER ASSEMBLY, Includes #19 (Bushings)",,,,,,,,,,discontinued,,,,,
+18,4626709,"SCREW, Flange Head",,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",9,1,,,,available,4.25,3.67,1.5 x 0.8 x 0.7 inches,0.50 Pounds,/parts/mopar-boot-differential-cover~4626709.html
+19,4626738,"BUSHING ASSEMBLY, Rear Axle Mounting",,,,,2,,,,,discontinued,,,,,
+20,4626711,"VENT, Rear Axle",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,7.55,1.31,,0.50 Pounds,/parts/mopar-axle-vent~4626711.html
+21,4626724,"SHIM PACKAGE, Differential Adjustment Contains: 16 Shims, 4 each of .003, .005, .010 and .030.",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-shim-differential~4626724.html
+22,4626727,"BEARING PACKAGE, Differential",,,,,,,,,,discontinued,,,,,
+25,4626698,"YOKE/SHAFT ASSEMBLY, Left",,,,,,,,,,discontinued,,,,,
+26,5252503,"SCREW, Ring Gear to Case",,"2000, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,available,14.05,9.73,1.2 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-bolt-ring-gear~5252503.html
+27,4723929,"CASE ASSEMBLY, Differential (Complete)",,,,,,,,,,discontinued,,,,,
+28,4626712,"PLUG, Pipe",,,,,,,,,,discontinued,,,,,
+29,4626713,"WASHER, Plug Seal",,,,,,,,,,discontinued,,,,,
+,6502578,"BOLT, Crossmember to Diff. Mounting (M14x2.00x200.00)",,"2000-2002, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,8.4 x 0.8 x 0.8 inches,0.90 Pounds,/parts/mopar-screw-hex-head~6502578.html
+,6100468,"BOLT, Differential Mounting (M14x2.00x95.00)",,1992-2004,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,discontinued,,,4.3 x 0.9 x 0.8 inches,1.20 Pounds,/parts/mopar-screw-hex-head~6100468.html
+,6100520,"NUT, Differential Mounting (M14x2.00)",,"2013, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,6502040,,available,13.2,9.15,1.1 x 1.2 x 0.7 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-head-locking~6100520.html
+,4626707,"RING, Snap .085"" Thick (Pink)",,"2000-2006, 1992-1996","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",2,1,,,,available,7.08,5.57,1.3 x 0.1 x 0.1 inches,0.70 Pounds,/parts/mopar-snap-ring-axle-shaft~4626707.html
+,83504374,"SCREW PACKAGE, Ring Gear to Case (10 Screws)",,,,,,,,,,discontinued,,,,,
+,6100887,"WASHER, Differential Mounting",,,,,4,,,,,discontinued,,,,,

@@ -1,8 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,153816,SCREW Tapping .164-18x.75,,,,4,1,,,discontinued,,,/parts/mopar-screw-tapping~153816.html
-2,4865640AB,PLENUM Fresh Air Inlet,,,,,,4865640AE,,available,465,308.86,/parts/mopar-plenum-fresh-air-inlet~4865640ab.html
-3,4865554AA,DUCT Defroster,,,,,,,,available,48.3,42.68,/parts/mopar-duct-floor-distribution~4865554aa.html
-4,4865809AA,DUCT Floor,,,,,,,,available,28.7,25.05,/parts/mopar-duct-floor~4865809aa.html
-5,6100840,NUT Spring,,,,,,,,available,7.25,5.01,/parts/mopar-nut-spring~6100840.html
-6,6505300AA,SCREW,,,,2,1,,,available,9.5,5.92,/parts/mopar-screw-tapping-pan-head~6505300aa.html
-12,4865545AA,DUCT Instrument Panel,,,,,,,,available,21.4,18.64,/parts/mopar-duct-instrument-panel~4865545aa.html

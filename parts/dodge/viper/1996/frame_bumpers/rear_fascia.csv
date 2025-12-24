@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4761778,"FASCIA, REAR",,1993-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Primed, EXPORT, 1993-95",discontinued,,,,20.40 Pounds,/parts/mopar-fascia-rear~4761778.html
+1,4864967,"FASCIA, REAR",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,EXPORT,available,160.02,125.75,,10.40 Pounds,/parts/mopar-fascia-rear-in-prime-bux~4864967.html
+1,4864970,"FASCIA, REAR",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,with Exhaust Cut-Outs,discontinued,,,,20.80 Pounds,/parts/mopar-fascia-rear-in-prime~4864970.html
+1,LB05SBE,"FASCIA, REAR",,1996,29,10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,4643221,"REINFORCEMENT, Fascia",,1992-1996,,10 Cyl 8.0L,,,,,Steel,discontinued,,,,,
+2,4708342,"REINFORCEMENT, Fascia",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Fiberglass,available,216.03,169.76,,9.70 Pounds,/parts/mopar-fascia-rear~4708342.html
+3,6501067,"RETAINER, Fascia to Reinforcement",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",9,1,,,,available,9.65,6.7,1.3 x 1.3 x 1.1 inches,0.40 Pounds,/parts/mopar-pin-push~6501067.html
+5,0180020,SCREW,,,,,5,,,,,discontinued,,,,,
+6,4709411,"RETAINER, Fascia to Lower Rail",,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.80 Pounds,/parts/mopar-retainer-rail-frm-lwr-to-rr-fascia~4709411.html
+7,6100049,NUT,,"1998, 1992-1996","GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,6102612AA,,,available,2.3,1.57,0.5 x 0.5 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex~6100049.html
+9,6029237,SCREW,,,,,,,,,,discontinued,,,,,
+10,6031012,SCREW,,,,,4,,,,,discontinued,,,,,
+11,4642760,"SHIELD, Lower Rear Splash",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.80 Pounds,/parts/mopar-shield-splash-rr-lwr-rt~4642760.html
+11,4642761,"SHIELD, Lower Rear Splash",Left,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+11,4709085,"SHIELD, Lower Rear Splash",,"1998-2001, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"SHIELD, Fascia Heat, EXPORT",discontinued,,,25.7 x 20.9 x 0.2 inches,0.80 Pounds,/parts/mopar-shield-heat~4709085.html
+12,4708347,FOAM,,"2001-2002, 1992-1996","27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,FOAM AND TAPE ASSEMBLY,discontinued,,,103.0 x 7.2 x 5.7 inches,2.20 Pounds,/parts/mopar-absorber-fascia~4708347.html
+12,4763373,FOAM,,"2000-2002, 1998, 1992-1996","29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,55.8 x 7.9 x 5.7 inches,2.20 Pounds,/parts/mopar-absorber-fascia~4763373.html
+13,4643662,LICENSE PLATE PACKAGE,,,,,,,,,EXPORT (1 - Instruction Sheet),discontinued,,,,,
+14,5245790,"RETAINER, Fascia to Quarter Panel",Right,1992-1999,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,24.9 x 5.0 x 0.4 inches,1.00 Pounds,/parts/mopar-retainer-rr-fascia~5245790.html
+14,5245791,"RETAINER, Fascia to Quarter Panel",Left,1992-2000,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,22.2 x 3.2 x 0.3 inches,1.00 Pounds,/parts/mopar-retainer-rr-fascia~5245791.html
+,4708344,"PLATE, Adapter Fascia To Frame",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,171,97.45,8.6 x 7.5 x 2.8 inches,2.20 Pounds,/parts/mopar-adaptor-bumper-fascia~4708344.html

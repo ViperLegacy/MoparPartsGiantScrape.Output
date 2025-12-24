@@ -1,0 +1,28 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245035,"LINE ASSEMBLY, Suction",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,5245035AB,,"1996
+LINE ASSEMBLY, Suction",discontinued,,,40.5 x 14.7 x 5.7 inches,1.50 Pounds,/parts/mopar-line-air-conditioning-suction~5245035.html
+1,4708197,"LINE ASSEMBLY, Suction",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,40.8 x 3.2 x 1.5 inches,1.70 Pounds,/parts/mopar-line-assy-assy-a-c-suction~4708197.html
+1,4728364,"LINE ASSEMBLY, Suction",,,,10 Cyl 8.0L,,,,,"1/2"" (O-RING)",discontinued,,,,,
+1,4740968,"LINE ASSEMBLY, Suction",,,,10 Cyl 8.0L,,,,,8.0mm (O-RING),discontinued,,,,,
+2,4708200,"LINE ASSEMBLY, Liquid",,1992-1995,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,4723031,"LINE ASSEMBLY, Liquid",,,,10 Cyl 8.0L,,,,,Line to Compressor (O-RING),discontinued,,,,,
+2,4728364,"LINE ASSEMBLY, Liquid",,,,10 Cyl 8.0L,,,,,Line to Evaporator (O-RING),discontinued,,,,,
+2,4848164,"LINE ASSEMBLY, Liquid",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996
+LINE ASSEMBLY, Liquid",discontinued,,,32.6 x 5.7 x 6.0 inches,0.70 Pounds,/parts/mopar-line-air-conditioning-liquid~4848164.html
+3,4708199,"LINE ASSEMBLY, Discharge",,1992-1995,,,,,,,,discontinued,,,,,
+3,4728364,"LINE ASSEMBLY, Discharge",,,,,2,,,,"O-RING, 1/2""",discontinued,,,,,
+3,5245036,"LINE ASSEMBLY, Discharge",,1996,,,,,,,"1996
+LINE ASSEMBLY, Discharge",discontinued,,,,,
+4,4708201,"DRIER, Receiver, w/Bracket",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.6 x 6.5 x 6.6 inches,2.50 Pounds,/parts/mopar-drier~4708201.html
+5,4709099,"CLIP, 1/2""",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,3.1,2.44,1.5 x 1.3 x 0.7 inches,0.60 Pounds,/parts/mopar-clip-discharge-line~4709099.html
+6,4709097,"CLIP, 3/8""",,,,,,,,,,discontinued,,,,,
+7,5264642,"CAP, Service Port",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,68620804AA,,,available,,6.55,1.1 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-cap-a-c-check-valve~5264642.html
+8,4709098,"CLIP, 5/8""",,,,,,,,,,discontinued,,,,,
+9,4708204,"SWITCH, Pressure, Dual",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,7.1 x 6.1 x 4.1 inches,0.40 Pounds,/parts/mopar-switch-dual-pressure~4708204.html
+9,4708203,"SWITCH, Pressure, Dual",,1992-2002,,10 Cyl 8.0L,,,,,"VALVE, w/Switch, Tube and Harness (When Replaced by 4848672 also use 4709101 Harness)",discontinued,,,,,
+10,4708206,"CONDENSER, w/Bushings",,1992-2002,"27; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,30.1 x 20.2 x 5.6 inches,5.40 Pounds,/parts/mopar-condenser-air-conditioning~4708206.html
+10,4848583,"CONDENSER, w/Bushings",,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+11,4708365,"HOSE, Drain",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.0 x 1.0 x 1.0 inches,1.40 Pounds,/parts/mopar-hose-drain~4708365.html
+12,4709101,"HARNESS, Pressure Switch",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-harness-s-wiring-a-c~4709101.html
+13,4709377,"BRACKET, Condenser Upper",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.3 x 5.3 x 0.8 inches,0.60 Pounds,/parts/mopar-bracket-air-conditioning-condenser~4709377.html
+14,5264650,"DECAL, A/C System Spec.",,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-decal-a-c-system-specification~5264650.html

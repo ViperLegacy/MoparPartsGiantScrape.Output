@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,1UL76DX9AD,CARPET Trunk Floor,,,,,,,,available,323,258.68,/parts/mopar-carpet-trunk~1ul76dx9ad.html
-2,1WS15DX9AC,CARPET Trunk Sides,,,,,,1WS15DX9AD,Left [CKB],available,329,221.63,/parts/mopar-carpet-trunk~1ws15dx9ac.html
-3,1WS17DX9AD,CARPET Insert B-Pillar,,,,,,,Left [CKB],available,342,227.46,/parts/mopar-carpet-insert~1ws17dx9ad.html
-4,1UL75DX9AD,CARPET Trunk Rear Wall Panel,,,,,,,,available,361,293.25,/parts/mopar-carpet-trunk~1ul75dx9ad.html
-5,6504555,PUSH PIN M8X21,,,,2,1,68365015AA,,available,10.75,7.46,/parts/mopar-push-pin~6504555.html
-6,68184753AB,BRACKET B-Pillar Attach For Item 2 Rear Side Carpet,,,,2,1,68184753AC,,available,27.85,24,/parts/mopar-bracket-b-pillar~68184753ab.html

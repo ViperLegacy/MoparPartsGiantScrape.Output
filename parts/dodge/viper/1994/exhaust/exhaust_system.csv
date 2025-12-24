@@ -1,0 +1,25 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4708488,EXHAUST ASSEMBLY,Right,1992,,10 Cyl 8.0L,,,,,"1992, Right",discontinued,,,,,
+1,4708489,EXHAUST ASSEMBLY,Left,1992,RT/10 Convertible,10 Cyl 8.0L,,,,,"1992, Left",discontinued,,,65.7 x 13.7 x 6.0 inches,28.10 Pounds,/parts/mopar-exhaust-assembly~4708489.html
+1,4763574,EXHAUST ASSEMBLY,Right,1993-1995,RT/10 Convertible,10 Cyl 8.0L,,,,,"1993-95, Right",discontinued,,,,28.90 Pounds,/parts/mopar-converter-right~4763574.html
+1,4763575,EXHAUST ASSEMBLY,Left,1993-1995,,10 Cyl 8.0L,,,,,"1993-95, Left",discontinued,,,,,
+2,4643169,"SPRING, Exhaust, 1992-93",,1992-1995,RT/10 Convertible,10 Cyl 8.0L,16,1,,,,available,3.33,2.62,,0.50 Pounds,/parts/mopar-spring-exhaust~4643169.html
+3,5217003,BOLT,,1992-1995,RT/10 Convertible,10 Cyl 8.0L,12,1,,,,discontinued,,,3.6 x 1.1 x 0.6 inches,0.70 Pounds,/parts/mopar-bolt-hex-flange-head~5217003.html
+3,E0035280,BOLT,,1992-1995,,10 Cyl 8.0L,,,,,Mopar V-Line Alternative Part,discontinued,,,,,
+4,4643279,RETAINER,,,,,8,,,,,discontinued,,,,,
+5,4427610,NUT,,,,,4,,,,,discontinued,,,,,
+6,4427779,"RING, Seal",,1992-1993,,10 Cyl 8.0L,2,,,,,discontinued,,,,,
+6,4763481,"RING, Seal",,1994-1995,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,available,8.8,6.92,,0.70 Pounds,/parts/mopar-seal-ring~4763481.html
+7,4301631,"SPRING, Exhaust Pipe Flange",,1992-1995,RT/10 Convertible,10 Cyl 8.0L,4,1,,,,available,7.88,6.2,,0.50 Pounds,/parts/mopar-spring-exh-pipe-flg~4301631.html
+7,E0035281,"SPRING, Exhaust Pipe Flange",,1992-1995,RT/10 Convertible,10 Cyl 8.0L,,,,,Mopar V-Line Alternative Part,discontinued,,,,0.50 Pounds,/parts/mopar-spring-mopar-exhaust-progr~e0035281.html
+8,4004445,"CLAMP, Exhaust Tip",,1992-1995,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,4.5 x 4.2 x 0.7 inches,1.00 Pounds,/parts/mopar-clamp-exhaust~4004445.html
+9,4642642,"INSULATION, Thermal, Sill, Right",Right,,,,,,,,,discontinued,,,,,
+9,4642643,"INSULATION, Thermal, Sill, Right",Left,,,,,,,,"INSULATION, Thermal, Sill, Left",discontinued,,,,,
+11,6100132,WASHER,,,,,16,,,,,discontinued,,,,,
+12,4709128,"TIP, Exhaust, Right",Right,1992-1995,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,,2.20 Pounds,/parts/mopar-exhaust-t-tip-exit~4709128.html
+12,4709129,"TIP, Exhaust, Right",Left,1992-1995,RT/10 Convertible,10 Cyl 8.0L,2,1,,,"TIP, Exhaust, Left",discontinued,,,,2.40 Pounds,/parts/mopar-exhaust-t-tip-exit~4709129.html
+13,6033047,BOLT,,"2001-2002, 1992-1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,8,1,,,,discontinued,,,2.3 x 0.9 x 0.9 inches,0.50 Pounds,/parts/mopar-bolt-shoulder~6033047.html
+14,4708458,ISOLATOR,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.7 x 1.1 x 0.2 inches,0.50 Pounds,/parts/mopar-support-exhaust-isolator~4708458.html
+15,4709036,ISOLATOR,,1994-1995,,10 Cyl 8.0L,,,,,"1994-95, 4 Hole",discontinued,,,,,
+15,4709038,ISOLATOR,,1992-1993,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-93, 3 Hole",discontinued,,,3.6 x 1.4 x 1.0 inches,0.60 Pounds,/parts/mopar-isolator-exhaust~4709038.html
+16,6101283,"U-NUT, 1992-93",,1992-2001,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,8,1,,6100042,,discontinued,,,1.1 x 0.7 x 0.6 inches,0.40 Pounds,/parts/mopar-nut~6101283.html

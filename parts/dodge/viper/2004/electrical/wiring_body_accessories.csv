@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5029822AA,WIRING Body,Right,2004,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,5029673AB,,,available,252,213.19,48.4 x 8.3 x 6.3 inches,4.30 Pounds,/parts/mopar-wiring-body~5029822aa.html
+,5093250AA,WIRING A/C and HEATER,,,,,,,,,,discontinued,,,,,
+,5029668AA,WIRING Battery Negative,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,4865977AB,,available,32.55,26.45,25.3 x 13.5 x 7.6 inches,7.10 Pounds,/parts/mopar-cable-bat-battery-negative~5029668aa.html
+,5029674AA,WIRING Console,,2003-2004,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,"5029269AD, 5029269AC, 5029269AB",,discontinued,,,5.6 x 4.2 x 1.0 inches,1.20 Pounds,/parts/mopar-wiring-console~5029674aa.html
+,5029663AA,WIRING Front Door,,2003-2004,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,"4865467AD, 4865467AC, 4865467AB",Left Up To 04/01/2004,discontinued,,,12.5 x 8.8 x 7.1 inches,3.70 Pounds,/parts/mopar-wiring-front-door~5029663aa.html
+,5029663AB,WIRING Front Door,,,27,,,,,,After 01/01/2004,discontinued,,,,,
+,5029667AA,WIRING Transmission,,2003-2004,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,4865928AB,,discontinued,,,25.8 x 13.5 x 7.9 inches,8.90 Pounds,/parts/mopar-wiring-transmission~5029667aa.html

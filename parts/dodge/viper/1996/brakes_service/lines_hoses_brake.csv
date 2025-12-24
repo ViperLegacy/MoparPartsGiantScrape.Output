@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642227,"TUBE ASSEMBLY, Front Brake , Right",Left,,,,,,,,"TUBE ASSEMBLY, Front Brake , Left",discontinued,,,,,
+2,2207919,"CLIP, Front Brake Tube",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,6.75,5.31,1.4 x 1.1 x 0.6 inches,0.40 Pounds,/parts/mopar-clip-parking-brake-cable~2207919.html
+3,4642229,"HOSE ASSEMBLY, Front Brake",Left,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-95, Left",discontinued,,,,1.00 Pounds,/parts/mopar-hose-frt-disc-brake-lt~4642229.html
+3,4763154,"HOSE ASSEMBLY, Front Brake",Right,1996,,10 Cyl 8.0L,,,,,"1996, Right",discontinued,,,,,
+3,4763155,"HOSE ASSEMBLY, Front Brake",Left,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996, Left",discontinued,,,18.9 x 4.3 x 2.2 inches,1.70 Pounds,/parts/mopar-line-front-wheel-disc~4763155.html
+4,6502114,"WASHER, Brake Hose to Caliper",,"2013-2017, 1992-2005","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",8,1,,,,available,9.2,6.68,0.3 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-gasket-brake-hose-to-caliper~6502114.html
+5,34202708,"BOLT, Brake Hose to Caliper",,,,,4,,,,,discontinued,,,,,
+6,6034434,"SCREW and WASHER ASSEMBLY, Hose to Knuckle (Front)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,8.34,6.55,,0.60 Pounds,/parts/mopar-hex-head-screw-wa-asm~6034434.html
+7,34201596,"BOLT, Pan Head Torx",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-bolt-pan-head~34201596.html
+8,6031012,"SCREW, Self Tapping",,,,,4,,,,,discontinued,,,,,
+9,3404625,"CLIP, Front Brake Tubes",,,,,,,,,,discontinued,,,,,
+10,4642212,"TUBE ASSEMBLY, M/Cyl. to Prop. Valve (Primary)",,,,,,,,,,discontinued,,,,,
+11,4642209,"TUBE ASSEMBLY, M/Cyl. to Prop. Valve (Secondary)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,8.9 x 5.3 x 3.0 inches,0.90 Pounds,/parts/mopar-tube-m-cyl-to-prop~4642209.html
+12,4642219,"VALVE and BRACKET ASSEMBLY, Proportioning",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 3.5 x 2.6 inches,0.40 Pounds,/parts/mopar-valve-differential~4642219.html
+13,4709072,"TUBE ASSEMBLY, Valve to Rear Brake Tee 1992-93",,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-tube-assy-assy-main-brake~4709072.html
+14,6100151,"BOLT, Valve and Bracket Mounting",,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.7 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-bolt-hex-head~6100151.html
+15,52017741,"CLIP, Brake and Fuel Tubes",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,discontinued,,,2.0 x 0.6 x 2.5 inches,0.60 Pounds,/parts/mopar-clip-fuel-bundle~52017741.html
+16,6031573,"CLIP, Rear Brake Tube",,,,,2,,,,,discontinued,,,,,
+17,4642224,"TUBE ASSEMBLY, Rear Brake",,1992-1996,,10 Cyl 8.0L,,,,,Right Up to 2-3-93,discontinued,,,,,
+17,4709068,"TUBE ASSEMBLY, Rear Brake",,1992-1996,,10 Cyl 8.0L,,,,,Right After 2-3-93,discontinued,,,,,
+17,4709069,"TUBE ASSEMBLY, Rear Brake",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Left After 2-3-93,discontinued,,,4.0 x 2.3 x 0.5 inches,0.70 Pounds,/parts/mopar-tube-assy-rear-rt~4709069.html
+17,6034881,"TUBE ASSEMBLY, Rear Brake",,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"NUT, Inverted Flare Tube .437-24x.825",available,16,12.58,0.9 x 0.5 x 0.5 inches,0.90 Pounds,/parts/mopar-nut-inverted-flare~6034881.html
+18,1141472,"TEE, Front to Rear Brake Tubes",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.2 x 1.4 x 1.0 inches,0.50 Pounds,/parts/mopar-connector-brake-tube~1141472.html
+19,4642231,"HOSE ASSEMBLY, Rear Brake , Right",Left,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"HOSE ASSEMBLY, Rear Brake , Left",discontinued,,,4.8 x 4.0 x 1.2 inches,1.70 Pounds,/parts/mopar-line-brake~4642231.html
+20,J3220009,"SCREW & WASHER, Brake Hose Bracket to Caliper (Rear)",,,,,,,,,"NUT, Brake Tube to Valve 1/2-20 Black",discontinued,,,,,
+,6100047,"NUT and WASHER, Valve Mounting Bolt",,"2005, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,9.35,6.52,0.8 x 0.7 x 0.7 inches,1.80 Pounds,/parts/mopar-nut-hex-nut-coned-washer~6100047.html

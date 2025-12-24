@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5091906AA,CENTER STACK Upper,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5091906AC,,"[SDY], [XSQ]",available,933,792.3,11.3 x 11.4 x 3.5 inches,1.90 Pounds,/parts/mopar-stack~5091906aa.html
+1,68223407AA,CENTER STACK Upper,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68223407AD,,"[SDE], [JBK]",available,776,660.06,11.9 x 11.3 x 3.5 inches,1.90 Pounds,/parts/mopar-stack~68223407aa.html
+1,68223408AA,CENTER STACK Upper,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68223408AH,,"[SDY], [JBK]",available,910,775.2,11.9 x 11.4 x 3.4 inches,1.90 Pounds,/parts/mopar-stack~68223408aa.html
+1,68223409AA,CENTER STACK Upper,,2014,,10 Cyl 8.4L,,,,,"[SDY], [JBD]",discontinued,,,,,
+2,5043011AC,MODULE A/C And Heater,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,"5043011AB, 5043011AA",Up to 11/08/2013,available,175,115.88,7.8 x 3.9 x 4.1 inches,0.80 Pounds,/parts/mopar-control-a-c-and-heater~5043011ac.html
+3,55111275AA,SENSOR Sun,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68230114AB,,,available,103,69.53,1.2 x 1.2 x 1.5 inches,0.40 Pounds,/parts/mopar-sensor-sun~55111275aa.html

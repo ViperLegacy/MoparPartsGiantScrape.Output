@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642448,"TANK, Fuel",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,31.1 x 26.7 x 11.8 inches,20.20 Pounds,/parts/mopar-tank-fuel-22-gal-plastic~4642448.html
+1,4709500,"TANK, Fuel",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,21.20 Pounds,/parts/mopar-tank-fuel~4709500.html
+2,4643539,"STRAP, Fuel Tank",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,30.5 x 1.0 x 1.3 inches,0.90 Pounds,/parts/mopar-strap-f-tank~4643539.html
+2,4848282,"STRAP, Fuel Tank",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,26.39,20.74,31.6 x 18.9 x 8.4 inches,2.40 Pounds,/parts/mopar-strap-fuel-tank~4848282.html
+4,6502766,BOLT,,,,,2,,,,,discontinued,,,,,

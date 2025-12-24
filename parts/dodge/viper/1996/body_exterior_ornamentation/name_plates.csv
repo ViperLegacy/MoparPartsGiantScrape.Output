@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,JW27M1R,"MEDALLION, Hood (Viper Head)",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Red,discontinued,,,3.8 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-ornament~jw27m1r.html
+1,JW27M2Y,"MEDALLION, Hood (Viper Head)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Yellow,discontinued,,,3.7 x 2.7 x 1.9 inches,0.70 Pounds,/parts/mopar-ornament~jw27m2y.html
+1,JW27M3X,"MEDALLION, Hood (Viper Head)",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black Semi Gloss,discontinued,,,,0.60 Pounds,/parts/mopar-ornament~jw27m3x.html
+1,JW27MX3,"MEDALLION, Hood (Viper Head)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black,unavailable,,,4.2 x 3.1 x 2.0 inches,0.50 Pounds,/parts/mopar-ornament~jw27mx3.html
+1,PF00S3B,"MEDALLION, Hood (Viper Head)",,"2002, 1999, 1992-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Blue,discontinued,,,3.8 x 2.6 x 0.3 inches,0.60 Pounds,/parts/mopar-ornament-hood~pf00s3b.html
+1,PF00T1R,"MEDALLION, Hood (Viper Head)",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Red,discontinued,,,,,/parts/mopar-ornament-hood~pf00t1r.html
+2,GM69MD5,"MEDALLION, Deck Lid (Viper Head)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Medium Quartz (NAMEPLATE, (Chrysler) Deck Lid)",available,4.43,3.48,,0.50 Pounds,/parts/mopar-decklid-chrysler-namepla~gm69md5.html
+2,GM69MGR,"MEDALLION, Deck Lid (Viper Head)",,1992-1996,,10 Cyl 8.0L,,,,,"Emerald Green (NAMEPLATE, (Chrysler) Deck Lid)",discontinued,,,,,
+2,GM69MV5,"MEDALLION, Deck Lid (Viper Head)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Red (NAMEPLATE, (Chrysler) Deck Lid)
+Viper Red (NAMEPLATE, (Chrysler) Deck Lid)",available,20.34,15.98,,0.50 Pounds,/parts/mopar-nameplate~gm69mv5.html
+2,GM69PJE,"MEDALLION, Deck Lid (Viper Head)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Yellow (NAMEPLATE, (Chrysler) Deck Lid)",discontinued,,,,0.50 Pounds,/parts/mopar-nameplate~gm69pje.html
+2,GM69SGW,"MEDALLION, Deck Lid (Viper Head)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Dark Green (NAMEPLATE, (Chrysler) Deck Lid)",discontinued,,,,0.50 Pounds,/parts/mopar-decklid-chrysler-namepla~gm69sgw.html
+2,GM69SX3,"MEDALLION, Deck Lid (Viper Head)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Black (NAMEPLATE, (Chrysler) Deck Lid)",discontinued,,,12.3 x 3.2 x 0.1 inches,0.40 Pounds,/parts/mopar-nameplate~gm69sx3.html
+2,JW40M1G,"MEDALLION, Deck Lid (Viper Head)",,1994-1996,,10 Cyl 8.0L,,,,,Green (1994-96),discontinued,,,,,
+2,JW40M1R,"MEDALLION, Deck Lid (Viper Head)",,1994-1996,,10 Cyl 8.0L,,,,,Red (1994-96),discontinued,,,,,
+2,JW40M2Y,"MEDALLION, Deck Lid (Viper Head)",,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Yellow (1994-96),discontinued,,,3.8 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-ornament~jw40m2y.html
+2,JW40M3X,"MEDALLION, Deck Lid (Viper Head)",,1994-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black Semi Gloss (1994-96),discontinued,,,3.7 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-ornament-viper-head~jw40m3x.html
+2,JW40MX3,"MEDALLION, Deck Lid (Viper Head)",,1994-1996,,10 Cyl 8.0L,,,,,Black (1994-96),discontinued,,,,,

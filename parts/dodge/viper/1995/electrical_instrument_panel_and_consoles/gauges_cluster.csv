@@ -1,0 +1,24 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642504,"FASCIA, I/Panel",,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4643870,"FASCIA, I/Panel",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"PANEL, I/Panel Closure, Right",available,22.85,17.96,,0.80 Pounds,/parts/mopar-instrument-closure-panel~4643870.html
+1,4643871,"FASCIA, I/Panel",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"PANEL, I/Panel Closure, Left",available,42.33,33.26,,0.80 Pounds,/parts/mopar-bezel-instrument-closure~4643871.html
+1,PE85RD5,"FASCIA, I/Panel",,1993-1996,,10 Cyl 8.0L,,,,,1993-96 (Quartz),discontinued,,,,,
+1,PE85RX4,"FASCIA, I/Panel",,1993-1996,,10 Cyl 8.0L,,,,,1993-96 (Black),discontinued,,,,,
+2,4728733,SPEEDOMETER,,1994-1995,,,,,,,,discontinued,,,,,
+2,4728733,SPEEDOMETER,,1992,,,,,,,,discontinued,,,,,
+2,4741224,SPEEDOMETER,,1993-1994,,,,,,,,discontinued,,,,,
+2,4746401,SPEEDOMETER,,,,,,,,,Bux/Canada (Kilo),discontinued,,,,,
+2,4763850,SPEEDOMETER,,1996,29,,,,,,1996 - Coupe (MPH),discontinued,,,,,
+2,4763853,SPEEDOMETER,,1996,29,,,,,,1996 - Coupe (Canada) Kilo,discontinued,,,,,
+3,4642494,"MODULE, Warning Indicators",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.20 Pounds,/parts/mopar-module-message-center-module~4642494.html
+4,4642131,TACHOMETER,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.60 Pounds,/parts/mopar-gage-tachometer~4642131.html
+4,4763851,TACHOMETER,,1992-1996,29,10 Cyl 8.0L,,,,,"GAGE, Tachometer (Coupe)",discontinued,,,,,
+5,4642134,"GAUGE, Temperature",,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+5,4643967,"GAUGE, Temperature",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Bux/Canada,discontinued,,,,0.80 Pounds,/parts/mopar-gage-temperature~4643967.html
+5,4643968,"GAUGE, Temperature",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"CONTROL, Temperatue,",discontinued,,,10.1 x 3.8 x 3.7 inches,1.10 Pounds,/parts/mopar-gage~4643968.html
+5,5245298,"GAUGE, Temperature",,"1999-2000, 1992-1997","29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"CONTROL, Temperture (Coupe)",discontinued,,,10.1 x 3.8 x 3.8 inches,1.30 Pounds,/parts/mopar-control-a-c-and-heater~5245298.html
+6,4642133,"GAUGE, Oil",,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,4643966,"GAUGE, Oil",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Bux/Canada,discontinued,,,,1.00 Pounds,/parts/mopar-gage-oil-pressure~4643966.html
+6,4763791,"GAUGE, Oil",,1992-1997,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"INDICATOR, Engine Oil Level (Coupe)",discontinued,,,25.7 x 2.3 x 0.6 inches,0.50 Pounds,/parts/mopar-indicator-engine-oil-level~4763791.html
+7,4642132,"GAUGE, Fuel",,,,,,,,,,discontinued,,,,,
+8,4642135,"GAUGE, Volt",,,,,,,,,,discontinued,,,,,

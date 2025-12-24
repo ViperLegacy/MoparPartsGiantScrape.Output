@@ -1,0 +1,33 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763754,"COVER ASSEMBLY, Cylinder Head",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Rt. (1996),discontinued,,,29.9 x 7.1 x 6.4 inches,3.80 Pounds,/parts/mopar-cover-cyl-head-rt~4763754.html
+1,4763755,"COVER ASSEMBLY, Cylinder Head",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Lt. (1996),discontinued,,,,,
+1,5245562,"COVER ASSEMBLY, Cylinder Head",,1992,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Rt. (1992)
+Rt. (1993, Up To, Serial# 104)",discontinued,,,,,
+1,5245563,"COVER ASSEMBLY, Cylinder Head",,1992,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Lt. (1992)
+Lt. (1993, Up To, Serial# 104)",discontinued,,,,,
+1,5245653,"COVER ASSEMBLY, Cylinder Head",,1994-1995,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Lt. (1993, After, Serial# 105)
+Lt. (1994-95)
+Lt. (1996)...View More",discontinued,,,30.1 x 7.2 x 6.2 inches,3.80 Pounds,/parts/mopar-cover-cylinder-head-l-h~5245653.html
+2,5245589,"CAP, Oil Filler",,1992,,,,,,,"1992, w/Cam Lock
+1993, w/Cam Lock, Up To Serial# 104",discontinued,,,,,
+2,5245656,"CAP, Oil Filler",,1993,,,,,,,"1993, w/Threaded Cap, After Serial# 105",discontinued,,,,,
+3,154777,"SCREW, w/Washer, Cover, (.250-20x1.00)",,1994-1995,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",26,1,,6035666,,available,14.2,7.13,1.3 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~154777.html
+5,5245095,"GASKET, Cylinder Head Cover",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,131,103.05,36.4 x 10.2 x 0.1 inches,0.70 Pounds,/parts/mopar-gasket-valve-cover~5245095.html
+6,5245804,"HEAD, Cylinder, Partial, w/Seats and Guides",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,27.8 x 9.8 x 8.7 inches,1.40 Pounds,/parts/mopar-cyl-head-partial~5245804.html
+7,5245157BA,"GASKET, Cylinder Head",,1992-1996,27,,2,,,,STANDARD THICKNESS (1992-96),discontinued,,,,,
+7,5245157BB,"GASKET, Cylinder Head",,1992-1996,27,,2,,,,+.015 THICKNESS (1992-96),discontinued,,,,,
+8,6035471,"BOLT, Cylinder Head",,1992-2006,"29; COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",24,1,,,(.500-13x4.250),available,19.9,13.86,4.2 x 0.7 x 0.7 inches,0.60 Pounds,/parts/mopar-screw-cylinder-head~6035471.html
+9,5245632,WASHER,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,24,1,,,,available,7.93,6.24,,0.50 Pounds,/parts/mopar-washer-cylinder-head~5245632.html
+10,5245643,"GASKET, Water Passage Cover",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,3.6 x 2.3 x 0.9 inches,0.40 Pounds,/parts/mopar-gasket-water-passage~5245643.html
+11,5245369,"COVER, Water Passage",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,9.54,7.49,,0.60 Pounds,/parts/mopar-water-passasge-cover~5245369.html
+13,6034529,"SCREW, w/Washer, Tappet Galley, (.25-20x1.25)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,12,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-hdr-pt-sc-wa-hex-hd~6034529.html
+15,4883647AA,"Cylinder, Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,4.10 Pounds,/parts/mopar-sleeve-cylinder~4883647aa.html
+16,4883649AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".122"" Thick",available,3.07,2.41,,0.60 Pounds,/parts/mopar-shim-cylinder-liner~4883649aa.html
+16,4883650AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".123"" Thick",discontinued,,,,0.60 Pounds,/parts/mopar-shim-cylinder-liner~4883650aa.html
+16,4883651AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".124"" Thick",discontinued,,,,0.60 Pounds,/parts/mopar-cylinder-liner-shim~4883651aa.html
+16,4883652AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".125"" Thick",discontinued,,,,0.60 Pounds,/parts/mopar-shim-cylinder-liner~4883652aa.html
+16,4883653AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".126"" Thick",discontinued,,,,0.50 Pounds,/parts/mopar-cylinder-liner-shim~4883653aa.html
+16,4883654AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".127"" Thick",discontinued,,,,0.60 Pounds,/parts/mopar-shim-cylinder-liner~4883654aa.html
+16,4883655AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".128"" Thick",discontinued,,,,0.50 Pounds,/parts/mopar-shim-cylinder-liner~4883655aa.html
+16,4883656AA,"SHIM, Cylinder Liner",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,".129"" Thick",discontinued,,,,0.50 Pounds,/parts/mopar-shim-cylinder-liner~4883656aa.html
+,4882950,No Description,,,29,,,,,,,discontinued,,,,,

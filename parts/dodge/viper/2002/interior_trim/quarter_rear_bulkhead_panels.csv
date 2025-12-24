@@ -1,0 +1,33 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4874859,BIN Floor Console,,1996-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,available,193.69,152.21,10.8 x 10.3 x 5.7 inches,1.10 Pounds,/parts/mopar-bin-floor-console~4874859.html
+1,QB891X7AC,PANEL Bulkhead Trim,,"2000-2002, 1998",RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,46.3 x 29.1 x 10.3 inches,4.00 Pounds,/parts/mopar-panel-bulkhead-trim~qb891x7ac.html
+2,LC171X7AE,PANEL Bulkhead Trim,,1999-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,46.0 x 30.0 x 10.7 inches,14.90 Pounds,/parts/mopar-panel-bulkhead-trim~lc171x7ae.html
+4,HC81LX9,BEZEL Seat Belt,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,5.3,4.17,14.6 x 6.9 x 3.2 inches,0.70 Pounds,/parts/mopar-bezel-seat-belt~hc81lx9.html
+4,6035085,SCREW Tapping .164-15x1,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.3 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-tapping~6035085.html
+5,HC81LX9,BEZEL Seat Belt,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,5.3,4.17,14.6 x 6.9 x 3.2 inches,0.70 Pounds,/parts/mopar-bezel-seat-belt~hc81lx9.html
+5,4763504,BUMPER Console Lid,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.7 x 0.3 x 0.3 inches,0.90 Pounds,/parts/mopar-stop-bmpr-console-lid~4763504.html
+6,4874868,STRIKER Glove Box Door Latch,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.8 x 5.6 x 1.5 inches,0.50 Pounds,/parts/mopar-striker-glove-box-door-latch~4874868.html
+7,4763504,BUMPER Console Lid,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.7 x 0.3 x 0.3 inches,0.90 Pounds,/parts/mopar-stop-bmpr-console-lid~4763504.html
+7,4874869,HINGE Glovebox,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,9.32,7.32,14.6 x 6.5 x 3.3 inches,1.00 Pounds,/parts/mopar-hinge-glovebox~4874869.html
+8,SB951X7AA,DOOR Rear Cargo,,1998-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,15.2 x 9.0 x 6.4 inches,1.60 Pounds,/parts/mopar-glove-box-rear-cargo~sb951x7aa.html
+8,4874869,HINGE Glovebox,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,9.32,7.32,14.6 x 6.5 x 3.3 inches,1.00 Pounds,/parts/mopar-hinge-glovebox~4874869.html
+9,RE851X7AB,DOOR Rear Cargo,,,,,,,,,,discontinued,,,,,
+10,QL021XBAF,PANEL Quarter,,2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,Right With [CG5],discontinued,,,38.2 x 10.4 x 9.9 inches,5.00 Pounds,/parts/mopar-panel-quarter~ql021xbaf.html
+10,QL031X7AE,PANEL Quarter,,1999-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,Left Without [CG5],discontinued,,,38.0 x 10.2 x 10.0 inches,3.80 Pounds,/parts/mopar-panel-quarter~ql031x7ae.html
+10,QL031XBAF,PANEL Quarter,,2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,Left With [CG5],discontinued,,,39.3 x 10.8 x 9.5 inches,4.80 Pounds,/parts/mopar-panel-quarter~ql031xbaf.html
+10,PS131X7AD,PANEL Quarter Trim,Left,1998-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,40.1 x 10.6 x 9.3 inches,4.40 Pounds,/parts/mopar-panel-quarter-trim~ps131x7ad.html
+11,6505390AA,SCREW Oval Head,,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,1.1 x 1.1 x 1.1 inches,0.50 Pounds,/parts/mopar-screw-oval-head~6505390aa.html
+12,55176291,BUMPER Steel Insert,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,17,12.84,1.0 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-bumper-steel-insert~55176291.html
+12,6035451,"NUT/SPRING ""U""1THD For .164-15 Screw",,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,5,1,,,,discontinued,,,0.8 x 0.6 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-u-1thd~6035451.html
+13,4854293AA,BRACKET Quarter Trim,Left,1998-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,8.0 x 2.3 x 1.8 inches,0.60 Pounds,/parts/mopar-bracket-quarter-trim~4854293aa.html
+13,4848864AA,PATCH Floor Pan Rear Corner,Right,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,34.9 x 39.8 x 2.5 inches,1.80 Pounds,/parts/mopar-shield-floor-pan-rear-corner~4848864aa.html
+13,4848865AA,PATCH Floor Pan Rear Corner,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 2.1 x 0.3 inches,2.40 Pounds,/parts/mopar-shield-floor-pan-rear-corner~4848865aa.html
+14,QV59DX9AB,COVER Quarter Trim Opening,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.8 x 6.2 x 2.9 inches,0.50 Pounds,/parts/mopar-cover-quarter-trim-opening~qv59dx9ab.html
+14,6034384,SCREW Pan Head .437-20x1.15,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,0.9 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-screw-pan-head~6034384.html
+15,55176291,BUMPER Steel Insert,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,17,12.84,1.0 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-bumper-steel-insert~55176291.html
+15,4848864AA,PATCH Floor Pan Rear Corner,Right,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,34.9 x 39.8 x 2.5 inches,1.80 Pounds,/parts/mopar-shield-floor-pan-rear-corner~4848864aa.html
+15,4848865AA,PATCH Floor Pan Rear Corner,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.5 x 2.1 x 0.3 inches,2.40 Pounds,/parts/mopar-shield-floor-pan-rear-corner~4848865aa.html
+16,QV58DX9AB,COVER Quarter Trim Opening,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-cover-quarter-trim-opening~qv58dx9ab.html
+17,6505389AA,SCREW Oval Head,,2000-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.0 x 1.1 x 1.0 inches,0.50 Pounds,/parts/mopar-screw-oval-head~6505389aa.html
+,P894DX9,LATCH Glovebox,,,,,,,,,,discontinued,,,,,
+,6502871,RETAINER,,"2008-2010, 1997-2002","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.4L",4,1,,,,available,9.3,6.47,1.5 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-push-pin~6502871.html

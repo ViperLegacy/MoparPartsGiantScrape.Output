@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,WN73PX3AB,DECAL Viper,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,[KEX],discontinued,,,12.3 x 3.1 x 0.1 inches,0.40 Pounds,/parts/mopar-decal-viper~wn73px3ab.html
+1,WN73WRRAB,DECAL Viper,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,WN73WRRAC,,[KER],available,72.3,58.37,3.0 x 12.4 x 0.1 inches,0.60 Pounds,/parts/mopar-decal-viper~wn73wrrab.html
+2,WN80PX3AA,DECAL Dodge,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,[KSX],discontinued,,,7.8 x 5.1 x 0.1 inches,0.50 Pounds,/parts/mopar-decal~wn80px3aa.html
+2,WN80WRRAA,DECAL Dodge,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,,,[KSR],discontinued,,,7.3 x 5.5 x 0.1 inches,0.50 Pounds,/parts/mopar-decal~wn80wrraa.html
+3,WN81PX3AB,DECAL Viper SRT-10,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,2,1,,,[KCX],discontinued,,,12.7 x 8.3 x 0.8 inches,0.40 Pounds,/parts/mopar-decal-viper~wn81px3ab.html
+3,WN81WRRAB,DECAL Viper SRT-10,,2003-2005,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,2,1,,,[KDR],discontinued,,,,0.40 Pounds,/parts/mopar-decal-viper~wn81wrrab.html

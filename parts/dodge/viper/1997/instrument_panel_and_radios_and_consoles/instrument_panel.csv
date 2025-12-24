@@ -1,0 +1,23 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,LB39SX4AD,FASCIA Instrument Panel,,,,,,,,,,discontinued,,,,,
+2,4763605,SUPPORT Instrument Panel,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,16.4 x 7.9 x 3.9 inches,1.90 Pounds,/parts/mopar-support-instrument-panel~4763605.html
+3,5245962AB,PANEL Instrument Closure,Left,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,17.0 x 5.3 x 2.4 inches,1.00 Pounds,/parts/mopar-bezel-instrument-closure~5245962ab.html
+6,4763468,CARRIER Instrument Panel,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,11.80 Pounds,/parts/mopar-i-panel-instrument-panel~4763468.html
+7,4763611,PLATE Instrument Panel Support,Left,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,20.1 x 8.9 x 2.0 inches,1.40 Pounds,/parts/mopar-plate-instrument-panel-support~4763611.html
+8,0154555,SCREW,,,,,2,,,,,discontinued,,,,,
+9,LB36BX7AC,PAD Instrument Panel,,1997-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,78.7 x 15.3 x 14.1 inches,3.50 Pounds,/parts/mopar-pad-instrument-panel~lb36bx7ac.html
+10,QN71SX7AB,PAD Instrument Panel,,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,333,115.48,,8.30 Pounds,/parts/mopar-pad-instrument-panel~qn71sx7ab.html
+11,PK84MX4AB,BEZEL Instrument Panel,,1997,27; RT/10 Convertible,10 Cyl 8.0L,,,,,Center Black,discontinued,,,15.6 x 15.6 x 8.8 inches,1.20 Pounds,/parts/mopar-bezel-instrument-panel~pk84mx4ab.html
+13,D221SX8,ASH RECEIVER Rear Door,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-ashtray-rear-door~d221sx8.html
+14,6035625,SCREW,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",3,1,,,,available,18,12.52,0.8 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-tapping~6035625.html
+17,MB62MX4,AIR BAG Passenger,,,,,,,,,,discontinued,,,,,
+20,34202304,NUT M5x.8,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.6 x 0.6 x 0.3 inches,0.40 Pounds,/parts/mopar-nut~34202304.html
+21,4763135,SWITCH Headlamp,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 3.4 x 2.6 inches,0.60 Pounds,/parts/mopar-switch-headlamp~4763135.html
+23,4848798,CAP,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.7 x 0.2 x 0.2 inches,0.90 Pounds,/parts/mopar-cap~4848798.html
+,4848663,BEZEL Windshield Frame,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.7 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-bezel-security-indicator~4848663.html
+,6032268,CLIP M5.35x12.65,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,,discontinued,,,0.7 x 0.4 x 0.1 inches,0.80 Pounds,/parts/mopar-clip~6032268.html
+,6034833,CLIP Push .164-7.5,,"2005, 2001, 1997-1999","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",36,1,,,,available,22.35,14.51,0.5 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-clip-snap-in~6034833.html
+,4848773,COVER Fuse Access,,,,,,,,,,discontinued,,,,,
+,4848772,LABEL Fuse Block,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,3.35,2.63,,0.50 Pounds,/parts/mopar-fuse-block-label~4848772.html
+,5245299AB,MODULE Lighting Control,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,108,93.32,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-module-lighting-control~5245299ab.html
+,4848664,WIRING LED Security,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.4 x 3.3 x 0.8 inches,0.40 Pounds,/parts/mopar-wiring-led-security~4848664.html

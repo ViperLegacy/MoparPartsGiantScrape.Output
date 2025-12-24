@@ -1,0 +1,21 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,32002366,CLAMP Hose 55mm Black,,"1998-2002, 1992-1996","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,55037660AA,,,available,13.65,9.49,2.3 x 0.6 x 0.6 inches,0.60 Pounds,/parts/mopar-clamp-hose~32002366.html
+2,4763584,HOSE Radiator Outlet,,,,,,,,,,discontinued,,,,,
+3,4763585,HOSE Radiator Inlet,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,81.95,66.66,21.7 x 12.1 x 6.2 inches,1.80 Pounds,/parts/mopar-hose-coolant-reserve-tank~4763585.html
+4,52006750,CLAMP Radiator,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,55111033AA,,,available,9.1,6.35,2.9 x 2.2 x 0.6 inches,0.50 Pounds,/parts/mopar-clamp-radiator~52006750.html
+6,4855123AB,RADIATOR Engine Cooling,,,,,,,,,,discontinued,,,,,
+9,6101444,NUT AND WASHER Hex M6x1.0,,"2008, 2006, 1999-2004","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,34201358,,,available,13.9,9.67,1.0 x 1.0 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-a-c-suct-hose-clamp~6101444.html
+11,4854720AA,FAN MODULE Radiator Cooling,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,23.2 x 20.2 x 5.0 inches,8.10 Pounds,/parts/mopar-module-radiator-cooling~4854720aa.html
+12,4709352AC,SHROUD Fan,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,74.9 x 22.4 x 21.0 inches,37.10 Pounds,/parts/mopar-bracket-fan~4709352ac.html
+13,6101444,NUT AND WASHER Hex M6x1.0,,"2008, 2006, 1999-2004","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,34201358,,,available,13.9,9.67,1.0 x 1.0 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-a-c-suct-hose-clamp~6101444.html
+14,53041078,THERMOSTAT 195 Degrees,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,53041078AC,,,discontinued,,,3.9 x 3.9 x 2.9 inches,1.20 Pounds,/parts/mopar-thrmostat~53041078.html
+17,55035944,NIPPLE Heater Inlet,,1999-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-nipple-heater-inlet~55035944.html
+18,4848199,RETAINER Radiator Closure,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.8 x 0.8 x 0.9 inches,0.60 Pounds,/parts/mopar-retainer-radiator-closure~4848199.html
+19,4763564,SHIM,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.4 x 1.7 x 0.1 inches,0.50 Pounds,/parts/mopar-shim~4763564.html
+20,4763565,SHIM,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.4 x 1.7 x 0.1 inches,0.60 Pounds,/parts/mopar-shim~4763565.html
+,4709357,BRACKET Bulkhead,Left,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.5 x 3.1 x 0.1 inches,0.60 Pounds,/parts/mopar-bracket-bulkhead~4709357.html
+,4596198,CAP Pressurized Coolant,,1997-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,5086226AA,,available,37.85,26.45,9.5 x 6.1 x 1.0 inches,0.60 Pounds,/parts/mopar-cap-radiator~4596198.html
+,4763839AB,GASKET Thermostat,,2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4763839AC,,,available,21.75,16.43,9.1 x 10.4 x 0.3 inches,0.50 Pounds,/parts/mopar-gasket-thermostat~4763839ab.html
+,4763779AE,HOUSING Thermostat,,,,,,,,,,discontinued,,,,,
+,4266328,ISOLATOR Radiator,,,,,2,,,,,discontinued,,,,,
+,4855100AD,LABEL Emission,,2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.40 Pounds,/parts/mopar-label-emission-a-c-spec-belt~4855100ad.html

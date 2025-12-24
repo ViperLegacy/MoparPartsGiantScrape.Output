@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68272384AA,TOOL SET,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,68272384AB,,,available,444,296.66,21.3 x 17.0 x 3.2 inches,9.70 Pounds,/parts/mopar-tool-kit~68272384aa.html
+2,55352852AA,TOOL SET,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,unavailable,83.05,56.5,10.4 x 3.9 x 3.7 inches,2.60 Pounds,/parts/mopar-tool-kit~55352852aa.html
+3,55352848AB,EXTINGUISHER Fire,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,94.7,64.07,12.0 x 4.5 x 3.4 inches,3.40 Pounds,/parts/mopar-extingshr-fire~55352848ab.html

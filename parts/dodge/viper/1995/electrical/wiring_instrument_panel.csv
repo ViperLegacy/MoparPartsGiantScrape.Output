@@ -1,0 +1,33 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4709020,"WIRING, Instrument Panel",,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4709135,"WIRING, Instrument Panel",,1993-1994,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4709495,"WIRING, Instrument Panel",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,15.10 Pounds,/parts/mopar-wiring-as-assy-instrument-panel~4709495.html
+1,4763993,"WIRING, Instrument Panel",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,12.90 Pounds,/parts/mopar-wiring-i-p~4763993.html
+4,2298882,"INSULATOR, Windshield Washer Motor",,,,,,,,,,discontinued,,,,,
+6,4304634,"INSULATOR, Lt. Wiper Mtr. (Term. 4209340)",,,,,,,,,,discontinued,,,,,
+8,4304634,"INSULATOR, Rt. Wiper Mtr. (Term. 4209340)",,,,,,,,,,discontinued,,,,,
+13,4481640,"INSULATOR, Bulkhead Connector (Term. 26-4209706 & 12-4331506)",,,,,,,,,,discontinued,,,,,
+14,4209927,"INSULATOR, Thermostat Switch (Term. 4209706)",,,,,,,,,,discontinued,,,,,
+15,4504253,"INSULATOR, To Mirror Wiring (Term. 4209706)",,,,,,,,,,discontinued,,,,,
+18,4439086,"INSULATOR, Headlamp Relay (Term. 4331010)",,,,,,,,,,discontinued,,,,,
+19,4439086,"INSULATOR, Fog Lamp (Term. 4331010)",,,,,,,,,,discontinued,,,,,
+20,4274017,"INSULATOR, Chime Module (Term. 56017580)",,,,,,,,,,discontinued,,,,,
+22,4209499,"TERMINAL, Radio, Lighting, Wiper & Chime Ground",,,,,,,,,,discontinued,,,,,
+28,4400932,FUSEBLOCK ASSEMBLY,,,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+28,4848076,FUSEBLOCK ASSEMBLY,,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,12,9.43,,0.50 Pounds,/parts/mopar-block-fuse~4848076.html
+28A,6101132,FUSE,,,,,,,,,"FUSE, 4-Amp. Pink",discontinued,,,,,
+28A,6101133,FUSE,,,,,,,,,"FUSE, 5-Amp. Tan",discontinued,,,,,
+28A,6101135,FUSE,,,,,,,,,"FUSE, 10-Amp. Red",discontinued,,,,,
+28A,6101137,FUSE,,,,,,,,,"FUSE, 20-Amp. Yellow",discontinued,,,,,
+28A,6101139,FUSE,,,,,,,,,"FUSE, 30-Amp. Light Green",discontinued,,,,,
+28A,6101485,FUSE,,,,,,,,,"FUSE, 7.5 Amp., Mini",discontinued,,,,,
+28B,4643775,"COVER, Fuse Block",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.7 x 4.2 x 3.7 inches,0.80 Pounds,/parts/mopar-cover-fuse-block~4643775.html
+32,4209712,"INSULATOR, To Radio (Term. 4209706)",,,,,,,,,,discontinued,,,,,
+46,4527299,"INSULATOR, Headlamp Switch (Term. 4331010)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-insulator-9-way-female-h-lp-sw~4527299.html
+47,4274937,"INSULATOR, Seat Belt Switch (Term. 4209707)",,,,,,,,,,discontinued,,,,,
+50,4368099,"RELAY BANK, (Term. 4331506)",,,,,,,,,,discontinued,,,,,
+52,4209927,"INSULATOR, Clutch Interlock Switch (Term. 4209706)",,,,,,,,,,discontinued,,,,,
+53,4209712,"INSULATOR, Brake Switch (Term. 4209706)",,,,,,,,,,discontinued,,,,,
+,2932877,"FLASHER, Turn Signal",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,56021321,,discontinued,,,3.7 x 2.5 x 1.9 inches,0.50 Pounds,/parts/mopar-flasher~2932877.html
+,3837161,"FLASHER, Turn Signal",,,,,,,,,2-Lamp,discontinued,,,,,
+,4274258,"TAPE, Foam",,"2016-2017, 1992-1996","GTS Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS","10 Cyl 8.0L, 10 Cyl 8.4L",,,,,,available,6.2,4.19,7.6 x 3.9 x 0.7 inches,0.40 Pounds,/parts/mopar-insul-pkg-foam~4274258.html

@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,6035666,SCREW Hex Flange Head .25-20x1.00,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",8,1,154777,,,available,14.2,9.9,1.2 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~6035666.html
+2,4763766,THROTTLE BODY,Right,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.3 x 5.4 x 3.5 inches,1.00 Pounds,/parts/mopar-t-body~4763766.html
+3,4863996,SENSOR PACKAGE Throttle Position,,,,,,,,,,discontinued,,,,,
+4,4848126,GASKET Throttle Body To Intake,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,9.9 x 6.1 x 0.3 inches,0.40 Pounds,/parts/mopar-gasket-throttle-body-to-intake~4848126.html
+5,5245749,MOTOR AND BODY IACV,,,,,,,,,,discontinued,,,,,
+6,6035666,SCREW Hex Flange Head .25-20x1.00,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,154777,,,available,14.2,9.9,1.2 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~6035666.html
+7,4778637,MOTOR KIT A.I.S.,,,,,,,,,,discontinued,,,,,
+8,5245373,GASKET A.I.S. Motor,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.1 x 6.0 x 0.3 inches,0.40 Pounds,/parts/mopar-gasket-a-i-s-motor~5245373.html
+9,4763805,HOSE A.I.S. Supply,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,12.1 x 2.6 x 1.5 inches,0.60 Pounds,/parts/mopar-hose-a-i-s-supply~4763805.html
+10,53009672,CONNECTOR Emission Hose,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.0 x 0.6 x 0.4 inches,0.80 Pounds,/parts/mopar-connector-emission-hose~53009672.html

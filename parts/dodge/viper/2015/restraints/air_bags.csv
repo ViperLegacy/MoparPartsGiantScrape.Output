@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5SH64LV5AA,AIR BAG Driver,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,6JU47LV5AB,,"[-VX], [CG3]",available,1725,1158.25,12.6 x 9.0 x 6.2 inches,2.60 Pounds,/parts/mopar-air-bag-driver~5sh64lv5aa.html
+1,5SH65DX9AA,AIR BAG Driver,,2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,6KE78DX9AB,,"[-KX], [CG3], [ARZ]
+[-RX], [CG3], [ARZ]
+[-X9], [CG3], [ARZ]...View More",unavailable,589,401.28,12.9 x 8.6 x 6.2 inches,2.80 Pounds,/parts/mopar-air-bag-driver~5sh65dx9aa.html
+1,5SH65LV5AA,AIR BAG Driver,,2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,6KE78LV5AB,,"[-VX], [CG3], [ARZ]",available,439,296.66,12.3 x 8.8 x 6.1 inches,4.10 Pounds,/parts/mopar-air-bag-driver~5sh65lv5aa.html
+2,6105037AA,SCREW Hex Flange Head M6x1.00x20.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,3.2,2.16,1.1 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-flange-head~6105037aa.html
+3,68137707AD,AIR BAG Passenger,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68137707AC,,unavailable,615,419.52,12.4 x 12.4 x 8.7 inches,8.60 Pounds,/parts/mopar-airbag-passenger~68137707ad.html
+4,68226092AC,AIR BAG Side Curtain Door Mounted,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"68226092AA, 68226092AB",Right [CJ1],available,649,443.46,23.9 x 2.6 x 2.1 inches,6.10 Pounds,/parts/mopar-air-bag-side-curtain~68226092ac.html

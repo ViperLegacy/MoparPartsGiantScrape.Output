@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,1VT18DX9AC,AIR BAG Driver,,,,,,6JU47DX9AB,[KX][RX][X9],available,2060,1395.55,/parts/mopar-air-bag-driver~1vt18dx9ac.html
-1,1VT18LV5AC,AIR BAG Driver,,,,,,6JU47LV5AB,[VX],available,1725,1158.25,/parts/mopar-air-bag-driver~1vt18lv5ac.html
-1,5PK73DX9AA,AIR BAG Driver,,,,,,6KE78DX9AB,[KX] [ARZ][RX] [ARZ][X9] [ARZ],available,589,401.28,/parts/mopar-air-bag-driver~5pk73dx9aa.html
-1,5PK73LV5AA,AIR BAG Driver,,,,,,6KE78LV5AB,[VX] [ARZ],available,439,296.66,/parts/mopar-airbag-driver~5pk73lv5aa.html
-1,5SH64DX9AA,AIR BAG Driver,,,,,,6JU47DX9AB,"[-KX], [CG3][-KX], [CG3], [ARZ][-RX], [CG3][-RX], [CG3], [ARZ][-V5], [CG3][-V5], [CG3], [ARZ][-X9], [CG3][-X9], [CG3], [ARZ]...View More",unavailable,2060,1395.55,/parts/mopar-air-bag-driver~5sh64dx9aa.html
-1,5SH64LV5AA,AIR BAG Driver,,,,,,6JU47LV5AB,"[-VX], [CG3][-VX], [CG3], [ARZ]",available,1725,1158.25,/parts/mopar-air-bag-driver~5sh64lv5aa.html
-2,6105037AA,SCREW Hex Flange Head M6x1.00x20.00,,,,2,1,,,available,3.2,2.16,/parts/mopar-screw-hex-flange-head~6105037aa.html
-3,68137707AC,AIR BAG Passenger,,,,,,68137707AD,,available,615,419.52,/parts/mopar-airbag-passenger~68137707ac.html

@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1BK22DX9AB,PANEL Headliner,,,,,,,,,,discontinued,,,,,
+2,WX68DX9AA,RIVET,,"2008-2010, 2006","ACR-X Coupe, COMP. Coupe, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,WX68DX9AB,,available,11.3,7.86,1.0 x 1.0 x 1.0 inches,0.70 Pounds,/parts/mopar-rivet~wx68dx9aa.html
+3,UZ101X7AB,VISOR,Right,2003-2006,"COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe",10 Cyl 8.3L,,,UZ101X7AD,,,discontinued,,,20.8 x 9.4 x 1.0 inches,1.30 Pounds,/parts/mopar-visor~uz101x7ab.html
+4,1CR70DX9AB,ESCUTCHEON Visor,,"2008-2010, 2006","ACR-X Coupe, COMP. Coupe, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,discontinued,,,,2.40 Pounds,/parts/mopar-cover-visor~1cr70dx9ab.html
+5,6507672AA,SCREW,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,discontinued,,,0.6 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-screw~6507672aa.html

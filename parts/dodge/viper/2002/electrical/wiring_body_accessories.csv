@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4854448AB,WIRING Body,,2002,27; RT/10 Convertible,10 Cyl 8.0L,,,4854448AC,,,discontinued,,,20.6 x 10.5 x 6.9 inches,7.00 Pounds,/parts/mopar-wiring-body~4854448ab.html
+,4642610AC,WIRING Battery Negative,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4642610AB,,discontinued,,,9.5 x 1.7 x 1.4 inches,0.70 Pounds,/parts/mopar-cable-bat-battery-negative~4642610ac.html
+,4763057AD,WIRING Battery Positive,,2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4763057AE,,,discontinued,,,13.6 x 11.9 x 2.4 inches,2.70 Pounds,/parts/mopar-cable-bat-battery-positive~4763057ad.html
+,4763076AE,WIRING Door,Right,2000-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4763076AD,,discontinued,,,,1.50 Pounds,/parts/mopar-wiring-door~4763076ae.html
+,4848156AC,WIRING Electric Back Light,,1997-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,,,,discontinued,,,9.2 x 6.1 x 0.6 inches,0.50 Pounds,/parts/mopar-wiring-electric-back-light~4848156ac.html
+,5245041,WIRING Transmission,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,26.0 x 13.3 x 7.7 inches,9.00 Pounds,/parts/mopar-wiring-transmission~5245041.html

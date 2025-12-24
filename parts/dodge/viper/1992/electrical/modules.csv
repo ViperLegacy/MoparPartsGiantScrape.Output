@@ -1,0 +1,20 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4708421,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4709024,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,1993,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4709383,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,1994,,10 Cyl 8.0L,,,,,1994 (Up to 02/10/94),discontinued,,,,,
+1,4709384,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,1992-1994,,10 Cyl 8.0L,,,,,EUROPE 1992-94 (Up to 02/10/94),discontinued,,,,,
+1,4763555,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,1994-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,1994-95 (After 02/10/94),discontinued,,,12.5 x 8.2 x 5.8 inches,4.10 Pounds,/parts/mopar-module-sbec-ii~4763555.html
+1,4763556,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,,,10 Cyl 8.0L,,,,,EUROPE 1994 w/Free Trade Assoc.(Up to 2/10/94),discontinued,,,,,
+1,4763639,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,1996,,10 Cyl 8.0L,,,,,1996 (JTEC),discontinued,,,,,
+1,4763808,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,,,10 Cyl 8.0L,,,,,EUROPE 1996 (JTEC),discontinued,,,,,
+1,5245660,"MODULE, S.B.E.C. (Powertrain Control Module) 1992",,1994-1995,,10 Cyl 8.0L,,,,,EUROPE 1994-95 w/o Free Trade Assoc. (After 02/10/94),discontinued,,,,,
+2,4708229,"MODULE, Ignition Controller (Ignition Control Module)",,,,,,,,,,discontinued,,,,,
+3,6023541,"SCREW, w/Washer, S.B.E.C & Ign. Control Mtg.",,,,,,,,,,discontinued,,,,,
+4,4642529,"MODULE, Intermittent Wipe Control",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,8.3 x 6.1 x 4.7 inches,1.20 Pounds,/parts/mopar-control-wipers~4642529.html
+7,4686003,"MODULE, Security Alarm",,,,,,,,,,discontinued,,,,,
+8,4469340,"MODULE, Keyless Entry Reciever",,,,,,,,,,discontinued,,,,,
+9,4312664,"MODULE, Chime",,,,,,,,,,discontinued,,,,,
+,5266269,"CONTROL ASSEMBLY, Warning Chimes",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.8 x 3.5 x 2.6 inches,0.60 Pounds,/parts/mopar-buzzer-warning~5266269.html
+,4763656,"MODULE, Daytime Runnning Lamp",,,29,,,,,,,discontinued,,,,,
+,56004262,"MODULE, Daytime Runnning Lamp",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.1 x 4.0 x 3.0 inches,1.10 Pounds,/parts/mopar-module-daytime-running-lamp~56004262.html
+,5245299AB,"MODULE, I/Panel Dimmer PWM",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,108,93.32,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-module-lighting-control~5245299ab.html

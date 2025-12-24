@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5YW75RXFAA,DOOR Fuel Fill,,2016,"29; SRT, SRT ACR",10 Cyl 8.4L,,,5YW75RXFAB,,[M3S],available,2075,1401.2,8.2 x 8.0 x 4.1 inches,0.80 Pounds,/parts/mopar-door-fuel-fill~5yw75rxfaa.html
+1,5YW75SZ6AA,DOOR Fuel Fill,,2016,"29; SRT, SRT GTS",10 Cyl 8.4L,,,5YW75SZ6AB,,,available,1255,846.37,8.1 x 8.0 x 4.0 inches,1.60 Pounds,/parts/mopar-door-fuel-fill~5yw75sz6aa.html
+2,6102244AA,NUT,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,available,3.9,2.68,0.8 x 0.8 x 0.4 inches,0.50 Pounds,/parts/mopar-nut~6102244aa.html
+3,5181503AJ,TUBE Fuel Filler,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,5181503AL,,,available,673,458.28,30.2 x 8.5 x 7.4 inches,3.70 Pounds,/parts/mopar-tube-fuel-filler~5181503aj.html
+4,68193089AB,WIRING Ground Jumper,,,,,,,,,,discontinued,,,,,
+5,68193083AB,TUBE Fuel Vapor Recirculation,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,discontinued,,,17.9 x 4.2 x 0.8 inches,0.50 Pounds,/parts/mopar-tube-fuel-vapor-recirculation~68193083ab.html
+6,5181883AA,HOSE Fuel Filler Tube,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,182,143.26,19.1 x 4.8 x 2.8 inches,1.90 Pounds,/parts/mopar-hose-fuel-filler-tube~5181883aa.html
+7,68193247AB,HOSE Fuel Filler Tube,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,49.25,34.31,23.0 x 5.8 x 0.8 inches,1.90 Pounds,/parts/mopar-hose-fuel-filler-tube~68193247ab.html
+8,68158775AB,FUNNEL Fuel Tank Filler Tube,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68158775AC,,,available,33.7,24.57,7.7 x 2.1 x 2.0 inches,0.40 Pounds,/parts/mopar-funnel-fuel-tank-filler-tube~68158775ab.html
+9,6502720,NUT Hex Flange Lock M8x1.25,,"2013-2017, 2008-2010, 2001-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,7.55,5.24,1.0 x 1.0 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex-flange-lock~6502720.html
+10,6104392AA,BOLT AND CONED WASHER Hex Head M8X1.25X40.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,6.8,4.6,2.1 x 1.0 x 1.0 inches,0.40 Pounds,/parts/mopar-bolt-hex-head~6104392aa.html

@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1UL93DX9AB,COVER Bulkhead,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1UL93DX9AD,,Left [ST],available,750,513,37.9 x 25.5 x 11.8 inches,0.50 Pounds,/parts/mopar-cover-bulkhead~1ul93dx9ab.html
+2,1WV69DX9AA,BEZEL Harness Anchor,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1WV69DX9AB,,Left [ST],available,23.85,18.87,9.9 x 4.9 x 1.4 inches,0.60 Pounds,/parts/mopar-shield~1wv69dx9aa.html
+3,6102398AA,NUT AND WASHER Hex M5x0.80 Bulkhead Attach,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,6104714AA,,available,11.3,7.86,0.8 x 0.8 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-hex~6102398aa.html
+4,6102398AA,NUT AND WASHER Hex M5x0.80 Bulkhead Attach To Rear Clip,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,6104714AA,,available,11.3,7.86,0.8 x 0.8 x 0.5 inches,0.50 Pounds,/parts/mopar-nut-hex~6102398aa.html
+7,6509673AA,PUSH PIN,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,5,1,,,,available,10.85,7.51,1.5 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-pin~6509673aa.html
+8,68186730AA,BRACKET Floor Console,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68186730AB,,,available,77.7,54.29,5.9 x 5.4 x 2.3 inches,0.80 Pounds,/parts/mopar-bracket-floor-console~68186730aa.html

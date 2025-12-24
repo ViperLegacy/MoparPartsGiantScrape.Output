@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848998AA,TUBE Fuel Filler,,2000-2002,"GTS Coupe, GTS-L Coupe",10 Cyl 8.0L,,,4848998AB,,,discontinued,,,20.9 x 9.6 x 4.5 inches,2.20 Pounds,/parts/mopar-tube-fuel-filler~4848998aa.html
+2,5264918AA,TUBE Fuel Vapor Recirculation,,2000-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,20.1 x 7.2 x 0.5 inches,0.90 Pounds,/parts/mopar-tube-fuel-vapor-recirculation~5264918aa.html
+4,4848132,CAP Fuel Filler,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.0 x 3.0 x 2.6 inches,0.60 Pounds,/parts/mopar-cap-fuel-filler~4848132.html
+6,6502090,CLAMP Hose,,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,3.55,2.79,2.7 x 2.2 x 0.4 inches,0.40 Pounds,/parts/mopar-clamp-hose~6502090.html

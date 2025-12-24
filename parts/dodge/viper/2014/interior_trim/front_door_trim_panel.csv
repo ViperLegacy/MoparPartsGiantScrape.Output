@@ -1,0 +1,123 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5NL60DX9AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5NL601X9AA,"Right [-X9], [RC5], [CBZ]
+Right [-X9], [RCA], [CBZ]",available,1085,713.9,39.5 x 39.5 x 7.4 inches,8.90 Pounds,/parts/mopar-panel-front-door-trim~5nl60dx9aa.html
+1,5NL611V5AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-V5], [RC5], [CBZ]",available,760,501.6,38.0 x 23.6 x 9.0 inches,8.80 Pounds,/parts/mopar-panel-front-door-trim~5nl611v5aa.html
+1,5NL611X9AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5NL61DX9AA,,"Left [-X9], [RC5], [CBZ], [XSQ]
+Left [-X9], [RCA], [CBZ], [XSQ]
+[-X9] [RC9] OR [RC5], [CBZ], [XSQ]...View More",available,1085,733.37,38.8 x 39.5 x 7.3 inches,8.30 Pounds,/parts/mopar-panel-front-door-trim~5nl611x9aa.html
+1,5NL61DX9AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5NL611X9AA,"Left [-X9], [RC5], [CBZ]
+Left [-X9], [RCA], [CBZ]",available,1085,713.9,38.8 x 39.5 x 7.2 inches,8.70 Pounds,/parts/mopar-panel-front-door-trim~5nl61dx9aa.html
+1,5PH60LK5AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5VL76LK5AA,"Right [-KX], [CTK], [RC5]
+Right [-KX], [CTK], [RCA], [XSQ]",available,1205,793.1,38.0 x 38.8 x 7.4 inches,8.50 Pounds,/parts/mopar-panel-front-door-trim~5ph60lk5aa.html
+1,5PH60XR4AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5VL76XR4AA,"Right [-RX], [CTK], [RC5]
+Right [-RX], [CTK], [RCA], [XSQ]",available,1025,842.6,38.8 x 38.0 x 7.2 inches,8.30 Pounds,/parts/mopar-panel-front-door-trim~5ph60xr4aa.html
+1,5PH60YSAAA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5PH601X9AA,"Right [-X9], [CTK], [RC5]
+Right [-X9], [CTK], [RCA], [XSQ]",available,1240,817.3,38.0 x 38.8 x 7.2 inches,8.30 Pounds,/parts/mopar-panel-front-door-trim~5ph60ysaaa.html
+1,5PH61LK5AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5VL77LK5AA,"Left [-KX], [CTK], [RC5]
+Left [-KX], [CTK], [RC5], [XSQ]
+Left [-KX], [CTK], [RCA], [XSQ]
+[-KX], [CTK], [RC5]...View More",available,1205,793.1,39.1 x 38.4 x 7.3 inches,8.30 Pounds,/parts/mopar-panel-front-door-trim~5ph61lk5aa.html
+1,5PH61XR4AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5VL77XR4AA,"Left [-RX], [CTK], [RC5]
+Left [-RX], [CTK], [RC5], [XSQ]
+Left [-RX], [CTK], [RCA], [XSQ]
+[-RX], [CTK], [RC5]...View More",available,1245,817.3,38.8 x 37.7 x 7.3 inches,8.60 Pounds,/parts/mopar-panel-front-door-trim~5ph61xr4aa.html
+1,5PH61YSAAA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5PH611X9AA,"Left [-X9], [CTK], [RC5]
+Left [-X9], [CTK], [RC5], [XSQ]
+Left [-X9], [CTK], [RCA], [XSQ]
+[-X9], [CTK], [RC5]...View More",available,1280,842.6,39.5 x 38.0 x 7.1 inches,9.00 Pounds,/parts/mopar-panel-front-door-trim~5ph61ysaaa.html
+1,5PH881X9AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5PH88YSAAA,,"Right [-X9], [RCA] OR [RC5], [CBF], [XSQ]",available,1360,909.65,38.0 x 39.1 x 7.2 inches,7.00 Pounds,/parts/mopar-panel-front-door-trim~5ph881x9aa.html
+1,5PH88HL1AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-VX], [RCA] OR [RC5], [CBF]",available,965,792,39.1 x 38.0 x 7.4 inches,8.40 Pounds,/parts/mopar-panel-front-door-trim~5ph88hl1aa.html
+1,5PH88LV5AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-VX], [RCA] OR [RC5], [CBF], [XSQ]",available,2650,1796.7,38.4 x 38.8 x 7.3 inches,8.30 Pounds,/parts/mopar-panel-front-door-trim~5ph88lv5aa.html
+1,5PH88YSAAA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5PH881X9AA,"Right [-X9], [RCA] OR [RC5], [CBF]",available,1360,885.5,39.1 x 38.8 x 7.4 inches,9.00 Pounds,/parts/mopar-panel-front-door-trim~5ph88ysaaa.html
+1,5PH891X9AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5PH89YSAAA,,"Left [-X9], [RCA] OR [RC5], [CBF], [XSQ]",available,1550,1026.04,38.0 x 37.7 x 7.1 inches,7.30 Pounds,/parts/mopar-panel-front-door-trim~5ph891x9aa.html
+1,5PH89HL1AA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-VX], [RCA] OR [RC5], [CBF]",available,985,808.5,39.5 x 39.1 x 7.5 inches,6.60 Pounds,/parts/mopar-panel-front-door-trim~5ph89hl1aa.html
+1,5PH89LV5AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-VX], [RCA] OR [RC5], [CBF], [XSQ]",available,2635,1738,39.5 x 39.1 x 7.2 inches,9.00 Pounds,/parts/mopar-panel-front-door-trim~5ph89lv5aa.html
+1,5PH89YSAAA,PANEL Front Door Trim,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,5PH891X9AA,"Left [-X9], [RCA] OR [RC5], [CBF]",available,1550,998.8,38.0 x 38.0 x 7.2 inches,9.00 Pounds,/parts/mopar-panel-front-door-trim~5ph89ysaaa.html
+1,5XQ641V5AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-V5], [CTK], [RCA], [AZA]",available,1540,1015.3,44.1 x 19.4 x 5.1 inches,8.00 Pounds,/parts/mopar-panel-front-door-trim~5xq641v5aa.html
+1,5XQ651V5AA,PANEL Front Door Trim,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-V5], [CTK], [RCA], [AZA]",available,1540,1015.3,43.7 x 19.4 x 5.2 inches,8.60 Pounds,/parts/mopar-panel-front-door-trim~5xq651v5aa.html
+2,5QZ111V5AA,ARMREST Front Door Trim includes LED lamp,,2014-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5QZ11CV5AA,,"Left [-V5], [RC5], [CBZ]",available,1120,759.36,34.5 x 12.1 x 7.9 inches,4.30 Pounds,/parts/mopar-panel-front-door-trim~5qz111v5aa.html
+2,5QZ11DX9AA,ARMREST Front Door Trim includes LED lamp,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [-X9] [RC5], [CBZ]",available,975,643.5,34.5 x 12.0 x 7.8 inches,4.30 Pounds,/parts/mopar-panel-front-door-trim~5qz11dx9aa.html
+2,5QZ14LK5AA,ARMREST Front Door Trim includes LED lamp,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-KX], [CTK], [RC5]",available,945,623.7,35.5 x 12.0 x 7.6 inches,7.50 Pounds,/parts/mopar-panel-front-door-trim~5qz14lk5aa.html
+2,5QZ14XR4AA,ARMREST Front Door Trim includes LED lamp,,2014-2015,,10 Cyl 8.4L,,,,,"Right [-RX], [CTK], [RC5]",discontinued,,,,,
+2,5QZ14YSAAA,ARMREST Front Door Trim includes LED lamp,,"2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Right [-X9], [CTK], [RC5]",available,945,623.7,33.9 x 11.9 x 7.9 inches,4.40 Pounds,/parts/mopar-panel-front-door-trim~5qz14ysaaa.html
+2,5QZ15LK5AA,ARMREST Front Door Trim includes LED lamp,,2014-2015,,10 Cyl 8.4L,,,,,"Left [-KX], [CTK], [RC5]",discontinued,,,,,
+2,5QZ15XR4AA,ARMREST Front Door Trim includes LED lamp,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-RX], [CTK], [RC5]",available,945,623.7,34.9 x 12.0 x 7.9 inches,8.00 Pounds,/parts/mopar-panel-front-door-trim~5qz15xr4aa.html
+2,5QZ15YSAAA,ARMREST Front Door Trim includes LED lamp,,"2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [-X9], [CTK], [RC5]",available,1000,660,34.9 x 12.0 x 7.6 inches,4.20 Pounds,/parts/mopar-panel-front-door-trim~5qz15ysaaa.html
+2,5QZ16LK5AA,ARMREST Front Door Trim includes LED lamp,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-KX], [CTK], [RCA]",available,945,623.7,35.5 x 11.9 x 7.7 inches,8.00 Pounds,/parts/mopar-panel-front-door-trim~5qz16lk5aa.html
+2,5QZ16XR4AA,ARMREST Front Door Trim includes LED lamp,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-RX], [CTK], [RCA]",available,804,663.3,34.9 x 12.0 x 7.6 inches,8.10 Pounds,/parts/mopar-panel-front-door-trim~5qz16xr4aa.html
+2,5QZ16YSAAA,ARMREST Front Door Trim includes LED lamp,,"2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Right [-X9], [CTK], [RCA]",available,1000,660,38.4 x 38.0 x 7.4 inches,4.20 Pounds,/parts/mopar-panel-front-door-trim~5qz16ysaaa.html
+2,5QZ17LK5AA,ARMREST Front Door Trim includes LED lamp,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-KX], [CTK], [RCA]",available,1025,674.3,34.2 x 12.0 x 7.7 inches,7.60 Pounds,/parts/mopar-panel-front-door-trim~5qz17lk5aa.html
+2,5QZ17XR4AA,ARMREST Front Door Trim includes LED lamp,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-RX], [CTK], [RCA]",available,975,643.5,35.2 x 11.9 x 7.7 inches,7.30 Pounds,/parts/mopar-panel-front-door-trim~5qz17xr4aa.html
+2,5QZ17YSAAA,ARMREST Front Door Trim includes LED lamp,,"2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [-X9], [CTK], [RCA]",available,1030,679.8,33.9 x 12.0 x 7.9 inches,4.40 Pounds,/parts/mopar-panel-front-door-trim~5qz17ysaaa.html
+2,5QZ19YSAAA,ARMREST Front Door Trim includes LED lamp,,"2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [-X9], [RCA] OR [RC5], [CBF], [XSQ]",available,780,643.5,33.9 x 12.0 x 8.0 inches,7.40 Pounds,/parts/mopar-panel-front-door-trim~5qz19ysaaa.html
+2,5VP661V5AA,ARMREST Front Door Trim includes LED lamp,,"2017, 2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Right [-V5], [CTK], [RCA], [AZA]",available,980,646.8,32.3 x 10.7 x 4.1 inches,4.80 Pounds,/parts/mopar-panel-front-door-trim~5vp661v5aa.html
+2,5VP661X9AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5VP66YSAAA,,"Right [-X9], [RC5], [CBZ], [XSQ]
+Right [-X9], [RC9] OR [RC5], [CBZ], [XSQ]",available,1065,720.94,33.0 x 11.0 x 4.1 inches,2.60 Pounds,/parts/mopar-panel-front-door-trim~5vp661x9aa.html
+2,5VP671V5AA,ARMREST Front Door Trim includes LED lamp,,"2017, 2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [-V5], [CTK], [RCA], [AZA]",available,980,646.8,44.5 x 19.6 x 5.2 inches,8.10 Pounds,/parts/mopar-panel-front-door-trim~5vp671v5aa.html
+2,5VP671X9AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5VP67YSAAA,,"Left [-X9], [RC5], [CBZ], [XSQ]
+Left [-X9], [RC9] OR [RC5], [CBZ], [XSQ]",available,1065,720.94,44.1 x 19.2 x 5.1 inches,5.80 Pounds,/parts/mopar-panel-front-door-trim~5vp671x9aa.html
+2,5VR501X9AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5VR50YSAAA,,"Right [-X9], [RCA], [CBZ], [XSQ]",available,992,678.3,42.8 x 19.2 x 5.2 inches,5.80 Pounds,/parts/mopar-panel-front-door-trim~5vr501x9aa.html
+2,5VR511X9AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5VR51YSAAA,,"Left [-X9], [RCA], [CBZ], [XSQ]",available,1015,687.04,33.3 x 11.0 x 4.0 inches,2.80 Pounds,/parts/mopar-panel-front-door-trim~5vr511x9aa.html
+2,5VR561X9AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,5VR56YSAAA,,"Right [-X9], [RCA] OR [RC5], [CBF], [XSQ]",available,1220,823.77,33.0 x 10.7 x 4.2 inches,2.60 Pounds,/parts/mopar-panel-front-door-trim~5vr561x9aa.html
+2,5VR56LV5AA,ARMREST Front Door Trim includes LED lamp,,"2017, 2014-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Right [-VX], [RCA] OR [RC5], [CBF], [XSQ]",available,1905,1254,32.3 x 10.7 x 4.2 inches,2.80 Pounds,/parts/mopar-panel-front-door-trim~5vr56lv5aa.html
+2,5VR57LK5AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-KX], [CTK], [RCA], [XSQ]",available,1125,741.4,44.1 x 18.7 x 5.1 inches,8.40 Pounds,/parts/mopar-panel-front-door-trim~5vr57lk5aa.html
+2,5VR57XR4AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-RX], [CTK], [RCA], [XSQ]",available,1125,741.4,42.8 x 19.4 x 5.3 inches,7.90 Pounds,/parts/mopar-panel-front-door-trim~5vr57xr4aa.html
+2,5VR57YSAAA,ARMREST Front Door Trim includes LED lamp,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5VR571X9AA,"Left [-X9], [CTK], [RCA], [XSQ]",available,1220,801.9,43.7 x 19.4 x 5.3 inches,5.60 Pounds,/parts/mopar-panel-front-door-trim~5vr57ysaaa.html
+2,5VR58LK5AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-KX], [CTK], [RCA], [XSQ]",available,1135,749.1,33.6 x 10.9 x 4.2 inches,5.00 Pounds,/parts/mopar-panel-front-door-trim~5vr58lk5aa.html
+2,5VR58XR4AA,ARMREST Front Door Trim includes LED lamp,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Right [-RX], [CTK], [RCA], [XSQ]",available,1135,749.1,33.3 x 10.8 x 4.2 inches,4.80 Pounds,/parts/mopar-panel-front-door-trim~5vr58xr4aa.html
+2,5VR58YSAAA,ARMREST Front Door Trim includes LED lamp,,"2017, 2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,5VR581X9AA,"Right [-X9], [CTK], [RCA], [XSQ]",available,1135,749.1,32.6 x 10.7 x 4.1 inches,4.80 Pounds,/parts/mopar-panel-front-door-trim~5vr58ysaaa.html
+2,5VR61LV5AA,ARMREST Front Door Trim includes LED lamp,,"2017, 2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Left [-VX], [RCA] OR [RC5], [CBF], [XSQ]",available,2780,1831.5,33.9 x 10.7 x 4.2 inches,4.80 Pounds,/parts/mopar-panel-front-door-trim~5vr61lv5aa.html
+3,1XE21LC6AA,BEZEL Armrest,Left,"2016-2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,,available,168,107.89,6.7 x 3.3 x 1.8 inches,0.50 Pounds,/parts/mopar-bezel-armrest~1xe21lc6aa.html
+3,5MC56AAAAA,BEZEL Armrest,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5LX40AAAAA,"Right [XSQ]
+Right [XSQ] Or [AZA]",available,955,629.2,6.3 x 4.4 x 2.3 inches,0.60 Pounds,/parts/mopar-bezel-armrest~5mc56aaaaa.html
+3,5MC57AAAAA,BEZEL Armrest,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5LX41AAAAA,"Left [XSQ]
+Left [XSQ] Or [AZA]",unavailable,1005,680.26,6.6 x 4.4 x 2.4 inches,0.60 Pounds,/parts/mopar-bezel-armrest~5mc57aaaaa.html
+4,5043035AA,HANDLE Inside Release,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [CTK], [RC5]
+Left [CTK], [RCA]
+Left [CTK], [RCA], [AZA]
+Left [CTK], [RCA], [XSQ]
+Left [RC5], [CBZ]
+Left [RC5], [CBZ], [XSQ]
+Left [RC9] Or [RC5], [CBZ]
+Left [RC9] Or [RC5], [CBZ], [XSQ]
+Left [RCA] OR [RC5], [CBF]
+Left [RCA] Or [RC5], [CBF]
+Left [RCA] Or [RC5], [CBF], [XSQ]
+Left [RCA], [CBZ]
+Left [RCA], [CBZ], [XSQ]...View More",available,222,183.38,9.4 x 5.5 x 3.4 inches,1.40 Pounds,/parts/mopar-handle-inside-release~5043035aa.html
+5,5LX47AAAAA,BEZEL Remote Handle,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"Left [-KX],[CTK], [RC5], [XSQ]
+Left [-KX],[CTK], [RCA], [XSQ]
+Left [-RX],[CTK], [RC5], [XSQ]
+Left [-RX],[CTK], [RCA], [XSQ]
+Left [-VX],[RCA] OR [RC5], [CBF], [XSQ]
+Left [-X9],[CTK], [RC5], [XSQ]
+Left [-X9],[CTK], [RCA], [XSQ]
+Left [-X9],[RC9] OR [RC5], [CBZ], [XSQ]
+Left [-X9],[RCA] OR [RC5], [CBF], [XSQ]
+Left [-X9],[RCA], [CBZ], [XSQ]...View More",available,1090,719.4,10.4 x 4.3 x 2.3 inches,0.70 Pounds,/parts/mopar-bezel-remote-handle~5lx47aaaaa.html
+6,1XD54XR4AA,COVER Release Handle Bezel,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,Right [-RX],available,87,57.38,3.4 x 2.4 x 1.3 inches,0.60 Pounds,/parts/mopar-cover-release-handle-bezel~1xd54xr4aa.html
+6,1XD55LK5AA,COVER Release Handle Bezel,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,Left [-KX],available,76.15,53.18,3.4 x 2.3 x 1.3 inches,0.60 Pounds,/parts/mopar-cover-release-handle-bezel~1xd55lk5aa.html
+6,1XD55XR4AA,COVER Release Handle Bezel,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,Left [-VX],available,103,66.66,3.3 x 2.3 x 1.3 inches,0.60 Pounds,/parts/mopar-cover-release-handle-bezel~1xd55xr4aa.html
+7,68223035AA,GRILLE Speaker Delete,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [CTK], [RC5]
+Left [CTK], [RC5], [XSQ]
+Left [RC5], [CBZ]
+Left [RC5], [CBZ], [XSQ]
+Left [RC9] OR [RC5], [CBZ]
+Left [RC9] OR [RC5], [CBZ], [XSQ]...View More",available,34,28.43,,0.70 Pounds,/parts/mopar-grille-speaker~68223035aa.html
+8,5035276AB,SWITCH AND BEZEL Power Window,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5035276AC,,"Right [RC9] Or [RC5], [CBZ]
+Right [RCA], [CBZ]",unavailable,364,245.9,10.2 x 3.8 x 3.8 inches,0.90 Pounds,/parts/mopar-switch-power-window~5035276ab.html
+8,5035278AB,SWITCH AND BEZEL Power Window,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5035278AC,,"Right [RCA] Or [RC5], [CBF]",discontinued,,,8.4 x 3.5 x 2.8 inches,0.70 Pounds,/parts/mopar-switch-power-window~5035278ab.html
+8,5035279AB,SWITCH AND BEZEL Power Window,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68620470AA,,"Left [RCA] Or [RC5], [CBF]",discontinued,,,8.5 x 3.4 x 2.8 inches,1.30 Pounds,/parts/mopar-switch-power-window~5035279ab.html
+9,6509673AA,PUSH PIN,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,5,1,,,,available,10.85,7.51,1.5 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-pin~6509673aa.html
+14,68204370AA,SCREW Tapping,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,6.65,4.98,0.8 x 0.3 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-tapping~68204370aa.html
+15,68223033AA,GRILLE Speaker,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left Upper [CTK], [RCA]
+Left Upper [CTK], [RCA], [AZA]
+Left Upper [CTK], [RCA], [XSQ]
+Left Upper [RCA] OR [RC5], [CBF]
+Left Upper [RCA] OR [RC5], [CBF], [XSQ]
+Left Upper [RCA], [CBZ]
+Left Upper [RCA], [CBZ], [XSQ]...View More",available,57.3,38.97,,0.70 Pounds,/parts/mopar-grille-speaker~68223033aa.html
+,68203759AA,CLIP U Type M12x16,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,,available,2.3,1.34,,0.40 Pounds,/parts/mopar-clip-u-type~68203759aa.html
+,4669177,GROMMET Female Half Of Item 8 Push Pin,,"2013-2017, 2008-2010, 2003-2006","COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,9.7,6.7,1.4 x 1.4 x 0.8 inches,0.40 Pounds,/parts/mopar-grommet~4669177.html
+,5023174AA,PIN Push Male Half Of Item 8 Push Pin,,"2017, 2013-2015","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,5,1,,,,available,16,11.13,1.4 x 7.0 x 0.9 inches,0.40 Pounds,/parts/mopar-retainer-push~5023174aa.html
+,6508302AA,SCREW M5x.8x25,,2014,"SRT, SRT GTS",10 Cyl 8.4L,2,1,,,,available,4,2.74,1.1 x 0.7 x 0.6 inches,0.50 Pounds,/parts/mopar-screw~6508302aa.html

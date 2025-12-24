@@ -1,0 +1,15 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,04883077,PUMP Power Steering,,,,,,,,,Mopar Power Steering Fluid Quart,discontinued,,,,,
+3,5245799,BRACKET Power Steering Pump,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.9 x 4.2 x 1.3 inches,0.70 Pounds,/parts/mopar-bracket-power-steering-pump~5245799.html
+4,6034244,SCREW AND WASHER Hex Head .312-18x3.50,,"2004-2006, 1992-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",3,1,,,,available,18.75,14.51,3.7 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6034244.html
+5,6035558,SCREW Hex Flange Head .375-16x1.50,,1992-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",3,1,,,,available,6.25,4.91,1.8 x 0.7 x 0.7 inches,0.90 Pounds,/parts/mopar-screw-hex-flange-head~6035558.html
+6,4796473,CAP Power Steering Reservoir,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.1 x 3.1 x 3.0 inches,1.00 Pounds,/parts/mopar-cap-power-steering-reservoir~4796473.html
+7,4848104,HOSE Power Steering Pressure,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,unavailable,,,17.7 x 4.4 x 1.7 inches,1.30 Pounds,/parts/mopar-line-p-s-pressure~4848104.html
+8,4642601,HOSE Power Steering Return,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,11.9 x 2.7 x 0.7 inches,0.60 Pounds,/parts/mopar-line-power-steering-return~4642601.html
+9,2448761,CLAMP Hose,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,33000784,,,available,5.15,3.5,1.7 x 1.3 x 0.6 inches,0.40 Pounds,/parts/mopar-clamp-hose~2448761.html
+10,53011017,PULLEY Power Steering Pump,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.5 x 6.5 x 3.5 inches,1.20 Pounds,/parts/mopar-pulley-power-steering-pump~53011017.html
+11,4848617,COOLER Power Steering,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.4 x 4.3 x 17.2 inches,2.00 Pounds,/parts/mopar-cooler-power-steering~4848617.html
+12,3879925,HOSE Power Steering Return,,"2002, 1997-1998","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,120.01,94.31,17.5 x 17.5 x 3.7 inches,9.40 Pounds,/parts/mopar-hose-power-steering-return~3879925.html
+13,6022202,SCREW AND WASHER Hex Head .25-20x.625,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,0.8 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6022202.html
+,83503495,RESERVOIR Power Steering Pump,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.20 Pounds,/parts/mopar-reservoir-power-steering-pump~83503495.html
+,6029074,U-NUT .25-20,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.2 x 0.6 x 0.5 inches,0.50 Pounds,/parts/mopar-nut~6029074.html

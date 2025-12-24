@@ -1,0 +1,33 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763401,"MANIFOLD ASSEMBLY, Intake, Partial",,1993-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1993-96, After, Serial #1422",discontinued,,,,,
+1,4763758,"MANIFOLD ASSEMBLY, Intake, Partial",,1992-1997,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,34.70 Pounds,/parts/mopar-manifold-intake~4763758.html
+1,5245637,"MANIFOLD ASSEMBLY, Intake, Partial",,1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1993, From, Serial #105 To, Serial #1421",discontinued,,,,,
+1,5245651,"MANIFOLD ASSEMBLY, Intake, Partial",,1992-1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1992-93, Up To, Serial #104",discontinued,,,,,
+1,R4763401,"MANIFOLD ASSEMBLY, Intake, Partial",,1992-1997,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"MANIFOLD, Intake",discontinued,,,,,
+1,R5245637,"MANIFOLD ASSEMBLY, Intake, Partial",,1992-1996,"GTS Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"MANIFOLD, Intake",discontinued,,,33.7 x 29.1 x 8.3 inches,40.40 Pounds,/parts/mopar-manifold-intake~r5245637.html
+1,R5245651,"MANIFOLD ASSEMBLY, Intake, Partial",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"MANIFOLD, Intake",discontinued,,,,,
+2,6034166,"PLUG, AIS Passage",,1992-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,J0444660,,discontinued,,,0.7 x 0.7 x 0.4 inches,0.40 Pounds,/parts/mopar-plug-cylinder-block-oil-hole~6034166.html
+3,6034582,"SCREW, Manifold, (5/16-18x1.125)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,20,1,,,,available,14,11,,0.50 Pounds,/parts/mopar-screw-header-pt~6034582.html
+4,5245194,"GASKET, Intake Manifold To Head",,,,,2,,,,,discontinued,,,,,
+5,5245215,"GASKET, Exhaust Manifold",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,25.5 x 6.1 x 0.4 inches,0.80 Pounds,/parts/mopar-gasket-exhaust-manifold~5245215.html
+5,4848339,"GASKET, Exhaust Manifold",,1992-1997,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,5004014AA,,,discontinued,,,32.6 x 5.1 x 0.1 inches,0.60 Pounds,/parts/mopar-manifold-exhaust-manifold~4848339.html
+6,4763770,"MANIFOLD, Exhaust",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996, Rt.",discontinued,,,,22.90 Pounds,/parts/mopar-manifold-exhaust~4763770.html
+6,4763771,"MANIFOLD, Exhaust",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996, Lt.",discontinued,,,,25.30 Pounds,/parts/mopar-manifold-exhaust~4763771.html
+6,5245600,"MANIFOLD, Exhaust",,1992,,10 Cyl 8.0L,2,,,,,discontinued,,,,,
+6,5245610,"MANIFOLD, Exhaust",,1993-1995,,10 Cyl 8.0L,,,,,"1993-95, Rt., After, Serial #105",discontinued,,,,,
+6,5245611,"MANIFOLD, Exhaust",,1993-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1993-95, Lt., After, Serial #105",discontinued,,,,20.80 Pounds,/parts/mopar-manifold-exhaust-lt-mach~5245611.html
+6,5245700,"MANIFOLD, Exhaust",,1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"1993, Up To, Serial #104",discontinued,,,,15.70 Pounds,/parts/mopar-manifold-exhaust~5245700.html
+7,6034595,"WASHER, Lock",,"2008-2010, 1992-2006","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",20,1,,,,available,8.3,5.78,0.8 x 0.8 x 0.2 inches,0.40 Pounds,/parts/mopar-washer-conical~6034595.html
+8,6034596,"BOLT, Exhaust Manifold, (5/16-18x1.5)",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-bolt-hex-head~6034596.html
+9,6034658,"STUD, Manifold and Heat Shield, (5/16-18x5/16-24x2.22)",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,available,22.25,13.53,,0.50 Pounds,/parts/mopar-stud~6034658.html
+10,5245597,"NUT, Hex Flanged, w/2-Piece Manifold, (5/16-24), 1992-93",,,,,16,,,,,discontinued,,,,,
+11,5245203,"HEAT SHIELD, Exhaust",,1992-1993,,,2,,,,"1992-93, Up To, Serial #104",discontinued,,,,,
+11,5245642,"HEAT SHIELD, Exhaust",,1993-1996,,,2,,,,"1993-96, After, Serial #105, w/1-Piece Manifold",discontinued,,,,,
+12,5245598,"STUD, w/2-Piece Manfold, (5/16-18/5/16-24x1.625), 1992-93",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,16,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-stud-exhaust~5245598.html
+13,5245583,"GASKET, Exhaust Outlet, w/2-Piece Manifold, 1992-93",,,,,2,,,,,discontinued,,,,,
+14,5245604,"EXTENSION ASSEMBLY, Exhaust Manifold",Right,1992-1993,,,,,,,,discontinued,,,,,
+14,5245605,"EXTENSION ASSEMBLY, Exhaust Manifold",Left,1992-1993,,,,,,,,discontinued,,,,,
+15,5245585,"HEAT SHIELD, Crankshaft Position Sensor",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 2.8 x 2.2 inches,0.50 Pounds,/parts/mopar-shield-crank-position-sensor~5245585.html
+16,6034856,"NUT, w/Washer, Heat Shield, (5/16x24)",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",6,1,,,,available,15.34,12.05,0.8 x 0.8 x 0.4 inches,0.60 Pounds,/parts/mopar-nut~6034856.html
+17,4763414,"CUP PLUG, Intake Manifold",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.5 x 1.5 x 0.2 inches,0.80 Pounds,/parts/mopar-plug-cylinder-block-oil-hole~4763414.html
+18,5245193,"VALVE, Pressure Relief",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.9 x 5.8 x 1.0 inches,0.40 Pounds,/parts/mopar-valve-shrader~5245193.html

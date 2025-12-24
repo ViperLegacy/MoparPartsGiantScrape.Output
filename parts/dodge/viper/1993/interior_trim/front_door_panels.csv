@@ -1,0 +1,68 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4709078,"PANEL, Door",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"SEAL, Between Door And Trim Panel, (About 3"" Long) (1996)",available,61.2,42.5,,0.50 Pounds,/parts/mopar-seal-door-mucket-rt~4709078.html
+1,GM76MKA,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Carmel/Tan, Right (1992-93)",discontinued,,,,,
+1,GM76MXD,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Black/Medium Quartz, Right (1992-93)",discontinued,,,,,
+1,GM77MKA,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Carmel/Tan, Left (1992-93)",discontinued,,,,,
+1,GM77MXD,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Black/Medium Quartz, Left (1992-93)",discontinued,,,,,
+1,HT98LXD,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Black/Medium Quartz, Right (1992-93)",discontinued,,,,,
+1,HT98MKA,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Carmel/Tan, Right (1992-93)",discontinued,,,,,
+1,HT99LXD,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Black/Medium Quartz, Left (1992-93)",discontinued,,,,,
+1,HT99MKA,"PANEL, Door",,1992-1993,,10 Cyl 8.0L,,,,,"Carmel/Tan, Left (1992-93)",discontinued,,,,,
+1,HY60MKA,"PANEL, Door",,1994,,10 Cyl 8.0L,,,,,"Carmel/Tan, Right (1994)",discontinued,,,,,
+1,HY60MXD,"PANEL, Door",,1994,,10 Cyl 8.0L,,,,,"Black/Medium Quartz, Right (1994)",discontinued,,,,,
+1,HY61MKA,"PANEL, Door",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Carmel/Tan (1995)
+Carmel/Tan, Left (1994)",available,117.51,92.34,,10.50 Pounds,/parts/mopar-panel-door-trim~hy61mka.html
+1,HY61MXD,"PANEL, Door",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Black/Medium Quartz (1995)
+Black/Medium Quartz, Left (1994)",discontinued,,,45.5 x 30.4 x 9.4 inches,10.20 Pounds,/parts/mopar-panel-door-trim~hy61mxd.html
+1,HY61SX7,"PANEL, Door",,1996,27,10 Cyl 8.0L,,,,,Black (1996),discontinued,,,,,
+1,JW32MKA,"PANEL, Door",,1994,,10 Cyl 8.0L,,,,,"Carmel/Tan, Right (1994)",discontinued,,,,,
+1,JW32MXD,"PANEL, Door",,1994,,10 Cyl 8.0L,,,,,"Black/Medium Quartz, Right (1994)",discontinued,,,,,
+1,JW33MKA,"PANEL, Door",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Carmel/Tan (1995)
+Carmel/Tan, Left (1994)",discontinued,,,,6.70 Pounds,/parts/mopar-panel-door-interior-trim-lh~jw33mka.html
+1,JW33MXD,"PANEL, Door",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Black/Medium Quartz (1995)
+Black/Medium Quartz, Left (1994)",discontinued,,,,11.70 Pounds,/parts/mopar-panel-door-interior-trim-lh~jw33mxd.html
+1,JW33SX7,"PANEL, Door",,1996,27,10 Cyl 8.0L,,,,,Black (1996),discontinued,,,,,
+1,LC42PKA,"PANEL, Door",,1995,,10 Cyl 8.0L,,,,,Carmel/Tan (1995),discontinued,,,,,
+1,LC42PXD,"PANEL, Door",,1995,,10 Cyl 8.0L,,,,,Black/Medium Quartz (1995),discontinued,,,,,
+1,LC42SX7,"PANEL, Door",,1996,27,10 Cyl 8.0L,,,,,Black (1996),discontinued,,,,,
+1,LC44PKA,"PANEL, Door",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Carmel/Tan (1995),discontinued,,,,8.50 Pounds,/parts/mopar-panel-door-trim-rt~lc44pka.html
+1,LC44PXD,"PANEL, Door",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black/Medium Quartz (1995),discontinued,,,47.9 x 24.5 x 5.2 inches,7.60 Pounds,/parts/mopar-door-trim-rt-panel-asm~lc44pxd.html
+1,LC44SX7,"PANEL, Door",,1996,27,10 Cyl 8.0L,,,,,Black (1996),discontinued,,,,,
+1,QE56TX9,"PANEL, Door",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Black (1996),discontinued,,,,9.60 Pounds,/parts/mopar-panel-door-trim-lt~qe56tx9.html
+1,QE57TX9,"PANEL, Door",,1996,29,10 Cyl 8.0L,,,,,Black (1996),discontinued,,,,,
+2,HU74MX9,"BEZEL, Shoulder Belt",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"PLUG, Seatbelt Bezel (Canada and European), Right",discontinued,,,,0.50 Pounds,/parts/mopar-plug-seatbelt-bezel~hu74mx9.html
+2,HU75MX9,"BEZEL, Shoulder Belt",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"PLUG, Seatbelt Bezel (Canada and European), Left",unavailable,,,,0.50 Pounds,/parts/mopar-plug-seatbelt-bezel~hu75mx9.html
+2,JR14LX9,"BEZEL, Shoulder Belt",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Black, Right",discontinued,,,,0.50 Pounds,/parts/mopar-frt-seat-shldr-belt-rt-bez~jr14lx9.html
+2,JR15LX9,"BEZEL, Shoulder Belt",Left,1992-1996,,10 Cyl 8.0L,,,,,"Black, Left",discontinued,,,,,
+4,EJ02LX9,PULL CUP,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,6.3 x 2.9 x 2.8 inches,0.60 Pounds,/parts/mopar-cup-dr-trim-panel~ej02lx9.html
+5,34201398,"SCREW and WASHER, Door Panel Attaching (4.2-1.41x25mm)",,1992-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,,discontinued,,,1.0 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-screw-oval-truss-head~34201398.html
+6,4643901,"LINER, Front Door Inside Panel",,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,4708388,"LINER, Front Door Inside Panel",,1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1993,94,95,96",available,8.75,6.88,,0.60 Pounds,/parts/mopar-liner-frt-dr-i-side-pnl~4708388.html
+7,6035120,"GROMMET, Door Trim Panel, (Side Windows Attach)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"CLIP, Stanchion Cover To Stanchion",discontinued,,,,0.50 Pounds,/parts/mopar-clip-stanch-cvr-to-stanch-attach~6035120.html
+7,4643924,"GROMMET, Door Trim Panel, (Side Windows Attach)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-grommet-door-trim-panel~4643924.html
+8,EK02LD5,"BEZEL, Remote Release",,1992,,10 Cyl 8.0L,,,,,"Medium Quartz, Right (1992,93,94)",discontinued,,,,,
+8,EK02PX9,"BEZEL, Remote Release",,1992,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Flat Black, Right (1992,93,94)
+Flat Black, Right (1995,96)",discontinued,,,6.5 x 2.7 x 0.8 inches,0.50 Pounds,/parts/mopar-bezel-remote-control~ek02px9.html
+8,EK03LD5,"BEZEL, Remote Release",,1992,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Medium Quartz, Left (1992,93,94)",discontinued,,,6.5 x 2.7 x 0.8 inches,0.50 Pounds,/parts/mopar-bezel-remote-release-lt~ek03ld5.html
+8,EK03PX9,"BEZEL, Remote Release",,1992,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Flat Black, Left (1992,93,94)
+Flat Black, Left (1995,96)",discontinued,,,,,/parts/mopar-bezel-remote-control~ek03px9.html
+9,0154605,"SCREW, .190-16.750",,,,,4,,,,,discontinued,,,,,
+10,6032723,"SCREW, .164-15x.750",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",6,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+11,6035217,"SCREW, .164-18x.500",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,0.6 x 0.4 x 0.4 inches,0.40 Pounds,/parts/mopar-screw-round-head~6035217.html
+12,LC46PD5,"GRAB HANDLE, Right Side",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Medium Tan,available,3.25,2.55,,0.70 Pounds,/parts/mopar-grab-handle-asm~lc46pd5.html
+12,LC46PKA,"GRAB HANDLE, Right Side",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Carmel Tan,available,3.5,2.75,,0.70 Pounds,/parts/mopar-grab-handle-asm~lc46pka.html
+12,LC46SX9,"GRAB HANDLE, Right Side",,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1994,95
+Black (1996)",discontinued,,,,0.60 Pounds,/parts/mopar-handle-grab~lc46sx9.html
+13,FJ58LD5,"BEZEL, Door Trim",,1992,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Quartz, Right (1992,93,94,95)",discontinued,,,,,
+13,FJ58MX9,"BEZEL, Door Trim",,1992,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Flat Black, Right (1992,93,94,95)",discontinued,,,,,
+13,FJ58SX4,"BEZEL, Door Trim",Right,1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right (1996),discontinued,,,14.3 x 10.6 x 2.8 inches,0.60 Pounds,/parts/mopar-bezel-adjustable-turning-loop~fj58sx4.html
+13,FJ59LD5,"BEZEL, Door Trim",,1992,"GTS Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Quartz, Left (1992,93,94,95)",discontinued,,,13.7 x 8.3 x 2.3 inches,1.30 Pounds,/parts/mopar-bezel-adjustable-turning-loop~fj59ld5.html
+13,FJ59MX9,"BEZEL, Door Trim",,1992,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Flat Black, Left (1992,93,94,95)",discontinued,,,,,
+13,FJ59SX4,"BEZEL, Door Trim",Left,1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Left (1996),discontinued,,,12.7 x 5.1 x 0.3 inches,0.70 Pounds,/parts/mopar-bezel-adjustable-turning-loop~fj59sx4.html
+13,QE34MX4,"BEZEL, Door Trim",Right,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right (1996),discontinued,,,,,
+13,QE35MX4,"BEZEL, Door Trim",Left,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Left (1996),discontinued,,,,,
+14,4864362,"CLIP, Door Trim Panel",,,,,,,,,,discontinued,,,,,
+15,4874844,"BRACKET, Kit, Door Trim Panel Mounting",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.00 Pounds,/parts/mopar-bracket-door-trim-panel-mtg~4874844.html
+,6502676,"NUT, Plastic Push On",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-nut-hex~6502676.html
+,9428247,"SCREW, Stanchion Cover Attaching",,,,,4,,,,,discontinued,,,,,
+,4741764,"SPACER, (Used When New Door Trim Panel Is Installed To Replace Tearing Stanchion Closeout Cover) -1992",,,,,,,,,,discontinued,,,,,

@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642803,VISOR,Left,1992-1997,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,LH30SX7,VISOR,Right,1992-1997,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.20 Pounds,/parts/mopar-visor-comp-lt~lh30sx7.html
+1,LH31SX7,VISOR,Left,1992-1997,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,6032723,"SCREW, .164-15x.750",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+4,4763695,"FOOTREST, Panel",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,After 2-16-94 w/Footrest molded in carpet,discontinued,,,,1.20 Pounds,/parts/mopar-footrest~4763695.html
+,4775160,"LABEL, Visor Airbag",,,,,,,,,"Airbag Referral, Bilingual",discontinued,,,,,

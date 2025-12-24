@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763003,"TUBE, Fuel Filler",,1996,29,,,,,,,discontinued,,,,,
+1,4763580,"TUBE, Fuel Filler",,1996,27,,,,,,,discontinued,,,,,
+2,4763002,"TUBE, Fuel Tank Vent",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+2,4763008,"TUBE, Fuel Tank Vent",,1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,29.0 x 4.0 x 1.8 inches,0.70 Pounds,/parts/mopar-tube-fuel-filler-vent~4763008.html
+3,6502089,"CLAMP, Vent Hose",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,6502450,,available,7.5,5.18,2.2 x 2.1 x 0.4 inches,0.50 Pounds,/parts/mopar-clamp-hose-clamp~6502089.html
+4,52006629,"CAP, Fuel Filler Tube",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.0 x 2.6 x 2.9 inches,0.60 Pounds,/parts/mopar-cap-fuel-filler~52006629.html
+6,6502091,"CLAMP, Filler Tube",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.0 x 2.7 x 0.5 inches,0.50 Pounds,/parts/mopar-clamp-hose~6502091.html
+7,5217578,"GROMMET, Fuel Tank",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,22.5,15.55,3.3 x 1.1 x 0.9 inches,0.50 Pounds,/parts/mopar-grommet-fuel-tank-filler-tube-openi~5217578.html

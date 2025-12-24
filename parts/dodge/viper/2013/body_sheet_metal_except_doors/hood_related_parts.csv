@@ -1,0 +1,28 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68110741AB,HOOD,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68199406AH,,,discontinued,,,,,/parts/mopar-hood~68110741ab.html
+2,68141087AA,BEZEL Hood,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68141087AD,,Left [MH1],available,141,95.2,13.4 x 7.3 x 2.3 inches,0.60 Pounds,/parts/mopar-bezel-hood~68141087aa.html
+3,68199795AA,SILENCER Hood,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68199795AD,,,available,408,272.06,58.2 x 51.0 x 9.3 inches,12.50 Pounds,/parts/mopar-silencer-hood~68199795aa.html
+4,6030441,PUSH PIN .250X.900,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,14,1,,"6509015AA, 6505403AA",,available,7.95,5.53,1.1 x 0.9 x 0.9 inches,0.60 Pounds,/parts/mopar-push-pin~6030441.html
+5,68184977AA,SEAL Air Cleaner,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,22.8,17.65,14.9 x 7.0 x 1.2 inches,1.10 Pounds,/parts/mopar-seal-air-cleaner~68184977aa.html
+6,68141089AB,BEZEL Hood,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68141089AF,,Left Front,available,118,79.02,17.2 x 8.5 x 6.5 inches,0.90 Pounds,/parts/mopar-bezel-hood~68141089ab.html
+6,68141090AB,BEZEL Hood,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68141090AF,,Center Right,unavailable,118,79.02,17.2 x 8.4 x 6.6 inches,0.90 Pounds,/parts/mopar-bezel-hood~68141090ab.html
+6,68141091AB,BEZEL Hood,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68141091AF,,Center Left,discontinued,,,17.0 x 8.6 x 6.5 inches,0.90 Pounds,/parts/mopar-bezel-hood~68141091ab.html
+6,68183762AB,BEZEL Hood,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68183762AF,,Right Rear,discontinued,,,17.5 x 8.6 x 6.6 inches,0.90 Pounds,/parts/mopar-bezel-hood~68183762ab.html
+6,68183763AB,BEZEL Hood,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68183763AF,,Left Rear,discontinued,,,17.2 x 8.5 x 6.5 inches,0.90 Pounds,/parts/mopar-bezel-hood~68183763ab.html
+7,68139366AB,HOOD,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68199408AH,,,available,16800,11390.4,,,/parts/mopar-hood~68139366ab.html
+8,68199796AA,SILENCER Hood,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68199796AD,,,available,280,189,,,/parts/mopar-silencer-hood~68199796aa.html
+9,6030441,PUSH PIN .250X.900,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,14,1,,"6509015AA, 6505403AA",,available,7.95,5.53,1.1 x 0.9 x 0.9 inches,0.60 Pounds,/parts/mopar-push-pin~6030441.html
+10,68184977AA,SEAL Air Cleaner,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,22.8,17.65,14.9 x 7.0 x 1.2 inches,1.10 Pounds,/parts/mopar-seal-air-cleaner~68184977aa.html
+11,68145350AB,LATCH Hood,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,68145350AC,,,available,95.75,64.63,6.2 x 6.2 x 3.4 inches,1.20 Pounds,/parts/mopar-latch-hood~68145350ab.html
+12,6101455,SCREW AND WASHER Hex Head M6x1x20,,"2013-2014, 1992-2004","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTS, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",6,1,,6104366AA,,available,7.6,5.3,1.1 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6101455.html
+13,68156854AB,RELEASE Hood Latch,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68156854AC,,,available,113,92.38,12.4 x 8.2 x 1.5 inches,1.20 Pounds,/parts/mopar-cable-hood-latch~68156854ab.html
+14,6101952,SCREW Hex Flange Head Tapping M4.8 x 1.59 x 25.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,3.75,2.56,1.2 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-screw-hex-flange-head-tapping~6101952.html
+15,68143009AB,SEAL Hood,Left,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,,,,discontinued,,,15.5 x 1.3 x 1.1 inches,0.50 Pounds,/parts/mopar-seal-hood~68143009ab.html
+16,68141384AA,WEATHERSTRIP Wheelhouse Front,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68141384AC,,,available,83.1,58.02,50.4 x 1.5 x 0.8 inches,0.90 Pounds,/parts/mopar-w-strip-wheelhouse~68141384aa.html
+17,68171751AB,SEAL Headlamp,Left,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68171751AA,,available,26,20.15,12.1 x 1.3 x 0.8 inches,0.50 Pounds,/parts/mopar-seal-headlamp~68171751ab.html
+18,68199647AA,BRACKET Ballstud,Left,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68199647AB,,,discontinued,,,6.3 x 4.3 x 2.0 inches,1.00 Pounds,/parts/mopar-bracket-ballstud~68199647aa.html
+19,68139706AA,PROP Hood,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,32.55,26.45,4.1 x 3.5 x 18.7 inches,1.20 Pounds,/parts/mopar-prop-hood~68139706aa.html
+20,68096399AA,HINGE Hood,Left,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,45.4,37.69,14.4 x 7.9 x 2.9 inches,3.00 Pounds,/parts/mopar-hinge-hood~68096399aa.html
+21,6504175,NUT AND WASHER Hex M8x1.25,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,available,4.95,3.38,0.8 x 0.8 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex~6504175.html
+22,6505727AA,BOLT AND CONED WASHER Hex Head M8X1.25X25.00,,"2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,4,1,6505622AA,,,available,5.5,3.73,0.9 x 1.0 x 1.8 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6505727aa.html
+23,68143006AB,WEATHERSTRIP Hood,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68143006AC,,,available,31.4,25.16,41.3 x 1.3 x 0.8 inches,0.70 Pounds,/parts/mopar-w-strip-hood~68143006ab.html

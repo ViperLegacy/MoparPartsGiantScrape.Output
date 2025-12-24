@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5029721AA,CLUSTER Instrument Panel,,2004,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,,,discontinued,,,,3.00 Pounds,/parts/mopar-cluster-instrument-panel~5029721aa.html
+2,5029636AA,GAUGE PACK,,"2008-2010, 2004-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,622,531.24,16.9 x 5.3 x 4.6 inches,2.20 Pounds,/parts/mopar-gauge-pac~5029636aa.html
+,5093045AA,LENS Instrument Cluster,,2004,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,,,discontinued,,,17.3 x 8.5 x 6.5 inches,1.10 Pounds,/parts/mopar-lens-instrument-cluster~5093045aa.html

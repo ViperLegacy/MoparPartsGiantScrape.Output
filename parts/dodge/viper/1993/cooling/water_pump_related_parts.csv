@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763776,"PUMP, Water",,,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4763790,"PUMP, Water",,,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"GASKET, Pump",discontinued,,,,,
+1,5245357,"PUMP, Water",,1992-1993,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,5245465,"PUMP, Water",,1994-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,5245465AB,,,discontinued,,,14.4 x 9.4 x 9.5 inches,7.20 Pounds,/parts/mopar-pump-water~5245465.html
+2,53008291,"HUB, Water Pump",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.6 x 3.6 x 1.5 inches,1.40 Pounds,/parts/mopar-pulley-water-pump-pulley~53008291.html
+3,53005607,"PULLEY, Pump",,,,,,,,,,discontinued,,,,,
+4,6034530,"SCREW, Pulley Att.",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,,,,available,5.33,4.19,1.0 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-screw-hex-head~6034530.html
+5,6034518,"SCREW, Pump Att.",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-sc-wa-hdr-pt~6034518.html
+6,5245473,"O-RING, Pump to Front Cover",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-pump-water-pump-to-front-cover~5245473.html

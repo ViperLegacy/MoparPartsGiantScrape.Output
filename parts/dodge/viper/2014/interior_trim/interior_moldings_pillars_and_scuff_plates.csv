@@ -1,0 +1,17 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1UL82DX9AB,MOLDING A PILLAR,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1UL82DX9AA,"Right [-KX], [CHD]
+Right [-RX], [CHD]
+Right [-X9], [CHD]...View More",available,255,171,20.1 x 6.9 x 2.8 inches,2.40 Pounds,/parts/mopar-molding-a-pillar~1ul82dx9ab.html
+1,1UL83DX9AA,MOLDING A PILLAR,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,1UL83DX9AB,,"Left [-V5], [AXV]",available,334,223,20.9 x 7.0 x 2.8 inches,1.90 Pounds,/parts/mopar-molding-a-pillar~1ul83dx9aa.html
+1,1UL83DX9AB,MOLDING A PILLAR,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1UL83DX9AA,"Left [-KX], [CHD]
+Left [-RX], [CHD]
+Left [-X9], [CHD]...View More",available,334,223,20.3 x 7.1 x 2.8 inches,2.40 Pounds,/parts/mopar-molding-a-pillar~1ul83dx9ab.html
+1,1VT20DX9AB,MOLDING A PILLAR,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1VT20DX9AA,"Right [-X9], [CHE]",available,322,217.13,20.1 x 7.0 x 2.9 inches,2.30 Pounds,/parts/mopar-panel-a-pillar~1vt20dx9ab.html
+1,1VT20LV5AB,MOLDING A PILLAR,,"2016-2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,1VT20LV5AA,"Right [-VX], [CHE]",available,304,204.75,20.5 x 6.9 x 2.8 inches,2.30 Pounds,/parts/mopar-panel-a-pillar~1vt20lv5ab.html
+1,1VT21DX9AB,MOLDING A PILLAR,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1VT21DX9AA,"Left [-X9], [CHE]",available,337,225.23,20.3 x 7.0 x 2.8 inches,2.30 Pounds,/parts/mopar-panel-a-pillar~1vt21dx9ab.html
+1,1VT21LV5AA,MOLDING A PILLAR,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,1VT21LV5AB,,"Left [-VX], [CHE]",available,304,204.75,21.3 x 6.4 x 2.6 inches,1.00 Pounds,/parts/mopar-panel-a-pillar~1vt21lv5aa.html
+2,1UL81DX9AC,MOLDING B Pillar Upper,Left,2014-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,6BT59DX9AA,,,available,169,113.93,21.1 x 17.2 x 4.9 inches,1.60 Pounds,/parts/mopar-panel-b-pillar~1ul81dx9ac.html
+3,68184351AB,BRACKET B-Pillar,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68184351AD,,Left [ST],available,45.4,31.69,6.7 x 2.4 x 2.2 inches,1.30 Pounds,/parts/mopar-bracket-b-pillar~68184351ab.html
+3,68184351AC,BRACKET B-Pillar,Left,2014-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68184351AD,,,available,45.4,31.69,6.9 x 2.4 x 2.1 inches,1.30 Pounds,/parts/mopar-bracket-b-pillar~68184351ac.html
+4,1UL87DX9AD,SILL COVER Interior,Left,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"1UL87DX9AB, 1UL87DX9AA, 1UL87DX9AC",,available,65.7,45.84,49.4 x 15.2 x 3.1 inches,2.70 Pounds,/parts/mopar-pad-interior~1ul87dx9ad.html
+5,5030031AG,BAR Sport,,"2013-2015, 2008-2010, 2006","ACR-X Coupe, COMP. Coupe, SRT, SRT GTC, SRT GTS, SRT-10, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,"5030031AE, 5030031AF, 5030031AC, 5030031AB",,discontinued,,,50.0 x 17.5 x 4.8 inches,13.80 Pounds,/parts/mopar-bar-assy-sport~5030031ag.html

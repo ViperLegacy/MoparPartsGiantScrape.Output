@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4763673,"SHAFT, Rear Axle",,1995,,,2,,,,,discontinued,,,,,
+1,4763676,"SHAFT, Rear Axle",,1996,,,2,,,,,discontinued,,,,,
+2,4428723,"CLAMP, Axle Shaft To Differential",,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,,,available,14.1,9.67,2.7 x 1.1 x 1.0 inches,0.50 Pounds,/parts/mopar-clamp-u-joint~4428723.html
+3,6502581,"SCREW, Axle Shaft Clamp",,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",8,1,,,,available,12.1,8.39,1.3 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-hex-flange-head~6502581.html
+4,4723672,"U-JOINT PACKAGE, Inner",,,,,2,,,,,discontinued,,,,,
+5,4723675,BOLT AND STRAP PACKAGE,,,,,,,,,,discontinued,,,,,

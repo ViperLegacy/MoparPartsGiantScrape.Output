@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642197,"BOOSTER ASSEMBLY, Brake",,1992-1995,,,,,,,,discontinued,,,,,
+1,4763952,"BOOSTER ASSEMBLY, Brake",,1996,,,,,,,,discontinued,,,,,
+2,6101445,"NUT, w/Washer, Booster to Dash",,"2008-2009, 1992-2003","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,6102440AA,,,available,11.3,7.86,1.3 x 1.3 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex~6101445.html
+3,4294158,"BOOT, Push Rod",,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-boot-brake-booster-push-ro~4294158.html
+4,4723642,"SEAL, Booster to Dash",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,5.0 x 4.9 x 0.1 inches,0.50 Pounds,/parts/mopar-gasket-brake-booster-to-dash~4723642.html
+5,4723395,"GASKET, M/Cyl. to Booster",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,2.3 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-gasket-master-cylinder-to-booster~4723395.html
+6,4723643,"NUT, M/Cyl. to Booster",,,,,2,,,,,discontinued,,,,,
+7,4723391,"VALVE, Check",,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,49.05,34.08,5.2 x 4.8 x 1.2 inches,0.40 Pounds,/parts/mopar-valve-brake-booster-check~4723391.html
+7,4723640,"VALVE, Check",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4883813AA,,GROMMET,discontinued,,,1.2 x 1.2 x 0.4 inches,0.50 Pounds,/parts/mopar-bushing-brake-booster-check-valve~4723640.html
+8,4443176,"HOSE, Vacuum (Bulk)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,HFV00516,,,discontinued,,,7.4 x 7.5 x 7.1 inches,3.40 Pounds,/parts/mopar-hose-fuel~4443176.html
+,J4003909,"NUT, Hex Flg. - Serr. Booster Attch. 3/8-16",,"2008-2010, 2000-2006, 1992-1996","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,0.8 x 0.8 x 0.4 inches,0.60 Pounds,/parts/mopar-nut-hex-flange-with-serration~j4003909.html

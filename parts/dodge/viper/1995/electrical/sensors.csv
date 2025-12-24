@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4626572,SENSOR. Skip (Trans.),,"2002-2006, 1992-2000","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,68029166AA,,,available,226,150.75,3.6 x 3.7 x 1.6 inches,1.10 Pounds,/parts/mopar-solenoid-transmission-skip-shift~4626572.html
+2,4626589,"SENSOR, Speed (Trans.)",,,,,,,,,,discontinued,,,,,
+4,5227805,"SENSOR, Intake Charge Temp. (Intake Charge Temperatur Sensor)",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.3 x 2.2 x 2.2 inches,0.60 Pounds,/parts/mopar-sensor-ambient-temperature~5227805.html
+5,4642925,"SENSOR, Crank Timing (Crankshaft Position Sensor) (Shield 5245585)",,,,,,,,,,discontinued,,,,,
+6,5245084,"SENSOR, Cam Signal (Camshaft Position Sensor)Spacer use 5252229",,1996,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,,/parts/mopar-sensor-camshaft~5245084.html
+6,53006563,"SENSOR, Cam Signal (Camshaft Position Sensor)Spacer use 5252229",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-sensor-camshaft-sync-signal~53006563.html
+7,56026770,"SENSOR, M.A.P. (MAP Sensor)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,177,118.13,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-sensor-m-a-p~56026770.html
+8,56041004,"SENSOR, Oxygen (Oxygen Sensor)",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1996 w/18"" Double Shield Rear",discontinued,,,19.2 x 2.1 x 1.4 inches,0.80 Pounds,/parts/mopar-sensor-oxygen~56041004.html
+8,4761871,"SENSOR, Oxygen (Oxygen Sensor)",,,,10 Cyl 8.0L,,,,,"SENSOR, Throttle Position (SENSOR, Canadian Light (Bracket 4709104))",discontinued,,,,,
+8,56005925,"SENSOR, Oxygen (Oxygen Sensor)",,1992-1994,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+8,56027916,"SENSOR, Oxygen (Oxygen Sensor)",,1996,,10 Cyl 8.0L,,,,,"1996 w/18"" Pigtail Front",discontinued,,,,,
+8,56028301,"SENSOR, Oxygen (Oxygen Sensor)",,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1995 w/18"" Pigtail",discontinued,,,1.3 x 2.0 x 20.0 inches,0.60 Pounds,/parts/mopar-sensor-oxygen-18-pigtail~56028301.html
+,4746271,"SOLENOID ASSEMBLY, Reverse Lockout",,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,68029168AA,,,available,388,256.45,6.6 x 5.2 x 4.1 inches,1.00 Pounds,/parts/mopar-solenoid-reverse-lockout~4746271.html

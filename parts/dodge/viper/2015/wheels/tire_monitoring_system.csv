@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68020722AA,HARDWARE KIT Mounting,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,available,48.1,33.55,0.8 x 0.3 x 0.1 inches,0.50 Pounds,/parts/mopar-hardware-mounting~68020722aa.html
+2,68023890AA,CAP KIT Valve Stem Grey,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,available,49.75,34.72,0.5 x 0.5 x 0.3 inches,0.40 Pounds,/parts/mopar-cap-kit-valve-stem~68023890aa.html
+3,56053037AB,NUT Tire Pressure Sensor,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,"56053037AA, 68374925AA",,available,11.05,7.69,1.0 x 0.8 x 0.7 inches,0.40 Pounds,/parts/mopar-nut-tire-pressure-sensor~56053037ab.html
+4,68020719AC,HARDWARE KIT Mounting,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,"68020719AB, 68020719AA",,available,31.8,22.19,2.3 x 1.3 x 1.3 inches,0.40 Pounds,/parts/mopar-hardware-mounting~68020719ac.html
+5,68020724AB,HARDWARE KIT Mounting,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,68020724AA,,available,65.15,45.49,2.3 x 0.5 x 0.3 inches,0.40 Pounds,/parts/mopar-hardware-mounting~68020724ab.html

@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4865647AA,SHIELD Splash,,,,,,,,,Left Rear Lower,discontinued,,,,,
+3,4865649AA,SHIELD Splash,,,,,,,,,Left Rear Upper,discontinued,,,,,
+5,6507528AA,NUT Snap In M4.8x1.6,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",28,1,,,,available,1.6,0.79,2.7 x 0.6 x 0.6 inches,0.80 Pounds,/parts/mopar-nut-snap-in~6507528aa.html
+6,6035625,SCREW,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",28,1,,,,available,18,12.52,0.8 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-screw-tapping~6035625.html

@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,5290014AE,COOLER Engine Oil Includes Fittings,,,,,,,,unavailable,377,254.93,/parts/mopar-cooler-engine-oil~5290014ae.html
-3,6508693AA,BOLT AND WASHER Hex Head M6x1.00x30.00,,,,3,1,,,available,4.65,3.2,/parts/mopar-bolt-hex-head~6508693aa.html
-5,5037316AC,FITTING Male [Thread 7/8-14 UNF-2A],,,,2,1,5037316AD,,available,16.35,11.3,/parts/mopar-connector-male~5037316ac.html
-6,5030631AC,LINE Oil Cooler Inlet,,,,,,5030631AE,,discontinued,,,/parts/mopar-tube-oil-cooler-inlet~5030631ac.html
-7,5030630AD,LINE Oil Cooler Outlet,,,,,,5030630AF,,discontinued,,,/parts/mopar-line-oil-cooler-outlet~5030630ad.html
-8,5030648AD,HOSE Oil Cooler Return Coolant,,,,,,5030648AE,,discontinued,,,/parts/mopar-hose-oil-cooler-return~5030648ad.html

@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,52005389,CLAMP/NUT,,1996,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,"1996, Nut",available,54.35,37.98,1.4 x 6.8 x 6.8 inches,1.20 Pounds,/parts/mopar-nut-fuel-pump-module~52005389.html
+1,5217825,CLAMP/NUT,,1992-1995,,"10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,"1992-95, Clamp",discontinued,,,,,
+2,52018808,"SEAL, Fuel Module",,1996,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,1.2 x 6.0 x 6.5 inches,0.70 Pounds,/parts/mopar-seal-fuel-pump-and-level-unit~52018808.html
+2,5217826,"SEAL, Fuel Module",,1992-1995,,"10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,,,
+3,4746404,"MODULE, Fuel",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-module-fuel~4746404.html
+3,4856873,"MODULE, Fuel",,1996,27,10 Cyl 8.0L,,,,,(1996),discontinued,,,,,
+3,4882240,"MODULE, Fuel",,1996,29,10 Cyl 8.0L,,,,,(1996),discontinued,,,,,
+4,4723104,"LEVEL PACKAGE, Fuel",,1992-1995,,,,,,,,discontinued,,,,,
+4,4864234,"LEVEL PACKAGE, Fuel",,1996,27,,,,,,(1996),discontinued,,,,,
+4,4882241,"LEVEL PACKAGE, Fuel",,1996,29,,,,,,(1996),discontinued,,,,,
+5,4864847,"FILTER PACKAGE, Module",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4740286,,discontinued,,,10.5 x 6.1 x 6.1 inches,0.90 Pounds,/parts/mopar-filtr-pkg-fuel~4864847.html
+5,4882324,"FILTER PACKAGE, Module",,1992-1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,4720832,"INSULATOR, Electrical Connector",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.1 x 5.2 x 0.5 inches,1.90 Pounds,/parts/mopar-insul-pkg-fuel-module~4720832.html
+7,5217802,GROMMET,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,12.1,8.27,2.0 x 2.1 x 0.4 inches,0.40 Pounds,/parts/mopar-grommet-rollover-valve~5217802.html
+8,4495069,"VALVE, Rollover",,1992-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.1 x 2.1 x 1.8 inches,0.80 Pounds,/parts/mopar-valve-f-tank-press-relief-r-ove~4495069.html
+8,4763826,"VALVE, Rollover",,1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-valve-fuel-tank-rollover-safety~4763826.html
+9,4002149,"GROMMET, Rollover Valve",,,,,,,,,,discontinued,,,,,
+10,4746407,"REGULATOR, Fuel Returnless",,,,,,,,,,discontinued,,,,,
+11,4763002,"TUBE, Fuel Tank Vent",,1992-1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+11,4763008,"TUBE, Fuel Tank Vent",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,29.0 x 4.0 x 1.8 inches,0.70 Pounds,/parts/mopar-tube-fuel-filler-vent~4763008.html
+12,4638134,NUT & GASKET PACKAGE,,,,,,,,,,discontinued,,,,,

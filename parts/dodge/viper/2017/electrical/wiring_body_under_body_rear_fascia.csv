@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5035455AA,WIRING Body,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,5035455AB,,,available,725,478.5,26.5 x 13.5 x 8.4 inches,26.90 Pounds,/parts/mopar-wiring-body~5035455aa.html
+2,5035155AE,WIRING Rear Fascia,,"2015-2017, 2013","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5035155AD,,available,311,207,12.1 x 9.3 x 2.4 inches,1.50 Pounds,/parts/mopar-wiring-rear-fascia~5035155ae.html
+3,5043078AF,WIRING Underbody Contains Battery Wiring,,2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,"5043078AD, 5043078AE",,available,1175,770,27.1 x 10.3 x 9.2 inches,34.80 Pounds,/parts/mopar-wiring-underbody~5043078af.html
+4,5035329AB,WIRING Jumper Auxiliary Port,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5035329AA,,available,27.2,18.81,5.3 x 4.7 x 0.1 inches,1.20 Pounds,/parts/mopar-wiring-jumper~5035329ab.html

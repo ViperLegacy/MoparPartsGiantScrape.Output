@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,68030897AA,PISTON PIN & ROD PACKAGE Engine Standard,,,,5,,,"Left Cylinders 1,3,5,7, And 9",discontinued,,,
-2,68030899AA,"PISTON PIN AND ROD .010"" O/S",,,,,,,"Left Cylinders 1,3,5,7, And 9",discontinued,,,
-3,68030909AA,"PISTON PIN AND ROD .020"" O/S",,,,,,,"Left Cylinders 1,3,5,7, And 9",discontinued,,,
-4,68030676AA,RING PACKAGE Piston Standard Size,,,,,,,,discontinued,,,/parts/mopar-ring-set-piston~68030676aa.html
-5,68030808AA,"PISTON RING SET COMPLETE ENGINE .010"" O/S",,,,,,,,available,98.55,83.14,/parts/mopar-ring-set-complete-engine~68030808aa.html
-6,68030809AA,"PISTON RING SET COMPLETE ENGINE .020"" O/S",,,,,,,,available,115,96.92,/parts/mopar-ring-set-complete-engine~68030809aa.html
-10,6508955AA,BOLT Connecting Rod,,,,20,1,,,available,32,22.25,/parts/mopar-bolt-hex-flange-head~6508955aa.html
-11,5086003AB,BEARING PACKAGE Connecting Rod Standard See Note,,,,20,1,68207790AA,,available,7.7,6.35,/parts/mopar-brg-pkg-connecting-rod~5086003ab.html

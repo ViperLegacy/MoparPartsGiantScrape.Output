@@ -1,9 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,5037784AC,MANIFOLD Intake,,,,,,5037784AD,,available,2710,2028.35,/parts/mopar-manifold-intake~5037784ac.html
-2,6105041AA,BOLT Hex Flange Head M6X1.00X40.00,,,,20,1,,,available,4.3,2.97,/parts/mopar-bolt-hex-flange-head~6105041aa.html
-3,6508675AA,NUT [M6],,,,20,1,,,available,3.65,2.5,/parts/mopar-nut-push-on~6508675aa.html
-5,5038094AA,SEAL Intake Manifold,,,,10,1,,,available,13.6,9.38,/parts/mopar-seal-intake-manifold~5038094aa.html
-6,6104683AA,BOLT 6 Lobe External Head M6x1.0x23.0,,,,15,1,,,discontinued,,,/parts/mopar-bolt-6-lobe-external-head~6104683aa.html
-7,4387304,NIPPLE Crankcase Vent,,,,,,,,discontinued,,,/parts/mopar-connector-crankcase-vent~4387304.html
-9,6104691AA,BOLT 6 Lobe External Head M6x1.0x83.0,,,,3,1,,,available,3,1.73,/parts/mopar-bolt-6-lobe-external-head~6104691aa.html
-10,5037927AA,GASKET Intake Plenum,,,,,,,,available,61.95,37.71,/parts/mopar-gasket-intake-plenum~5037927aa.html

@@ -1,0 +1,49 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68210403AA,ADJUSTER Manual Seat,Left,2013-2017,"SRT, SRT ACR, SRT GTC, SRT-10",10 Cyl 8.4L,,,,,,available,2880,1932.3,29.8 x 25.2 x 10.3 inches,0.70 Pounds,/parts/mopar-adjuster-manual-seat~68210403aa.html
+2,5NJ23DX9AA,SHIELD Recliner,,2013-2017,"SRT, SRT ACR, SRT GTC",10 Cyl 8.4L,,,,,"Left Outboard [-X9], [JP8]
+Left Outboard [-X9], [JP8], [CEM]
+Left Outboard [-X9], [JP8], [CEQ]
+Left Outboard [-X9], [JP8], [CXR]...View More",available,27.75,24.23,11.4 x 9.1 x 2.0 inches,1.10 Pounds,/parts/mopar-shield-recliner~5nj23dx9aa.html
+2,5NJ24DX9AA,SHIELD Recliner,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Right Inboard [-X9], [JP8], [LAX]
+Right Inboard [-X9], [JP8], [LAX], [CEM]
+Right Inboard [-X9], [JP8], [LAX], [CEQ]
+Right Inboard [-X9], [JP8], [LAX], [CXR]...View More",available,33.7,23.53,11.8 x 9.2 x 2.1 inches,1.10 Pounds,/parts/mopar-shield-recliner~5nj24dx9aa.html
+2,5NJ25DX9AA,SHIELD Recliner,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left Inboard [-X9], [JP8]
+Left Inboard [-X9], [JP8], [CEM]
+Left Inboard [-X9], [JP8], [CEQ]
+Left Inboard [-X9], [JP8], [CXR]...View More",available,27.75,24.23,11.6 x 8.9 x 2.1 inches,1.10 Pounds,/parts/mopar-shield-recliner~5nj25dx9aa.html
+3,5NJ19DX9AA,HANDLE Recliner,,2013-2017,"SRT, SRT ACR, SRT GTC",10 Cyl 8.4L,,,,,"Left [-X9], [JP8]
+Left [-X9], [JP8], [CEM]
+Left [-X9], [JP8], [CEQ]
+Left [-X9], [JP8], [CXR]...View More",available,37,25.86,7.4 x 3.9 x 1.3 inches,0.60 Pounds,/parts/mopar-handle-recliner~5nj19dx9aa.html
+4,5NJ21DX9AA,HANDLE Seat Adjuster,,2013-2017,"SRT, SRT ACR, SRT GTC",10 Cyl 8.4L,,,,,"Left [-X9], [JP8]
+Left [-X9], [JP8], [CEM]
+Left [-X9], [JP8], [CEQ]
+Left [-X9], [JP8], [CXR]...View More",available,84.65,69.36,9.5 x 4.5 x 1.6 inches,0.80 Pounds,/parts/mopar-handle-seat-adjuster~5nj21dx9aa.html
+5,5NJ27DX9AA,SHIELD Seat,,2013-2017,"SRT, SRT ACR, SRT GTC",10 Cyl 8.4L,,,,,"Left Outboard [-X9], [JP8]
+Left Outboard [-X9], [JP8], [CEM]
+Left Outboard [-X9], [JP8], [CEQ]
+Left Outboard [-X9], [JP8], [CXR]...View More",available,38,25.63,11.6 x 9.3 x 2.1 inches,1.10 Pounds,/parts/mopar-shield-seat~5nj27dx9aa.html
+5,5NJ28DX9AA,SHIELD Seat,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Right Inboard [-X9], [JP8], [LAX]
+Right Inboard [-X9], [JP8], [LAX], [CEM]
+Right Inboard [-X9], [JP8], [LAX], [CEQ]
+Right Inboard [-X9], [JP8], [LAX], [CXR]...View More",discontinued,,,11.5 x 9.3 x 2.0 inches,1.00 Pounds,/parts/mopar-shield-seat~5nj28dx9aa.html
+5,5NJ29DX9AA,SHIELD Seat,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left Inboard [-X9], [JP8]
+Left Inboard [-X9], [JP8], [CEM]
+Left Inboard [-X9], [JP8], [CEQ]
+Left Inboard [-X9], [JP8], [CXR]...View More",discontinued,,,11.7 x 8.8 x 2.1 inches,1.00 Pounds,/parts/mopar-shield-seat~5nj29dx9aa.html
+6,68213343AA,TOWEL BAR Seat Adjuster Handle,,2013-2017,"SRT, SRT ACR, SRT GTC",10 Cyl 8.4L,,,,,,available,70,48.93,32.3 x 25.0 x 4.2 inches,3.10 Pounds,/parts/mopar-bar-seat-adjuster-handle~68213343aa.html
+7,68210410AA,RISER Seat,,2013-2017,"SRT, SRT ACR, SRT GTC",10 Cyl 8.4L,,,,,"Right [JP8]
+Right [JP8], [CEM]
+Right [JP8], [CEM], [XSQ]
+Right [JP8], [CEQ]
+Right [JP8], [CEQ], [XSQ]
+Right [JP8], [CXR]
+Right [JP8], [CXR], [XSQ]
+Right [JP8], [LAX]
+Right [JP8], [LAX], [CEM]
+Right [JP8], [LAX], [CEM], [XSQ]
+Right [JP8], [LAX], [CEQ]
+Right [JP8], [LAX], [CEQ], [XSQ]
+Right [JP8], [LAX], [CXR]
+Right [JP8], [LAX], [CXR], [XSQ]...View More",available,451,376.87,26.8 x 6.1 x 4.2 inches,6.20 Pounds,/parts/mopar-riser-seat~68210410aa.html

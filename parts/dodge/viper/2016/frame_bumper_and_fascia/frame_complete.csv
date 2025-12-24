@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5181651AG,FRAME Chassis Complete,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5181651AD, 5181651AB, 5181651AC, 5181651AF, 5181651AE",,discontinued,,,159.1 x 74.2 x 30.9 inches,1589.00 Pounds,/parts/mopar-frame-chassis~5181651ag.html
+2,5037263AF,CROSSMEMBER Transmission,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5037263AD, 5037263AC, 5037263AE",,available,85.65,57.92,12.9 x 6.9 x 6.7 inches,3.80 Pounds,/parts/mopar-c-member-transmission~5037263af.html
+,6502832,SCREW Hex Flange Head Crossmember Attaching,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,5.05,3.44,5.1 x 0.5 x 1.0 inches,0.70 Pounds,/parts/mopar-screw-hex-flange-head~6502832.html

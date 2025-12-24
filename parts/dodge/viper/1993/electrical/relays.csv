@@ -1,0 +1,10 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5252521,"RELAY, Rad. Fan",,,,,3,,,,,discontinued,,,,,
+2,5234502,"BRACKET, Mounting",,,,,,,,,,discontinued,,,,,
+3,4643529,"RELAY, Fuel Pump",,1992-1995,,,,,,,,discontinued,,,,,
+3,4848193,"RELAY, Fuel Pump",,1996,,,,,,,,discontinued,,,,,
+4,4643880,"RELAY, Time Delay, Passive Restraint, A/C",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,22.35,17.57,3.7 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-relay~4643880.html
+5,4643528,"RELAY, Headlamps, Fog Lamps, Starter, Horn",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.1 x 6.1 x 4.0 inches,0.60 Pounds,/parts/mopar-relay-dual~4643528.html
+6,6100044,NUT,,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.4 x 0.4 x 0.3 inches,0.50 Pounds,/parts/mopar-nut-hex~6100044.html
+,4373691,"RELAY, Flasher (EUROPE)",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,7.93,6.24,,0.50 Pounds,/parts/mopar-flasher~4373691.html
+,4687668,"RELAY, SPL Sound Isol, 5T",,,,,,,,,,discontinued,,,,,

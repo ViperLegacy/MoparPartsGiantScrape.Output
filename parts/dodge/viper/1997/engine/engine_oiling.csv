@@ -1,0 +1,27 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848784,CAP Oil Pressure Relief Valve,,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.4 x 2.4 x 0.7 inches,0.50 Pounds,/parts/mopar-cap-oil-cooler-rel-press~4848784.html
+2,4848785,SPRING Oil Pressure Relief Valve,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.0 x 0.5 x 0.5 inches,0.50 Pounds,/parts/mopar-spring-oil-pressure-relief-valve~4848785.html
+4,4848786,VALVE Oil Cooler Pressure,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.7 x 0.9 x 0.9 inches,0.40 Pounds,/parts/mopar-plunger-oil-cooler-pressure~4848786.html
+5,4763731,COVER Timing Case,,,,,,,,,,discontinued,,,,,
+6,5245525,ROTOR SET Oil Pump,,1992-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,15.2 x 13.1 x 3.2 inches,4.00 Pounds,/parts/mopar-rotor-oil-pump~5245525.html
+7,5245128,COVER Engine Oil Pump,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.2 x 5.1 x 0.6 inches,1.20 Pounds,/parts/mopar-cover-engine-oil-pump~5245128.html
+8,6034475,SCREW Torx Head .25-20x.75,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,,,,discontinued,,,0.5 x 0.4 x 0.4 inches,0.60 Pounds,/parts/mopar-bolt~6034475.html
+9,4763791,INDICATOR Engine Oil Level,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,25.7 x 2.3 x 0.6 inches,0.50 Pounds,/parts/mopar-indicator-engine-oil-level~4763791.html
+10,4763792,TUBE Engine Oil Indicator,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,17.7 x 3.0 x 0.4 inches,0.80 Pounds,/parts/mopar-tube-engine-oil-indicator~4763792.html
+11,4763740,PICKUP Engine Oil,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,4.7 x 3.1 x 0.1 inches,0.60 Pounds,/parts/mopar-screen-engine-oil~4763740.html
+12,154601,SCREW Pan Head .19-24x.5,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",8,1,,,,discontinued,,,0.6 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-screw-pan-head~154601.html
+13,0219462,NUT Hex .250-20,,,,,8,,,,,discontinued,,,,,
+14,2AML00090A,FILTER Engine Oil,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,1BP00174AA,,Magneti Marelli,available,5.85,4.08,4.0 x 4.0 x 3.6 inches,1.20 Pounds,/parts/mopar-filter-engine-oil~2aml00090a.html
+15,53007563,CONNECTOR Oil Filter,,1992-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,53007563AB,,,available,17,11.77,1.9 x 3.1 x 4.0 inches,0.50 Pounds,/parts/mopar-connector-oil-filter~53007563.html
+16,6035666,SCREW Hex Flange Head .25-20x1.00,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",26,1,154777,,,available,14.2,9.9,1.2 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~6035666.html
+17,4763736,ADAPTER Oil Filter,,,,,,,,,,discontinued,,,,,
+18,4763738,SEAL Drain Plug,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,,/parts/mopar-seal-drain-plug~4763738.html
+19,5245086,GASKET Oil Filter Adapter,,,,,,,,,,discontinued,,,,,
+20,4848331,CONNECTOR Engine Oil Cooler,,,,,2,,,,,discontinued,,,,,
+21,4763737,GASKET Oil Pan,,,,,,,,,,discontinued,,,,,
+22,4763744,PAN Engine Oil,,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,33.9 x 12.4 x 7.7 inches,139.60 Pounds,/parts/mopar-pan-engine-oil~4763744.html
+23,6035666,SCREW Hex Flange Head .25-20x1.00,,1992-2006,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",26,1,154777,,,available,14.2,9.9,1.2 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~6035666.html
+24,4763739,PLUG Oil Drain,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,6035417,,,available,16.2,11.18,1.3 x 1.4 x 1.6 inches,0.90 Pounds,/parts/mopar-plug-oil-drain~4763739.html
+25,4848705,TRAY Windage,,,,,,,,,,discontinued,,,,,
+,2843208AB,PLUNGER Oil Pressure Relief Valve Serviced in Case Cover,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.7 x 0.9 x 0.9 inches,0.40 Pounds,/parts/mopar-plunger-oil-pressure-relief-valve~2843208ab.html
+,5245324,SEAL Rear Main Crankshaft,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.0 x 10.2 x 0.7 inches,0.60 Pounds,/parts/mopar-seal-rear-main-crankshaft~5245324.html

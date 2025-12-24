@@ -1,0 +1,62 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642968,"SHELL, Door",Right,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4642969,"SHELL, Door",Left,1992,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4708394,"SHELL, Door",Right,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,62.50 Pounds,/parts/mopar-door-assy-assy-rt-front-as-shipped~4708394.html
+1,4708395,"SHELL, Door",Left,1994,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+1,4763922AB,"SHELL, Door",Right,1992-1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,61.20 Pounds,/parts/mopar-door-front~4763922ab.html
+1,4763923AB,"SHELL, Door",Left,1992-1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,36.80 Pounds,/parts/mopar-door-front~4763923ab.html
+1,4848544,"SHELL, Door",Right,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,61.10 Pounds,/parts/mopar-door-front-comp-primed-rt~4848544.html
+1,4848545,"SHELL, Door",Left,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,61.20 Pounds,/parts/mopar-door-front-comp-primed-lt~4848545.html
+3,4848693,"COVER, Outer Stanchion",,1995-1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,"BRACKET, Stanchion Cover Mtg. (1995-96 After 3-1-95 Canada, Europe)",available,5,3.93,,0.50 Pounds,/parts/mopar-otr-stanchion-cvr-mtg-brkt~4848693.html
+3,5245795,"COVER, Outer Stanchion",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"NUT, Handle Att. (HANDLE, Exterior)",discontinued,,,1.0 x 1.0 x 0.4 inches,0.50 Pounds,/parts/mopar-nut~5245795.html
+3,HY62MX7,"COVER, Outer Stanchion",,1992-1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left (1992-94 Canada, Europe)
+Right (1992-94 Canada, Europe)",discontinued,,,,,
+3,HY62PX8,"COVER, Outer Stanchion",Right,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right (1995 Up to 3-1-95 Canada, Europe)",discontinued,,,,,
+3,HY63PX8,"COVER, Outer Stanchion",Left,1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left (1995 Up to 3-1-95 Canada, Europe)",discontinued,,,,,
+3,ME68JX8,"COVER, Outer Stanchion",Right,,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right (COVER, Inner Stanchion)",discontinued,,,,,
+3,ME69JX8,"COVER, Outer Stanchion",Left,,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Left (COVER, Inner Stanchion)",discontinued,,,,,
+3,MS80RX8,"COVER, Outer Stanchion",Right,1992-1996,"GTS Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,1.60 Pounds,/parts/mopar-molding-scuff~ms80rx8.html
+3,MS81RX8,"COVER, Outer Stanchion",Left,,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,
+3,MS82RX8,"COVER, Outer Stanchion",,1995-1996,"GTS Coupe, RT/10 Convertible; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Canada, Europe, Right
+Right (1995-96 After 3-1-95 Canada, Europe)",discontinued,,,,1.60 Pounds,/parts/mopar-molding-stanchion-cover~ms82rx8.html
+3,MS83RX8,"COVER, Outer Stanchion",,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Canada, Europe, Left
+Left (1995-96 After 3-1-95 Canada, Europe)",discontinued,,,,,
+3,PS20SX8,"COVER, Outer Stanchion",Right,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Right (HANDLE, Exterior)",discontinued,,,3.8 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-handle-front-door~ps20sx8.html
+3,PS21SX8,"COVER, Outer Stanchion",Left,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,PS21DX8AB,"Left (HANDLE, Exterior)",discontinued,,,3.9 x 2.1 x 3.0 inches,0.60 Pounds,/parts/mopar-handle-front-door~ps21sx8.html
+4,HY64MX8,"MOULDING, Stanchion Closeout",Right,1992-1995,,10 Cyl 8.0L,,,,,"Right (1992-95 Up to 11-7-94 Canada, Europe)",discontinued,,,,,
+4,HY65MX8,"MOULDING, Stanchion Closeout",Left,1992-1995,,10 Cyl 8.0L,,,,,"Left (1992-95 Up to 11-7-94 Canada, Europe)",discontinued,,,,,
+4,MS46RX8,"MOULDING, Stanchion Closeout",Right,1995,,10 Cyl 8.0L,,,,,"Right (1995 From 11-7-94 to 3-1-95 Canada, Europe)",discontinued,,,,,
+4,MS47RX8,"MOULDING, Stanchion Closeout",Left,1995,,10 Cyl 8.0L,,,,,"Left (1995 From 11-7-94 to 3-1-95 Canada, Europe)",discontinued,,,,,
+4,MS72RX8,"MOULDING, Stanchion Closeout",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,15.2 x 10.6 x 6.1 inches,1.20 Pounds,/parts/mopar-molding-scuff~ms72rx8.html
+4,MS73RX8,"MOULDING, Stanchion Closeout",Left,1992-1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+4,MS74RX8,"MOULDING, Stanchion Closeout",,1995-1996,,10 Cyl 8.0L,,,,,"Canada, Europe, Right
+Right (1995-96 After 3-1-95 Canada, Europe)",discontinued,,,,,
+4,MS75RX8,"MOULDING, Stanchion Closeout",,1995-1996,,10 Cyl 8.0L,,,,,"Canada, Europe, Left
+Left (1995-96 After 3-1-95 Canada, Europe)",discontinued,,,,,
+5,6035120,"CLIP, Cover",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-clip-stanch-cvr-to-stanch-attach~6035120.html
+6,4643763,"STRIKER, Restraint Interlock",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,13.8/14.0,discontinued,,,,0.50 Pounds,/parts/mopar-striker-restraint-system-upper-inte~4643763.html
+6,4708213,"STRIKER, Restraint Interlock",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,10.55/10.75,available,2.12,1.66,,0.50 Pounds,/parts/mopar-striker-restraint-sys-upper-interlo~4708213.html
+7,6028674,"SCREW, Cover",,1992,,10 Cyl 8.0L,4,,,,,discontinued,,,,,
+7,6101973,"SCREW, Cover",,1993,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,"SCREW, Black (1993 (DNS))",discontinued,,,0.4 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-screw-pan-head~6101973.html
+7,9428247,"SCREW, Cover",,1994-1996,,10 Cyl 8.0L,4,,,,"1994-96 (1993 (DNS))
+SCREW, Cover",discontinued,,,,,
+8,4642882,"HINGE, Door",,1992,,10 Cyl 8.0L,2,,,,,discontinued,,,,,
+8,4709353,"HINGE, Door",,1993-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,9.5 x 5.1 x 3.2 inches,4.30 Pounds,/parts/mopar-hinge-assy-front-door~4709353.html
+8,5245109,"HINGE, Door",,1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,"1996
+HINGE, Door",unavailable,,,9.3 x 5.3 x 3.4 inches,2.30 Pounds,/parts/mopar-hinge-front-door~5245109.html
+9,6501734,"SCREW, Hinge",,1992,,"10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,,,
+9,6503351,"SCREW, Hinge",,1993-1996,"ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,"1993-96
+SCREW, Hinge",discontinued,,,1.7 x 1.0 x 1.0 inches,0.90 Pounds,/parts/mopar-screw-hex-head~6503351.html
+10,6502549,"SCREW, Hinge",,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,7.8,5.13,1.5 x 0.6 x 0.3 inches,0.50 Pounds,/parts/mopar-screw-pan-head~6502549.html
+11,4642956,"COVER, Hinge, Right",Right,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.80 Pounds,/parts/mopar-panel-hinge~4642956.html
+11,4642957,"COVER, Hinge, Right",Left,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"COVER, Hinge, Left",available,211.53,166.23,,1.00 Pounds,/parts/mopar-panel-hinge~4642957.html
+12,35022111,"SHIM, Hinge Cover",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,1.2 x 1.1 x 0.3 inches,0.40 Pounds,/parts/mopar-shim-fender~35022111.html
+14,4709078,"SEAL, Door Mucket, Right",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,61.2,42.5,,0.50 Pounds,/parts/mopar-seal-door-mucket-rt~4709078.html
+14,4709079,"SEAL, Door Mucket, Right",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"SEAL, Door Mucket, Left",discontinued,,,,0.50 Pounds,/parts/mopar-seal-door-mucket-rt~4709079.html
+15,4643810,"BRACKET, Inside, Right",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,5.15,4.05,,0.50 Pounds,/parts/mopar-front-door-i-side-bracket~4643810.html
+15,4643811,"BRACKET, Inside, Right",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BRACKET, Inside, Left",available,3.63,2.86,,0.50 Pounds,/parts/mopar-front-door-i-side-bracket~4643811.html
+16,4709402,"PAD, Spacer",,,,,4,,,,,discontinued,,,,,
+17,6032723,"SCREW, 1994-96",,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+18,6502676,"NUT, Plastic",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-nut-hex~6502676.html
+19,4763557,"SEAL, V-Profile",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,23.17,18.21,,0.50 Pounds,/parts/mopar-seal-v-profile~4763557.html
+20,4709402,"PAD, Spacer",,,,,2,,,,,discontinued,,,,,

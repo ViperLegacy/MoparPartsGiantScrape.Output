@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,TP57RXFAE,FRAME Windshield,,"2008-2010, 2003-2006","27; COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,"TP57RXFAB, TP57RXFAC, TP57RXFAD",,discontinued,,,,32.20 Pounds,/parts/mopar-frame-windshield~tp57rxfae.html
+2,1CF71DX9AC,MOLDING Windshield Garnish,Left,2008-2010,"ACR-X Coupe, COMP. Coupe, SRT-10 Coupe",10 Cyl 8.4L,,,,1CF71DX9AB,,available,173,141.75,19.4 x 5.4 x 2.9 inches,0.90 Pounds,/parts/mopar-molding-windshield-garnish~1cf71dx9ac.html
+2,TR82RXFAB,MOLDING Windshield Garnish,Right,"2008-2009, 2006",SRT-10 Convertible,"10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,64.4,56.21,19.6 x 3.3 x 3.4 inches,0.60 Pounds,/parts/mopar-molding-windshield-garnish~tr82rxfab.html
+2,TR83RXFAB,MOLDING Windshield Garnish,Left,"2008-2009, 2006",SRT-10 Convertible,"10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,76.7,63.11,20.2 x 3.3 x 3.4 inches,0.80 Pounds,/parts/mopar-molding-windshield-garnish~tr83rxfab.html

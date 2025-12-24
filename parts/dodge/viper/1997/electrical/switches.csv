@@ -1,0 +1,19 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4671334,SWITCH Stop Lamp,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,68003916AA,,,available,51.8,36,3.3 x 2.3 x 1.8 inches,0.50 Pounds,/parts/mopar-switch-stop-lamp~4671334.html
+3,4848110,SENDING UNIT Temperature Gauge,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,2.8 x 1.4 x 1.3 inches,0.50 Pounds,/parts/mopar-sensor-temperature-gauge~4848110.html
+4,4626593,SWITCH Back Up Lamp,,"2013-2015, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,57.35,39.9,3.3 x 3.1 x 1.9 inches,0.60 Pounds,/parts/mopar-switch-back-up-lamp~4626593.html
+,4848283AC,BRACKET Wiring,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,After 02/10/97,discontinued,,,3.1 x 3.0 x 1.8 inches,0.50 Pounds,/parts/mopar-bracket-wiring~4848283ac.html
+,4848135,KNOB Head Lamp Switch,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.8 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-knob-head-lamp-switch~4848135.html
+,6503845,SCREW Ignition Switch,,"2001-2002, 1997-1999","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,,,,available,5.25,2.48,1.0 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-screw-ignition-switch~6503845.html
+,56026779,SENDING UNIT Oil Pressure,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.4 x 1.6 x 1.3 inches,0.50 Pounds,/parts/mopar-sending-unit-oil-pressure-1991~56026779.html
+,53007944,SWITCH Clutch Starter Interlock,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.4 x 1.1 x 2.0 inches,0.50 Pounds,/parts/mopar-switch-clutch-starter-interlock~53007944.html
+,4687594,SWITCH Door Ajar,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,4.1 x 1.0 x 1.1 inches,0.40 Pounds,/parts/mopar-switch-door-ajar~4687594.html
+,4848150,SWITCH Door Handle,,1992-2001,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,unavailable,,,10.7 x 2.9 x 1.4 inches,0.50 Pounds,/parts/mopar-switch-door-handle~4848150.html
+,5245736,SWITCH Electric Back Light,,,,,,,,,,discontinued,,,,,
+,4763135,SWITCH Headlamp,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 3.4 x 2.6 inches,0.60 Pounds,/parts/mopar-switch-headlamp~4763135.html
+,56021346,SWITCH Ignition,,"2001-2002, 1992-1999","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,56021346AB,,After 10-1-97,available,315,212.63,5.6 x 4.2 x 3.1 inches,1.10 Pounds,/parts/mopar-manual-transmission-w-buzzer-halo~56021346.html
+,4728424,SWITCH Multifunction,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,8.7 x 5.3 x 3.9 inches,1.40 Pounds,/parts/mopar-switch-multifunction~4728424.html
+,4848295,SWITCH Oil Pressure,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.8 x 2.6 x 1.9 inches,0.60 Pounds,/parts/mopar-switch-oil-pressure~4848295.html
+,5245735,SWITCH Power Window,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-switch-power-window~5245735.html
+,4848149,SWITCH Strut,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 2.5 x 1.8 inches,0.50 Pounds,/parts/mopar-switch-strut~4848149.html
+,4848291,SWITCH Windshield Wiper,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.5 x 5.0 x 3.2 inches,1.00 Pounds,/parts/mopar-switch-wiper~4848291.html

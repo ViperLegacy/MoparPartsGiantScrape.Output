@@ -1,0 +1,14 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+3,4763072AB,SPEAKER Door All Speakers Serviced Only By ALPINE Dealer,,,,,2,,,,,discontinued,,,,,
+4,5245738,GRILLE Speaker,,,,,2,,,,,discontinued,,,,,
+6,4763073,SPEAKER Rear 6.5,,,27,,,,,,,discontinued,,,,,
+7,4848147,GRILLE Speaker,,,,,,,,,,discontinued,,,,,
+11,4848139,BRACKET Amplifier Retainer,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.3 x 1.2 x 0.1 inches,0.50 Pounds,/parts/mopar-bracket-amplifier-retainer~4848139.html
+12,6100266,BOLT AND WASHER M6x1.0x20,,1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,1.0 x 0.5 x 0.5 inches,0.80 Pounds,/parts/mopar-screw~6100266.html
+13,4848137,BRACKET Amplifier,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,13.9 x 12.0 x 4.1 inches,2.30 Pounds,/parts/mopar-bracket-amplifier~4848137.html
+14,6100049,NUT AND WASHER Hex M6x1.0,,"1998, 1992-1996","GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,3,1,6102612AA,,,available,2.3,1.57,0.5 x 0.5 x 0.3 inches,0.40 Pounds,/parts/mopar-nut-hex~6100049.html
+17,4709109,BOX Antenna Amplifier,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.7 x 3.6 x 1.5 inches,0.50 Pounds,/parts/mopar-control-antenna-amplifier~4709109.html
+,4709110,CABLE Amplifier Box,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.8 x 2.9 x 1.1 inches,0.40 Pounds,/parts/mopar-cable-amplifier-box~4709110.html
+,4848850AC,COVER Antenna Opening,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,20.0 x 5.1 x 1.8 inches,0.80 Pounds,/parts/mopar-shield-antenna-opening~4848850ac.html
+,4709112,GROMMET Antenna Amplifier,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.9 x 0.9 x 0.4 inches,0.50 Pounds,/parts/mopar-grommet-antenna-amplifier~4709112.html
+,4848082,HOLDER Fuse,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,1.95,1.53,5.8 x 4.1 x 1.8 inches,0.50 Pounds,/parts/mopar-holder-fuse~4848082.html

@@ -1,0 +1,25 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4643441,"RADIO, Alpine",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BRACKET, Radio Rear Mtg.",available,5.03,3.96,,0.70 Pounds,/parts/mopar-radio-rear-mtg-bracket~4643441.html
+2,6032723,SCREW,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+3,4469015,"MAST, Antenna",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,68040423AB,,,discontinued,,,13.4 x 3.4 x 0.4 inches,0.90 Pounds,/parts/mopar-mast-antenna~4469015.html
+4,4643651,"BEZEL, w/Gasket Antenna",,,,,,,,,,discontinued,,,,,
+5,4643685,"NUT, Antenna Mtg.",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-nut-cap-ant-mtg-blk~4643685.html
+6,4643608,"REINFORCEMENT, Antenna Mtg.",,,,,,,,,,discontinued,,,,,
+7,4643475,"BASE, w/Cable Antenna and Ground wire",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,8.75,6.88,,0.60 Pounds,/parts/mopar-base-cable-antenna~4643475.html
+9,4763073,"SPEAKER, Sub Woofer 6.5",,,29,,,,,,Rear,discontinued,,,,,
+10,6100516,"NUT, Panel Mtg.",,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,available,,14.51,0.5 x 0.5 x 0.2 inches,0.50 Pounds,/parts/mopar-nut-hex-flange-lock~6100516.html
+11,4709488,"PANEL, Speaker Mtg.",,1995-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,31.14,24.47,,2.40 Pounds,/parts/mopar-rr-spkr-mtg-panel-asm~4709488.html
+12,6034668,"U-NUT, Speaker Mtg.",,,,,4,,,,,discontinued,,,,,
+14,4709110,AMPLIFIER BOX ASSEMBLY,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Cable Assembly,discontinued,,,1.8 x 2.9 x 1.1 inches,0.40 Pounds,/parts/mopar-cable-amplifier-box~4709110.html
+14,4709112,AMPLIFIER BOX ASSEMBLY,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Grommet,discontinued,,,0.9 x 0.9 x 0.4 inches,0.50 Pounds,/parts/mopar-grommet-antenna-amplifier~4709112.html
+14,4848137,AMPLIFIER BOX ASSEMBLY,,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BRACKET, Amplifier Assembly",discontinued,,,13.9 x 12.0 x 4.1 inches,2.30 Pounds,/parts/mopar-bracket-amplifier~4848137.html
+14,4848139,AMPLIFIER BOX ASSEMBLY,,1992-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BRACKET, Amplifier Retainer",discontinued,,,6.3 x 1.2 x 0.1 inches,0.50 Pounds,/parts/mopar-bracket-amplifier-retainer~4848139.html
+,4708388,"LINER, Speaker Door",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,8.75,6.88,,0.60 Pounds,/parts/mopar-liner-frt-dr-i-side-pnl~4708388.html
+,4643023,"SUPPORT, Rear Cargo Speaker Box",,,,,2,,,,"SPEAKER, Tweeter w/Grille",discontinued,,,,,
+,4643024,"SUPPORT, Rear Cargo Speaker Box",,,,,2,,,,"SPEAKER, Mid Range 5.25 Door",discontinued,,,,,
+,4643025,"SUPPORT, Rear Cargo Speaker Box",,,,,2,,,,"SPEAKER, 5.25 Door",discontinued,,,,,
+,4708224,"SUPPORT, Rear Cargo Speaker Box",Right,,,,,,,,"COVER, Amplifier, Right",discontinued,,,,,
+,4708225,"SUPPORT, Rear Cargo Speaker Box",Left,,,,,,,,"COVER, Amplifier, Left",discontinued,,,,,
+,4763914,"SUPPORT, Rear Cargo Speaker Box",Right,,,,,,,,,discontinued,,,,,
+,4763915,"SUPPORT, Rear Cargo Speaker Box",Left,,,,,,,,,discontinued,,,,,
+,4848566,"SUPPORT, Rear Cargo Speaker Box",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"PANEL ASSEMBLY, Rear Speaker Mounting",discontinued,,,,1.40 Pounds,/parts/mopar-panel-rr-spkr-mtg~4848566.html

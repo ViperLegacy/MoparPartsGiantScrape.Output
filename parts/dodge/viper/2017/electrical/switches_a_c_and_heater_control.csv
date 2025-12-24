@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5091906AB,CENTER STACK Upper,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5091906AC,,"[SDV] OR [SDY], [X81], [XSQ] AND/OR [JKQ] AND/OR [MTR]",available,933,792.3,11.4 x 11.5 x 3.4 inches,2.00 Pounds,/parts/mopar-stack~5091906ab.html
+1,68223407AD,CENTER STACK Upper,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"68223407AA, 68223407AC, 1UX66AAAAC, 68223407AB","[SDK] OR [SDE], [X81], [JBK] AND/OR [JAP]",discontinued,,,11.4 x 11.6 x 3.4 inches,1.90 Pounds,/parts/mopar-stack~68223407ad.html
+1,68223408AC,CENTER STACK Upper,,2015-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68223408AH,,"[SDV] OR [SDY], [X81], [JBK]",available,910,775.2,11.4 x 11.6 x 3.5 inches,1.60 Pounds,/parts/mopar-stack~68223408ac.html
+1,68322804AA,CENTER STACK Upper,,2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"[X81], [SDK], [JBD]",available,326,275.23,10.5 x 10.7 x 5.7 inches,1.90 Pounds,/parts/mopar-stack~68322804aa.html

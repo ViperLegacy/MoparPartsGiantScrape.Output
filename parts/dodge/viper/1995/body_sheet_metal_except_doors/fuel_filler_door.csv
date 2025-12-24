@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4642962,DOOR ASSEMBLY,,,,,,,,,Up to 4-20-93,discontinued,,,,,
+1,4709219,DOOR ASSEMBLY,,,,,,,,,After 4-20-93,discontinued,,,,,
+2,4643884,SHIM,,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-shim-fuel-filler-door~4643884.html
+3,6100046,NUT and WASHER,,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1994,95,96",available,6.25,4.37,0.7 x 0.7 x 0.3 inches,0.50 Pounds,/parts/mopar-nut-hex~6100046.html
+3,116000,NUT and WASHER,,1992-1993,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,0.8 x 0.8 x 0.3 inches,0.50 Pounds,/parts/mopar-nut-hex~116000.html
+4,4314371,"BUMPER, Fuel Filler Door (Serviced in Item #1)",,1992,,10 Cyl 8.0L,,,,,"1992,93",discontinued,,,,,
+4,4763838,"BUMPER, Fuel Filler Door (Serviced in Item #1)",,1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"1994,95,96",discontinued,,,1.0 x 1.0 x 0.8 inches,0.50 Pounds,/parts/mopar-bumper-fuel-door~4763838.html
+5,4709364,PLATE and SCREW ASSEMBLY,,1993-1994,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"After 7-16-93, 1993-94-95",available,8.05,6.33,1.3 x 0.7 x 1.7 inches,0.80 Pounds,/parts/mopar-reinfmnt-fuel-filler-door~4709364.html
+5,5255375,PLATE and SCREW ASSEMBLY,,1992-1993,,10 Cyl 8.0L,,,,,"1992-93, Up to 7-16-93",discontinued,,,,,
+6,4708234,"LABEL, Fuel",,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-label-fuel~4708234.html
+7,52006629,"CAP ASSEMBLY, Non-Locking",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,3.0 x 2.6 x 2.9 inches,0.60 Pounds,/parts/mopar-cap-fuel-filler~52006629.html
+10,4763684,"CAP, Fuel",,,,,,,,,,discontinued,,,,,
+11,147113,"SCREW,.190-24x1.00",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw-cap-hd~147113.html
+12,5245877,"SEAL, Trunk Closeout to Roof Filler",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,6.4 x 6.8 x 0.4 inches,0.90 Pounds,/parts/mopar-seal-truck-closeout~5245877.html
+13,5245665,"SEAL, Fuel Filler",,"1999-2002, 1992-1997","GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.4 x 5.6 x 0.5 inches,0.90 Pounds,/parts/mopar-seal~5245665.html
+14,4763476,"SHIELD, Fuel Filler Paint Chip",,1992-2002,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,8.75,7.57,9.5 x 6.2 x 0.1 inches,0.50 Pounds,/parts/mopar-shield-fuel-filler-door~4763476.html
+,5245856,"DRAIN TUBE ROOF, Fuel Filler Pocket",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,4.55,3.58,4.5 x 0.6 x 0.6 inches,0.70 Pounds,/parts/mopar-tube-drain~5245856.html

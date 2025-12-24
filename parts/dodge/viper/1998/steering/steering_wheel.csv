@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,PB41SX9,WHEEL Steering,,1996-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Flat Black,discontinued,,,15.8 x 15.5 x 8.9 inches,3.50 Pounds,/parts/mopar-wheel-steering~pb41sx9.html
+1,PB41TB4,WHEEL Steering,,1996-1998,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Blue,discontinued,,,,3.70 Pounds,/parts/mopar-steering-wheel~pb41tb4.html
+1,PB41TR1,WHEEL Steering,,1996-1998,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Red,discontinued,,,,3.30 Pounds,/parts/mopar-wheel-steering~pb41tr1.html
+2,LB45JX8AB,AIR BAG Driver,,,,,,,,,,discontinued,,,,,
+3,6503771,SCREW Hex Flange Head M6x1x23,,1996-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",3,1,,,,discontinued,,,1.2 x 0.5 x 0.5 inches,0.60 Pounds,/parts/mopar-screw-hex-flange-head~6503771.html
+5,4848437,CLOCKSPRING,,1996-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,4848437AA,,,discontinued,,,5.2 x 5.2 x 3.1 inches,0.80 Pounds,/parts/mopar-clkspring~4848437.html
+6,6500906,NUT Hex Flange Lock M14x1.5,,,,,,,,,,discontinued,,,,,

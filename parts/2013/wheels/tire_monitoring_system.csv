@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,56029400AE,SENSOR Tire Pressure,,,,4,1,68374924AB,,available,99.1,70.99,/parts/mopar-sensor-tire-pressure~56029400ae.html
-2,56053037AB,NUT Tire Pressure Sensor,,,,4,1,,,available,11.05,7.69,/parts/mopar-nut-tire-pressure-sensor~56053037ab.html
-3,68020719AC,HARDWARE KIT Mounting,,,,4,1,,,available,31.8,22.19,/parts/mopar-hardware-mounting~68020719ac.html
-4,68020722AA,HARDWARE KIT Mounting,,,,4,1,,,available,48.1,33.55,/parts/mopar-hardware-mounting~68020722aa.html
-5,68020724AB,HARDWARE KIT Mounting,,,,4,1,,,available,65.15,45.49,/parts/mopar-hardware-mounting~68020724ab.html
-6,68023890AA,CAP KIT Valve Stem Grey,,,,4,1,,,available,49.75,34.72,/parts/mopar-cap-kit-valve-stem~68023890aa.html

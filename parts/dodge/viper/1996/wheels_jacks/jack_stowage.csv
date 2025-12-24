@@ -1,0 +1,6 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4512493,"WING NUT, Jack Hold Down",,,,,,,,,,discontinued,,,,,
+2,4848696,"JACK ASSEMBLY, Scissor",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"BELT, Velcro Jack Retainer",discontinued,,,4.0 x 2.2 x 0.4 inches,0.40 Pounds,/parts/mopar-belt-jack-stowage~4848696.html
+3,52003583,"WRENCH, Wheel Lug Nut",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,18.6 x 1.4 x 1.4 inches,1.90 Pounds,/parts/mopar-wrench-wheel-lug-nut~52003583.html
+4,6034228,"WING NUT, Wrench To Jack Mounting",,,,,,,,,,discontinued,,,,,
+5,4708087,"LABEL, Jacking Instructions",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,1.9,1.49,,0.50 Pounds,/parts/mopar-label-tire-storage~4708087.html

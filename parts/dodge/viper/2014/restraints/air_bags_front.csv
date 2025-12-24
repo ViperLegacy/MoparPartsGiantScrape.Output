@@ -1,0 +1,21 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1VT18DX9AC,AIR BAG Driver,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,6JU47DX9AB,,"[KX]
+[RX]
+[X9]",available,2060,1395.55,15.2 x 11.1 x 7.4 inches,4.10 Pounds,/parts/mopar-air-bag-driver~1vt18dx9ac.html
+1,1VT18LV5AC,AIR BAG Driver,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,6JU47LV5AB,,[VX],available,1725,1158.25,14.6 x 11.1 x 7.4 inches,3.90 Pounds,/parts/mopar-air-bag-driver~1vt18lv5ac.html
+1,5PK73DX9AA,AIR BAG Driver,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,6KE78DX9AB,,"[KX] [ARZ]
+[RX] [ARZ]
+[X9] [ARZ]",available,589,401.28,12.6 x 8.7 x 6.2 inches,2.70 Pounds,/parts/mopar-air-bag-driver~5pk73dx9aa.html
+1,5PK73LV5AA,AIR BAG Driver,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,6KE78LV5AB,,[VX] [ARZ],available,439,296.66,12.6 x 8.8 x 6.3 inches,2.80 Pounds,/parts/mopar-airbag-driver~5pk73lv5aa.html
+1,5SH64DX9AA,AIR BAG Driver,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,6JU47DX9AB,,"[-KX], [CG3]
+[-KX], [CG3], [ARZ]
+[-RX], [CG3]
+[-RX], [CG3], [ARZ]
+[-V5], [CG3]
+[-V5], [CG3], [ARZ]
+[-X9], [CG3]
+[-X9], [CG3], [ARZ]...View More",unavailable,2060,1395.55,12.6 x 8.8 x 6.2 inches,2.70 Pounds,/parts/mopar-air-bag-driver~5sh64dx9aa.html
+1,5SH64LV5AA,AIR BAG Driver,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,6JU47LV5AB,,"[-VX], [CG3]
+[-VX], [CG3], [ARZ]",available,1725,1158.25,12.6 x 9.0 x 6.2 inches,2.60 Pounds,/parts/mopar-air-bag-driver~5sh64lv5aa.html
+2,6105037AA,SCREW Hex Flange Head M6x1.00x20.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,2,1,,,,available,3.2,2.16,1.1 x 0.6 x 0.6 inches,0.40 Pounds,/parts/mopar-screw-hex-flange-head~6105037aa.html
+3,68137707AC,AIR BAG Passenger,,2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68137707AD,,,available,615,419.52,12.9 x 12.9 x 8.6 inches,8.70 Pounds,/parts/mopar-airbag-passenger~68137707ac.html

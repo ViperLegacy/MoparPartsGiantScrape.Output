@@ -1,0 +1,22 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1VX81TZZAB,MIRROR Outside Rearview,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"1VX81DX8AA, 1VX81JSCAA, 1VX81LRKAA, 1VX81KL4AA, 1VX81LBYAA, 1VX81LR7AA, 1VX81BWAAA, 1VX81WYRAA, 1VX81LCCAA, 1VX81SBEAA, 1VX81TZZAA","Left [GTK]
+Left [GTK], [AYU], [P99]
+Left [GTK], [XLB]
+Left [GTK], [XLB], [AYU], [P99]...View More",available,1325,871.2,16.4 x 6.9 x 6.8 inches,3.00 Pounds,/parts/mopar-mirror-outside-rearview~1vx81tzzab.html
+1,5NA90TZZAB,MIRROR Outside Rearview,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,"5NA90NHLAA, 5NA90MAGAA, 5NA90TZZAA, 5NA90KY5AA, 5NA90LBDAA, 5NA90MG7AA, 5NA90KBUAA, 5NA90LKCAA, 5NA90JSCAA, 5NA90MDRAA","Right [GTK], [XLB]
+Right [GTK], [XLB], [AYU], [P99]",available,602,411.54,,3.70 Pounds,/parts/mopar-mirror-outside-rearview~5na90tzzab.html
+1,6LB68TZZAA,MIRROR Outside Rearview,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1VX80TZZAB,,"Right [GTK], [CLS]
+Right [GTK], [CLS], [AYU], [P99]",available,1570,1035.1,41.3 x 17.5 x 17.4 inches,3.80 Pounds,/parts/mopar-mirror-outside-rearview~6lb68tzzaa.html
+1,6LB69TZZAA,MIRROR Outside Rearview,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,1VX81TZZAB,,"Left [GTK], [CLS]
+Left [GTK], [CLS], [AYU], [P99]
+Left [GTK], [CLS], [XLB]
+Left [GTK], [CLS], [XLB], [AYU], [P99]...View More",available,1325,871.2,15.7 x 7.1 x 6.9 inches,3.70 Pounds,/parts/mopar-mirror-outside-rearview~6lb69tzzaa.html
+1,6LB74TZZAA,MIRROR Outside Rearview,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"Right [GTK], [CLS], [XLB]
+Right [GTK], [CLS], [XLB], [AYU], [P99]",available,534,352,16.8 x 7.0 x 7.1 inches,3.90 Pounds,/parts/mopar-mirror-outside-rearview~6lb74tzzaa.html
+4,68227844AA,GLASS Mirror Replacement,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Right [GTK]
+Right [GTK], [AYU]",available,46.05,38.21,10.4 x 6.0 x 2.8 inches,1.30 Pounds,/parts/mopar-glass-mirror-replacement~68227844aa.html
+4,68227845AA,GLASS Mirror Replacement,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [GTK]
+Left [GTK], [AYU]",available,49.7,41.47,10.8 x 6.0 x 2.8 inches,0.90 Pounds,/parts/mopar-glass-mirror-replacement~68227845aa.html
+,68227847AA,GASKET Door Mirror,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [GTK]
+Left [GTK], [AYU]",available,27.45,17.82,7.0 x 4.2 x 0.3 inches,0.50 Pounds,/parts/mopar-gasket-door-mirror~68227847aa.html
+,6508886AA,NUT,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",3,1,,6102101AA,,available,,14.51,0.7 x 0.6 x 0.3 inches,0.40 Pounds,/parts/mopar-nut~6508886aa.html

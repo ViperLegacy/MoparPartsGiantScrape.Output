@@ -1,0 +1,18 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,QV63TX9AA,PANEL Door Trim Front,Left,1997,,10 Cyl 8.0L,,,,,Left (Use Up To 7-12-97),discontinued,,,,,
+1,QY20TX9AA,PANEL Door Trim Front,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Right With Notch At Door Opening (B-Pillar),discontinued,,,,11.60 Pounds,/parts/mopar-panel-door-trim-front~qy20tx9aa.html
+1,QY21TX9AA,PANEL Door Trim Front,,1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,Left With Notch At Door Opening (B-Pillar),discontinued,,,,9.80 Pounds,/parts/mopar-panel-door-trim-front~qy21tx9aa.html
+1,RT741X7AA,PANEL Door Trim Front,Right,1997,,10 Cyl 8.0L,,,,,Right (Use After 7-12-97),discontinued,,,,,
+1,RT751X7AA,PANEL Door Trim Front,Left,1997,,10 Cyl 8.0L,,,,,Left (Use After 7-12-97),discontinued,,,,,
+2,EK03PX9,BEZEL Remote Control,Left,1992-1999,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-bezel-remote-control~ek03px9.html
+3,6031869,NUT Push .19,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,discontinued,,,0.8 x 0.7 x 0.6 inches,0.50 Pounds,/parts/mopar-grommet-push~6031869.html
+4,6032723,SCREW Self Tapping M4.2x1.69x19.05,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+6,ME69JX8,MOLDING B Pillar,Left,1997-2002,29; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,,
+6,QB92JX8,MOLDING B Pillar,Right,1997-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,,available,296.03,232.63,12.1 x 7.2 x 2.5 inches,0.90 Pounds,/parts/mopar-cover-b-pillar~qb92jx8.html
+6,QB93JX8,MOLDING B Pillar,Left,1997-2002,27; RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-cover-b-pillar~qb93jx8.html
+7,55176291,BUMPER Steel Insert,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,4,1,,,,available,17,12.84,1.0 x 1.0 x 1.0 inches,0.50 Pounds,/parts/mopar-bumper-steel-insert~55176291.html
+8,6101973,SCREW Pan Head M5X0.80X8.00,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,6,1,,,,discontinued,,,0.4 x 0.4 x 0.4 inches,0.50 Pounds,/parts/mopar-screw-pan-head~6101973.html
+10,4658887,PUSH PIN Front Door Glass Run With Weatherstrip,,"2008-2009, 1997-2002","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.4L",4,1,,,,available,7.15,4.95,1.2 x 0.6 x 0.6 inches,0.50 Pounds,/parts/mopar-retainer~4658887.html
+11,4763797,WATERSHIELD Front Door,Left,,,,,,,,,discontinued,,,,,
+12,MS39MX4AB,BEZEL Door Trim Panel,Left,1997-1998,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,5.8 x 2.8 x 1.5 inches,1.80 Pounds,/parts/mopar-bezel-door-trim-panel~ms39mx4ab.html
+,6503709,PIN Door Panel,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,3.65,2.5,1.1 x 1.0 x 0.9 inches,0.40 Pounds,/parts/mopar-pin-door-panel~6503709.html

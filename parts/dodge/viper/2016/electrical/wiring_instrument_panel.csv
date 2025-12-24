@@ -1,0 +1,4 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5043076AB,WIRING Instrument Panel,,2016-2017,"SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,,"[X81], [RC8]",available,847,558.8,26.0 x 13.5 x 8.5 inches,7.20 Pounds,/parts/mopar-wiring-instrument-panel~5043076ab.html
+2,5035329AB,WIRING Jumper Auxiliary Port,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5035329AA,,available,27.2,18.81,5.3 x 4.7 x 0.1 inches,1.20 Pounds,/parts/mopar-wiring-jumper~5035329ab.html
+,4274258,TAPE Foam,,"2016-2017, 1992-1996","GTS Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS","10 Cyl 8.0L, 10 Cyl 8.4L",2,1,,,,available,6.2,4.19,7.6 x 3.9 x 0.7 inches,0.40 Pounds,/parts/mopar-insul-pkg-foam~4274258.html

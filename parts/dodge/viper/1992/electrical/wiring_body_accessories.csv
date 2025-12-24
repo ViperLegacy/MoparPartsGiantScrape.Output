@@ -1,0 +1,25 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4643225,"WIRING, Uni-Body",,1992-1996,,10 Cyl 8.0L,,,,,"WIRING, Mirror Jumper",discontinued,,,,,
+1,4643276,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"WIRING, Tail, Stop, Turn, Back-Up",available,8.95,7.03,,0.90 Pounds,/parts/mopar-wiring-tl-st-tn-b-up-domestic~4643276.html
+1,4643343,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Tail/Stop, EUROPE",discontinued,,,,1.00 Pounds,/parts/mopar-wiring-as-tail-stop-lamp~4643343.html
+1,4643349,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"WIRING, Hi-Mtd. Stop Jumper, Frt.",discontinued,,,6.4 x 6.7 x 1.2 inches,0.60 Pounds,/parts/mopar-wiring-high-mounted-stop-lamp~4643349.html
+1,4643376,"WIRING, Uni-Body",Right,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Back-Up/Turn Signal, EUROPE, Right",discontinued,,,,1.20 Pounds,/parts/mopar-back-up-turn-signal-lamp~4643376.html
+1,4643377,"WIRING, Uni-Body",Left,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Back-Up/Turn Signal, EUROPE, Left",discontinued,,,,1.40 Pounds,/parts/mopar-lamp-back-up-and-turn-signal~4643377.html
+1,4643977,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"WIRING, Fog Lamp Jumper",available,2.1,1.65,,0.50 Pounds,/parts/mopar-wiring-frt-foglamp-jumper~4643977.html
+1,4643999,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"WIRING, Fog Lamp Jumper, Frt. & Rear
+WIRING, Frt. & Rear Fog Lamp Jumper",available,2.02,1.59,,0.50 Pounds,/parts/mopar-wiring-frt-rr-fog-lamp-jumper~4643999.html
+1,4708262,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,7.40 Pounds,/parts/mopar-wiring-unibody-wrg-assy~4708262.html
+1,4709022,"WIRING, Uni-Body",Right,1992-1996,,10 Cyl 8.0L,,,,,"WIRING, Door Speakers, Right",discontinued,,,,,
+1,4709023,"WIRING, Uni-Body",Left,1992-1996,,10 Cyl 8.0L,,,,,"WIRING, Door Speakers, Left",discontinued,,,,,
+1,4709133,"WIRING, Uni-Body",,1993-1995,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,5.60 Pounds,/parts/mopar-wiring-unibody-asm~4709133.html
+1,4709134,"WIRING, Uni-Body",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"WIRING, Turn Signal Flasher, EUROPE",discontinued,,,,0.50 Pounds,/parts/mopar-wiring-bux-t-s-flasher-jum~4709134.html
+1,4709138,"WIRING, Uni-Body",,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"WIRING, Side Marker Jumper",discontinued,,,,0.50 Pounds,/parts/mopar-side-marker-jumper-wiring~4709138.html
+1,4763075,"WIRING, Uni-Body",Left,1992-1996,29,10 Cyl 8.0L,,,,,"WIRING, Door, Left",discontinued,,,,,
+1,4763076,"WIRING, Uni-Body",Right,1992-1996,29,10 Cyl 8.0L,,,,,"WIRING, Door, Right",discontinued,,,,,
+1,4763077,"WIRING, Uni-Body",,1996,"29; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,6.60 Pounds,/parts/mopar-wiring-unified-body~4763077.html
+1,4763970,"WIRING, Uni-Body",,1996,,10 Cyl 8.0L,,,,,,discontinued,,,,,
+,4708364,"WIRING, A/C & Heater Sub-Assy.",,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.1 x 4.1 x 0.7 inches,0.50 Pounds,/parts/mopar-wiring-heater-and-a-c~4708364.html
+,4709137,"WIRING, Back-Up Lamp Switch",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,5.28,4.15,,0.60 Pounds,/parts/mopar-wiring-b-u-lamp-sw-jum~4709137.html
+,4687627,"WIRING, Daytime Running Lamp Jumper",,,,,,,,,,discontinued,,,,,
+,4709139,"WIRING, Mirror Jumper",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.80 Pounds,/parts/mopar-wiring-mirror-jumper-asm~4709139.html
+,4708403,"WIRING, Seat Belt Jumper",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-seatbelt-jumper~4708403.html

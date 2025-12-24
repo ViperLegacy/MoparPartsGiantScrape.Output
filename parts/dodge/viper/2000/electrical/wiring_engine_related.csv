@@ -1,0 +1,7 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,4848501AC,WIRING Engine,,,,,,,,,Intake,discontinued,,,,,
+,4848860AA,BRACKET Wire Harness,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,1.92,1.51,1.0 x 1.0 x 0.5 inches,0.50 Pounds,/parts/mopar-bracket-wire-harness~4848860aa.html
+,4848344AB,BRACKET Wiring Harness,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,available,47.5,40.2,3.9 x 1.4 x 1.1 inches,0.50 Pounds,/parts/mopar-bracket-wiring-harness~4848344ab.html
+,4848285AC,WIRING Alternator,,1998-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,12.5 x 8.9 x 7.2 inches,2.00 Pounds,/parts/mopar-wiring-alternator~4848285ac.html
+,4642610AC,WIRING Battery Negative,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,4642610AB,,discontinued,,,9.5 x 1.7 x 1.4 inches,0.70 Pounds,/parts/mopar-cable-bat-battery-negative~4642610ac.html
+,4848507,WIRING Engine Ground,,1997-2001,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.7 x 3.3 x 0.8 inches,0.70 Pounds,/parts/mopar-wiring-engine-ground~4848507.html

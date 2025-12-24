@@ -1,0 +1,8 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,PS54SW1,"TOP ASSY., HARD",,1996,,10 Cyl 8.0L,,,,,White,discontinued,,,,,
+1,PS54SX3,"TOP ASSY., HARD",,1996,RT/10 Convertible,10 Cyl 8.0L,,,,,Black,discontinued,,,79.4 x 14.2 x 15.6 inches,88.00 Pounds,/parts/mopar-top-hard~ps54sx3.html
+2,4882377,"LATCH, Assy.",Left,,,,,,,,,discontinued,,,,,
+3,4882378,"ISOLATOR ASSY., Rear Latch Pin",,1996-2002,RT/10 Convertible,10 Cyl 8.0L,2,1,,,,discontinued,,,3.1 x 1.4 x 0.7 inches,0.80 Pounds,/parts/mopar-isolator~4882378.html
+5,4882380,"SCREW, M4x0.7xx16.0 Flat Head",,"1998-1999, 1996",RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,0.50 Pounds,/parts/mopar-screw~4882380.html
+6,4882381,"BOLT, M8-1.25x50.0 Shoulder",,,,,2,,,,,discontinued,,,,,
+7,4886404AA,WEATHERSTRIP,,1996-1999,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,,1.70 Pounds,/parts/mopar-weather~4886404aa.html

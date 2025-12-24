@@ -1,0 +1,5 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,SE33DX9AC,VISOR,Left,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,18.3 x 6.4 x 2.0 inches,1.00 Pounds,/parts/mopar-visor~se33dx9ac.html
+2,6032723,SCREW Self Tapping M4.2x1.69x19.05,,"2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",4,1,,6034949,,available,9.15,6.35,1.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-screw-self-tapping~6032723.html
+7,RC77DX9AA,CAP,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,"Left Visor, Windshield Surround Mounting",discontinued,,,1.3 x 1.6 x 0.4 inches,0.40 Pounds,/parts/mopar-cap-end~rc77dx9aa.html
+,4595748AA,LABEL Air Bag Warning,,1997-2005,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,,,/parts/mopar-label-air-bag-warning~4595748aa.html

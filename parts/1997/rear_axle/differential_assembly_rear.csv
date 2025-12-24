@@ -1,8 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,6100468,BOLT Hex Head M16x95,,,,2,1,,,discontinued,,,/parts/mopar-screw-hex-head~6100468.html
-1,4763897AB,DIFFERENTIAL Rear Axle,,,,,,,,discontinued,,,
-2,6100887,WASHER Flat M15.02x28x2.8,,,,2,,,,discontinued,,,
-3,6100520,NUT Hex Flange Head Locking M14x2,,,,2,1,,,available,13.2,9.15,/parts/mopar-nut-hex-flange-head-locking~6100520.html
-4,4384188,SEAL Drive Pinion,,,,,,,,available,47.7,33.14,/parts/mopar-seal-drive-pinion~4384188.html
-6,4626709,BOLT Differential Cover,,,,9,1,,,available,4.25,3.67,/parts/mopar-boot-differential-cover~4626709.html
-,4626710,PLUG Differential Housing,,,,,,68401316AB,,available,13.5,9.26,/parts/mopar-plug-differential-housing~4626710.html

@@ -1,0 +1,16 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245237AB,SEPERATOR Ignition Cable,,1998-2004,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",4,1,,,,discontinued,,,2.1 x 0.7 x 0.7 inches,0.40 Pounds,/parts/mopar-seperator-ignition-cable~5245237ab.html
+2,4883365AA,CABLE PACKAGE Ignition,,1997-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,10.3 x 9.5 x 4.5 inches,2.60 Pounds,/parts/mopar-cable-pkg-ignition~4883365aa.html
+3,4763781,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#2],discontinued,,,10.1 x 8.5 x 1.0 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~4763781.html
+3,4763782,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#3],discontinued,,,8.8 x 9.0 x 1.4 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~4763782.html
+3,4763783,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#4],discontinued,,,11.6 x 1.5 x 1.6 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~4763783.html
+3,4763784,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#5],discontinued,,,33.2 x 0.5 x 0.6 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~4763784.html
+3,4763785,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#6],discontinued,,,39.5 x 0.5 x 0.5 inches,0.70 Pounds,/parts/mopar-wiring-spark-plug~4763785.html
+3,4763786,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#7],discontinued,,,8.5 x 0.6 x 0.5 inches,0.60 Pounds,/parts/mopar-wiring-spark-plug~4763786.html
+3,4763787,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#8],discontinued,,,9.3 x 7.3 x 0.5 inches,0.60 Pounds,/parts/mopar-wiring-spark-plug~4763787.html
+3,4763788,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#9],discontinued,,,10.0 x 7.4 x 0.5 inches,0.50 Pounds,/parts/mopar-wiring-spark-plug~4763788.html
+3,4763789,WIRE Spark Plug,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,[#10],discontinued,,,22.9 x 0.6 x 0.5 inches,0.60 Pounds,/parts/mopar-wiring-spark-plug~4763789.html
+4,SP0RC12LYC,SPARK PLUG,,1999-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,68304020AA,,,available,15.25,10.66,0.9 x 1.0 x 3.6 inches,0.50 Pounds,/parts/mopar-plug~sp0rc12lyc.html
+6,56032520,COIL Ignition,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,7.4 x 7.4 x 6.3 inches,3.50 Pounds,/parts/mopar-coil-ign-ignition~56032520.html
+7,56032521,COIL Ignition,,1997-2003,"COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,discontinued,,,6.9 x 6.6 x 3.3 inches,3.40 Pounds,/parts/mopar-coil-ignition~56032521.html
+,53020419,SHIELD Heat,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,10,1,,,,discontinued,,,3.3 x 1.0 x 1.0 inches,0.60 Pounds,/parts/mopar-shield-heat~53020419.html

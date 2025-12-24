@@ -1,6 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,2889565,RELAY Electrical,,,,,,,,discontinued,,,/parts/mopar-relay-electrical~2889565.html
-2,56007098,FLASHER,,,,,,,,discontinued,,,/parts/mopar-flasher~56007098.html
-3,ATM10,"FUSE Mini 10 AMP, Red",,,,2,1,,,available,3.7,2.5,/parts/mopar-fuse-mini~atm10.html
-4,ATM15,"FUSE Mini 15 AMP, Light Blue",,,,,,,,available,3.55,2.39,/parts/mopar-fuse-mini~atm15.html
-5,ATM20,"FUSE Mini 20 AMP, Yellow",,,,,,,,available,3.7,2.5,/parts/mopar-fuse-mini~atm20.html

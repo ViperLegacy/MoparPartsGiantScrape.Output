@@ -1,0 +1,13 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68160487AB,COVER Hinge,Left,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68202419AE,,,available,288,191.25,,,/parts/mopar-cover-hinge~68160487ab.html
+4,68144483AA,BRACKET Hinge Cover,Left,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68144483AD,,,available,42.25,29.47,15.8 x 5.3 x 2.3 inches,1.00 Pounds,/parts/mopar-bracket-hinge-cover~68144483aa.html
+5,6102238AA,NUT AND WASHER Hex M6X1.00,,"2013-2017, 2008-2010, 2003-2006","COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,16.7,11.65,0.9 x 0.9 x 0.6 inches,0.40 Pounds,/parts/mopar-nut-hex~6102238aa.html
+6,68170627AA,BRACKET Hood Release,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,49.45,42,5.9 x 3.6 x 3.2 inches,0.80 Pounds,/parts/mopar-bracket-hood-release~68170627aa.html
+7,68096355AA,SUPPORT Fender,Left,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,68096355AB,,,available,72.3,58.37,13.2 x 12.5 x 5.2 inches,24.40 Pounds,/parts/mopar-support-fender~68096355aa.html
+8,68141076AB,BRACE Engine Box Reinforcement,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,68141076AC,,,available,1315,885.92,49.2 x 30.2 x 5.7 inches,11.20 Pounds,/parts/mopar-brace-engine-box-reinforcement~68141076ab.html
+9,6506710AA,SCREW AND WASHER Hex Head M8-1.25x22.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,8,1,,,,available,11.05,7.69,0.1 x 0.1 x 0.1 inches,0.40 Pounds,/parts/mopar-screw-hex-head~6506710aa.html
+10,68141079AB,REINFORCEMENT Longitudinal,Left,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,68141079AA,,available,523,423.5,,9.10 Pounds,/parts/mopar-reinforce-longitudinal~68141079ab.html
+11,6509473AA,NUT AND WASHER Hex Lock Coned Washer M8x1.25,,2013,"SRT, SRT GTS",10 Cyl 8.4L,6,1,,,,available,2.65,1.81,1.4 x 1.5 x 0.7 inches,0.60 Pounds,/parts/mopar-nut-hex-lock-coned-washer~6509473aa.html
+12,68139709AB,SHIELD Splash,Left,,,,,,,,,discontinued,,,,,
+13,6508387AA,SCREW Pan Head M6X1.00X22.00,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,3,1,6508611AA,,,available,4.65,3.2,1.4 x 0.8 x 0.8 inches,0.40 Pounds,/parts/mopar-screw-pan-head~6508387aa.html
+14,6503598,PUSH PIN M8X21,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,3,1,,68225215AA,,available,12.75,8.91,1.5 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-push-pin~6503598.html

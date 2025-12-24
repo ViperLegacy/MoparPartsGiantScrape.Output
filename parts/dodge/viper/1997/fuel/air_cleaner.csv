@@ -1,0 +1,12 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245780AB,HOUSING Air Inlet,,1997-2002,"29; GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,"Canada, United States",discontinued,,,,,/parts/mopar-housing-air-inlet~5245780ab.html
+2,5245312,HOUSING Air Outlet,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,29.9 x 6.9 x 6.4 inches,2.30 Pounds,/parts/mopar-housing-air-outlet~5245312.html
+3,5245778,TUBE Air Cleaner to T/Body,,1992-1997,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,8.6 x 4.3 x 3.7 inches,1.40 Pounds,/parts/mopar-tube-air-cleaner-to-t-body~5245778.html
+4,5245492,SCREW Air Cleaner Cover,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,,/parts/mopar-screw-air-cleaner-cover~5245492.html
+5,4848321AB,TUBE Crankcase Vent To Air Cleaner,,,,,,,,,,discontinued,,,,,
+6,6502018,CLAMP Hose M28.9 x 1.60,,"2008, 1992-2006","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,6104810AA,,available,18.35,12.82,1.5 x 1.4 x 0.6 inches,0.40 Pounds,/parts/mopar-clamp-hose~6502018.html
+7,4763805,HOSE A.I.S. Supply,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,12.1 x 2.6 x 1.5 inches,0.60 Pounds,/parts/mopar-hose-a-i-s-supply~4763805.html
+8,5245266,ELEMENT Air Cleaner,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,9.2 x 1.4 x 1.0 inches,2.40 Pounds,/parts/mopar-element-air-cleaner~5245266.html
+9,5245265AB,ELEMENT Air Cleaner,,1997-2000,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,5245265AE,,,available,34.4,24,12.4 x 5.6 x 2.2 inches,1.10 Pounds,/parts/mopar-element-air-cleaner~5245265ab.html
+10,4848313,SCREW Air Cleaner,,1992-2002,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,2,1,,,,discontinued,,,2.7 x 1.4 x 1.3 inches,0.90 Pounds,/parts/mopar-screw-air-cleaner~4848313.html
+11,5245455,HOSE Crankcase Vent,,,,,,,,,,discontinued,,,,,

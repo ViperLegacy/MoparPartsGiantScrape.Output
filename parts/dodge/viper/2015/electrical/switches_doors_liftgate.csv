@@ -1,0 +1,51 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,68140268AA,SWITCH Liftgate,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,42.15,35.18,3.7 x 2.6 x 1.9 inches,0.50 Pounds,/parts/mopar-switch-liftgate~68140268aa.html
+2,5029677AA,SWITCH Outside Door Handle,,"2013-2015, 2008-2010, 2004-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,7.1 x 1.3 x 0.8 inches,0.50 Pounds,/parts/mopar-switch-outside-door-handle~5029677aa.html
+3,1YK351X9AA,SWITCH Door Lock,,2013-2017,,10 Cyl 8.4L,,,,,"Left [X9], [RC5], [CBZ], [XSQ]
+Left [X9], [RCA] OR [RC5], [CBF], [XSQ]
+Left [X9], [RCA], [CBZ], [XSQ]...View More",discontinued,,,,,
+3,1YK35DX9AA,SWITCH Door Lock,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Left [KX], [CTK], [RC5]
+Left [KX], [CTK], [RC5], [XSQ]
+Left [KX], [CTK], [RCA]
+Left [KX], [CTK], [RCA], [XSQ]
+Left [RX], [CTK], [RC5]
+Left [RX], [CTK], [RC5], [XSQ]
+Left [RX], [CTK], [RCA]
+Left [RX], [CTK], [RCA], [XSQ]
+Left [VX], [RCA] OR [RC5], [CBF]
+Left [VX], [RCA] OR [RC5], [CBF], [XSQ]
+Left [X9], [CTK], [RC5]
+Left [X9], [CTK], [RC5], [XSQ]
+Left [X9], [CTK], [RCA]
+Left [X9], [CTK], [RCA], [XSQ]
+Left [X9], [RC5], [CBZ]
+Left [X9], [RCA] OR [RC5], [CBF]
+Left [X9], [RCA], [CBZ]...View More",available,47.55,40.25,3.8 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-switch-door-lock~1yk35dx9aa.html
+4,5035283AA,SWITCH Fuel Door,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,36.75,23.88,3.7 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-switch-fuel-door~5035283aa.html
+5,5035279AB,SWITCH AND BEZEL Power Window,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,68620470AA,,"Left [CTK], [RCA], [AZA]
+Left [RCA] OR [RC5], [CBF]
+Left [RCA] OR [RC5], [CBF], [XSQ]...View More",discontinued,,,8.5 x 3.4 x 2.8 inches,1.30 Pounds,/parts/mopar-switch-power-window~5035279ab.html
+6,5035278AB,SWITCH AND BEZEL Power Window,,2013-2016,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5035278AC,,"Right [CTK], [RCA], [AZA]
+Right [RCA] OR [RC5], [CBF]
+Right [RCA] OR [RC5], [CBF], [XSQ]...View More",discontinued,,,8.4 x 3.5 x 2.8 inches,0.70 Pounds,/parts/mopar-switch-power-window~5035278ab.html
+7,1YK341X9AA,SWITCH Door Lock,,2013-2017,,10 Cyl 8.4L,,,,,"Right [X9], [RC5], [CBZ], [XSQ]
+Right [X9], [RCA] OR [RC5], [CBF], [XSQ]
+Right [X9], [RCA], [CBZ], [XSQ]...View More",discontinued,,,,,
+7,1YK34DX9AA,SWITCH Door Lock,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"Right [KX], [CTK], [RC5]
+Right [KX], [CTK], [RC5], [XSQ]
+Right [KX], [CTK], [RCA]
+Right [KX], [CTK], [RCA], [XSQ]
+Right [RX], [CTK], [RC5]
+Right [RX], [CTK], [RC5], [XSQ]
+Right [RX], [CTK], [RCA]
+Right [RX], [CTK], [RCA], [XSQ]
+Right [VX], [RCA] OR [RC5], [CBF], [XSQ]
+Right [X9], [CTK], [RC5]
+Right [X9], [CTK], [RC5], [XSQ]
+Right [X9], [CTK], [RCA]
+Right [X9], [CTK], [RCA], [XSQ]
+Right [X9], [RC5], [CBZ]
+Right [X9], [RCA] OR [RC5], [CBF]
+Right [X9], [RCA], [CBZ]...View More",available,46.2,31.75,3.8 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-switch-door-lock~1yk34dx9aa.html
+7,1YK34HL1AA,SWITCH Door Lock,,2014-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1YK34LV5AA,"Right [VX], [RCA] OR [RC5], [CBF]",available,46.2,31.75,3.8 x 2.6 x 1.9 inches,0.40 Pounds,/parts/mopar-switch-door-lock~1yk34hl1aa.html
+8,5029677AA,SWITCH Outside Door Handle,,"2013-2015, 2008-2010, 2004-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,discontinued,,,7.1 x 1.3 x 0.8 inches,0.50 Pounds,/parts/mopar-switch-outside-door-handle~5029677aa.html

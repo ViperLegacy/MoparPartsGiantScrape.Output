@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,SW18WYRAA,TOP Hard,,,,,,,,,[Y],discontinued,,,,,
+1,SW18ZDRAA,TOP Hard,,,,,,,,,[G],discontinued,,,,,
+2,5016177AA,LATCH KIT Hard Top Front,Left,1999-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,5.0 x 4.6 x 2.1 inches,0.60 Pounds,/parts/mopar-latch-hard-top~5016177aa.html
+3,5016234AA,SCREW M4x0.7xx16.0 Flat Head,,2000-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,available,1.47,1.15,,0.50 Pounds,/parts/mopar-screw~5016234aa.html
+6,4882378,ISOLATOR,,1996-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,3.1 x 1.4 x 0.7 inches,0.80 Pounds,/parts/mopar-isolator~4882378.html
+8,4626527,BOLT M8-1.25x50.0 Shoulder,,"2013-2017, 2008-2010, 1992-2006","ACR-X Coupe, COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,5.4,3.67,1.3 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-bolt-shift-guide-plate~4626527.html
+9,5010862AB,WEATHERSTRIP KIT Hard Top,,2000-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,21.0 x 12.5 x 4.1 inches,3.10 Pounds,/parts/mopar-w-strip-hard-top~5010862ab.html
+,5010850AA,HEADLINER KIT Hard Top,,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,48.9 x 31.3 x 6.2 inches,9.00 Pounds,/parts/mopar-headliner-hard-top~5010850aa.html
+,5010855AA,LATCH KIT Hard Top Rear,Left,1997-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,6.4 x 6.3 x 2.2 inches,1.00 Pounds,/parts/mopar-latch-hard-top~5010855aa.html
+,5016236AA,SCREW M4x0.7x12.0 Pan Head,,2000-2002,RT/10 Convertible,10 Cyl 8.0L,,,,,,discontinued,,,5.9 x 1.5 x 0.8 inches,0.70 Pounds,/parts/mopar-screw~5016236aa.html

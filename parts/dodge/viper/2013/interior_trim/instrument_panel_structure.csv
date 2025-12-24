@@ -1,0 +1,62 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,1WQ64LV5AA,GRILLE Defroster,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,1WQ64LV5AC,,"[-VX], [RC5], [RCA]",available,249,167.63,20.7 x 6.4 x 2.1 inches,1.10 Pounds,/parts/mopar-grille-defroster~1wq64lv5aa.html
+1,1YK91DX9AA,GRILLE Defroster,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,1YK91DX9AB,,[RC9],available,292,197.4,,1.20 Pounds,/parts/mopar-grille-defroster~1yk91dx9aa.html
+2,68203408AA,DUCT Air Distribution,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,113,76.28,25.2 x 7.2 x 5.3 inches,3.70 Pounds,/parts/mopar-duct-air-distribution~68203408aa.html
+3,68207010AA,CARRIER Instrument Panel,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,285,186.12,58.1 x 26.3 x 19.6 inches,19.60 Pounds,/parts/mopar-carrier-instrument-panel~68207010aa.html
+4,5NK50DX9AA,OUTLET Air Conditioning & Heater,,2013-2017,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9], [JAA]",available,474,391.37,6.9 x 7.1 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50dx9aa.html
+4,5NK50LK5AA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-KX], [JAB]",available,467,312.2,7.0 x 7.1 x 6.2 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50lk5aa.html
+4,5NK50XR4AA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-RX], [JAB]",available,467,312.2,6.8 x 6.8 x 6.1 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50xr4aa.html
+4,5NK50YSAAA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,5NK50SZ6AA,,"[-X9], [JAC]",available,589,388.3,7.0 x 7.0 x 5.9 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50ysaaa.html
+4,5NK50YSAAA,OUTLET Air Conditioning & Heater,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5NK50SZ6AA,,"[-X9], [JAB]
+[-X9], [JAC]",available,589,388.3,7.0 x 7.0 x 5.9 inches,1.00 Pounds,/parts/mopar-outlet-air-conditioning-heater~5nk50ysaaa.html
+5,1YW76DX9AA,GLOVE BOX Opening Door,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1YW76DX9AB,,,available,142,95.32,26.0 x 13.7 x 8.4 inches,1.50 Pounds,/parts/mopar-bezel-opening~1yw76dx9aa.html
+6,68191399AA,LATCH Glovebox Door,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,,available,150,99.68,6.1 x 4.1 x 1.3 inches,1.00 Pounds,/parts/mopar-latch-glovebox-door~68191399aa.html
+9,4865537AB,HINGE Glovebox,,"2013-2017, 2008-2010, 2005","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",,,,,,available,54.65,46.83,10.2 x 1.2 x 0.3 inches,0.70 Pounds,/parts/mopar-hinge-glovebox~4865537ab.html
+10,5NK86DX9AA,BEZEL Instrument Panel Center,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,"5NK86XR4AA, 5NK86YSAAA, 5NK86LK5AA","[-KX], [JAB]
+[-RX], [JAB]
+[-X9], [JAB]",available,667,541.2,25.5 x 13.7 x 8.3 inches,2.80 Pounds,/parts/mopar-bezel-instrument-panel~5nk86dx9aa.html
+10,5NS24DX9AA,BEZEL Instrument Panel Center,,"2017, 2013","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,5NS24DX9AB,,"[-X9], [JAC]",available,1010,683.65,26.3 x 14.1 x 8.5 inches,3.00 Pounds,/parts/mopar-bezel-instrument-panel~5ns24dx9aa.html
+10,5NS24LV5AA,BEZEL Instrument Panel Center,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5NS24LV5AB,,"[-VX], JAC]",available,897,613.32,25.8 x 14.1 x 8.5 inches,1.40 Pounds,/parts/mopar-bezel-instrument-panel~5ns24lv5aa.html
+11,1WT39DX9AA,COVER Steering Column Opening,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,1WT39DX9AE,,"[-KX], [JAB]
+[-RX], [JAB]
+[-X9], [JAB]",available,1200,811.34,20.0 x 16.5 x 5.2 inches,2.50 Pounds,/parts/mopar-cover-steering-column-opening~1wt39dx9aa.html
+11,5LX97DX9AA,COVER Steering Column Opening,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5LX97DX9AD,,"[-X9], [JAC]",available,1200,811.34,19.6 x 14.7 x 6.6 inches,3.60 Pounds,/parts/mopar-cover-steering-column-opening~5lx97dx9aa.html
+11,5LX97LV5AA,COVER Steering Column Opening,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5LX97LV5AD,,"[-VX], [JAC]",available,1200,811.34,20.2 x 14.4 x 6.6 inches,3.80 Pounds,/parts/mopar-cover-steering-column-opening~5lx97lv5aa.html
+11,5LZ03AAAAA,COVER Steering Column Opening,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9], [JAA], [XSQ]",available,1850,1254.3,21.6 x 18.6 x 9.4 inches,4.30 Pounds,/parts/mopar-cover-steering-column-opening~5lz03aaaaa.html
+11,5LZ04AAAAA,COVER Steering Column Opening,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5LZ04AAAAC,,"[-KX], [JAB], [XSQ]
+[-RX], [JAB], [XSQ]
+[-X9], [JAB], [XSQ]...View More",available,1945,1316.45,20.2 x 14.7 x 6.4 inches,2.70 Pounds,/parts/mopar-cover-steering-column-opening~5lz04aaaaa.html
+11,5LZ05AAAAA,COVER Steering Column Opening,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5LZ05AAAAC,,"[-X9], [JAC], [XSQ]",available,1945,1316.45,20.9 x 18.4 x 9.6 inches,4.40 Pounds,/parts/mopar-cover-steering-column-opening~5lz05aaaaa.html
+11,5LZ05LV5AA,COVER Steering Column Opening,,2013-2015,"SRT, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,5LZ05LV5AC,,"[-VX], [JAC], [XSQ]",available,1945,1316.45,20.9 x 19.1 x 9.2 inches,4.30 Pounds,/parts/mopar-cover-steering-column-opening~5lz05lv5aa.html
+12,68172542AB,BRACKET Relay,,,,,,,,,,discontinued,,,,,
+13,5NQ24DX9AA,PAD Instrument Panel Passenger,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5XR27DX9AA,,"Left [-X9], [JAC]",available,647,441.18,23.2 x 17.7 x 11.3 inches,3.60 Pounds,/parts/mopar-pad-instrument-panel~5nq24dx9aa.html
+13,5NQ24LV5AA,PAD Instrument Panel Passenger,,2013,"SRT, SRT GTS",10 Cyl 8.4L,,,5XR27LV5AA,,"Left [-VX], [JAC]",available,684,466.26,26.0 x 13.5 x 8.5 inches,3.50 Pounds,/parts/mopar-pad-instrument-panel~5nq24lv5aa.html
+13,5NS60LV5AA,PAD Instrument Panel Passenger,,"2016-2017, 2013","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,5NS601VVAA,"Right [-VX], [JAC]",available,950,627,26.0 x 13.8 x 8.1 inches,3.60 Pounds,/parts/mopar-pad-instrument-panel~5ns60lv5aa.html
+13,5XR21LK5AA,PAD Instrument Panel Passenger,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[-KX], [JAB]",available,1130,763.88,25.5 x 25.7 x 10.1 inches,6.40 Pounds,/parts/mopar-pad-instrument-panel~5xr21lk5aa.html
+13,5XR21XR4AA,PAD Instrument Panel Passenger,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[-RX], [JAB]",available,1290,874.62,24.5 x 25.0 x 9.8 inches,6.10 Pounds,/parts/mopar-pad-instrument-panel~5xr21xr4aa.html
+13,5XR21YSAAA,PAD Instrument Panel Passenger,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9], [JAB]",available,1275,863.32,25.5 x 25.5 x 10.1 inches,3.60 Pounds,/parts/mopar-pad-instrument-panel~5xr21ysaaa.html
+14,1WQ62LV5AB,GRILLE Instrument Panel Speaker,,"2016-2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,1WQ62LV5AA,Left [-VX],available,305,202.5,6.9 x 4.1 x 4.3 inches,0.70 Pounds,/parts/mopar-grille-instrument-panel-speaker~1wq62lv5ab.html
+14,1WQ63DX9AB,GRILLE Instrument Panel Speaker,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,1WQ63DX9AA,"Right [-KX]
+Right [-RX]
+Right [-X9]",available,100,66.09,6.8 x 4.1 x 4.3 inches,0.70 Pounds,/parts/mopar-grille-instrument-panel-speaker~1wq63dx9ab.html
+14,1WQ63LV5AB,GRILLE Instrument Panel Speaker,,"2016-2017, 2013-2014","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,1WQ63LV5AA,Right [-VX],available,305,202.5,7.0 x 4.0 x 4.2 inches,0.70 Pounds,/parts/mopar-grille-instrument-panel-speaker~1wq63lv5ab.html
+15,5NK76DX9AA,END CAP Instrument Panel Glovebox,,"2015-2017, 2013","SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-KX], [JAB]
+[-RX], [JAB]
+[-X9], [JAB]",available,23,15.15,14.5 x 5.9 x 5.4 inches,1.20 Pounds,/parts/mopar-cap-end-instrument-panel~5nk76dx9aa.html
+15,5NS63DX9AA,END CAP Instrument Panel Glovebox,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9], [JAC]",available,19.2,13.4,15.0 x 5.9 x 5.5 inches,1.20 Pounds,/parts/mopar-cap-end-instrument-panel~5ns63dx9aa.html
+15,5NS63LV5AA,END CAP Instrument Panel Glovebox,,"2016-2017, 2013","SRT, SRT ACR, SRT GTC, SRT GTS",10 Cyl 8.4L,,,,5NS631VVAA,"[-VX], [JAC]",available,21,13.98,15.0 x 6.0 x 5.4 inches,1.20 Pounds,/parts/mopar-cap-end-instrument-panel~5ns63lv5aa.html
+16,5LX33AAAAA,BEZEL A/C Outlet,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,4,1,,,,discontinued,,,,0.80 Pounds,/parts/mopar-bezel-a-c-outlet~5lx33aaaaa.html
+18,5XR21LK5AA,BEZEL Instrument Cluster,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[-KX] ,[X81], [JAB]",available,1130,763.88,25.5 x 25.7 x 10.1 inches,6.40 Pounds,/parts/mopar-pad-instrument-panel~5xr21lk5aa.html
+18,5XR21XR4AA,BEZEL Instrument Cluster,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[-RX] ,[X81], [JAB]",available,1290,874.62,24.5 x 25.0 x 9.8 inches,6.10 Pounds,/parts/mopar-pad-instrument-panel~5xr21xr4aa.html
+18,5XR21YSAAA,BEZEL Instrument Cluster,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9] ,[X81], [JAB]",available,1275,863.32,25.5 x 25.5 x 10.1 inches,3.60 Pounds,/parts/mopar-pad-instrument-panel~5xr21ysaaa.html
+18,5XR27DX9AA,BEZEL Instrument Cluster,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5NQ24DX9AA,"[-X9] ,[X81], [JAC]",available,647,441.18,34.5 x 12.3 x 7.7 inches,3.50 Pounds,/parts/mopar-pad-instrument-panel~5xr27dx9aa.html
+18,5XR27LV5AA,BEZEL Instrument Cluster,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5NQ24LV5AA,"[-VX] ,[X81], [JAC]",available,684,466.26,35.2 x 12.3 x 7.9 inches,3.40 Pounds,/parts/mopar-pad-instrument-panel~5xr27lv5aa.html
+18,5XV16DX9AA,BEZEL Instrument Cluster,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[-X9] ,[X81], [JAA], [XSQ]",available,1095,719.4,34.5 x 12.4 x 7.7 inches,5.60 Pounds,/parts/mopar-pad-instrument-panel~5xv16dx9aa.html
+18,5XV17DX9AA,BEZEL Instrument Cluster,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9] ,[X81], [JAC], [XSQ]",available,1055,695.2,35.5 x 12.0 x 7.8 inches,5.60 Pounds,/parts/mopar-pad-instrument-panel~5xv17dx9aa.html
+18,5XV17LV5AA,BEZEL Instrument Cluster,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-VX] ,[X81], [JAC], [XSQ]",available,2220,1463,34.2 x 12.3 x 7.8 inches,5.40 Pounds,/parts/mopar-pad-instrument-panel~5xv17lv5aa.html
+18,5XV55LK5AA,BEZEL Instrument Cluster,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[-KX] ,[X81], [JAB], [XSQ]",available,997,657.8,35.2 x 12.3 x 7.7 inches,5.70 Pounds,/parts/mopar-pad-instrument-panel~5xv55lk5aa.html
+18,5XV55XR4AA,BEZEL Instrument Cluster,,2013-2014,"SRT, SRT GTS",10 Cyl 8.4L,,,,,"[-RX] ,[X81], [JAB], [XSQ]",available,1045,687.5,34.5 x 11.9 x 7.8 inches,5.20 Pounds,/parts/mopar-pad-instrument-panel~5xv55xr4aa.html
+18,5XV55YSAAA,BEZEL Instrument Cluster,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9] ,[X81], [JAB], [XSQ]",available,1280,841.5,33.9 x 12.1 x 7.9 inches,5.60 Pounds,/parts/mopar-pad-instrument-panel~5xv55ysaaa.html
+,4524343,BUMPER Glove Box Door,,"2013-2017, 2009-2010, 2005","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,,,,available,29,20.21,1.0 x 0.3 x 0.3 inches,0.40 Pounds,/parts/mopar-stop-bmpr-glove-box-door~4524343.html
+,5NS61DX9AA,GLOVE BOX Instrument Panel,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,,"[-X9], [JAC]",available,648,534.6,22.5 x 10.7 x 10.3 inches,3.60 Pounds,/parts/mopar-glove-box-instrument-panel~5ns61dx9aa.html
+,5NS61LV5AA,GLOVE BOX Instrument Panel,,2013-2017,"SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10",10 Cyl 8.4L,,,,5NS611VVAA,"[-VX], [JAC]",available,810,533.5,21.8 x 10.4 x 10.1 inches,4.10 Pounds,/parts/mopar-glove-box-instrument-panel~5ns61lv5aa.html

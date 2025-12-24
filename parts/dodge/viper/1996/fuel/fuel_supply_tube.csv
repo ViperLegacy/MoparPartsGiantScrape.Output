@@ -1,0 +1,11 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5245792,"RAIL ASSEMBLY, Fuel Supply",,1994-1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,20.5 x 0.8 x 0.8 inches,0.60 Pounds,/parts/mopar-rail-fuel~5245792.html
+2,5245471,"O-RING, Fuel Supply",,,,,,,,,,discontinued,,,,,
+3,5245572,"CLIP, Fuel Rail, 1992-93",,,,,,,,,,discontinued,,,,,
+4,154777,"SCREW, Injector Mounting",,1992-2006,"27; COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",10,1,,6035666,,available,14.2,7.13,1.3 x 0.5 x 0.5 inches,0.40 Pounds,/parts/mopar-bolt~154777.html
+5,4723971,"O-RING PACKAGE, Fuel Injector",,"1999-2006, 1992-1996","COMP. Coupe, GTS Coupe, GTS-L Coupe, RT/10 Convertible, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.0L, 10 Cyl 8.3L",,,,,,available,10.59,8.32,1.3 x 1.3 x 0.3 inches,0.40 Pounds,/parts/mopar-oring-pkg-fuel-injector~4723971.html
+6,5245412,"TUBE, Fuel Crossover, 1992-93",,1992-1996,"GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-hose-fuel-crossover~5245412.html
+7,5245259,"RETAINER, Injector",,1992-1993,,10 Cyl 8.0L,10,,,,,discontinued,,,,,
+7,5245809,"RETAINER, Injector",,1994-1996,"GTS Coupe, GTS-L Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,1.3 x 1.1 x 0.1 inches,0.50 Pounds,/parts/mopar-retainer-fuel-injector~5245809.html
+8,5245344,"INJECTOR, Fuel",,1992-1996,"27; GTS Coupe, RT/10 Convertible",10 Cyl 8.0L,,,,,,discontinued,,,,0.60 Pounds,/parts/mopar-injector-fuel~5245344.html
+9,6034533,"SCREW, Fuel Rail, 1992-93",,,,,2,,,,,discontinued,,,,,

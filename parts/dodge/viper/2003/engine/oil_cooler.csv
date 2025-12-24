@@ -1,0 +1,9 @@
+ref_no,part_number,description,side,year_range,fitting_vehicle_options,engine,require_quantity,package_quantity,replaced_by,replaces,notes,status,msrp,sale_price,item_dimensions,item_weight,detail_url
+1,5037249AB,ADAPTER Oil Cooler,,,,,,,,,,discontinued,,,,,
+2,6035854,FITTING Y-Style,,"2013-2014, 2008-2010, 2003","ACR-X Coupe, COMP. Coupe, SRT, SRT GTS, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,6036575AA,,,available,15.85,11.07,2.1 x 0.8 x 0.8 inches,0.50 Pounds,/parts/mopar-nipple~6035854.html
+3,5037316AC,CONNECTOR Engine Oil Cooler,,"2013-2017, 2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT, SRT ACR, SRT GTC, SRT GTS, SRT-10, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",2,1,5037316AD,,,available,16.35,11.3,1.5 x 1.2 x 1.2 inches,0.50 Pounds,/parts/mopar-connector-male~5037316ac.html
+4,5290014AA,COOLER Engine Oil,,,,,,,,,,discontinued,,,,,
+5,6101718,SCREW AND WASHER Oval Head M6x1x25,,"2008-2010, 2003-2006","ACR-X Coupe, COMP. Coupe, SRT-10 Convertible, SRT-10 Coupe","10 Cyl 8.3L, 10 Cyl 8.4L",3,1,,6102396AA,,available,9.2,6.41,1.4 x 1.1 x 1.1 inches,0.40 Pounds,/parts/mopar-screw-oval-head~6101718.html
+6,5290004AA,LINE Oil Cooler Inlet,,2003,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,,,discontinued,,,,,/parts/mopar-tube-oil-cooler-inlet~5290004aa.html
+7,5290001AA,LINE Oil Cooler Outlet,,2003,"COMP. Coupe, SRT-10 Convertible",10 Cyl 8.3L,,,,,,discontinued,,,,,/parts/mopar-tube-oil-cooler-outlet~5290001aa.html
+,5037039AA,GASKET Oil Cooler,,2003,SRT-10 Convertible,10 Cyl 8.3L,,,,,,discontinued,,,5.5 x 2.6 x 0.4 inches,0.50 Pounds,/parts/mopar-gasket-oil-cooler~5037039aa.html

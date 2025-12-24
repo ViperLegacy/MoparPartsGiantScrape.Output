@@ -1,7 +1,0 @@
-ref_no,part_number,description,side,year_range,fitting_vehicle_options,require_quantity,package_quantity,replaced_by,notes,status,msrp,sale_price,detail_url
-1,68200221AA,KEY Blank TRANSMITTER,,,,,,,,available,65.4,45.67,/parts/mopar-key-blank~68200221aa.html
-2,5035188AB,TRANSMITTER Integrated Key FOB,,,,2,1,,,available,213,168.75,/parts/mopar-key-fob-integrated-key-fob~5035188ab.html
-3,5035325AB,RECEIVER Hub,,,,,,,,available,61.6,42.76,/parts/mopar-receiver-hub~5035325ab.html
-4,6104708AA,NUT Hex M6,,,,,,5097674AA,,available,15.95,14.51,/parts/mopar-nut-hex~6104708aa.html
-5,6105032AA,SCREW Hex Flange Head M5X0.8X20.00,,,,2,1,,,available,3.5,2.39,/parts/mopar-screw-hex-flange-head~6105032aa.html
-,5066241AB,BATTERY Transmitter,,,,,,,,available,7.7,5.36,/parts/mopar-battery-transmitter~5066241ab.html
